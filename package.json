@@ -1,0 +1,10 @@
+{
+  "name": "shici-xieyi",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "openai": "^7.45.1"
+  }
+}

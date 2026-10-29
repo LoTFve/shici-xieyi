@@ -1,0 +1,129 @@
+// 本地后端：托管页面，并提供 /api/analyze，让模型在本体概念范围内判断一首诗。
+// 用法：在 .env 里填 DS_KEY 和 DS_URL（任何 OpenAI 兼容接口），运行 npm start，浏览器打开 http://localhost:8000
+import http from 'node:http';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { createRequire } from 'node:module';
+import OpenAI from 'openai';
+
+const here = path.dirname(fileURLToPath(import.meta.url));
+if (fs.existsSync(path.join(here, '.env'))) process.loadEnvFile(path.join(here, '.env'));
+const ONTO = createRequire(import.meta.url)('./ontology.js');
+const PORT = Number(process.env.PORT) || 8000;
+const MODEL = process.env.DS_MODEL || 'deepseek-chat';
+const MAX_POEM = 2000;
+const client = new OpenAI({ apiKey: process.env.DS_KEY || 'missing', baseURL: process.env.DS_URL });
+const cache = new Map();
+
+// 只托管这几个文件，不按路径读盘
+const STATIC = {
+  '/': ['index.html', 'text/html; charset=utf-8'],
+  '/index.html': ['index.html', 'text/html; charset=utf-8'],
+  '/ontology.js': ['ontology.js', 'text/javascript; charset=utf-8'],
+};
+
+const SYSTEM = `你帮一个古诗词绘画程序读诗。程序只会画下面这些概念，你只能从中选择。
+
+意象（id：名称，画法）：
+${Object.entries(ONTO.images).map(([id, o]) => `- ${id}：${o.name}，${o.draw}`).join('\n')}
+
+意象在诗里的身份 reason：
+${Object.entries(ONTO.reasons).map(([k, v]) => `- ${k}：${v}`).join('\n')}
+
+时辰：${Object.keys(ONTO.time).join('、')}；季节：${Object.keys(ONTO.season).join('、')}；诗里看不出就填“无”。
+情感：${Object.keys(ONTO.emotions).join('、')}。
+
+要求：
+- images 列出诗里字面出现过的每个意象，并判断它的身份。只有“字面”会被画出来。比如“朝如青丝暮成雪”的雪是比喻白发，“鸟飞绝”的鸟是“无”，“钟鼓馔玉”的钟是借指富贵。同一个意象既有实景又有非实景时，各列一条。
+- evidence 必须是从诗中原样摘出的连续字词，程序会核对，摘不到原文的条目会被丢弃。
+- note 用一句话说明判断理由，没有特别之处可以留空。
+- emotions 给一到两种，weight 在 0 到 1 之间，主情感在前。
+- notes 用一两句话说明用典、言外之意或全诗基调，没有就留空。
+- 只输出一个 JSON 对象，形如：
+{"images":[{"id":"bird","reason":"无","evidence":"鸟飞绝","note":"鸟已飞尽"}],"time":{"key":"夜","evidence":["夜半"]},"season":{"key":"秋","evidence":["霜"]},"emotions":[{"key":"孤寂","weight":0.7,"evidence":"孤舟"}],"notes":""}`;
+
+// 接口不强制 schema，字段形状会走样，比如时辰只给一个字符串、情感用 name 代替 key。这里统一成 schema 的样子
+function normalize(j) {
+  const list = (v) => (Array.isArray(v) ? v : typeof v === 'string' && v ? [v] : []).filter((e) => typeof e === 'string');
+  const one = (v) => (typeof v === 'string' ? { key: v, evidence: [] } : { key: v?.key ?? v?.name ?? '无', evidence: list(v?.evidence) });
+  return {
+    images: (Array.isArray(j.images) ? j.images : []).map((m) => ({ id: m.id, reason: m.reason, evidence: String(m.evidence ?? ''), note: String(m.note ?? '') })),
+    time: one(j.time),
+    season: one(j.season),
+    emotions: (Array.isArray(j.emotions) ? j.emotions : []).map((e) => ({ key: e.key ?? e.name, weight: Number(e.weight) || 0, evidence: String(e.evidence ?? '') })),
+    notes: String(j.notes ?? ''),
+  };
+}
+
+async function analyze(poem) {
+  if (cache.has(poem)) return cache.get(poem);
+  const res = await client.chat.completions.create({
+    model: MODEL,
+    max_tokens: 8000,
+    response_format: { type: 'json_object' },
+    messages: [{ role: 'system', content: SYSTEM }, { role: 'user', content: poem }],
+  });
+  const choice = res.choices[0];
+  if (choice?.finish_reason === 'length') throw Object.assign(new Error('模型输出被截断'), { status: 502 });
+  if (choice?.finish_reason === 'content_filter') throw Object.assign(new Error('模型拒绝了这次请求'), { status: 502 });
+  const text = choice?.message?.content;
+  if (!text) throw Object.assign(new Error('模型没有返回结果'), { status: 502 });
+  // json_object 只保证是 JSON，不保证符合 schema；万一被 ```json 包一层，取最外层的花括号。字段由前端按本体再校验
+  const raw = text, from = raw.indexOf('{'), to = raw.lastIndexOf('}');
+  const result = { model: res.model, ...normalize(JSON.parse(from >= 0 ? raw.slice(from, to + 1) : raw)) };
+  cache.set(poem, result);
+  return result;
+}
+
+function send(res, status, body, type = 'application/json; charset=utf-8') {
+  res.writeHead(status, { 'Content-Type': type, 'Cache-Control': 'no-store' });
+  res.end(typeof body === 'string' || Buffer.isBuffer(body) ? body : JSON.stringify(body));
+}
+
+function readBody(req, limit) {
+  return new Promise((resolve, reject) => {
+    let size = 0;
+    const chunks = [];
+    req.on('data', (c) => {
+      size += c.length;
+      if (size > limit) { reject(Object.assign(new Error('请求太大'), { status: 413 })); req.destroy(); }
+      else chunks.push(c);
+    });
+    req.on('end', () => resolve(Buffer.concat(chunks).toString('utf8')));
+    req.on('error', reject);
+  });
+}
+
+function errorStatus(e) {
+  if (e instanceof OpenAI.AuthenticationError) return [500, '后端的 API key 无效或未设置'];
+  if (e instanceof OpenAI.RateLimitError) return [429, '模型调用太频繁或余额不足，请稍后再试'];
+  if (e instanceof OpenAI.APIConnectionError) return [502, '连不上模型服务'];
+  if (e instanceof OpenAI.APIError) return [502, `模型服务出错（${e.status}）`];
+  if (e instanceof SyntaxError) return [502, '模型返回的不是合法 JSON'];
+  return [e.status || 500, e.status ? e.message : '后端出错'];
+}
+
+http.createServer(async (req, res) => {
+  const url = new URL(req.url, 'http://localhost');
+  try {
+    if (req.method === 'GET' && STATIC[url.pathname]) {
+      const [file, type] = STATIC[url.pathname];
+      return send(res, 200, fs.readFileSync(path.join(here, file)), type);
+    }
+    if (req.method === 'POST' && url.pathname === '/api/analyze') {
+      const { poem } = JSON.parse(await readBody(req, 16 * 1024));
+      if (typeof poem !== 'string' || !poem.trim()) return send(res, 400, { error: '缺少诗文' });
+      if (poem.length > MAX_POEM) return send(res, 400, { error: `诗文超过 ${MAX_POEM} 字` });
+      return send(res, 200, await analyze(poem.trim()));
+    }
+    send(res, 404, { error: '没有这个地址' });
+  } catch (e) {
+    const [status, message] = errorStatus(e);
+    if (status >= 500) console.error(e);
+    send(res, status, { error: message });
+  }
+}).listen(PORT, '127.0.0.1', () => {
+  console.log(`诗词写意：http://localhost:${PORT}  模型：${MODEL}`);
+  if (!process.env.DS_KEY) console.log('提示：.env 里没有 DS_KEY，模型分析会失败，页面只用规则');
+});

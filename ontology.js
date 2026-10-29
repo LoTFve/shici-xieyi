@@ -1,0 +1,50 @@
+// 本体：意象、时辰、季节、情感这几类概念，以及它们之间的关系。页面和后端共用这一份。
+// 意象的关系：
+//   implies   出现这个意象时，时辰或季节倾向于什么（诗里没有直接线索时用来推断）
+//   needs     画这个意象必须同时画的意象，比如渔人要坐在舟上
+//   conflicts 和哪些时辰或季节不能共存，冲突时不画
+const ONTO={
+  images:{
+    moon:{name:'月',words:['月','婵娟','玉盘'],draw:'月轮，有水时加倒影',implies:{time:'夜'}},
+    sun:{name:'日',words:['日','夕阳','斜阳','残阳'],draw:'日轮',implies:{time:'昼'},conflicts:{time:['夜']}},
+    mountain:{name:'山',words:['山','峰','岭','岳'],draw:'层叠远山'},
+    water:{name:'水',words:['江','河','水','湖','泉','溪','川','海','波','流'],draw:'水面与波纹'},
+    boat:{name:'舟',words:['舟','船','帆','棹'],draw:'小舟',needs:['water']},
+    fisher:{name:'渔人',words:['翁','渔父','渔人','钓','蓑'],draw:'舟上蓑笠人',needs:['boat']},
+    snow:{name:'雪',words:['雪'],draw:'飘雪，山色转白',implies:{season:'冬'}},
+    rain:{name:'雨',words:['雨'],draw:'斜雨'},
+    frost:{name:'霜',words:['霜'],draw:'地面清霜',implies:{season:'秋'}},
+    flower:{name:'花',words:['花','桃','杏','芳'],draw:'飘落花瓣',implies:{season:'春'}},
+    willow:{name:'柳',words:['柳'],draw:'垂柳',implies:{season:'春'}},
+    pine:{name:'松',words:['松'],draw:'近景松树'},
+    bamboo:{name:'竹',words:['竹'],draw:'竹丛'},
+    maple:{name:'枫',words:['枫','红叶','黄叶'],draw:'红枫与落叶',implies:{season:'秋'}},
+    lotus:{name:'莲',words:['莲','荷'],draw:'水上荷叶',implies:{season:'夏'},needs:['water']},
+    bird:{name:'鸟',words:['鸟','雁','鸦','乌','鹭','鸥','鹤','莺','燕','鹂','禽'],draw:'飞鸟'},
+    cloud:{name:'云',words:['云'],draw:'流云'},
+    star:{name:'星',words:['星','银汉','河汉'],draw:'星点',implies:{time:'夜'}},
+    building:{name:'楼阁',words:['楼','亭','阁','寺','城','台','舍'],draw:'楼阁剪影'},
+    bell:{name:'钟',words:['钟'],draw:'钟声的涟漪'},
+    lamp:{name:'灯火',words:['灯','烛','渔火','火'],draw:'暖色灯火',implies:{time:'夜'}},
+    window:{name:'窗',words:['床','窗','户','帘'],draw:'窗框前景'},
+    wind:{name:'风',words:['风'],draw:'草木摆动加快'},
+    mist:{name:'烟',words:['烟','雾','霭','暝'],draw:'雾气加浓'},
+    yellow:{name:'黄河',words:['黄河'],draw:'水色浑黄',needs:['water']},
+    cascade:{name:'天河倾泻',words:['天上来','落九天','飞流'],draw:'大水从天际倾泻而下',needs:['water']},
+    wine:{name:'酒',words:['酒','樽','杯','觞','醉','饮'],draw:'近景金樽，有月时杯中映月'}
+  },
+  // 意境：按字词计分，标题里的字算两分
+  time:{晨:['晓','晨','朝','曙','旦','春眠'],昼:['白日','昼','午','晴'],暮:['暮','夕','晚','黄昏','斜阳','落日','残阳','依山','暝'],夜:['夜','月','星','灯','烛','宵','眠','梦','更','钟声']},
+  season:{春:['春','花','柳','燕','莺','桃','杏','芳'],夏:['夏','荷','莲','蝉','蛙','暑'],秋:['秋','枫','霜','菊','雁','落叶','黄叶'],冬:['冬','雪','冰','梅','寒']},
+  emotions:{孤寂:['孤','独','绝','灭','寂','寒','单'],思乡:['乡','故','归','客','思','家','别','游子'],哀愁:['愁','泪','悲','恨','断肠','残','伤','苦','落'],闲适:['闲','幽','清','空','自','意','留','喧','悠'],壮阔:['千','万','穷','尽','海','天','层','九','长','大','黄河'],豪放:['酒','饮','醉','杯','樽','狂','尽欢','千金','万古','豪','觞','莫停'],欢欣:['喜','笑','欢','晴','暖','歌','春风','啼','处处','花开']},
+  // 字面上有某个意象时，它在诗里的身份。只有“字面”要画
+  reasons:{字面:'是眼前实景',无:'说的是没有或已过去',比喻:'是比喻',借指:'是借指别的东西',用典:'是用典，不是眼前景',虚写:'是想象、回忆或梦境，不是眼前景'}
+};
+// 由在场的意象推断时辰或季节，票数最多的胜出
+ONTO.infer=(has,dim)=>{
+  const votes={};
+  for(const id in has){const k=(ONTO.images[id].implies||{})[dim];if(k)(votes[k]=votes[k]||[]).push(ONTO.images[id].name)}
+  const best=Object.entries(votes).sort((a,b)=>b[1].length-a[1].length)[0];
+  return best?{key:best[0],ev:best[1].map(n=>`${n}→${best[0]}`)}:null;
+};
+if(typeof module==='object')module.exports=ONTO;

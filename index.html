@@ -25,6 +25,10 @@ h2 small{color:#888;letter-spacing:0;font-weight:normal}
 .chip.off{text-decoration:line-through;opacity:.55}
 .kv{margin:3px 0}.kv b{display:inline-block;width:3em;color:#555}
 .why{color:#8a8a8a;font-size:12px}
+.chip.llm{background:#e3ecf3}.chip.onto{background:#e9f0e2}.chip.diff{box-shadow:inset 0 0 0 1.5px #b5483a}
+.src{font-size:11px;margin-left:6px;padding:0 5px;border-radius:8px;background:#e3ecf3;color:#456}.src.onto{background:#e9f0e2;color:#465}.src.diff{box-shadow:inset 0 0 0 1.5px #b5483a}
+#ai{margin:2px 0 0}
+label{font-size:13px;color:#555;cursor:pointer}
 #show{position:fixed;left:2vw;bottom:2vh;display:none}
 </style>
 </head>
@@ -35,13 +39,16 @@ h2 small{color:#888;letter-spacing:0;font-weight:normal}
   <h1>诗词写意</h1>
   <textarea id="input" placeholder="第一行标题，第二行作者，后面是正文"></textarea>
   <div class="row" id="presets"></div>
-  <div class="row"><button class="main" id="go">入境（Ctrl+Enter）</button><button id="hide">收起面板</button></div>
+  <div class="row"><button class="main" id="go">入境（Ctrl+Enter）</button><button id="hide">收起面板</button><label><input type="checkbox" id="llm" checked> 大模型</label></div>
+  <div class="why" id="ai"></div>
+  <div class="why">底色：<span class="chip">规则</span><span class="chip llm">模型</span><span class="chip onto">本体推断</span><span class="chip diff">与规则不同</span></div>
   <h2>意象 <small>诗里写到的具体景物，决定画什么</small></h2>
   <div id="images"></div>
   <h2>意境 <small>整首诗的时辰、季节和情感，决定怎么画</small></h2>
   <div id="mood"></div>
 </div>
 <button id="show">展开面板</button>
+<script src="ontology.js"></script>
 <script>
 const PRESETS={
   '江雪':'江雪\n柳宗元\n千山鸟飞绝，万径人踪灭。\n孤舟蓑笠翁，独钓寒江雪。',
@@ -53,36 +60,8 @@ const PRESETS={
   '将进酒':'将进酒\n李白\n君不见黄河之水天上来，奔流到海不复回。\n君不见高堂明镜悲白发，朝如青丝暮成雪。\n人生得意须尽欢，莫使金樽空对月。\n天生我材必有用，千金散尽还复来。\n烹羊宰牛且为乐，会须一饮三百杯。\n岑夫子，丹丘生，将进酒，杯莫停。\n与君歌一曲，请君为我倾耳听。\n钟鼓馔玉不足贵，但愿长醉不复醒。\n古来圣贤皆寂寞，惟有饮者留其名。\n陈王昔时宴平乐，斗酒十千恣欢谑。\n主人何为言少钱，径须沽取对君酌。\n五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。'
 };
 
-// 意象：[id, 名称, 触发字词, 画面]
-const IMG=[
-  ['moon','月',['月','婵娟','玉盘'],'月轮，有水时加倒影'],
-  ['sun','日',['日','夕阳','斜阳','残阳'],'日轮'],
-  ['mountain','山',['山','峰','岭','岳'],'层叠远山'],
-  ['water','水',['江','河','水','湖','泉','溪','川','海','波','流'],'水面与波纹'],
-  ['boat','舟',['舟','船','帆','棹'],'小舟'],
-  ['fisher','渔人',['翁','渔父','渔人','钓','蓑'],'舟上蓑笠人'],
-  ['snow','雪',['雪'],'飘雪，山色转白'],
-  ['rain','雨',['雨'],'斜雨'],
-  ['frost','霜',['霜'],'地面清霜'],
-  ['flower','花',['花','桃','杏','芳'],'飘落花瓣'],
-  ['willow','柳',['柳'],'垂柳'],
-  ['pine','松',['松'],'近景松树'],
-  ['bamboo','竹',['竹'],'竹丛'],
-  ['maple','枫',['枫','红叶','黄叶'],'红枫与落叶'],
-  ['lotus','莲',['莲','荷'],'水上荷叶'],
-  ['bird','鸟',['鸟','雁','鸦','乌','鹭','鸥','鹤','莺','燕','鹂','禽'],'飞鸟'],
-  ['cloud','云',['云'],'流云'],
-  ['star','星',['星','银汉','河汉'],'星点'],
-  ['building','楼阁',['楼','亭','阁','寺','城','台','舍'],'楼阁剪影'],
-  ['bell','钟',['钟'],'钟声的涟漪'],
-  ['lamp','灯火',['灯','烛','渔火','火'],'暖色灯火'],
-  ['window','窗',['床','窗','户','帘'],'窗框前景'],
-  ['wind','风',['风'],'草木摆动加快'],
-  ['mist','烟',['烟','雾','霭','暝'],'雾气加浓'],
-  ['yellow','黄河',['黄河'],'水色浑黄'],
-  ['cascade','天河倾泻',['天上来','落九天','飞流'],'大水从天际倾泻而下'],
-  ['wine','酒',['酒','樽','杯','觞','醉','饮'],'近景金樽，有月时杯中映月']
-];
+// 意象：[id, 名称, 触发字词, 画面]，来自本体
+const IMG=Object.entries(ONTO.images).map(([id,o])=>[id,o.name,o.words,o.draw]);
 // 景物后两个字里有这些字时，视为“没有”或“已过去”，不画
 const NEG=/[绝无灭歇后]/;
 // 景物前后紧挨这些字时是比喻，不画，也不算时辰季节。比如“朝如青丝暮成雪”的雪是白发
@@ -94,9 +73,7 @@ const idiom=(text,i,w)=>IDIOM.find(p=>{const j=p.indexOf(w);return j>=0&&text.su
 const plain=(text,i,w)=>literal(text,i,w)&&!idiom(text,i,w);
 
 // 意境：按字词计分，标题里的字算两分
-const TIME={晨:['晓','晨','朝','曙','旦','春眠'],昼:['白日','昼','午','晴'],暮:['暮','夕','晚','黄昏','斜阳','落日','残阳','依山','暝'],夜:['夜','月','星','灯','烛','宵','眠','梦','更','钟声']};
-const SEASON={春:['春','花','柳','燕','莺','桃','杏','芳'],夏:['夏','荷','莲','蝉','蛙','暑'],秋:['秋','枫','霜','菊','雁','落叶','黄叶'],冬:['冬','雪','冰','梅','寒']};
-const EMOS={孤寂:['孤','独','绝','灭','寂','寒','单'],思乡:['乡','故','归','客','思','家','别','游子'],哀愁:['愁','泪','悲','恨','断肠','残','伤','苦','落'],闲适:['闲','幽','清','空','自','意','留','喧','悠'],壮阔:['千','万','穷','尽','海','天','层','九','长','大','黄河'],豪放:['酒','饮','醉','杯','樽','狂','尽欢','千金','万古','豪','觞','莫停'],欢欣:['喜','笑','欢','晴','暖','歌','春风','啼','处处','花开']};
+const TIME=ONTO.time,SEASON=ONTO.season,EMOS=ONTO.emotions;
 const EMO={
   孤寂:{sat:.35,bri:.97,mist:.55,speed:.4,reveal:700,how:'色彩压到最淡，留白多，几乎静止，逐字很慢'},
   思乡:{sat:.6,bri:.95,mist:.4,speed:.5,reveal:600,how:'清冷偏蓝，动效舒缓'},
@@ -162,14 +139,71 @@ function findImages(text){
   }
   return out;
 }
+const src=(o,s)=>o&&(o.src=s,o);
 function analyze(raw){
-  const p=parse(raw),text=p.title+p.body,imgs=findImages(text),has={};
-  imgs.forEach(i=>{if(!i.off)has[i.id]=true});
-  const emos=rank(EMOS,p.title,p.body),emo=emos[0]||{key:'闲适',ev:[]},emo2=emos[1]&&emos[1].n>=emo.n*.5?emos[1]:null;
-  return{...p,text,imgs,has,seed:hash(raw),moonSet:/月落/.test(text),
-    time:score(TIME,p.title,p.body,true)||{key:has.moon?'夜':'昼',ev:[]},
-    season:score(SEASON,p.title,p.body,true)||{key:'无',ev:[]},
-    emo,emo2,E:blend(emo,emo2)};
+  const p=parse(raw),text=p.title+p.body,imgs=findImages(text).map(i=>src(i,'规则'));
+  const emos=rank(EMOS,p.title,p.body),emo=src(emos[0],'规则')||{key:'闲适',ev:[],src:'默认'},emo2=emos[1]&&emos[1].n>=emo.n*.5?src(emos[1],'规则'):null;
+  // settle 会改动 imgs，rules 留一份规则的原始判断给融合用
+  return settle({...p,raw,text,imgs,rules:imgs.map(m=>({...m})),seed:hash(raw),moonSet:/月落/.test(text),
+    time:src(score(TIME,p.title,p.body,true),'规则'),season:src(score(SEASON,p.title,p.body,true),'规则'),emo,emo2});
+}
+// 按本体收尾：补上依赖的意象，缺的时辰季节由意象推断，去掉和时辰季节冲突的意象
+function settle(o){
+  const imgs=o.imgs,has={},on=id=>imgs.find(m=>m.id===id&&!m.off);
+  imgs.forEach(m=>{if(!m.off)has[m.id]=true});
+  for(let more=true;more;){more=false;
+    for(const id in has)for(const n of ONTO.images[id].needs||[])if(!has[n]){has[n]=more=true;
+      const ev=[`${ONTO.images[id].name}需要${ONTO.images[n].name}`],i=imgs.findIndex(m=>m.id===n),m={id:n,name:ONTO.images[n].name,desc:ONTO.images[n].draw,ev,src:'本体推断'};
+      i>=0?imgs[i]=m:imgs.push(m)}}
+  o.time=o.time||src(ONTO.infer(has,'time'),'本体推断')||{key:'昼',ev:[],src:'默认'};
+  o.season=o.season||src(ONTO.infer(has,'season'),'本体推断')||{key:'无',ev:[],src:'默认'};
+  for(const id in has){const c=ONTO.images[id].conflicts||{};
+    for(const dim of['time','season'])if((c[dim]||[]).includes(o[dim].key)){delete has[id];
+      const m=on(id);Object.assign(m,{off:true,why:`与${dim==='time'?'时辰':'季节'}冲突`,tip:`本体规定${m.name}不出现在${o[dim].key}，所以不画`})}}
+  o.has=has;o.E=blend(o.emo,o.emo2);
+  return o;
+}
+// 融合：模型的判断要过本体校验（证据必须是原文）才采用，否则沿用规则
+function fuse(R,M){
+  const text=R.text,dropped=[],ok=e=>typeof e==='string'&&e.trim()!==''&&text.includes(e.trim());
+  const byId={};
+  for(const m of M.images||[]){const o=ONTO.images[m.id];
+    if(!o||!ONTO.reasons[m.reason])continue;
+    if(!ok(m.evidence)){dropped.push(`${o.name}「${m.evidence}」`);continue}
+    (byId[m.id]=byId[m.id]||[]).push(m)}
+  const imgs=[];
+  for(const[id,o]of Object.entries(ONTO.images)){
+    const r=R.rules.find(m=>m.id===id),ms=byId[id];
+    if(!ms){if(r)imgs.push({...r});continue}
+    const lit=ms.filter(m=>m.reason==='字面'),use=lit.length?lit:ms,note=use.map(m=>m.note).filter(Boolean).join('；');
+    const m={id,name:o.name,desc:o.draw,src:'模型',ev:[...new Set(use.map(m=>m.evidence.trim()))],note,
+      rule:r?(r.off?`规则判为${r.why}，不画`:'规则判为要画'):'规则没认出'};
+    if(!lit.length)Object.assign(m,{off:true,why:[...new Set(ms.map(m=>m.reason))].join('、')});
+    m.differs=r?!!r.off!==!!m.off:!m.off;
+    imgs.push(m)}
+  const pick=(lex,mv,rv,name)=>{
+    if(!mv||!lex[mv.key])return rv&&rv.src==='规则'?rv:null;
+    const ev=(mv.evidence||[]).map(e=>e.trim()).filter(ok);
+    if(!ev.length){dropped.push(`${name}${mv.key}`);return rv&&rv.src==='规则'?rv:null}
+    return{key:mv.key,ev,src:'模型',differs:!rv||rv.key!==mv.key,rule:rv?`${rv.src}判为${rv.key}`:''}};
+  const emos=(M.emotions||[]).filter(e=>EMO[e.key]&&(!e.evidence||ok(e.evidence)||(dropped.push(`情感${e.key}`),false)))
+    .map(e=>({key:e.key,ev:e.evidence?[e.evidence.trim()]:[],src:'模型',w:e.weight}));
+  let emo=R.emo,emo2=R.emo2;
+  if(emos.length){emo={...emos[0],differs:emos[0].key!==R.emo.key,rule:`规则判为${R.emo.key}`};
+    emo2=emos[1]&&emos[1].w>=.2?{...emos[1],differs:!R.emo2||emos[1].key!==R.emo2.key}:null}
+  return settle({...R,imgs,emo,emo2,model:M.model,notes:M.notes||'',dropped,
+    time:pick(TIME,M.time,R.time,'时辰'),season:pick(SEASON,M.season,R.season,'季节')});
+}
+const visual=o=>JSON.stringify([Object.keys(o.has).sort(),o.time.key,o.season.key,o.emo.key,o.emo2&&o.emo2.key]);
+async function ask(R){
+  if(location.protocol==='file:')throw new Error('页面是直接打开的，用 node server.mjs 启动后访问 http://localhost:8000 才能用模型');
+  const key='shici:'+R.seed;
+  try{const hit=localStorage.getItem(key);if(hit)return JSON.parse(hit)}catch{}
+  const r=await fetch('/api/analyze',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({poem:R.raw})});
+  const j=await r.json().catch(()=>({}));
+  if(!r.ok)throw new Error(j.error||`后端返回 ${r.status}`);
+  try{localStorage.setItem(key,JSON.stringify(j))}catch{}
+  return j;
 }
 
 // ---------- 静态背景：天、日月、山、水、楼阁 ----------
@@ -365,13 +399,16 @@ function pine(p,sw){ctx.save();ctx.translate(p.x,p.y);ctx.rotate(sw*.3);ctx.fill
   ctx.restore()}
 
 // ---------- 诗与面板 ----------
-function chip(text,tip,off){return`<span class="chip${off?' off':''}" title="${esc(tip)}">${esc(text)}</span>`}
+function chip(text,tip,off,cls){return`<span class="chip${off?' off':''}${cls?' '+cls:''}" title="${esc(tip)}">${esc(text)}</span>`}
+function tone(){
+  document.documentElement.style.setProperty('--ink',S.dark?'#f2ead8':'#1e1a16');
+  document.documentElement.style.setProperty('--halo',S.dark?'rgba(0,0,0,.6)':'rgba(255,255,255,.7)');
+  cv.style.filter=`saturate(${S.E.sat}) brightness(${S.E.bri})`;
+}
 function render(){
   gen++;const my=gen,E=S.E;
   const lines=S.body.split(/(?<=[。！？；])/).filter(Boolean);
-  const ink=S.dark?'#f2ead8':'#1e1a16';
-  document.documentElement.style.setProperty('--ink',ink);
-  document.documentElement.style.setProperty('--halo',S.dark?'rgba(0,0,0,.6)':'rgba(255,255,255,.7)');
+  tone();
   const all=[S.title&&`<p class="t">${[...S.title].map(c=>`<span>${esc(c)}</span>`).join('')}${S.author?'　'+[...S.author].map(c=>`<span>${esc(c)}</span>`).join(''):''}</p>`,
     ...lines.map(l=>`<p>${[...l].map(c=>`<span>${esc(c)}</span>`).join('')}</p>`)].filter(Boolean).join('');
   $('#poem').innerHTML=all;
@@ -380,17 +417,35 @@ function render(){
   $('#poem').style.fontSize=Math.max(14,Math.min(38,innerWidth*.03,fit))+'px';
   const spans=[...$('#poem').querySelectorAll('span')];let i=0;
   (function step(){if(my!==gen||i>=spans.length)return;spans[i++].classList.add('on');setTimeout(step,E.reveal)})();
-  cv.style.filter=`saturate(${E.sat}) brightness(${E.bri})`;
-  $('#images').innerHTML=S.imgs.length?S.imgs.map(m=>m.off?chip(`${m.name}（${m.why}）`,`诗中“${m.ev.join('、')}”，${{无:'说的是没有或已过去',比喻:'是比喻',借指:'是借指别的东西'}[m.why.split('、')[0]]}，所以不画`,true):chip(m.name,`见“${m.ev.join('、')}” → ${m.desc}`)).join(''):'<span class="why">没认出具体景物，只画天和远山</span>';
-  const ev=o=>o.ev.length?`<span class="why">依据：${o.ev.map(esc).join('、')}</span>`:'<span class="why">诗里没有线索，用默认</span>';
-  $('#mood').innerHTML=
-    `<div class="kv"><b>时辰</b>${S.time.key}　${ev(S.time)}<div class="why">${TIME_HOW[S.time.key]}</div></div>`+
-    `<div class="kv"><b>季节</b>${S.season.key==='无'?'未定':S.season.key}　${ev(S.season)}<div class="why">${SEASON_HOW[S.season.key]}</div></div>`+
-    `<div class="kv"><b>情感</b>${S.emo.key}　${ev(S.emo)}<div class="why">${EMO[S.emo.key].how}</div></div>`+
-    (S.emo2?`<div class="kv"><b>底色</b>${S.emo2.key}　${ev(S.emo2)}<div class="why">按三成混入：${EMO[S.emo2.key].how}</div></div>`:'');
+  renderPanel();
 }
+const TAG={规则:'',模型:'llm',本体推断:'onto',默认:''};
+function renderPanel(){
+  const extra=m=>[m.note,m.differs&&m.rule].filter(Boolean).map(s=>'\n'+s).join('');
+  $('#images').innerHTML=S.imgs.length?S.imgs.map(m=>{
+    const cls=[TAG[m.src],m.differs&&'diff'].filter(Boolean).join(' '),tip=`来源：${m.src}\n`;
+    return m.off?chip(`${m.name}（${m.why}）`,tip+(m.tip||`诗中“${m.ev.join('、')}”${m.why.split('、').map(k=>ONTO.reasons[k]).filter(Boolean).join('，')||''}，所以不画`)+extra(m),true,cls)
+      :chip(m.name,tip+`见“${m.ev.join('、')}” → ${m.desc}`+extra(m),false,cls)}).join(''):'<span class="why">没认出具体景物，只画天和远山</span>';
+  const ev=o=>o.ev.length?`<span class="why">依据：${o.ev.map(esc).join('、')}</span>`:'<span class="why">诗里没有线索，用默认</span>';
+  const from=o=>o.src==='规则'||o.src==='默认'?'':`<span class="src ${TAG[o.src]}${o.differs?' diff':''}" title="${esc(o.rule||'')}">${o.src}</span>`;
+  $('#mood').innerHTML=
+    `<div class="kv"><b>时辰</b>${S.time.key}${from(S.time)}　${ev(S.time)}<div class="why">${TIME_HOW[S.time.key]}</div></div>`+
+    `<div class="kv"><b>季节</b>${S.season.key==='无'?'未定':S.season.key}${from(S.season)}　${ev(S.season)}<div class="why">${SEASON_HOW[S.season.key]}</div></div>`+
+    `<div class="kv"><b>情感</b>${S.emo.key}${from(S.emo)}　${ev(S.emo)}<div class="why">${EMO[S.emo.key].how}</div></div>`+
+    (S.emo2?`<div class="kv"><b>底色</b>${S.emo2.key}${from(S.emo2)}　${ev(S.emo2)}<div class="why">按三成混入：${EMO[S.emo2.key].how}</div></div>`:'')+
+    (S.notes?`<div class="kv why">模型解读：${esc(S.notes)}</div>`:'')+
+    (S.dropped&&S.dropped.length?`<div class="kv why">证据不在原文里、已丢弃的模型判断：${S.dropped.map(esc).join('、')}</div>`:'');
+}
+function setAI(t){$('#ai').textContent=t}
 function resize(){DPR=Math.min(devicePixelRatio||1,2);W=cv.width=innerWidth*DPR;H=cv.height=innerHeight*DPR;if(S){build();setupFg()}}
-function go(){const raw=$('#input').value.trim();if(!raw)return;S=analyze(raw);build();setupFg();render()}
+function go(){const raw=$('#input').value.trim();if(!raw)return;S=analyze(raw);build();setupFg();render();
+  if(!$('#llm').checked)return setAI('只用规则');
+  const R=S;setAI('模型分析中…');
+  ask(R).then(M=>{if(S!==R)return;const F=fuse(R,M),n=F.imgs.filter(m=>m.differs).length+['time','season','emo'].filter(k=>F[k].differs).length;
+    S=F;if(visual(F)!==visual(R)){build();setupFg()}tone();renderPanel();
+    setAI(`已融合 ${M.model||'模型'} 的判断`+(n?`，${n} 处与规则不同（红框）`:'，与规则一致'))})
+  .catch(e=>{if(S===R)setAI('模型不可用，只用规则：'+e.message)})}
+$('#llm').onchange=go;
 for(const k in PRESETS){const b=document.createElement('button');b.textContent=k;b.onclick=()=>{$('#input').value=PRESETS[k];go()};$('#presets').append(b)}
 $('#go').onclick=go;
 $('#input').addEventListener('keydown',e=>{if(e.key==='Enter'&&(e.ctrlKey||e.metaKey))go()});
