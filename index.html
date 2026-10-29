@@ -49,7 +49,8 @@ const PRESETS={
   '枫桥夜泊':'枫桥夜泊\n张继\n月落乌啼霜满天，江枫渔火对愁眠。\n姑苏城外寒山寺，夜半钟声到客船。',
   '山居秋暝':'山居秋暝\n王维\n空山新雨后，天气晚来秋。\n明月松间照，清泉石上流。\n竹喧归浣女，莲动下渔舟。\n随意春芳歇，王孙自可留。',
   '春晓':'春晓\n孟浩然\n春眠不觉晓，处处闻啼鸟。\n夜来风雨声，花落知多少。',
-  '登鹳雀楼':'登鹳雀楼\n王之涣\n白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。'
+  '登鹳雀楼':'登鹳雀楼\n王之涣\n白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。',
+  '将进酒':'将进酒\n李白\n君不见黄河之水天上来，奔流到海不复回。\n君不见高堂明镜悲白发，朝如青丝暮成雪。\n人生得意须尽欢，莫使金樽空对月。\n天生我材必有用，千金散尽还复来。\n烹羊宰牛且为乐，会须一饮三百杯。\n岑夫子，丹丘生，将进酒，杯莫停。\n与君歌一曲，请君为我倾耳听。\n钟鼓馔玉不足贵，但愿长醉不复醒。\n古来圣贤皆寂寞，惟有饮者留其名。\n陈王昔时宴平乐，斗酒十千恣欢谑。\n主人何为言少钱，径须沽取对君酌。\n五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。'
 };
 
 // 意象：[id, 名称, 触发字词, 画面]
@@ -77,21 +78,32 @@ const IMG=[
   ['lamp','灯火',['灯','烛','渔火','火'],'暖色灯火'],
   ['window','窗',['床','窗','户','帘'],'窗框前景'],
   ['wind','风',['风'],'草木摆动加快'],
-  ['mist','烟',['烟','雾','霭','暝'],'雾气加浓']
+  ['mist','烟',['烟','雾','霭','暝'],'雾气加浓'],
+  ['yellow','黄河',['黄河'],'水色浑黄'],
+  ['cascade','天河倾泻',['天上来','落九天','飞流'],'大水从天际倾泻而下'],
+  ['wine','酒',['酒','樽','杯','觞','醉','饮'],'近景金樽，有月时杯中映月']
 ];
 // 景物后两个字里有这些字时，视为“没有”或“已过去”，不画
 const NEG=/[绝无灭歇后]/;
+// 景物前后紧挨这些字时是比喻，不画，也不算时辰季节。比如“朝如青丝暮成雪”的雪是白发
+const LIKE=/[如似成若]/;
+// 字面有景物、实际说的是别的东西
+const IDIOM=['五花马','钟鼓','钟鸣','花甲'];
+const literal=(text,i,w)=>!LIKE.test(text[i-1]||'')&&!LIKE.test(text[i+w.length]||'');
+const idiom=(text,i,w)=>IDIOM.find(p=>{const j=p.indexOf(w);return j>=0&&text.substr(i-j,p.length)===p});
+const plain=(text,i,w)=>literal(text,i,w)&&!idiom(text,i,w);
 
 // 意境：按字词计分，标题里的字算两分
 const TIME={晨:['晓','晨','朝','曙','旦','春眠'],昼:['白日','昼','午','晴'],暮:['暮','夕','晚','黄昏','斜阳','落日','残阳','依山','暝'],夜:['夜','月','星','灯','烛','宵','眠','梦','更','钟声']};
 const SEASON={春:['春','花','柳','燕','莺','桃','杏','芳'],夏:['夏','荷','莲','蝉','蛙','暑'],秋:['秋','枫','霜','菊','雁','落叶','黄叶'],冬:['冬','雪','冰','梅','寒']};
-const EMOS={孤寂:['孤','独','绝','灭','寂','寒','单'],思乡:['乡','故','归','客','思','家','别','游子'],哀愁:['愁','泪','悲','恨','断肠','残','伤','苦','落'],闲适:['闲','幽','清','空','自','意','留','喧','悠'],壮阔:['千','万','穷','尽','海','天','层','九','长','大','黄河'],欢欣:['喜','笑','欢','晴','暖','歌','春风','啼','处处','花开']};
+const EMOS={孤寂:['孤','独','绝','灭','寂','寒','单'],思乡:['乡','故','归','客','思','家','别','游子'],哀愁:['愁','泪','悲','恨','断肠','残','伤','苦','落'],闲适:['闲','幽','清','空','自','意','留','喧','悠'],壮阔:['千','万','穷','尽','海','天','层','九','长','大','黄河'],豪放:['酒','饮','醉','杯','樽','狂','尽欢','千金','万古','豪','觞','莫停'],欢欣:['喜','笑','欢','晴','暖','歌','春风','啼','处处','花开']};
 const EMO={
   孤寂:{sat:.35,bri:.97,mist:.55,speed:.4,reveal:700,how:'色彩压到最淡，留白多，几乎静止，逐字很慢'},
   思乡:{sat:.6,bri:.95,mist:.4,speed:.5,reveal:600,how:'清冷偏蓝，动效舒缓'},
   哀愁:{sat:.5,bri:.85,mist:.6,speed:.45,reveal:650,how:'偏暗，雾重，节奏迟缓'},
   闲适:{sat:.8,bri:1,mist:.35,speed:.7,reveal:420,how:'清淡柔和，雾轻，动效轻缓'},
   壮阔:{sat:1,bri:1.05,mist:.2,speed:1,reveal:300,how:'远山加到五层，视野拉深，色彩饱满'},
+  豪放:{sat:1.25,bri:1.06,mist:.12,speed:1.4,reveal:200,how:'色彩浓烈偏金，动效急，字出得快'},
   欢欣:{sat:1.15,bri:1.08,mist:.15,speed:1.2,reveal:250,how:'明亮温暖，动效轻快，字出得快'}
 };
 const SKY={晨:['#e9c9b4','#f7ead9'],昼:['#a9c7da','#eef1ea'],暮:['#4b4466','#e8a477'],夜:['#081221','#25304a']};
@@ -104,7 +116,7 @@ const cv=$('#scene'),ctx=cv.getContext('2d');
 let W,H,DPR,S=null,bg=null,parts=[],gen=0;
 const TAU=Math.PI*2;
 const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const count=(s,w)=>s.split(w).length-1;
+function count(s,w,lit){let n=0;for(let i=s.indexOf(w);i>=0;i=s.indexOf(w,i+w.length))if(!lit||plain(s,i,w))n++;return n}
 function hash(s){let h=2166136261;for(const c of s){h^=c.codePointAt(0);h=Math.imul(h,16777619)}return h>>>0}
 function rng(a){return()=>{a=a+0x6D2B79F5|0;let t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
 const hex=h=>[1,3,5].map(i=>parseInt(h.slice(i,i+2),16));
@@ -118,40 +130,51 @@ function parse(raw){
   else if(lines.length>=2&&!P.test(lines[0]))title=lines.shift();
   return{title,author,body:lines.join('')};
 }
-function score(lex,title,body){
-  let best=null;
+function rank(lex,title,body,lit){
+  const all=[];
   for(const[k,words]of Object.entries(lex)){
     let n=0;const ev=[];
-    for(const w of words){const c=count(body,w)+2*count(title,w);if(c){n+=c;ev.push(w)}}
-    if(n&&(!best||n>best.n))best={key:k,n,ev};
+    for(const w of words){const c=count(body,w,lit)+2*count(title,w,lit);if(c){n+=c;ev.push(w)}}
+    if(n)all.push({key:k,n,ev});
   }
-  return best;
+  return all.sort((a,b)=>b.n-a.n);
+}
+const score=(...a)=>rank(...a)[0];
+// 主情感占七成；第二情感分数达到主情感的一半时，作为底色混入三成
+function blend(e1,e2){
+  const A=EMO[e1.key];if(!e2)return A;const B=EMO[e2.key],o={...A};
+  for(const k of['sat','bri','mist','speed','reveal'])o[k]=A[k]*.7+B[k]*.3;
+  return o;
 }
 function findImages(text){
   const out=[];
   for(const[id,name,words,desc]of IMG){
-    const hits=new Set(),negs=new Set();
+    const hits=new Set(),negs=new Map();
     for(const w of words)for(let i=text.indexOf(w);i>=0;i=text.indexOf(w,i+w.length)){
-      const after=text.slice(i+w.length,i+w.length+2).replace(/[，。！？；]/g,'');
-      NEG.test(after)?negs.add(w+'·'+after):hits.add(w);
+      const after=text.slice(i+w.length,i+w.length+2).replace(/[，。！？；]/g,''),id2=idiom(text,i,w);
+      if(id2)negs.set(id2,'借指');
+      else if(!literal(text,i,w))negs.set(text.slice(Math.max(0,i-1),i+w.length+1).replace(/[，。！？；]/g,''),'比喻');
+      else if(NEG.test(after))negs.set(w+after,'无');
+      else hits.add(w);
     }
     if(hits.size)out.push({id,name,desc,ev:[...hits]});
-    else if(negs.size)out.push({id,name,desc,ev:[...negs],off:true});
+    else if(negs.size)out.push({id,name,desc,ev:[...negs.keys()],why:[...new Set(negs.values())].join('、'),off:true});
   }
   return out;
 }
 function analyze(raw){
   const p=parse(raw),text=p.title+p.body,imgs=findImages(text),has={};
   imgs.forEach(i=>{if(!i.off)has[i.id]=true});
+  const emos=rank(EMOS,p.title,p.body),emo=emos[0]||{key:'闲适',ev:[]},emo2=emos[1]&&emos[1].n>=emo.n*.5?emos[1]:null;
   return{...p,text,imgs,has,seed:hash(raw),moonSet:/月落/.test(text),
-    time:score(TIME,p.title,p.body)||{key:has.moon?'夜':'昼',ev:[]},
-    season:score(SEASON,p.title,p.body)||{key:'无',ev:[]},
-    emo:score(EMOS,p.title,p.body)||{key:'闲适',ev:[]}};
+    time:score(TIME,p.title,p.body,true)||{key:has.moon?'夜':'昼',ev:[]},
+    season:score(SEASON,p.title,p.body,true)||{key:'无',ev:[]},
+    emo,emo2,E:blend(emo,emo2)};
 }
 
 // ---------- 静态背景：天、日月、山、水、楼阁 ----------
 function build(){
-  const r=rng(S.seed),h=S.has,E=EMO[S.emo.key],[top,bot]=SKY[S.time.key],night=S.time.key==='夜';
+  const r=rng(S.seed),h=S.has,E=S.E,[top,bot]=SKY[S.time.key],night=S.time.key==='夜';
   S.night=night;S.dark=night||S.time.key==='暮';S.top=top;S.bot=bot;
   S.hz=H*(h.water?(S.emo.key==='壮阔'?.64:.6):.8);
   let hill=HILL[S.season.key];
@@ -188,7 +211,8 @@ function build(){
     g.fillStyle=gr;g.fill();
   }
   // 水
-  if(h.water){gr=g.createLinearGradient(0,S.hz,0,H);gr.addColorStop(0,mix(bot,hill,.25));gr.addColorStop(1,mix(top,'#000000',.35));g.fillStyle=gr;g.fillRect(0,S.hz,W,H-S.hz)}
+  if(h.water){const wt=h.yellow?mix('#b08a4a',top,night?.6:.2):mix(bot,hill,.25);
+    gr=g.createLinearGradient(0,S.hz,0,H);gr.addColorStop(0,wt);gr.addColorStop(1,mix(h.yellow?'#6b4a22':top,'#000000',.35));g.fillStyle=gr;g.fillRect(0,S.hz,W,H-S.hz)}
   if(h.frost){gr=g.createLinearGradient(0,H*.82,0,H);gr.addColorStop(0,'rgba(235,240,245,0)');gr.addColorStop(1,'rgba(235,240,245,.35)');g.fillStyle=gr;g.fillRect(0,H*.82,W,H*.18)}
   S.bld=h.building?pavilion(g,W*.72,S.hz,H*.09,S.ink,h.lamp&&S.dark):null;
   // 宣纸颗粒
@@ -240,10 +264,19 @@ function setupFg(){
 function frame(now){
   requestAnimationFrame(frame);
   if(!S)return;
-  const h=S.has,E=EMO[S.emo.key],t=Math.max(0,now-S.t0)/1000*E.speed,wind=h.wind?2.2:1;
+  const h=S.has,E=S.E,t=Math.max(0,now-S.t0)/1000*E.speed,wind=h.wind?2.2:1;
   ctx.drawImage(bg,0,0);
   // 流云
   if(h.cloud)S.clouds.forEach(c=>{const x=(c.x+t*W*.006)%(W+c.w*2)-c.w;cloudShape(x,c.y,c.w,c.h)});
+  // 天河倾泻：一道水从天顶落到远山后的水面，水流线不断下行
+  if(h.cascade){const cx=W*.42,w0=W*.025,w1=W*.11,yb=S.hz;
+    const g=ctx.createLinearGradient(0,0,0,yb);g.addColorStop(0,rgba(h.yellow?'#d8b878':'#cfe0ea',0));g.addColorStop(.25,rgba(h.yellow?'#c9a35e':'#dbe8f0',.55));g.addColorStop(1,rgba(h.yellow?'#a9813f':'#b9cbd6',.8));
+    ctx.fillStyle=g;ctx.beginPath();ctx.moveTo(cx-w0,0);ctx.lineTo(cx+w0,0);ctx.quadraticCurveTo(cx+w0*1.5,yb*.6,cx+w1,yb);ctx.lineTo(cx-w1,yb);ctx.quadraticCurveTo(cx-w0*1.5,yb*.6,cx-w0,0);ctx.fill();
+    ctx.strokeStyle='rgba(255,255,255,.45)';ctx.lineWidth=1.2*DPR;
+    for(let i=0;i<26;i++){const u=((i*.37)%1)*2-1,y=((t*.35+i*.173)%1)*yb,k=y/yb,x=cx+u*(w0+(w1-w0)*k*k)*.9;
+      ctx.beginPath();ctx.moveTo(x,y);ctx.lineTo(x+u*2*DPR,y+H*.05);ctx.stroke()}
+    const fg=ctx.createRadialGradient(cx,yb,0,cx,yb,w1*2.2);fg.addColorStop(0,'rgba(255,255,255,.5)');fg.addColorStop(1,'rgba(255,255,255,0)');
+    ctx.fillStyle=fg;ctx.fillRect(cx-w1*2.2,yb-w1*2.2,w1*4.4,w1*4.4)}
   // 倒影：日月光柱
   if(h.water&&S.orb){const o=S.orb;
     for(let y=S.hz+4;y<H;y+=6*DPR){const k=(y-S.hz)/(H-S.hz),w=o.r*(1.2+k*2)*(.6+.4*Math.sin(y*.05+t*2));
@@ -299,6 +332,8 @@ function frame(now){
       ctx.beginPath();ctx.ellipse(0,0,(p.type==='petal'?4:6)*DPR,(p.type==='petal'?2.4:3.2)*DPR,0,0,TAU);ctx.fill();ctx.restore()}
     if(p.y>H+10){p.y=-10;p.x=Math.random()*W*1.2}if(p.x<-20)p.x=W+10;if(p.x>W+20)p.x=-10;
   });
+  // 金樽：放在近景右下，有月时杯中映月
+  if(h.wine)cup(W*.8,H*.93,H*.11,t);
   // 窗框
   if(h.window&&S.night){const b=Math.min(W,H)*.05;ctx.fillStyle='#120d0a';ctx.fillRect(0,0,W,b);ctx.fillRect(0,H-b,W,b);ctx.fillRect(0,0,b,H);ctx.fillRect(W-b,0,b,H);
     ctx.fillRect(W*.5-b*.2,0,b*.4,H);ctx.strokeStyle='#120d0a';ctx.lineWidth=b*.12;for(let i=1;i<4;i++){ctx.beginPath();ctx.moveTo(0,b+i*b*.6);ctx.lineTo(W,b+i*b*.6);ctx.stroke()}}
@@ -313,6 +348,15 @@ function boat(x,y,s,fisher,t){ctx.fillStyle=S.ink;ctx.strokeStyle=S.ink;
   ctx.beginPath();ctx.moveTo(x-s*.45,y-s*.68);ctx.lineTo(x+s*.4,y-s*.68);ctx.lineTo(x-s*.03,y-s*1.0);ctx.closePath();ctx.fill();
   ctx.lineWidth=1.2*DPR;ctx.beginPath();ctx.moveTo(x+s*.15,y-s*.5);ctx.lineTo(x+s*1.9,y-s*1.4);ctx.stroke();
   ctx.lineWidth=.7*DPR;ctx.beginPath();ctx.moveTo(x+s*1.9,y-s*1.4);ctx.quadraticCurveTo(x+s*2.0+Math.sin(t)*s*.05,y-s*.6,x+s*1.95,y+s*.1);ctx.stroke()}
+function cup(x,y,s,t){
+  const gold=S.night?'#8a6a2e':'#c99a3a',hi=S.night?'#c9a45a':'#f3d88a',rw=s*.42;
+  ctx.fillStyle=gold;ctx.beginPath();ctx.ellipse(x,y,s*.3,s*.06,0,0,TAU);ctx.fill();
+  ctx.fillRect(x-s*.04,y-s*.35,s*.08,s*.35);
+  ctx.beginPath();ctx.moveTo(x-rw,y-s*.85);ctx.quadraticCurveTo(x-rw*.9,y-s*.38,x,y-s*.35);ctx.quadraticCurveTo(x+rw*.9,y-s*.38,x+rw,y-s*.85);ctx.closePath();ctx.fill();
+  ctx.fillStyle=hi;ctx.globalAlpha=.5;ctx.fillRect(x-rw*.65,y-s*.8,s*.04,s*.3);ctx.globalAlpha=1;
+  ctx.fillStyle=S.night?'#3a1a14':'#6e2a1c';ctx.beginPath();ctx.ellipse(x,y-s*.85,rw,s*.08,0,0,TAU);ctx.fill();
+  if(S.has.moon){ctx.fillStyle='rgba(250,240,210,.9)';ctx.beginPath();ctx.ellipse(x+rw*.25+Math.sin(t*1.5)*2,y-s*.85,s*.06,s*.025,0,0,TAU);ctx.fill()}
+  ctx.strokeStyle=hi;ctx.lineWidth=1.5*DPR;ctx.beginPath();ctx.ellipse(x,y-s*.85,rw,s*.08,0,0,TAU);ctx.stroke()}
 function pine(p,sw){ctx.save();ctx.translate(p.x,p.y);ctx.rotate(sw*.3);ctx.fillStyle=S.ink;ctx.strokeStyle=S.ink;
   ctx.lineWidth=p.s*.04;ctx.beginPath();ctx.moveTo(0,0);ctx.quadraticCurveTo(p.s*.08,-p.s*.5,-p.s*.02,-p.s);ctx.stroke();
   p.tiers.forEach((tr,i)=>{const y=-p.s*tr.y-p.s*.15,x=p.s*.03*Math.sin(i),L=p.s*tr.len*2,d=tr.dir;
@@ -323,7 +367,7 @@ function pine(p,sw){ctx.save();ctx.translate(p.x,p.y);ctx.rotate(sw*.3);ctx.fill
 // ---------- 诗与面板 ----------
 function chip(text,tip,off){return`<span class="chip${off?' off':''}" title="${esc(tip)}">${esc(text)}</span>`}
 function render(){
-  gen++;const my=gen,E=EMO[S.emo.key];
+  gen++;const my=gen,E=S.E;
   const lines=S.body.split(/(?<=[。！？；])/).filter(Boolean);
   const ink=S.dark?'#f2ead8':'#1e1a16';
   document.documentElement.style.setProperty('--ink',ink);
@@ -331,15 +375,19 @@ function render(){
   const all=[S.title&&`<p class="t">${[...S.title].map(c=>`<span>${esc(c)}</span>`).join('')}${S.author?'　'+[...S.author].map(c=>`<span>${esc(c)}</span>`).join(''):''}</p>`,
     ...lines.map(l=>`<p>${[...l].map(c=>`<span>${esc(c)}</span>`).join('')}</p>`)].filter(Boolean).join('');
   $('#poem').innerHTML=all;
+  // 长诗按最长一句和句数缩小字号，避免超出屏幕
+  const longest=Math.max(...lines.map(l=>l.length),(S.title+S.author).length*.6+1),fit=Math.min(innerHeight*.84/(longest*1.3),innerWidth*.55/((lines.length+1)*1.9));
+  $('#poem').style.fontSize=Math.max(14,Math.min(38,innerWidth*.03,fit))+'px';
   const spans=[...$('#poem').querySelectorAll('span')];let i=0;
   (function step(){if(my!==gen||i>=spans.length)return;spans[i++].classList.add('on');setTimeout(step,E.reveal)})();
   cv.style.filter=`saturate(${E.sat}) brightness(${E.bri})`;
-  $('#images').innerHTML=S.imgs.length?S.imgs.map(m=>m.off?chip(m.name+'（无）',`诗中“${m.ev.join('、')}”，说的是没有或已过去，所以不画`,true):chip(m.name,`见“${m.ev.join('、')}” → ${m.desc}`)).join(''):'<span class="why">没认出具体景物，只画天和远山</span>';
+  $('#images').innerHTML=S.imgs.length?S.imgs.map(m=>m.off?chip(`${m.name}（${m.why}）`,`诗中“${m.ev.join('、')}”，${{无:'说的是没有或已过去',比喻:'是比喻',借指:'是借指别的东西'}[m.why.split('、')[0]]}，所以不画`,true):chip(m.name,`见“${m.ev.join('、')}” → ${m.desc}`)).join(''):'<span class="why">没认出具体景物，只画天和远山</span>';
   const ev=o=>o.ev.length?`<span class="why">依据：${o.ev.map(esc).join('、')}</span>`:'<span class="why">诗里没有线索，用默认</span>';
   $('#mood').innerHTML=
     `<div class="kv"><b>时辰</b>${S.time.key}　${ev(S.time)}<div class="why">${TIME_HOW[S.time.key]}</div></div>`+
     `<div class="kv"><b>季节</b>${S.season.key==='无'?'未定':S.season.key}　${ev(S.season)}<div class="why">${SEASON_HOW[S.season.key]}</div></div>`+
-    `<div class="kv"><b>情感</b>${S.emo.key}　${ev(S.emo)}<div class="why">${E.how}</div></div>`;
+    `<div class="kv"><b>情感</b>${S.emo.key}　${ev(S.emo)}<div class="why">${EMO[S.emo.key].how}</div></div>`+
+    (S.emo2?`<div class="kv"><b>底色</b>${S.emo2.key}　${ev(S.emo2)}<div class="why">按三成混入：${EMO[S.emo2.key].how}</div></div>`:'');
 }
 function resize(){DPR=Math.min(devicePixelRatio||1,2);W=cv.width=innerWidth*DPR;H=cv.height=innerHeight*DPR;if(S){build();setupFg()}}
 function go(){const raw=$('#input').value.trim();if(!raw)return;S=analyze(raw);build();setupFg();render()}
