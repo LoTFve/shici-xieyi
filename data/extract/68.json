@@ -1,0 +1,105 @@
+{
+ "id": 68,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月落点明夜半时分，渲染羁旅孤寂"
+  },
+  {
+   "word": "乌",
+   "name": "乌",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "乌鸦夜啼，以声衬静更添凄清"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "霜满天写秋夜寒意，烘托客愁"
+  },
+  {
+   "word": "江枫",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "江边枫树与渔火相对，映衬愁眠"
+  },
+  {
+   "word": "渔火",
+   "name": "渔火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点点渔火是暗夜中唯一暖色，反衬羁旅孤独"
+  },
+  {
+   "word": "姑苏",
+   "name": "姑苏",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "姑苏点明客居之地，暗含乡思"
+  },
+  {
+   "word": "寒山寺",
+   "name": "寒山寺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寺名点出钟声来处，空寂清冷"
+  },
+  {
+   "word": "钟声",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜半钟声敲击客心，以声写静，余韵悠长"
+  },
+  {
+   "word": "客船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "客船是诗人羁旅之所，点出漂泊身份"
+  }
+ ]
+}

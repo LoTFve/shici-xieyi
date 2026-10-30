@@ -1,0 +1,72 @@
+{
+ "id": 156,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "沧海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指僧人归途经过的辽阔海域"
+  },
+  {
+   "word": "法舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以舟喻佛法，度人渡海"
+  },
+  {
+   "word": "水月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "水中月影，象征禅理空明"
+  },
+  {
+   "word": "鱼龙",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象海中鱼龙听经的神异景象"
+  },
+  {
+   "word": "梵声",
+   "name": "梵声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指僧人诵经之声，衬托禅境"
+  },
+  {
+   "word": "一灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以灯喻禅心智慧，照破万里迷暗"
+  }
+ ]
+}

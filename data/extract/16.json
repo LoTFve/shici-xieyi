@@ -1,0 +1,28 @@
+{
+ "id": 16,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江流",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江水奔流，衬托八阵图石阵的稳固"
+  },
+  {
+   "word": "石",
+   "name": "石",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "八阵图遗迹的石堆，象征诸葛亮功业不朽"
+  }
+ ]
+}

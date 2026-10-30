@@ -1,0 +1,116 @@
+{
+ "id": 138,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "三巴",
+   "name": "巴山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指遥远艰险的蜀地旅途"
+  },
+  {
+   "word": "路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "迢递漫长的羁旅之路"
+  },
+  {
+   "word": "乱山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "杂乱重叠的群山，写旅途荒僻"
+  },
+  {
+   "word": "残雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "除夜未消的残雪，点出岁末寒冷"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "除夜时分，烘托独处异乡的凄凉"
+  },
+  {
+   "word": "孤烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "异乡客舍中唯一的暖光，映照孤独"
+  },
+  {
+   "word": "异乡",
+   "name": "异乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明身在他乡的漂泊处境"
+  },
+  {
+   "word": "骨肉",
+   "name": "亲人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指至亲，渐行渐远更添思乡"
+  },
+  {
+   "word": "僮仆",
+   "name": "僮仆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "身边唯一可亲近之人，反衬骨肉远离"
+  },
+  {
+   "word": "岁华",
+   "name": "岁华",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指新年将至，漂泊中又添一岁"
+  }
+ ]
+}

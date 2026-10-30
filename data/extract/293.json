@@ -1,0 +1,270 @@
+{
+ "id": 293,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄河",
+   "name": "黄河",
+   "category": "水域",
+   "parent": "yellow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以黄河奔涌起兴，写时光一去不返"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄河自天上来的高远背景"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄河奔流入海，喻逝者不返"
+  },
+  {
+   "word": "高堂",
+   "name": "高堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "高敞厅堂，悬镜悲白发的场所"
+  },
+  {
+   "word": "明镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "照见白发，感叹人生易老"
+  },
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻衰老，与青丝对照"
+  },
+  {
+   "word": "青丝",
+   "name": "青丝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻年少黑发，与暮雪对照"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻白发，写暮年之速"
+  },
+  {
+   "word": "金樽",
+   "name": "樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "酒杯，尽欢对月的饮酒之器"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "对月饮酒，寄寓及时行乐"
+  },
+  {
+   "word": "羊",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "烹羊宰牛，写宴饮之乐"
+  },
+  {
+   "word": "牛",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "烹羊宰牛，写宴饮之乐"
+  },
+  {
+   "word": "杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "一饮三百杯，极言豪饮"
+  },
+  {
+   "word": "岑夫子",
+   "name": "岑夫子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "劝酒的对象之一岑勋"
+  },
+  {
+   "word": "丹丘生",
+   "name": "丹丘生",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "劝酒的对象之一元丹丘"
+  },
+  {
+   "word": "钟鼓",
+   "name": "钟鼓",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指富贵生活，言其不足贵"
+  },
+  {
+   "word": "馔玉",
+   "name": "馔玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指珍馐美味，与钟鼓同指富贵"
+  },
+  {
+   "word": "陈王",
+   "name": "陈王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "用曹植宴平乐之典，自比饮者"
+  },
+  {
+   "word": "平乐",
+   "name": "平乐",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "平乐观，曹植宴饮之地"
+  },
+  {
+   "word": "斗酒",
+   "name": "斗酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "斗酒十千，写陈王宴饮之豪"
+  },
+  {
+   "word": "五花马",
+   "name": "五花马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "名贵坐骑，愿换美酒"
+  },
+  {
+   "word": "千金裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "贵重皮衣，愿换美酒销愁"
+  },
+  {
+   "word": "美酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "全诗核心，以酒销万古愁"
+  },
+  {
+   "word": "儿",
+   "name": "儿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "呼僮仆取物换酒"
+  }
+ ]
+}

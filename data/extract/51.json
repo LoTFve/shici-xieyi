@@ -1,0 +1,28 @@
+{
+ "id": 51,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "樽",
+   "name": "樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "离宴上的酒杯，映衬将别之情"
+  },
+  {
+   "word": "蜡烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "拟人化为惜别垂泪之物，彻夜燃至天明"
+  }
+ ]
+}

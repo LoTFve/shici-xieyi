@@ -1,0 +1,94 @@
+{
+ "id": 92,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江海",
+   "name": "江海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借指二人多年漂泊相隔的遥远之地"
+  },
+  {
+   "word": "山川",
+   "name": "山川",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指阻隔故人的重重山水"
+  },
+  {
+   "word": "孤灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "寒夜客舍中唯一的暖色光源"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "孤灯映照的冷雨，渲染别夜凄清"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "深暗竹丛中浮起烟雾，衬出夜的幽深"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "竹间暗浮的雾气，增添迷离怅惘"
+  },
+  {
+   "word": "离杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "临别对饮的酒杯，承载惜别之情"
+  },
+  {
+   "word": "明朝",
+   "name": "明朝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "预想天明后的离别之恨"
+  }
+ ]
+}

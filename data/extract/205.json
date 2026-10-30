@@ -1,0 +1,215 @@
+{
+ "id": 205,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "苏武",
+   "name": "苏武",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "全诗凭吊的核心人物，持节牧羊的汉使"
+  },
+  {
+   "word": "汉使",
+   "name": "使",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "当年迎接苏武归国的使者，引出苏武悲慨的形象"
+  },
+  {
+   "word": "古祠",
+   "name": "祠",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "眼前的苏武庙，荒古肃穆"
+  },
+  {
+   "word": "高树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "祠前老树，与古祠同带苍茫之感"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "边地天际的云，衬托雁断的遥远荒寒"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "断雁不到，音书阻绝，写苏武留胡的孤绝"
+  },
+  {
+   "word": "胡天",
+   "name": "胡天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方胡地的天空，点明苏武牧羊的异域环境"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "胡地之月，照见去国万里的孤寂"
+  },
+  {
+   "word": "陇",
+   "name": "陇",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "边地高丘，苏武牧羊之处"
+  },
+  {
+   "word": "羊",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "牧归之羊，写苏武塞上日复一日的牧羊生涯"
+  },
+  {
+   "word": "塞草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "塞外荒草，与羊归、烟起共构苍凉画面"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "塞草上的暮烟，笼罩牧羊归来的荒野"
+  },
+  {
+   "word": "楼台",
+   "name": "楼台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "设想苏武归来所见，物是人非"
+  },
+  {
+   "word": "甲帐",
+   "name": "帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "汉武帝的帷帐，如今已非旧物，暗喻盛世难再"
+  },
+  {
+   "word": "冠剑",
+   "name": "冠剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回想苏武出使时戴冠佩剑的壮年英姿"
+  },
+  {
+   "word": "丁年",
+   "name": "丁年",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指苏武出使时的壮盛之年，与归来的衰老对照"
+  },
+  {
+   "word": "茂陵",
+   "name": "茂陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "汉武帝陵墓，借指已经去世的武帝，封赏不可再得"
+  },
+  {
+   "word": "秋波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋天的水波，苏武对着它哭逝去的年华与故君"
+  },
+  {
+   "word": "逝川",
+   "name": "逝川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "化用孔子逝川之叹，悲叹时光流逝与功业成空"
+  }
+ ]
+}

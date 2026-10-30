@@ -1,0 +1,105 @@
+{
+ "id": 227,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "岱宗",
+   "name": "泰山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗咏叹的主体，泰山巍峨"
+  },
+  {
+   "word": "齐鲁",
+   "name": "齐鲁",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以地域之广衬托泰山绵延"
+  },
+  {
+   "word": "青",
+   "name": "青山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山色苍翠未尽，写泰山绵延"
+  },
+  {
+   "word": "阴阳",
+   "name": "山阴",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山北山南明暗分界，极言山高"
+  },
+  {
+   "word": "昏晓",
+   "name": "晨昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "一山割出昏晓，写泰山高峻"
+  },
+  {
+   "word": "曾云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "层云荡胸，写望山之胸襟"
+  },
+  {
+   "word": "归鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "飞鸟归林，写入目之远景"
+  },
+  {
+   "word": "绝顶",
+   "name": "山顶",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "想象登临之处，抒凌云之志"
+  },
+  {
+   "word": "众山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "登顶后众山皆小，反衬泰山"
+  }
+ ]
+}

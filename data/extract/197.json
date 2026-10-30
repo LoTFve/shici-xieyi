@@ -1,0 +1,50 @@
+{
+ "id": 197,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以花开花落标记与友人别后一年时光"
+  },
+  {
+   "word": "春愁",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明时节并渲染诗人独居的愁绪"
+  },
+  {
+   "word": "西楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人登楼望月、盼望友人的地点"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "以月圆几回写盼友之久与思念之切"
+  }
+ ]
+}

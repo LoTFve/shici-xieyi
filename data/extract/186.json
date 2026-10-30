@@ -1,0 +1,83 @@
+{
+ "id": 186,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "宗臣",
+   "name": "臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指诸葛亮，突出其地位"
+  },
+  {
+   "word": "遗像",
+   "name": "像",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诸葛亮的画像，肃穆清高"
+  },
+  {
+   "word": "云霄",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "比喻诸葛亮如鸾凤高翔于云霄"
+  },
+  {
+   "word": "羽毛",
+   "name": "羽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以羽毛代指鸾凤，喻诸葛亮"
+  },
+  {
+   "word": "伊吕",
+   "name": "伊吕",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "伊尹、吕尚，借古贤比诸葛亮"
+  },
+  {
+   "word": "萧曹",
+   "name": "萧曹",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "萧何、曹参，借古贤比诸葛亮"
+  },
+  {
+   "word": "汉祚",
+   "name": "汉祚",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "汉朝国运，借指蜀汉政权"
+  }
+ ]
+}

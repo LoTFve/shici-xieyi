@@ -1,0 +1,248 @@
+{
+ "id": 284,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洛阳",
+   "name": "洛阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明都城背景，繁华之地"
+  },
+  {
+   "word": "骢马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "良人坐骑，显富贵"
+  },
+  {
+   "word": "金盘",
+   "name": "盘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "侍女用金盘盛鱼，显奢华"
+  },
+  {
+   "word": "鲤鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盘中佳肴，示生活豪侈"
+  },
+  {
+   "word": "画阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美楼阁，写居所富丽"
+  },
+  {
+   "word": "朱楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色高楼，衬繁华"
+  },
+  {
+   "word": "红桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "桃花盛开，点缀春景"
+  },
+  {
+   "word": "绿柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "绿柳垂檐，春日景象"
+  },
+  {
+   "word": "罗帷",
+   "name": "帷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丝罗帷帐，显富贵"
+  },
+  {
+   "word": "七香车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美香车，嫁娶排场"
+  },
+  {
+   "word": "宝扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "迎亲仪仗，显贵气"
+  },
+  {
+   "word": "九华帐",
+   "name": "帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华丽帷帐，新婚居所"
+  },
+  {
+   "word": "季伦",
+   "name": "石崇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借石崇比狂夫骄奢"
+  },
+  {
+   "word": "碧玉",
+   "name": "碧玉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指爱妾，显狂夫风流"
+  },
+  {
+   "word": "珊瑚",
+   "name": "珊瑚",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "珍宝，示豪奢挥霍"
+  },
+  {
+   "word": "春窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "春晨窗下，点明时令"
+  },
+  {
+   "word": "九微火",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "九微灯，夜间照明"
+  },
+  {
+   "word": "飞花",
+   "name": "灯花",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "灯花飞溅，写长夜"
+  },
+  {
+   "word": "赵李家",
+   "name": "赵李家",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指豪门贵族"
+  },
+  {
+   "word": "越女",
+   "name": "越女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "贫贱浣纱女，与洛阳女儿对比"
+  },
+  {
+   "word": "江头",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "江边浣纱处，衬贫贱"
+  },
+  {
+   "word": "浣纱",
+   "name": "浣纱",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "越女劳作，对比富贵"
+  }
+ ]
+}

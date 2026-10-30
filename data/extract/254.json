@@ -1,0 +1,270 @@
+{
+ "id": 254,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "北风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "卷地折草，渲染边塞寒威"
+  },
+  {
+   "word": "白草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "塞外枯草，衬风之猛烈"
+  },
+  {
+   "word": "胡天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明边塞地域与气候"
+  },
+  {
+   "word": "飞雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "八月飞雪，突出边塞奇异"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以春风喻雪，引出梨花比喻"
+  },
+  {
+   "word": "梨花",
+   "name": "梨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻雪压枝头，如花盛开"
+  },
+  {
+   "word": "珠帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪花飘入帘幕，写雪之细密"
+  },
+  {
+   "word": "罗幕",
+   "name": "幕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪湿罗幕，衬寒气袭人"
+  },
+  {
+   "word": "狐裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "狐裘不暖，极言边塞苦寒"
+  },
+  {
+   "word": "锦衾",
+   "name": "衾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "锦衾亦薄，再写寒冷"
+  },
+  {
+   "word": "角弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "弓不得控，写严寒中兵器难用"
+  },
+  {
+   "word": "铁衣",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "铁甲冷难着，写将士艰辛"
+  },
+  {
+   "word": "瀚海",
+   "name": "沙漠",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "沙漠结冰，展现边塞广袤"
+  },
+  {
+   "word": "愁云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "云凝万里，烘托送别愁绪"
+  },
+  {
+   "word": "中军",
+   "name": "军营",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "置酒饯别之地"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "置酒送别，见军中情谊"
+  },
+  {
+   "word": "胡琴",
+   "name": "胡琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "送别宴上演奏的边塞乐器"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与胡琴羌笛合奏，渲染异域情调"
+  },
+  {
+   "word": "羌笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "边塞乐器，笛声添离愁"
+  },
+  {
+   "word": "辕门",
+   "name": "营门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "暮雪纷纷下辕门，点明送别场景"
+  },
+  {
+   "word": "红旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "红旗冻住不翻，写奇寒"
+  },
+  {
+   "word": "轮台",
+   "name": "轮台",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "送别地点，边塞重镇"
+  },
+  {
+   "word": "天山",
+   "name": "天山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "雪满天山路，写归途艰险"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雪上空留马行处，以马迹写离情"
+  }
+ ]
+}

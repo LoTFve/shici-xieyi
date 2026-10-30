@@ -1,0 +1,281 @@
+{
+ "id": 309,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "少陵野老",
+   "name": "野老",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人自指，奠定全诗悲怆基调"
+  },
+  {
+   "word": "曲江",
+   "name": "曲江",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明地点，曾是繁华游赏之地，今成伤心处"
+  },
+  {
+   "word": "宫殿",
+   "name": "宫殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "千门紧闭，暗示昔盛今衰"
+  },
+  {
+   "word": "细柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "新绿依旧，反衬物是人非"
+  },
+  {
+   "word": "新蒲",
+   "name": "蒲",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "初生的蒲草，与细柳同写春色无人赏"
+  },
+  {
+   "word": "霓旌",
+   "name": "霓旌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "回忆中帝王仪仗的华美旗帜，象征昔日盛况"
+  },
+  {
+   "word": "南苑",
+   "name": "南苑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "昔日皇家园林，今已荒芜"
+  },
+  {
+   "word": "昭阳殿",
+   "name": "昭阳殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉宫喻唐宫，指杨贵妃所居"
+  },
+  {
+   "word": "辇",
+   "name": "辇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帝王车驾，忆昔同辇之宠"
+  },
+  {
+   "word": "才人",
+   "name": "才人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫中女官，随侍游猎"
+  },
+  {
+   "word": "弓箭",
+   "name": "弓箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "才人佩带的武器，显皇家游猎之盛"
+  },
+  {
+   "word": "白马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "装饰华贵的御马，衬托昔日的英武"
+  },
+  {
+   "word": "黄金勒",
+   "name": "马勒",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄金马嚼，显示皇家奢华"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "射猎所仰，表现才人技艺"
+  },
+  {
+   "word": "双飞翼",
+   "name": "飞鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被射落的比翼鸟，暗喻昔日欢乐"
+  },
+  {
+   "word": "明眸皓齿",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指杨贵妃，今已香消玉殒"
+  },
+  {
+   "word": "血污游魂",
+   "name": "游魂",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "贵妃惨死，魂魄无所归依"
+  },
+  {
+   "word": "清渭",
+   "name": "渭水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "渭水东流，象征玄宗西去，一去不返"
+  },
+  {
+   "word": "剑阁",
+   "name": "剑阁",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "入蜀险道，暗示玄宗幸蜀之遥远"
+  },
+  {
+   "word": "江水",
+   "name": "江水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "江水长流，与人生有情对比，愁思无尽"
+  },
+  {
+   "word": "江花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花开依旧，反衬国破之痛"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "日暮时分，更添凄凉"
+  },
+  {
+   "word": "胡骑",
+   "name": "胡骑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "安史叛军骑兵，点明战乱背景"
+  },
+  {
+   "word": "尘",
+   "name": "尘",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "胡骑扬尘，满城昏暗，象征战乱"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "城南城北，表现诗人徘徊无措"
+  }
+ ]
+}

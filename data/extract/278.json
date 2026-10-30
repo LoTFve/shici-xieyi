@@ -1,0 +1,72 @@
+{
+ "id": 278,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "以秦汉明月关塞起兴，衬托征人怀远"
+  },
+  {
+   "word": "关",
+   "name": "关",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "秦汉以来不变的边关，点出戍守之久远"
+  },
+  {
+   "word": "龙城",
+   "name": "龙城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指飞将军卫青所至之地，寄托对名将的向往"
+  },
+  {
+   "word": "飞将",
+   "name": "飞将",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "指李广，期盼良将镇边止战"
+  },
+  {
+   "word": "胡马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指外族骑兵，突出边患"
+  },
+  {
+   "word": "阴山",
+   "name": "阴山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方屏障，胡马不得逾越的界线"
+  }
+ ]
+}

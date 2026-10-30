@@ -1,0 +1,116 @@
+{
+ "id": 299,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秦地",
+   "name": "秦地",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "指采桑女所在之地，暗示春耕时节"
+  },
+  {
+   "word": "罗敷女",
+   "name": "罗敷",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借古乐府中的采桑女形象，赞美女主人公"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采桑劳作的对象，点明春季农事"
+  },
+  {
+   "word": "绿水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "清澈的水边背景，衬托采桑女的清新"
+  },
+  {
+   "word": "素手",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "特写采桑女洁白的手，表现其美丽"
+  },
+  {
+   "word": "青条",
+   "name": "枝条",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "桑树的青枝，与素手形成色彩对比"
+  },
+  {
+   "word": "红妆",
+   "name": "红妆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "采桑女的盛妆，突出其艳丽"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "明亮的阳光，使红妆更显鲜艳"
+  },
+  {
+   "word": "蚕",
+   "name": "蚕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "采桑女急于归去的原因，表现其勤劳"
+  },
+  {
+   "word": "五马",
+   "name": "五马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指太守的车驾，代指权贵男子"
+  }
+ ]
+}

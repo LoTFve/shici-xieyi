@@ -1,0 +1,61 @@
+{
+ "id": 7,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "幽篁",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "幽深竹林，诗人独坐其中的清幽环境"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人抚琴自娱，寄托高雅情怀"
+  },
+  {
+   "word": "长啸",
+   "name": "啸",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "诗人放声长啸，抒发胸中逸气"
+  },
+  {
+   "word": "深林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "幽深树林中无人知晓诗人所在"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "明月相照，为独坐的诗人作伴"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": 61,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "幽草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "涧边幽静的青草，诗人独爱之景"
+  },
+  {
+   "word": "涧",
+   "name": "涧",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西涧溪流，全诗空间所在"
+  },
+  {
+   "word": "黄鹂",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "深树中鸣叫的鸟，以声衬静"
+  },
+  {
+   "word": "深树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鹂藏身的茂密树林"
+  },
+  {
+   "word": "春潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "春雨后上涨的涧水，写晚来水势"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "无",
+   "note": "傍晚急促的春雨，与春潮相伴"
+  },
+  {
+   "word": "野渡",
+   "name": "渡口",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "荒僻无人摆渡的渡口"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "无人看管的渡船自在横浮"
+  }
+ ]
+}

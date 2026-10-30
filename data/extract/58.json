@@ -1,0 +1,105 @@
+{
+ "id": 58,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "笼罩寒水，营造朦胧凄清的氛围"
+  },
+  {
+   "word": "寒水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "被烟雾笼罩的寒冷江水"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光笼罩沙岸，点明夜泊之时"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "被月色笼罩的岸边沙地"
+  },
+  {
+   "word": "秦淮",
+   "name": "秦淮",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "点明夜泊之地，六朝繁华的象征"
+  },
+  {
+   "word": "酒家",
+   "name": "酒家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "近处灯火酒肆，引出商女歌声"
+  },
+  {
+   "word": "商女",
+   "name": "歌女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "唱曲的歌女，不知亡国之恨"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "隔江传来歌声，拉开空间距离"
+  },
+  {
+   "word": "后庭花",
+   "name": "后庭花",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "借陈后主亡国之音曲名，讽今之颓靡"
+  }
+ ]
+}

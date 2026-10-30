@@ -1,0 +1,270 @@
+{
+ "id": 285,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "胡马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "少年时夺得的战马，表现勇猛"
+  },
+  {
+   "word": "白额虎",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "射杀猛虎，凸显少年武艺高强"
+  },
+  {
+   "word": "黄须儿",
+   "name": "黄须儿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "指曹操之子曹彰，借以赞美少年英雄"
+  },
+  {
+   "word": "霹雳",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容汉兵声势如雷霆"
+  },
+  {
+   "word": "蒺藜",
+   "name": "蒺藜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "铁蒺藜，防御武器，使虏骑畏惧"
+  },
+  {
+   "word": "卫青",
+   "name": "卫青",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "汉代名将，借以反衬老将命运"
+  },
+  {
+   "word": "李广",
+   "name": "李广",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "汉代名将，数奇无功，喻老将遭遇"
+  },
+  {
+   "word": "飞箭",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "昔时射箭技艺高超"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用《庄子》典，喻肘生瘤，年老体衰"
+  },
+  {
+   "word": "故侯瓜",
+   "name": "瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "召平卖瓜典，指老将归隐卖瓜"
+  },
+  {
+   "word": "先生柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "陶渊明种柳典，指隐居生活"
+  },
+  {
+   "word": "古木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "苍茫古木，烘托穷巷荒凉"
+  },
+  {
+   "word": "寒山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寥落寒山，映衬虚牖空寂"
+  },
+  {
+   "word": "虚牖",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "空窗，表现老将独居的冷清"
+  },
+  {
+   "word": "疏勒",
+   "name": "疏勒",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "耿恭守疏勒典，喻老将报国壮志"
+  },
+  {
+   "word": "颍川",
+   "name": "颍川",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "灌夫使酒典，反衬老将积极"
+  },
+  {
+   "word": "贺兰山",
+   "name": "贺兰山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞山名，展现战场气势"
+  },
+  {
+   "word": "羽檄",
+   "name": "檄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "紧急军书，表现战事频繁"
+  },
+  {
+   "word": "铁衣",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "拂拭铁甲，见老将壮心未已"
+  },
+  {
+   "word": "宝剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "宝剑星文，象征老将英武"
+  },
+  {
+   "word": "星文",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "宝剑上的星纹，借指剑光"
+  },
+  {
+   "word": "燕弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "燕地良弓，表老将武艺"
+  },
+  {
+   "word": "越甲",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "越甲鸣君典，表老将忠君爱国"
+  },
+  {
+   "word": "云中守",
+   "name": "魏尚",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "魏尚守云中典，喻老将可再战"
+  }
+ ]
+}

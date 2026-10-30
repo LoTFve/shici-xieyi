@@ -1,0 +1,72 @@
+{
+ "id": 6,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "空山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "空寂的山林，全诗的主体背景"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "只闻其声不见其形的人语来源"
+  },
+  {
+   "word": "人语",
+   "name": "人语",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以有声反衬空山的寂静"
+  },
+  {
+   "word": "返景",
+   "name": "夕照",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "夕阳返照的光线斜射入林"
+  },
+  {
+   "word": "深林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "幽深的树林，夕照穿入之处"
+  },
+  {
+   "word": "青苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "林下青苔，显幽静与人迹罕至"
+  }
+ ]
+}

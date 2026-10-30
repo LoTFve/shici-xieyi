@@ -1,0 +1,39 @@
+{
+ "id": 27,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "七弦",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗中所听之琴，七弦为琴的代称，泠泠之声由此发出"
+  },
+  {
+   "word": "松风",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以松间风寒之声比喻琴音的清冷高古"
+  },
+  {
+   "word": "古调",
+   "name": "古调",
+   "category": "声音",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借指高雅的琴曲，也暗指不合流俗的古朴格调"
+  }
+ ]
+}

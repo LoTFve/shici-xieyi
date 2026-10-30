@@ -1,0 +1,105 @@
+{
+ "id": 78,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明寒食时节长安城的春景"
+  },
+  {
+   "word": "飞花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写出落花飘飞的暮春景象"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以春风拂柳写出寒食节气特征"
+  },
+  {
+   "word": "御柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "皇宫中的柳树，点出寒食春景"
+  },
+  {
+   "word": "日暮",
+   "name": "日暮",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明傍晚时分，为传烛作时间背景"
+  },
+  {
+   "word": "汉宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉喻唐，指代当时宫廷"
+  },
+  {
+   "word": "蜡烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "宫中特赐之火，暗示特权"
+  },
+  {
+   "word": "轻烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "烛烟散入权贵之家，含讽意"
+  },
+  {
+   "word": "五侯家",
+   "name": "侯门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指权贵宠臣的宅邸"
+  }
+ ]
+}

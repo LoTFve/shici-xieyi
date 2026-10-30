@@ -1,0 +1,61 @@
+{
+ "id": 46,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "巴山",
+   "name": "巴山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "点明诗人客居的蜀地山峦，渲染偏远寂寥的环境"
+  },
+  {
+   "word": "夜雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "秋夜连绵之雨，既是实景又烘托羁旅愁思"
+  },
+  {
+   "word": "秋池",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "夜雨涨满秋池，以水势写愁绪之深"
+  },
+  {
+   "word": "西窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "想象他日重逢共坐西窗之下剪烛夜话的场景"
+  },
+  {
+   "word": "烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "共剪烛花是想象中团聚夜谈的温馨画面"
+  }
+ ]
+}

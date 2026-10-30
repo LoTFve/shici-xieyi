@@ -1,0 +1,50 @@
+{
+ "id": 11,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "床",
+   "name": "床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "室内近景，点明诗人独处的位置"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "全诗核心意象，触发思乡之情的月色"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以清冷霜色比喻月光，强化寒凉孤寂"
+  },
+  {
+   "word": "故乡",
+   "name": "故乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "低头所思念的归宿，点明全诗主旨"
+  }
+ ]
+}

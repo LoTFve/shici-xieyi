@@ -1,0 +1,171 @@
+{
+ "id": 166,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "渭水",
+   "name": "渭水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "首联以渭水萦绕秦地，点出长安地理形势"
+  },
+  {
+   "word": "秦塞",
+   "name": "秦塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借秦地关塞写渭水萦回的历史纵深"
+  },
+  {
+   "word": "黄山",
+   "name": "黄山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与渭水对举，写汉宫斜绕的山势"
+  },
+  {
+   "word": "汉宫",
+   "name": "汉宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以汉宫借指唐宫，写旧绕山斜的宫阙"
+  },
+  {
+   "word": "銮舆",
+   "name": "銮舆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指皇帝车驾，写天子出行"
+  },
+  {
+   "word": "千门柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写宫门千柳，点出春日出游的生机"
+  },
+  {
+   "word": "阁道",
+   "name": "阁道",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明题目中的空中通道，回望上苑"
+  },
+  {
+   "word": "上苑花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "阁道回望上林苑春花，写春望之景"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云里帝城，写宫阙高耸入云"
+  },
+  {
+   "word": "帝城",
+   "name": "帝城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指长安都城，写帝都气象"
+  },
+  {
+   "word": "双凤阙",
+   "name": "凤阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写帝城宫阙如双凤对峙的雄伟轮廓"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "应题中“雨中”，写春雨中的长安"
+  },
+  {
+   "word": "春树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "雨中春树掩映万人家，写京城春色"
+  },
+  {
+   "word": "万人家",
+   "name": "人家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写长安居民稠密，见盛世气象"
+  },
+  {
+   "word": "阳气",
+   "name": "阳气",
+   "category": "天象",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借春阳之气说天子顺时行令，非眼前实景"
+  }
+ ]
+}

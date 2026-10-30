@@ -1,0 +1,72 @@
+{
+ "id": 102,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北郭外横亘的青山，点明送别之地"
+  },
+  {
+   "word": "白水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绕城而流的清水，与青山对映"
+  },
+  {
+   "word": "孤蓬",
+   "name": "蓬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以随风飘转的蓬草喻远行的友人"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以飘忽不定的浮云喻游子心意"
+  },
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "以落日余晖映衬故人依依惜别之情"
+  },
+  {
+   "word": "班马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "离群之马萧萧长鸣，烘托别离气氛"
+  }
+ ]
+}

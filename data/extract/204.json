@@ -1,0 +1,193 @@
+{
+ "id": 204,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "斜晖",
+   "name": "斜阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "点明傍晚时分，映照空阔江面"
+  },
+  {
+   "word": "空水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "空阔澄净的江面，全诗背景"
+  },
+  {
+   "word": "曲岛",
+   "name": "岛",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "曲折的江中小岛，与水相映"
+  },
+  {
+   "word": "翠微",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "青翠的山色，远接曲岛"
+  },
+  {
+   "word": "波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江面水波，马嘶处船行其上"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "渡口岸上马嘶，衬托送别场景"
+  },
+  {
+   "word": "棹",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "划船离去的舟，友人所乘"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "渡口柳树，送别与等待的典型景物"
+  },
+  {
+   "word": "船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "归来的渡船，与去棹相对"
+  },
+  {
+   "word": "沙草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沙滩草丛，鸥鸟散去的背景"
+  },
+  {
+   "word": "鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "群鸥散飞，写渡口动态"
+  },
+  {
+   "word": "江田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江边万顷农田，展现开阔视野"
+  },
+  {
+   "word": "鹭",
+   "name": "鹭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "一只白鹭飞翔，与群鸥散形成对照"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "乘舟寻范蠡，表达归隐之志"
+  },
+  {
+   "word": "五湖",
+   "name": "五湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "范蠡归隐之地，借指隐逸生活"
+  },
+  {
+   "word": "烟水",
+   "name": "烟水",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "五湖烟波，营造忘机隐逸的氛围"
+  },
+  {
+   "word": "范蠡",
+   "name": "范蠡",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借范蠡乘舟归隐的典故表达心志"
+  }
+ ]
+}

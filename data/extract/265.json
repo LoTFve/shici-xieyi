@@ -1,0 +1,237 @@
+{
+ "id": 265,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "古柏",
+   "name": "柏",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "全诗核心意象，以老柏喻孔明与才士"
+  },
+  {
+   "word": "霜皮",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "形容柏树皮色如霜，见其苍老"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "溜雨写柏树皮润泽之状"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云气连接巫峡，写柏树气象宏大"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月出寒光通雪山，衬柏之孤高"
+  },
+  {
+   "word": "巫峡",
+   "name": "巫峡",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以巫峡之长衬托柏树云气"
+  },
+  {
+   "word": "雪山",
+   "name": "雪山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "月寒通雪山，写柏树高洁"
+  },
+  {
+   "word": "锦亭",
+   "name": "锦亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中成都锦亭一带的路"
+  },
+  {
+   "word": "先主",
+   "name": "先主",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指刘备，与武侯同庙受祀"
+  },
+  {
+   "word": "武侯",
+   "name": "武侯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指诸葛亮，庙中同祀"
+  },
+  {
+   "word": "閟宫",
+   "name": "祠庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "先主武侯合祀的祠庙"
+  },
+  {
+   "word": "户牖",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "庙中户牖空虚，写祠庙寂寥"
+  },
+  {
+   "word": "烈风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "孤高之柏多遭烈风，喻才士处境"
+  },
+  {
+   "word": "大厦",
+   "name": "大厦",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "喻国家危难需栋梁之材"
+  },
+  {
+   "word": "梁栋",
+   "name": "梁栋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻可堪大用的栋梁之才"
+  },
+  {
+   "word": "万牛",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "万牛回首拉不动，写柏材之重"
+  },
+  {
+   "word": "丘山",
+   "name": "丘山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容柏材重如丘山"
+  },
+  {
+   "word": "蝼蚁",
+   "name": "蝼蚁",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻小人侵害才士"
+  },
+  {
+   "word": "鸾凤",
+   "name": "鸾凤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香叶栖鸾凤，喻高洁之士来依"
+  },
+  {
+   "word": "志士",
+   "name": "志士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "有志之士，与幽人同受感慨"
+  },
+  {
+   "word": "幽人",
+   "name": "幽人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "幽居之人，与志士共叹材大难用"
+  }
+ ]
+}

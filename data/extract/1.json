@@ -1,0 +1,61 @@
+{
+ "id": 1,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "行宫",
+   "name": "行宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒废的旧日宫殿，是全诗寥落的背景"
+  },
+  {
+   "word": "宫花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "宫中红花寂寞开放，以花红反衬冷落"
+  },
+  {
+   "word": "白头",
+   "name": "白发",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指年迈的宫女，见岁月流逝"
+  },
+  {
+   "word": "宫女",
+   "name": "宫女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "闲坐追忆往事的白发宫人"
+  },
+  {
+   "word": "玄宗",
+   "name": "玄宗",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借唐玄宗旧事寄托盛衰兴亡之感"
+  }
+ ]
+}

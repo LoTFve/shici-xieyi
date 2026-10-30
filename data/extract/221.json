@@ -1,0 +1,204 @@
+{
+ "id": 221,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "塔",
+   "name": "塔",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗核心景物，写其高耸之姿"
+  },
+  {
+   "word": "天宫",
+   "name": "天宫",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以天宫比塔之高峻"
+  },
+  {
+   "word": "磴道",
+   "name": "石阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写登塔盘旋而上的石阶"
+  },
+  {
+   "word": "虚空",
+   "name": "虚空",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容石阶高入空际"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "塔角遮蔽白日，极言塔高"
+  },
+  {
+   "word": "苍穹",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "七层塔摩触苍穹"
+  },
+  {
+   "word": "高鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "俯视飞鸟，衬塔之高"
+  },
+  {
+   "word": "惊风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "俯听闻风，写高处风声"
+  },
+  {
+   "word": "连山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "群山如波涛奔涌向东"
+  },
+  {
+   "word": "波涛",
+   "name": "波涛",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以波涛比喻连山起伏"
+  },
+  {
+   "word": "青槐",
+   "name": "槐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "夹道青槐，写长安街景"
+  },
+  {
+   "word": "驰道",
+   "name": "驰道",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天子驰道，见京都气象"
+  },
+  {
+   "word": "宫馆",
+   "name": "宫馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫室玲珑，俯瞰所见"
+  },
+  {
+   "word": "秋色",
+   "name": "秋色",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "苍凉",
+   "note": "西来秋色满关中，点明季节"
+  },
+  {
+   "word": "关中",
+   "name": "关中",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指长安一带，秋色所满之地"
+  },
+  {
+   "word": "五陵",
+   "name": "五陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "汉帝陵墓，寄兴亡之慨"
+  },
+  {
+   "word": "北原",
+   "name": "北原",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "五陵所在的高原"
+  },
+  {
+   "word": "冠",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "挂冠指辞官归隐"
+  }
+ ]
+}

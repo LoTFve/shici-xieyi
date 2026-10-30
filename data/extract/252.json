@@ -1,0 +1,281 @@
+{
+ "id": 252,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "走马川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明出征经过的河谷地点"
+  },
+  {
+   "word": "雪海",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极言边塞苦寒与行军的严酷环境"
+  },
+  {
+   "word": "平沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写大漠黄沙莽莽无际的边塞景象"
+  },
+  {
+   "word": "黄",
+   "name": "黄沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄沙直上入天，显出大漠的漫天风尘"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄沙与天相接，衬托边塞的辽阔苍茫"
+  },
+  {
+   "word": "轮台",
+   "name": "轮台",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "西域边地名，点出驻军与出征之地"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "夜风怒吼，是行军苦寒的直接写照"
+  },
+  {
+   "word": "碎石",
+   "name": "石",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大如斗的碎石随风乱走，极写风力之猛"
+  },
+  {
+   "word": "匈奴",
+   "name": "匈奴",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指敌方骑兵，交代战事对象"
+  },
+  {
+   "word": "草黄",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋草枯黄、战马膘肥，点出用兵之时"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战马肥壮，写敌军声势与战备"
+  },
+  {
+   "word": "金山",
+   "name": "金山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞山名，写烟尘从山那边升起的背景"
+  },
+  {
+   "word": "烟尘",
+   "name": "烟尘",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "金山方向腾起烟尘，暗示敌情与战云"
+  },
+  {
+   "word": "汉家大将",
+   "name": "将军",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "借汉指唐，写率师西征的主将"
+  },
+  {
+   "word": "将军",
+   "name": "将军",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "夜不脱金甲，突出主将的勇武与辛劳"
+  },
+  {
+   "word": "金甲",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "金甲夜不解，写军情紧急与将士坚毅"
+  },
+  {
+   "word": "戈",
+   "name": "戈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "半夜行军戈矛相拨，写出队伍整肃急行"
+  },
+  {
+   "word": "马毛",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "马毛带雪汗气蒸腾，写严寒中行军的辛苦"
+  },
+  {
+   "word": "五花",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "五花连钱指毛色斑驳的战马，衬出苦寒行军"
+  },
+  {
+   "word": "幕",
+   "name": "军帐",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "幕中草檄，写主帅营帐中的军书急务"
+  },
+  {
+   "word": "砚水",
+   "name": "砚",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "砚水凝冰，极写边地奇寒，反衬军情如火"
+  },
+  {
+   "word": "虏骑",
+   "name": "虏骑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指敌方骑兵，写其闻风胆慑之势"
+  },
+  {
+   "word": "短兵",
+   "name": "兵刃",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "料敌不敢短兵相接，写唐军威震敌胆"
+  },
+  {
+   "word": "车师",
+   "name": "车师",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "西域古国地名，指献捷受降之处"
+  },
+  {
+   "word": "西门",
+   "name": "城门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "车师西门伫立等候献捷，结出凯旋期待"
+  }
+ ]
+}

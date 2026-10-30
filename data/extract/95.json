@@ -1,0 +1,116 @@
+{
+ "id": 95,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "全诗核心意象，以原上草的枯荣写生命不息"
+  },
+  {
+   "word": "原",
+   "name": "原",
+   "category": "其他",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明草生长的广阔原野背景"
+  },
+  {
+   "word": "野火",
+   "name": "火",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以野火焚草反衬草的生命力"
+  },
+  {
+   "word": "春风",
+   "name": "春风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "带来新生，是草复苏的动力"
+  },
+  {
+   "word": "远芳",
+   "name": "芳草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指蔓延远方的春草香气"
+  },
+  {
+   "word": "古道",
+   "name": "古道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒凉的古路，衬托送别与草的蔓延"
+  },
+  {
+   "word": "晴翠",
+   "name": "草色",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "昼",
+   "emotion": "无",
+   "note": "借指晴日下青翠的草色"
+  },
+  {
+   "word": "荒城",
+   "name": "荒城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒废的城池，渲染苍凉送别之境"
+  },
+  {
+   "word": "王孙",
+   "name": "王孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用《楚辞》典，借指远行的友人"
+  },
+  {
+   "word": "萋萋",
+   "name": "草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以茂盛草色借指满溢的离愁别情"
+  }
+ ]
+}

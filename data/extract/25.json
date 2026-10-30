@@ -1,0 +1,50 @@
+{
+ "id": 25,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "友人归隐的终南山"
+  },
+  {
+   "word": "丘壑",
+   "name": "丘壑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山中幽深的景致"
+  },
+  {
+   "word": "武陵人",
+   "name": "渔人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "用《桃花源记》典，指浅尝辄止的游者"
+  },
+  {
+   "word": "桃源",
+   "name": "桃源",
+   "category": "地名",
+   "parent": "flower",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指理想中的隐居之境"
+  }
+ ]
+}

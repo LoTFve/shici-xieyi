@@ -1,0 +1,116 @@
+{
+ "id": 98,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蜀僧",
+   "name": "僧",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "弹琴的高僧，诗中的主角"
+  },
+  {
+   "word": "绿绮",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借司马相如绿绮琴之名代指蜀僧所弹名琴"
+  },
+  {
+   "word": "峨眉峰",
+   "name": "峨眉",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明蜀僧来处，以名山衬高僧"
+  },
+  {
+   "word": "万壑松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以松涛万壑比喻琴声的雄浑清越"
+  },
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人自指，写听琴时被洗涤的客子之心"
+  },
+  {
+   "word": "流水",
+   "name": "流水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "用伯牙钟子期高山流水典，写琴声洗净客心"
+  },
+  {
+   "word": "霜钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "以霜天钟声写琴之余响清冷悠远"
+  },
+  {
+   "word": "碧山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "写听琴入神，不觉青山已暮"
+  },
+  {
+   "word": "暮",
+   "name": "暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明时间流逝，衬琴声迷人"
+  },
+  {
+   "word": "秋云",
+   "name": "云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "无",
+   "note": "秋云几重、天色转暗，收束全诗意境"
+  }
+ ]
+}

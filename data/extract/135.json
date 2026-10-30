@@ -1,0 +1,116 @@
+{
+ "id": 135,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "邹鲁",
+   "name": "邹鲁",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明祭孔之地，暗含礼乐之乡"
+  },
+  {
+   "word": "夫子",
+   "name": "孔子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指孔子，诗中所祭对象"
+  },
+  {
+   "word": "栖栖",
+   "name": "栖栖",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "状孔子周游劳碌、不得安居之态"
+  },
+  {
+   "word": "鄹氏邑",
+   "name": "鄹邑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "孔子出生地，眼前实景"
+  },
+  {
+   "word": "宅",
+   "name": "宅",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "孔子旧宅，今为鲁王宫"
+  },
+  {
+   "word": "鲁王宫",
+   "name": "王宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "孔子故宅所化之宫，见变迁"
+  },
+  {
+   "word": "凤",
+   "name": "凤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "叹凤典，喻孔子生不逢时"
+  },
+  {
+   "word": "麟",
+   "name": "麟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "伤麟典，喻孔子道穷之叹"
+  },
+  {
+   "word": "两楹",
+   "name": "楹柱",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "两楹之奠，暗用孔子梦奠之典"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "孔子梦坐奠于两楹之间，今祭礼与之同"
+  }
+ ]
+}

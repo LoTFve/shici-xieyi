@@ -1,0 +1,105 @@
+{
+ "id": 280,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明时节与边塞苦寒的渡水场景"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以刀比喻，写边地风寒刺骨"
+  },
+  {
+   "word": "平沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "铺展边塞广漠的沙原背景"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "落日未沉，渲染苍茫暮色"
+  },
+  {
+   "word": "临洮",
+   "name": "临洮",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞要地，点出戍守征战之所"
+  },
+  {
+   "word": "长城",
+   "name": "长城",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借昔日长城之战追忆边关战事"
+  },
+  {
+   "word": "黄尘",
+   "name": "尘",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "古今弥漫的沙尘，写征战之久与荒凉"
+  },
+  {
+   "word": "白骨",
+   "name": "白骨",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "战死者遗骸，揭示战争的惨烈"
+  },
+  {
+   "word": "蓬蒿",
+   "name": "蓬蒿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "荒草掩白骨，渲染战后荒野的凄凉"
+  }
+ ]
+}

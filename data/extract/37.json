@@ -1,0 +1,83 @@
+{
+ "id": 37,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洞房",
+   "name": "洞房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "点明新婚场景，暗喻科举应试的考场"
+  },
+  {
+   "word": "红烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "洞房花烛夜的标志性意象，烘托新婚氛围"
+  },
+  {
+   "word": "晓",
+   "name": "晓",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "交代拜见公婆的时间，暗示新妇的郑重"
+  },
+  {
+   "word": "堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拜见舅姑的场所，象征家庭礼法"
+  },
+  {
+   "word": "舅姑",
+   "name": "舅姑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "公婆，代表新妇须讨好的权威，暗喻主考官"
+  },
+  {
+   "word": "夫婿",
+   "name": "夫婿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丈夫，新妇低声询问的对象，暗喻张籍"
+  },
+  {
+   "word": "眉",
+   "name": "眉",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "画眉深浅喻文章是否合考官口味"
+  }
+ ]
+}

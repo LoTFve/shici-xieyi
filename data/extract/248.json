@@ -1,0 +1,116 @@
+{
+ "id": 248,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晚风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "傍晚微风，吹动行舟，营造闲适氛围"
+  },
+  {
+   "word": "行舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人乘坐的小船，随性漂流"
+  },
+  {
+   "word": "花路",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "溪口两岸落花缤纷的小路，点明春景"
+  },
+  {
+   "word": "溪口",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "若耶溪的入口，行舟由此转入"
+  },
+  {
+   "word": "西壑",
+   "name": "壑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "西边的山谷，夜晚舟行转向之处"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "隔山望星，写出山峦叠嶂的层次"
+  },
+  {
+   "word": "南斗",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "南斗星，隔山可见，点明夜间天象"
+  },
+  {
+   "word": "潭烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "潭上水雾弥漫，增添朦胧意境"
+  },
+  {
+   "word": "林月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "林间低垂的月亮，随舟而行，烘托幽静"
+  },
+  {
+   "word": "持竿叟",
+   "name": "渔翁",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人愿做持竿垂钓的老翁，表达归隐之志"
+  }
+ ]
+}

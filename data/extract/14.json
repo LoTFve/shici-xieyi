@@ -1,0 +1,72 @@
+{
+ "id": 14,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全诗围绕弹奏的乐器展开"
+  },
+  {
+   "word": "金粟柱",
+   "name": "柱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以华美弦柱点出筝的精致"
+  },
+  {
+   "word": "素手",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "特写弹筝女子的洁白双手"
+  },
+  {
+   "word": "玉房",
+   "name": "房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美居室，点明弹奏场所"
+  },
+  {
+   "word": "弦",
+   "name": "弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "误拂之处，全诗情致所在"
+  },
+  {
+   "word": "周郎",
+   "name": "周瑜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借周瑜精通音律之典，指弹筝女属意的知音"
+  }
+ ]
+}

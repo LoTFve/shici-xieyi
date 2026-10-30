@@ -1,0 +1,149 @@
+{
+ "id": 137,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "寒露凝光，点出清秋清晨的凄冷氛围"
+  },
+  {
+   "word": "微阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "微弱落日沉下楚丘，渲染萧瑟暮色"
+  },
+  {
+   "word": "楚丘",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "楚地山丘，点明怀古的地理背景"
+  },
+  {
+   "word": "猿",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "洞庭树上猿啼，以凄厉之声烘托悲秋"
+  },
+  {
+   "word": "洞庭",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "洞庭湖点明地点，引出广阔水域"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "洞庭湖边林木，为猿啼提供栖所"
+  },
+  {
+   "word": "木兰舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人所乘之舟，芳洁之名暗含高洁自许"
+  },
+  {
+   "word": "广泽",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "广阔湖泽，明月从中升起"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "湖上明月升起，映照诗人竟夕之悲"
+  },
+  {
+   "word": "苍山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "苍翠山峦夹着乱流，构成雄浑夜景"
+  },
+  {
+   "word": "乱流",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "山间湍急水流，与静谧明月形成动静对照"
+  },
+  {
+   "word": "云中君",
+   "name": "神灵",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借《楚辞》云神之名，寄托怀古不见之悲"
+  },
+  {
+   "word": "秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "竟夕悲秋，收束全诗的情感基调"
+  }
+ ]
+}

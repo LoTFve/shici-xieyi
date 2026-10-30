@@ -1,0 +1,83 @@
+{
+ "id": 69,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "匈奴",
+   "name": "匈奴",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指入侵的北方敌人，点明征战对象"
+  },
+  {
+   "word": "貂锦",
+   "name": "貂锦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以华贵战袍借指精锐将士"
+  },
+  {
+   "word": "胡尘",
+   "name": "胡尘",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指边塞战场的风尘与战事"
+  },
+  {
+   "word": "无定河",
+   "name": "无定河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "边塞河流，点明征人埋骨之地"
+  },
+  {
+   "word": "骨",
+   "name": "骨",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "河边白骨，写战争的惨烈"
+  },
+  {
+   "word": "春闺",
+   "name": "春闺",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "思妇所居的闺房，与边塞形成对照"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "闺中思妇梦中仍把征人当作生人"
+  }
+ ]
+}

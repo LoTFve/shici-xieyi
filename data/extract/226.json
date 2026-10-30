@@ -1,0 +1,138 @@
+{
+ "id": 226,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以终日飘行的浮云起兴，兼喻游子漂泊不归"
+  },
+  {
+   "word": "游子",
+   "name": "游子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指久别未归的友人李白"
+  },
+  {
+   "word": "君",
+   "name": "君",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人梦中频频相见的李白"
+  },
+  {
+   "word": "江湖",
+   "name": "江湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指友人跋涉的江河湖海，暗藏风波之险"
+  },
+  {
+   "word": "风波",
+   "name": "风波",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "既写旅途风浪，又喻世路险恶"
+  },
+  {
+   "word": "舟楫",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "友人归途所乘之船，恐其失坠"
+  },
+  {
+   "word": "白首",
+   "name": "白首",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写李白出门时搔头的苍老之态"
+  },
+  {
+   "word": "冠盖",
+   "name": "冠盖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指京城中显赫的达官贵人"
+  },
+  {
+   "word": "京华",
+   "name": "京华",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "京城繁华，反衬李白的孤独憔悴"
+  },
+  {
+   "word": "斯人",
+   "name": "斯人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指李白，独憔悴于冠盖之中"
+  },
+  {
+   "word": "网",
+   "name": "网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用天网恢恢之典，反问天道何以累及才人"
+  },
+  {
+   "word": "千秋万岁",
+   "name": "千秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "言身后空名，反衬生前寂寞"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 315,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "妾",
+   "name": "妾",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子自称，诗中的说话者"
+  },
+  {
+   "word": "横塘",
+   "name": "横塘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "女子居住之地，暗示水乡背景"
+  },
+  {
+   "word": "船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子停船发问，是动作发生的场所"
+  },
+  {
+   "word": "同乡",
+   "name": "乡",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "女子猜测对方或为同乡，寄托思乡之情"
+  }
+ ]
+}

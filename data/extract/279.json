@@ -1,0 +1,94 @@
+{
+ "id": 279,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以蝉鸣点出边塞秋初的荒寂气氛"
+  },
+  {
+   "word": "桑林",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "蝉鸣其间的空疏树林，衬出边地荒凉"
+  },
+  {
+   "word": "萧关",
+   "name": "萧关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明塞上征途的具体关塞"
+  },
+  {
+   "word": "黄芦草",
+   "name": "芦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "处处枯黄的芦苇，写尽塞外萧瑟"
+  },
+  {
+   "word": "幽并",
+   "name": "幽并",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借幽并二州指代北方边地健儿"
+  },
+  {
+   "word": "尘沙",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写边塞风沙中老去的戍客生涯"
+  },
+  {
+   "word": "游侠儿",
+   "name": "游侠",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "指矜夸骏马的轻浮少年，含劝诫意"
+  },
+  {
+   "word": "紫骝",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "以骏马代游侠儿炫耀的资本"
+  }
+ ]
+}

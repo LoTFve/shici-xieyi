@@ -1,0 +1,61 @@
+{
+ "id": 19,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄莺儿",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "枝头啼叫的黄莺，因惊扰思妇好梦而被驱赶"
+  },
+  {
+   "word": "枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄莺啼叫停留之处，代指庭院春树"
+  },
+  {
+   "word": "妾",
+   "name": "妾",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗中思妇自称，梦寻征人而不得"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "思妇梦中奔赴辽西与征人相会，是全诗情感所系"
+  },
+  {
+   "word": "辽西",
+   "name": "辽西",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "征人戍守之地，借指思妇思念的远方亲人所在"
+  }
+ ]
+}

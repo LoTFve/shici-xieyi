@@ -1,0 +1,83 @@
+{
+ "id": 52,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以流水无情反衬人事变迁"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春草自生，荒园无人凭吊"
+  },
+  {
+   "word": "日暮",
+   "name": "日暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时间，渲染凄清氛围"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春风送怨，吹动落花"
+  },
+  {
+   "word": "啼鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸟啼如怨，倍增荒凉"
+  },
+  {
+   "word": "落花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飘落之花，引出坠楼之人"
+  },
+  {
+   "word": "坠楼人",
+   "name": "绿珠",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借绿珠坠楼典故，悲叹红颜薄命"
+  }
+ ]
+}

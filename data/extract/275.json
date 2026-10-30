@@ -1,0 +1,182 @@
+{
+ "id": 275,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "纤云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜空中纤细的云，衬托明月"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "全诗核心意象，中秋明月"
+  },
+  {
+   "word": "清风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "吹散云气，营造清朗夜空"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "水边平地，寂静无声"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "水波平息，与沙岸构成静景"
+  },
+  {
+   "word": "洞庭",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借洞庭湖写贬所之远与浩渺"
+  },
+  {
+   "word": "九疑",
+   "name": "九疑",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "九疑山高耸，与洞庭连天对举"
+  },
+  {
+   "word": "蛟龙",
+   "name": "蛟龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写南方水域险恶，蛟龙出没"
+  },
+  {
+   "word": "猩",
+   "name": "猩猩",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "猩猩啼号，渲染荒僻凄苦"
+  },
+  {
+   "word": "鼯",
+   "name": "鼯鼠",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鼯鼠哀号，写贬所荒凉"
+  },
+  {
+   "word": "蛇",
+   "name": "蛇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写贬所环境险恶，下床畏蛇"
+  },
+  {
+   "word": "海气",
+   "name": "海气",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "湿热的瘴气，写南方贬所之苦"
+  },
+  {
+   "word": "大鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "州前击鼓，传达赦令喜讯"
+  },
+  {
+   "word": "赦书",
+   "name": "赦书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "朝廷赦令，带来迁谪者希望"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "一年中今夜明月最多最圆"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "劝酒对月，收束全诗"
+  }
+ ]
+}

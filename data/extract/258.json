@@ -1,0 +1,94 @@
+{
+ "id": 258,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "柳花",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明暮春时节，柳花飘香渲染离情"
+  },
+  {
+   "word": "店",
+   "name": "店",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "酒肆场景，是送别宴饮的场所"
+  },
+  {
+   "word": "吴姬",
+   "name": "姬",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "酒肆中劝酒的女子，增添江南风情"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "压酒待客，是离别宴饮的核心意象"
+  },
+  {
+   "word": "金陵",
+   "name": "金陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明送别地点，历史名城"
+  },
+  {
+   "word": "子弟",
+   "name": "子弟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "金陵的年轻朋友，来为诗人送行"
+  },
+  {
+   "word": "觞",
+   "name": "觞",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "酒杯，各尽觞表现离别时的尽情畅饮"
+  },
+  {
+   "word": "东流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以滔滔东流水比喻离别的愁绪悠长"
+  }
+ ]
+}

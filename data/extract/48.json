@@ -1,0 +1,61 @@
+{
+ "id": 48,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "描绘闺房陈设，暗示少妇的华贵居所"
+  },
+  {
+   "word": "凤城",
+   "name": "凤城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指京城，点明少妇所在之地"
+  },
+  {
+   "word": "春宵",
+   "name": "春宵",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "指春天的夜晚，暗含夫妇团聚的珍贵时光"
+  },
+  {
+   "word": "金龟婿",
+   "name": "婿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指身份显贵的丈夫，带出少妇的婚姻状况"
+  },
+  {
+   "word": "香衾",
+   "name": "衾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "指芬芳的被褥，暗示闺房中的孤寂与期待"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 81,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "城阙",
+   "name": "城阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "长安城阙，点明送别之地"
+  },
+  {
+   "word": "三秦",
+   "name": "三秦",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "关中一带，交代长安所处的地理背景"
+  },
+  {
+   "word": "风烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "远望五津时迷蒙的风尘烟雾"
+  },
+  {
+   "word": "五津",
+   "name": "五津",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蜀地岷江五个渡口，指友人赴任的远方"
+  },
+  {
+   "word": "君",
+   "name": "友人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被送别的杜少府"
+  },
+  {
+   "word": "宦游人",
+   "name": "宦游",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "为仕宦而漂泊在外的人，指彼此共同的处境"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与“天涯”对举，极言空间之广"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "极远之地，突显相隔之遥"
+  },
+  {
+   "word": "歧路",
+   "name": "歧路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "岔路口，指分别之处"
+  },
+  {
+   "word": "巾",
+   "name": "巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "沾泪的手巾，劝勉不必作儿女悲态"
+  }
+ ]
+}

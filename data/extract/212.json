@@ -1,0 +1,171 @@
+{
+ "id": 212,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "十二楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "宫妃清晨梳妆所居的华美楼阁"
+  },
+  {
+   "word": "晓妆",
+   "name": "妆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "宫妃清晨梳妆的举动"
+  },
+  {
+   "word": "望仙楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "宫妃登楼远望君王之处"
+  },
+  {
+   "word": "君王",
+   "name": "君王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫妃期盼望见的对象"
+  },
+  {
+   "word": "金兽",
+   "name": "兽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "门锁上的兽形衔环，冰冷如宫怨"
+  },
+  {
+   "word": "铜龙",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "孤寂",
+   "note": "铜制漏壶，水滴声长显昼长难熬"
+  },
+  {
+   "word": "云髻",
+   "name": "髻",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "宫妃如云的发髻"
+  },
+  {
+   "word": "镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "梳妆后对镜自照的铜镜"
+  },
+  {
+   "word": "罗衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫妃欲换的丝罗衣裳"
+  },
+  {
+   "word": "香",
+   "name": "香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "更衣时添加的熏香"
+  },
+  {
+   "word": "正殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "孤寂",
+   "note": "宫妃遥窥的君王正殿"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "正殿卷起的帘子"
+  },
+  {
+   "word": "袍袴",
+   "name": "袍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫人所穿的袍裤"
+  },
+  {
+   "word": "宫人",
+   "name": "宫人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洒扫御床的宫女"
+  },
+  {
+   "word": "御床",
+   "name": "床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫人打扫的君王御床"
+  }
+ ]
+}

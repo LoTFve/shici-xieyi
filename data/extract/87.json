@@ -1,0 +1,105 @@
+{
+ "id": 87,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云峰",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云雾缭绕的高峰，点出寺在幽深山中"
+  },
+  {
+   "word": "古木",
+   "name": "木",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "老树夹径，写山林荒古无人"
+  },
+  {
+   "word": "钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "深山传来钟声，暗示古寺所在"
+  },
+  {
+   "word": "泉声",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "泉水声在危石间呜咽，以声写静"
+  },
+  {
+   "word": "危石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高峻的岩石，衬出泉声的幽咽"
+  },
+  {
+   "word": "日色",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "日光清冷地照在青松上，点出山中寒寂"
+  },
+  {
+   "word": "青松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "苍翠松林，写寺外清冷幽深之景"
+  },
+  {
+   "word": "薄暮",
+   "name": "暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "傍晚时分，点明时间并渲染空寂"
+  },
+  {
+   "word": "空潭",
+   "name": "潭",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "幽曲空寂的水潭，写禅境清澄"
+  }
+ ]
+}

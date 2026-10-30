@@ -1,0 +1,72 @@
+{
+ "id": 50,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "豆蔻",
+   "name": "豆蔻",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以早春豆蔻花比喻少女的娇美年华"
+  },
+  {
+   "word": "梢头",
+   "name": "枝头",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "豆蔻花初绽的枝梢，点出早春时节"
+  },
+  {
+   "word": "春风",
+   "name": "春风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "扬州十里长街上的和煦春风，烘托繁华氛围"
+  },
+  {
+   "word": "扬州",
+   "name": "扬州",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "唐代繁华都市，点明场景所在与十里长街的盛景"
+  },
+  {
+   "word": "路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指扬州城中的长街大道"
+  },
+  {
+   "word": "珠帘",
+   "name": "珠帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "扬州歌楼妓馆的帘幕，借指帘后众多佳丽"
+  }
+ ]
+}

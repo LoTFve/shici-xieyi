@@ -1,0 +1,160 @@
+{
+ "id": 249,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "石鱼湖",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明饮酒的场所，比拟洞庭"
+  },
+  {
+   "word": "洞庭",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以洞庭比石鱼湖，抬高湖面气象"
+  },
+  {
+   "word": "夏水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写湖水夏涨欲满"
+  },
+  {
+   "word": "君山",
+   "name": "君山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借洞庭君山写湖上青山"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "既可指湖山，又被想象为酒樽"
+  },
+  {
+   "word": "樽",
+   "name": "樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "把山想象成酒樽，写豪饮气概"
+  },
+  {
+   "word": "沼",
+   "name": "沼",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "把湖水当成酒池"
+  },
+  {
+   "word": "酒徒",
+   "name": "酒徒",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指同饮的朋友，坐于洲岛"
+  },
+  {
+   "word": "洲岛",
+   "name": "洲",
+   "category": "水域",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "酒徒所坐的水中小岛"
+  },
+  {
+   "word": "长风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "连日大风，衬托不改饮兴"
+  },
+  {
+   "word": "大浪",
+   "name": "浪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "湖上风浪，反衬饮酒豪兴"
+  },
+  {
+   "word": "酒舫",
+   "name": "舫",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "运酒之船，风浪不能阻"
+  },
+  {
+   "word": "长瓢",
+   "name": "瓢",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "诗人手持斟酒之器，显豪放"
+  },
+  {
+   "word": "巴丘",
+   "name": "巴丘",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人所坐之处，点明地点"
+  }
+ ]
+}

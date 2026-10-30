@@ -1,0 +1,72 @@
+{
+ "id": 18,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春",
+   "name": "春",
+   "category": "天象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "点明春晨，为全诗定下时令底色"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "处处啼鸟，写春晨的生机与喧闹"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "回忆昨夜，交代风雨发生的时间"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜来风雨，写春夜的风声"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与风相伴，写夜里的风雨声"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花落知多少，由风雨声推想落花，惜春之情所在"
+  }
+ ]
+}

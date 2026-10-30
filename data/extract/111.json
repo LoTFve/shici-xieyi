@@ -1,0 +1,94 @@
+{
+ "id": 111,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人驻马停步的坐骑"
+  },
+  {
+   "word": "孤坟",
+   "name": "坟",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "房太尉孤零零的坟墓，全诗核心景物"
+  },
+  {
+   "word": "土",
+   "name": "土",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泪水沾湿的坟土，写哀痛之深"
+  },
+  {
+   "word": "断云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "低空断开的云，烘托凄凉气氛"
+  },
+  {
+   "word": "棋",
+   "name": "棋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借谢安对弈事，追忆房太尉昔日交往"
+  },
+  {
+   "word": "剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借季札挂剑徐君墓事，表生死不忘之情"
+  },
+  {
+   "word": "林花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "林中落花，以花落衬人亡之悲"
+  },
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "莺啼送客，以有声反衬墓前空寂"
+  }
+ ]
+}

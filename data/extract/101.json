@@ -1,0 +1,138 @@
+{
+ "id": 101,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "荆门",
+   "name": "荆门",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明渡江出发的楚地门户"
+  },
+  {
+   "word": "楚国",
+   "name": "楚",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "交代远游所至的辽阔地域"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "随平野展开而渐渐消失的远山"
+  },
+  {
+   "word": "平野",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山尽之后展开的广阔原野"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "奔入大荒的浩荡长江"
+  },
+  {
+   "word": "大荒",
+   "name": "荒野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江流所入的苍茫旷野"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月影倒映江中如飞来的天镜"
+  },
+  {
+   "word": "天镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "比喻江中明月的圆亮倒影"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "云霞堆叠如海市蜃楼"
+  },
+  {
+   "word": "海楼",
+   "name": "蜃楼",
+   "category": "其他",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "比喻云气结成的奇幻楼台"
+  },
+  {
+   "word": "故乡水",
+   "name": "江水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借故乡江水寄托依依惜别之情"
+  },
+  {
+   "word": "行舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "万里相送的远行之船"
+  }
+ ]
+}

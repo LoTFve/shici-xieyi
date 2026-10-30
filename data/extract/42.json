@@ -1,0 +1,83 @@
+{
+ "id": 42,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "宣室",
+   "name": "宣室",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "汉文帝召见贾谊的宫殿，点明典故场景"
+  },
+  {
+   "word": "逐臣",
+   "name": "逐臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "被贬的贾谊，借指才士失意"
+  },
+  {
+   "word": "贾生",
+   "name": "贾生",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗的主角，怀才不遇的贾谊"
+  },
+  {
+   "word": "夜半",
+   "name": "夜半",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明谈话延续到深夜"
+  },
+  {
+   "word": "前席",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "文帝移膝靠近，反衬所问之虚"
+  },
+  {
+   "word": "苍生",
+   "name": "苍生",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "百姓，与鬼神对举，见讽意"
+  },
+  {
+   "word": "鬼神",
+   "name": "鬼神",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "文帝所问之事，讽刺不问民生"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 181,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "游子",
+   "name": "游子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指即将远行的友人魏万"
+  },
+  {
+   "word": "离歌",
+   "name": "离歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "清晨送别时唱的离别之歌"
+  },
+  {
+   "word": "微霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "点明深秋清晨的寒意"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "友人渡过的河流"
+  },
+  {
+   "word": "鸿雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "秋日南飞，啼声牵动离愁"
+  },
+  {
+   "word": "云山",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "旅途中所见的云雾山峦"
+  },
+  {
+   "word": "关城",
+   "name": "关城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "途中的关塞城楼"
+  },
+  {
+   "word": "树色",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋树枯色催促寒意临近"
+  },
+  {
+   "word": "御苑",
+   "name": "御苑",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "长安的皇家园林，代指京城"
+  },
+  {
+   "word": "砧声",
+   "name": "砧声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "傍晚捣衣声，勾起羁旅愁思"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "友人前往的京城，行乐之地"
+  }
+ ]
+}

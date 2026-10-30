@@ -1,0 +1,61 @@
+{
+ "id": 228,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "参",
+   "name": "参星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以参商二星此出彼没比喻人生难见"
+  },
+  {
+   "word": "商",
+   "name": "商星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "与参星相对，喻友人久别难逢"
+  },
+  {
+   "word": "灯烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "多年重逢后共对烛光的温暖场景"
+  },
+  {
+   "word": "鬓发",
+   "name": "鬓发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鬓发苍苍，写彼此岁月催人老"
+  },
+  {
+   "word": "鬼",
+   "name": "鬼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "旧友半数已亡，叹人生无常"
+  }
+ ]
+}

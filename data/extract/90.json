@@ -1,0 +1,127 @@
+{
+ "id": 90,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "清川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "清澈的河水映带草泽，是归途前景"
+  },
+  {
+   "word": "长薄",
+   "name": "草泽",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "连绵的草木丛，写归途郊野景色"
+  },
+  {
+   "word": "车马",
+   "name": "车马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "归途车马从容，表现悠闲心境"
+  },
+  {
+   "word": "流水",
+   "name": "流水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "拟人化，写水似有情随人而归"
+  },
+  {
+   "word": "暮禽",
+   "name": "禽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "傍晚归巢的飞鸟，与诗人同归"
+  },
+  {
+   "word": "荒城",
+   "name": "荒城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒凉城郭，点出归途所见萧索"
+  },
+  {
+   "word": "古渡",
+   "name": "渡",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒城边的古旧渡口，增添苍古之感"
+  },
+  {
+   "word": "落日",
+   "name": "落日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "夕照洒满秋山，写暮色中的归景"
+  },
+  {
+   "word": "秋山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋日山色，点明时令与归隐背景"
+  },
+  {
+   "word": "嵩高",
+   "name": "嵩山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "嵩山高远，是诗人归隐的目的地"
+  },
+  {
+   "word": "闭关",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "归来闭门谢客，收束归隐之志"
+  }
+ ]
+}

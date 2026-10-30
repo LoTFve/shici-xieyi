@@ -1,0 +1,215 @@
+{
+ "id": 297,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "少女折花玩耍，表现童趣"
+  },
+  {
+   "word": "竹马",
+   "name": "竹马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "男孩骑竹马游戏，象征童年"
+  },
+  {
+   "word": "青梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "弄青梅玩耍，表现两小无猜"
+  },
+  {
+   "word": "床",
+   "name": "井床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绕床嬉戏，指井栏"
+  },
+  {
+   "word": "暗壁",
+   "name": "壁",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子害羞低头面对墙壁"
+  },
+  {
+   "word": "望夫台",
+   "name": "望夫台",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用望夫石典故，表示坚信丈夫不渝"
+  },
+  {
+   "word": "瞿塘",
+   "name": "瞿塘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "瞿塘峡，丈夫远行经此"
+  },
+  {
+   "word": "滟滪堆",
+   "name": "滟滪堆",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "瞿塘峡险滩，五月尤险"
+  },
+  {
+   "word": "猿声",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "猿啼哀切，烘托离别忧伤"
+  },
+  {
+   "word": "绿苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "门前足迹生苔，表示久别"
+  },
+  {
+   "word": "落叶",
+   "name": "落叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风落叶，增添萧瑟之感"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风早至，烘托思妇愁绪"
+  },
+  {
+   "word": "蝴蝶",
+   "name": "蝴蝶",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "双飞蝴蝶，反衬孤独"
+  },
+  {
+   "word": "西园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西园草中蝴蝶双飞"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "西园草，蝴蝶双飞之处"
+  },
+  {
+   "word": "红颜",
+   "name": "红颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指女子容颜，愁老"
+  },
+  {
+   "word": "三巴",
+   "name": "三巴",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "丈夫所在之地"
+  },
+  {
+   "word": "书",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "预将书信报家"
+  },
+  {
+   "word": "长风沙",
+   "name": "长风沙",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "迎夫之地，表示不辞遥远"
+  }
+ ]
+}

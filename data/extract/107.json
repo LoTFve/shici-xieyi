@@ -1,0 +1,83 @@
+{
+ "id": 107,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "宝剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借《宝剑篇》典故，寄托怀才不遇的悲凉"
+  },
+  {
+   "word": "黄叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以秋叶飘零映衬羁旅憔悴"
+  },
+  {
+   "word": "风雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "凄凉",
+   "note": "黄叶更遭风雨，加倍写身世飘摇"
+  },
+  {
+   "word": "青楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指富贵人家歌管之地，与自身凄凉对照"
+  },
+  {
+   "word": "管弦",
+   "name": "管弦",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "青楼自奏管弦，反衬他人欢娱与我无关"
+  },
+  {
+   "word": "新丰酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用马周新丰独酌典，写销愁无计"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以酒销愁却愁重难解"
+  }
+ ]
+}

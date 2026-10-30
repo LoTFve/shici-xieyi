@@ -1,0 +1,105 @@
+{
+ "id": 115,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凉风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "起兴，以秋风引出对李白的牵挂"
+  },
+  {
+   "word": "天末",
+   "name": "天边",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明遥望远方之地，拉开空间距离"
+  },
+  {
+   "word": "鸿雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借传书之雁寄托音信难通的惦念"
+  },
+  {
+   "word": "江湖",
+   "name": "江湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以秋水江湖喻世路风波险恶"
+  },
+  {
+   "word": "秋水",
+   "name": "秋水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋水深阔，暗含行路艰难之忧"
+  },
+  {
+   "word": "文章",
+   "name": "文章",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指文才与文名，感叹才高命蹇"
+  },
+  {
+   "word": "魑魅",
+   "name": "魑魅",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻奸邪小人，指其幸灾乐祸"
+  },
+  {
+   "word": "冤魂",
+   "name": "冤魂",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指屈原之魂，设想李白与之共语"
+  },
+  {
+   "word": "汨罗",
+   "name": "汨罗",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原沉江处，暗以屈原比李白之冤"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 287,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以云喻杨贵妃衣裳之飘逸"
+  },
+  {
+   "word": "衣裳",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以云想衣裳起兴，写贵妃服饰之美"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以花喻杨贵妃容貌之艳"
+  },
+  {
+   "word": "春风",
+   "name": "春风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风拂动栏杆，烘托贵妃受宠的柔美氛围"
+  },
+  {
+   "word": "槛",
+   "name": "槛",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沉香亭畔的栏杆，春风拂过之处"
+  },
+  {
+   "word": "露华",
+   "name": "露",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "露珠浓重，映衬花容娇艳欲滴"
+  },
+  {
+   "word": "群玉山",
+   "name": "玉山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西王母居处，借指仙境，赞美贵妃非人间之色"
+  },
+  {
+   "word": "山头",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "群玉山之巅，仙境所在"
+  },
+  {
+   "word": "瑶台",
+   "name": "瑶台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神仙居所，借指贵妃如仙子临凡"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月下相逢，以月色烘托仙姿清辉"
+  }
+ ]
+}

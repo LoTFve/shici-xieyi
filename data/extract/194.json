@@ -1,0 +1,94 @@
+{
+ "id": 194,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "西山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "远处雪山，点明边塞景象"
+  },
+  {
+   "word": "白雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "覆盖西山的积雪，烘托寒冷荒凉"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地，暗含离别之愁"
+  },
+  {
+   "word": "清江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "清澈的江水，与万里桥构成远景"
+  },
+  {
+   "word": "万里桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "成都地标，引发漂泊思乡之情"
+  },
+  {
+   "word": "风尘",
+   "name": "风尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻战乱，暗示社会动荡"
+  },
+  {
+   "word": "涕泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "直接表达诗人悲伤流泪"
+  },
+  {
+   "word": "跨马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人骑马出郊的动作"
+  }
+ ]
+}

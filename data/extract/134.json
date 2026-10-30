@@ -1,0 +1,105 @@
+{
+ "id": 134,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楚江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明送别之地的江面，暮雨中更显苍茫"
+  },
+  {
+   "word": "微雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "全诗背景，细雨渲染离别的凄迷气氛"
+  },
+  {
+   "word": "建业",
+   "name": "建业",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "送别之地的古城名，增添历史与离愁"
+  },
+  {
+   "word": "暮钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "傍晚钟声，点明时间并烘托萧瑟氛围"
+  },
+  {
+   "word": "帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雨中行船，帆显得沉重，暗喻行旅之艰"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "暮雨中飞鸟迟缓，衬托行人离去的不舍"
+  },
+  {
+   "word": "海门",
+   "name": "海门",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "远处江海交汇处，隐没不见，写送别之远"
+  },
+  {
+   "word": "浦树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "水边树木含烟带雨，渲染迷蒙的离别场景"
+  },
+  {
+   "word": "散丝",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以散丝喻泪雨，将离愁与细雨融为一体"
+  }
+ ]
+}

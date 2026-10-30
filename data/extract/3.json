@@ -1,0 +1,50 @@
+{
+ "id": 3,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "厨",
+   "name": "厨",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "新妇劳作的内室场景"
+  },
+  {
+   "word": "羹汤",
+   "name": "羹",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "新妇亲手调制的食物"
+  },
+  {
+   "word": "姑",
+   "name": "姑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "婆母，新妇试味所忌之人"
+  },
+  {
+   "word": "小姑",
+   "name": "小姑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "夫妹，新妇借以探知婆母口味"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 153,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天地",
+   "name": "天地",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以天地为背景，烘托英雄气概的浩荡长存"
+  },
+  {
+   "word": "三足鼎",
+   "name": "鼎",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鼎之三足比喻三国鼎立之势"
+  },
+  {
+   "word": "五铢钱",
+   "name": "钱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉五铢钱指代恢复汉室的功业"
+  },
+  {
+   "word": "相",
+   "name": "相",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指诸葛亮，赞先主得贤相而能开国"
+  },
+  {
+   "word": "儿",
+   "name": "儿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指后主刘禅，叹其不肖而致国衰"
+  },
+  {
+   "word": "蜀故妓",
+   "name": "歌妓",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡国旧妓，写尽蜀汉灭亡的凄凉"
+  },
+  {
+   "word": "魏宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蜀妓在魏宫献舞，以乐景写亡国之悲"
+  }
+ ]
+}

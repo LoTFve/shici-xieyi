@@ -1,0 +1,94 @@
+{
+ "id": 94,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写他乡漂泊的衰老"
+  },
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象故乡旧国所见之山"
+  },
+  {
+   "word": "晓月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "拂晓残月映照残破营垒"
+  },
+  {
+   "word": "残垒",
+   "name": "营垒",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "战乱遗留的破败营垒"
+  },
+  {
+   "word": "繁星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜宿故关时满天星斗"
+  },
+  {
+   "word": "故关",
+   "name": "关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "北归途中的旧关隘"
+  },
+  {
+   "word": "寒禽",
+   "name": "禽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "伴人愁颜的寒天飞鸟"
+  },
+  {
+   "word": "衰草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "处处伴随愁颜的枯草"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "id": 268,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "喻富贵如浮云般淡泊"
+  },
+  {
+   "word": "南薰殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "曹霸承恩作画之处"
+  },
+  {
+   "word": "凌烟",
+   "name": "凌烟阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "凌烟阁功臣画像旧迹"
+  },
+  {
+   "word": "进贤冠",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "良相所戴之冠，画中细节"
+  },
+  {
+   "word": "大羽箭",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "猛将腰间佩箭，画中英姿"
+  },
+  {
+   "word": "五花骢",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "先帝御马，画中主角"
+  },
+  {
+   "word": "赤墀",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "殿前红色台阶，牵马之处"
+  },
+  {
+   "word": "阊阖",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "宫门，马立处生风"
+  },
+  {
+   "word": "绢素",
+   "name": "绢",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "作画用的白绢"
+  },
+  {
+   "word": "真龙",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "喻曹霸所画骏马神骏如龙"
+  },
+  {
+   "word": "玉花",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "骏马名，画中御马"
+  },
+  {
+   "word": "御榻",
+   "name": "榻",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "皇帝坐榻，画马置其上"
+  },
+  {
+   "word": "至尊",
+   "name": "皇帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "含笑赐金的皇帝"
+  },
+  {
+   "word": "圉人",
+   "name": "马夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "养马之人，见画惆怅"
+  },
+  {
+   "word": "太仆",
+   "name": "官",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "掌马之官，亦惆怅"
+  },
+  {
+   "word": "骅骝",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指骏马，叹韩干画肉不画骨"
+  },
+  {
+   "word": "干戈",
+   "name": "兵器",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指战乱，曹霸漂泊之因"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 171,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "重帏",
+   "name": "帷",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "层层垂下的帷帘，营造幽闭深闺的氛围"
+  },
+  {
+   "word": "莫愁堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借莫愁女典故点明女子居所，非眼前实景"
+  },
+  {
+   "word": "清宵",
+   "name": "夜",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "清凉长夜，写独卧难眠的时间背景"
+  },
+  {
+   "word": "神女",
+   "name": "神女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用巫山神女典，喻情爱如梦之虚幻"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "以梦喻神女生涯，叹欢情本空"
+  },
+  {
+   "word": "小姑",
+   "name": "小姑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借清溪小姑典，写独居无偶的处境"
+  },
+  {
+   "word": "风波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以风浪喻外界摧折，不信菱枝之弱"
+  },
+  {
+   "word": "菱枝",
+   "name": "菱",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以柔弱菱枝自比，写身世飘零"
+  },
+  {
+   "word": "月露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "月下清露，衬托桂叶飘香而无人赏"
+  },
+  {
+   "word": "桂叶",
+   "name": "桂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "以桂叶之香喻自身才质，谁教二字含怨"
+  },
+  {
+   "word": "相思",
+   "name": "相思",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "直点主题，明知无益仍难自解"
+  }
+ ]
+}

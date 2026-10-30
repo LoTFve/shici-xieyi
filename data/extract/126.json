@@ -1,0 +1,105 @@
+{
+ "id": 126,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "北阙",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指朝廷与仕途，是上书求仕之处"
+  },
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "归隐所向的终南山，层叠远山"
+  },
+  {
+   "word": "敝庐",
+   "name": "茅屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人破旧的居所，归隐落脚处"
+  },
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "诗人自指衰老之态"
+  },
+  {
+   "word": "青阳",
+   "name": "春",
+   "category": "天象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指春天，言岁除将近"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "近景松树，衬托夜窗清冷"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "松间月色照入空窗"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明愁思不寐的时辰"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "窗框前景，透出松月之虚"
+  }
+ ]
+}

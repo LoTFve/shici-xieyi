@@ -1,0 +1,50 @@
+{
+ "id": 23,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "故国",
+   "name": "故国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指远离三千里的故乡，是宫女魂牵梦绕之地"
+  },
+  {
+   "word": "深宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "幽闭二十年的宫廷，是宫女身陷的牢笼"
+  },
+  {
+   "word": "何满子",
+   "name": "何满子",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "悲曲名，一声唱出满腔怨情"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "双泪落君前，直写悲愤交加"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 302,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "驿使",
+   "name": "驿使",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "晨",
+   "emotion": "思乡",
+   "note": "清晨将出发送信传递寒衣的使者"
+  },
+  {
+   "word": "征袍",
+   "name": "征袍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "妻子连夜缝制、寄往边关的寒衣"
+  },
+  {
+   "word": "素手",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "寒冷中抽针缝衣的思妇之手"
+  },
+  {
+   "word": "针",
+   "name": "针",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "无",
+   "note": "缝制征袍所用之针，衬托手冷"
+  },
+  {
+   "word": "剪刀",
+   "name": "剪刀",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "裁衣工具，突出天寒难握"
+  },
+  {
+   "word": "远道",
+   "name": "远道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "征袍要寄往的遥远边路"
+  },
+  {
+   "word": "临洮",
+   "name": "临洮",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "征人戍守的边塞，代指遥远征途"
+  }
+ ]
+}

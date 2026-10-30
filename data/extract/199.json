@@ -1,0 +1,83 @@
+{
+ "id": 199,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蓬门",
+   "name": "蓬门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "贫女所居的简陋门庭，点明出身贫寒"
+  },
+  {
+   "word": "绮罗",
+   "name": "绮罗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指富贵人家的华美衣裳，反衬贫女未识"
+  },
+  {
+   "word": "良媒",
+   "name": "媒",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "贫女想要托付的媒人，写出其婚嫁无着的自伤"
+  },
+  {
+   "word": "十指",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指贫女灵巧的双手，用来夸耀针线之巧"
+  },
+  {
+   "word": "双眉",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指女子画眉争妍，贫女不肯以之斗艳"
+  },
+  {
+   "word": "金线",
+   "name": "金线",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "年年压线刺绣的辛苦，暗含贫女劳作之悲"
+  },
+  {
+   "word": "嫁衣裳",
+   "name": "衣裳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "为他人作嫁衣，喻贫女为人辛苦而不得其果"
+  }
+ ]
+}

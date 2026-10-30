@@ -1,0 +1,182 @@
+{
+ "id": 198,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "燕台",
+   "name": "燕台",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明登临之地，引出边塞视野"
+  },
+  {
+   "word": "笳",
+   "name": "笳",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边地军乐，渲染军营喧腾气氛"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战鼓声，烘托汉将营的军威"
+  },
+  {
+   "word": "汉将营",
+   "name": "营",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借汉指唐，写边塞军营气象"
+  },
+  {
+   "word": "积雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "万里寒光由积雪而生，写边塞苦寒"
+  },
+  {
+   "word": "三边",
+   "name": "三边",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "泛指边疆，点出地域辽阔"
+  },
+  {
+   "word": "曙色",
+   "name": "曙色",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "黎明之光映动旌旗，写清晨军容"
+  },
+  {
+   "word": "危旌",
+   "name": "旌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高悬的旌旗在曙色中飘动，显军阵威严"
+  },
+  {
+   "word": "沙场",
+   "name": "沙场",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战场，点出边塞征战之地"
+  },
+  {
+   "word": "烽火",
+   "name": "烽火",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞报警之火，渲染战争紧张气氛"
+  },
+  {
+   "word": "胡月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "胡地之月，与烽火相映，写边塞夜景"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "渤海之滨，写蓟城依山傍海之势"
+  },
+  {
+   "word": "云山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云雾缭绕的山峦环拥蓟城，写形胜"
+  },
+  {
+   "word": "蓟城",
+   "name": "蓟城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞重镇，全诗眺望的落脚点"
+  },
+  {
+   "word": "投笔吏",
+   "name": "班超",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "用班超投笔从戎典，自谦非其人"
+  },
+  {
+   "word": "长缨",
+   "name": "长缨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "用终军请缨典，表达报国立功之志"
+  }
+ ]
+}

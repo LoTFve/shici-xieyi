@@ -1,0 +1,105 @@
+{
+ "id": 64,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "金陵",
+   "name": "金陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明渡口所在，寄寓客愁"
+  },
+  {
+   "word": "津渡",
+   "name": "渡口",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "交代夜宿的渡口环境"
+  },
+  {
+   "word": "小山楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "行人夜宿之处，登楼望江"
+  },
+  {
+   "word": "行人",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指诗人自己，客中独宿生愁"
+  },
+  {
+   "word": "潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜江落潮，渲染寂寥氛围"
+  },
+  {
+   "word": "夜江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜色中的长江，衬托斜月星火"
+  },
+  {
+   "word": "斜月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "斜月映江，点出夜深人静"
+  },
+  {
+   "word": "星火",
+   "name": "灯火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "远处瓜州的几点灯火，遥望生情"
+  },
+  {
+   "word": "瓜州",
+   "name": "瓜州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "对岸灯火所在，寄托羁旅之思"
+  }
+ ]
+}

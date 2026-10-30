@@ -1,0 +1,160 @@
+{
+ "id": 222,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "暮",
+   "name": "暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "点明下山时辰，暮色笼罩"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "终南山的层叠山影"
+  },
+  {
+   "word": "山月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "月随人归，写出夜行相伴的亲切"
+  },
+  {
+   "word": "径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回望下山的小路，引出苍苍翠微"
+  },
+  {
+   "word": "翠微",
+   "name": "山色",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "暮色中苍翠的山色横亘眼前"
+  },
+  {
+   "word": "田家",
+   "name": "田家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "友人斛斯山人的山居农舍"
+  },
+  {
+   "word": "童稚",
+   "name": "童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "孩子开门迎客，显出田家亲切"
+  },
+  {
+   "word": "荆扉",
+   "name": "柴门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "柴门开启，营造质朴的山居氛围"
+  },
+  {
+   "word": "绿竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹丛掩映幽径，写山居清幽"
+  },
+  {
+   "word": "幽径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹林中的僻静小路"
+  },
+  {
+   "word": "青萝",
+   "name": "藤萝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "藤蔓拂衣，写出山径的野趣"
+  },
+  {
+   "word": "美酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与友人共挥美酒，欢饮尽兴"
+  },
+  {
+   "word": "松风",
+   "name": "松风",
+   "category": "声音",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "长歌声与松间风声相和"
+  },
+  {
+   "word": "河星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "银河星稀，暗示夜已深沉"
+  }
+ ]
+}

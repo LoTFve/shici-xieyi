@@ -1,0 +1,116 @@
+{
+ "id": 142,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "角",
+   "name": "角",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "军中号角声，渲染边塞秋景的肃杀"
+  },
+  {
+   "word": "清秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "点明季节，烘托边地凄凉氛围"
+  },
+  {
+   "word": "征人",
+   "name": "征人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "戍边将士，诗中抒情主体"
+  },
+  {
+   "word": "戍楼",
+   "name": "戍楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "征人倚靠的边防城楼，点明边塞环境"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象昭君冢上春风，与眼前秋景对照"
+  },
+  {
+   "word": "青冢",
+   "name": "青冢",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借昭君墓典故，暗含和亲的历史沧桑"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "落日景象，烘托梁州边地的苍茫"
+  },
+  {
+   "word": "梁州",
+   "name": "梁州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞地名，与青冢对举，展现辽阔疆域"
+  },
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人自指，游历边地的旅人"
+  },
+  {
+   "word": "此水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以水喻蕃情，表达民族和睦的愿望"
+  }
+ ]
+}

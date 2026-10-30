@@ -1,0 +1,171 @@
+{
+ "id": 164,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洞门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "宫门高阁在余辉中，点出官署的深重气象"
+  },
+  {
+   "word": "高阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "高耸的楼阁沐浴余辉，勾勒宫禁轮廓"
+  },
+  {
+   "word": "余辉",
+   "name": "余晖",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "夕阳余光洒在门阁上，渲染傍晚氛围"
+  },
+  {
+   "word": "桃李",
+   "name": "桃李",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "桃李成荫，写出禁中春日生机"
+  },
+  {
+   "word": "柳絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "柳絮纷飞，点明暮春时节"
+  },
+  {
+   "word": "禁里",
+   "name": "宫禁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指宫禁官署，交代钟声来处"
+  },
+  {
+   "word": "疏钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "稀疏钟声传出官舍，以声衬静"
+  },
+  {
+   "word": "官舍",
+   "name": "官舍",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明傍晚时分官署所在的场景"
+  },
+  {
+   "word": "省中",
+   "name": "省中",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指官署，交代啼鸟吏人稀少之处"
+  },
+  {
+   "word": "啼鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "鸟鸣反衬官舍清幽、吏人稀少"
+  },
+  {
+   "word": "玉佩",
+   "name": "玉佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "晨间佩玉作响，写官员趋朝情景"
+  },
+  {
+   "word": "金殿",
+   "name": "宫殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "金殿点出早朝场所，气象庄严"
+  },
+  {
+   "word": "天书",
+   "name": "诏书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "借指天子诏书，写夕时拜受君命"
+  },
+  {
+   "word": "琐闱",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "借指宫门，写傍晚退朝拜谒之所"
+  },
+  {
+   "word": "朝衣",
+   "name": "朝服",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指官职，写因老病欲辞官归隐"
+  }
+ ]
+}

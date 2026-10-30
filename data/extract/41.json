@@ -1,0 +1,94 @@
+{
+ "id": 41,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "回乐烽",
+   "name": "烽燧",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明边塞地点，烽火台矗立沙原"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "沙白如雪，写边地荒寒"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雪喻沙，强化月下沙原的洁白寒凉"
+  },
+  {
+   "word": "受降城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "边塞城名，交代闻笛的环境"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "月色如霜，触发行役之人的乡愁"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以霜喻月光，写夜寒与心寒"
+  },
+  {
+   "word": "芦管",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "不知何人所吹的笛声，是全诗情感的触媒"
+  },
+  {
+   "word": "征人",
+   "name": "征人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "戍边将士，尽望乡三字写尽集体乡愁"
+  }
+ ]
+}

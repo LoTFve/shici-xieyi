@@ -1,0 +1,50 @@
+{
+ "id": 304,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "瞿塘",
+   "name": "瞿塘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "丈夫经商的险要江峡，暗示聚少离多"
+  },
+  {
+   "word": "妾",
+   "name": "妾",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "自述口吻的商妇"
+  },
+  {
+   "word": "潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以潮水有信反衬丈夫无信"
+  },
+  {
+   "word": "弄潮儿",
+   "name": "弄潮儿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与潮信相伴、可托终身的江上健儿"
+  }
+ ]
+}

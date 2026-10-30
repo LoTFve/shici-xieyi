@@ -1,0 +1,72 @@
+{
+ "id": 161,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "落叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "贫苦时拾落叶作柴，见生活艰辛"
+  },
+  {
+   "word": "古槐",
+   "name": "槐",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "老槐树，贫居环境中添薪所依"
+  },
+  {
+   "word": "金钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "妻子拔钗换酒，写其贤惠与贫贱相守"
+  },
+  {
+   "word": "野蔬",
+   "name": "野菜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以野菜充膳，见安贫之态"
+  },
+  {
+   "word": "荩箧",
+   "name": "箱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "翻箱倒柜为诗人搜衣，写妻子体贴"
+  },
+  {
+   "word": "俸钱",
+   "name": "钱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "今富贵而妻已亡，奠祭徒增悲凉"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 128,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "丘",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人想隐居的山丘"
+  },
+  {
+   "word": "三径",
+   "name": "小径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指隐居生活，苦于无钱营建"
+  },
+  {
+   "word": "北土",
+   "name": "北地",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指诗人所在的秦中，非心愿所向"
+  },
+  {
+   "word": "东林",
+   "name": "东林寺",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指远上人所在的庐山佛寺"
+  },
+  {
+   "word": "师",
+   "name": "僧人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "怀念的远上人"
+  },
+  {
+   "word": "黄金",
+   "name": "黄金",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻钱财，燃桂言物价昂贵"
+  },
+  {
+   "word": "桂",
+   "name": "桂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "燃桂喻柴薪昂贵，生活困窘"
+  },
+  {
+   "word": "日夕",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "傍晚时分，渲染凄凉"
+  },
+  {
+   "word": "凉风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风吹来，添人悲意"
+  },
+  {
+   "word": "蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝉鸣凄切，益增悲秋之感"
+  }
+ ]
+}

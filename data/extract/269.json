@@ -1,0 +1,292 @@
+{
+ "id": 269,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "岳阳",
+   "name": "岳阳",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人病中思念之地"
+  },
+  {
+   "word": "秋水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "阻隔美人的水面"
+  },
+  {
+   "word": "洞庭",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "美人濯足之所"
+  },
+  {
+   "word": "鸿",
+   "name": "鸿雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "高飞远逝，暗喻友人"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高空光明，映衬鸿飞天宇"
+  },
+  {
+   "word": "青枫",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "叶赤霜降，渲染秋寒"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "天雨霜，写秋气肃杀"
+  },
+  {
+   "word": "玉京",
+   "name": "玉京",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "道教天帝所居，想象天界"
+  },
+  {
+   "word": "北斗",
+   "name": "北斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "群帝聚集之星宫"
+  },
+  {
+   "word": "麒麟",
+   "name": "麒麟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙人坐骑，天界仪仗"
+  },
+  {
+   "word": "凤凰",
+   "name": "凤凰",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙人坐骑，天界仪仗"
+  },
+  {
+   "word": "芙蓉",
+   "name": "芙蓉",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "旌旗如芙蓉，形容天界仪仗"
+  },
+  {
+   "word": "旌旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天界群帝仪仗"
+  },
+  {
+   "word": "烟雾",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旌旗隐现烟雾之中"
+  },
+  {
+   "word": "潇湘",
+   "name": "潇湘",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "倒影摇荡之处，暗含离别愁思"
+  },
+  {
+   "word": "星宫",
+   "name": "星宫",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "天上仙宫"
+  },
+  {
+   "word": "琼浆",
+   "name": "琼浆",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "星宫之君所饮仙酒"
+  },
+  {
+   "word": "羽人",
+   "name": "羽人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙人，缺席不在旁"
+  },
+  {
+   "word": "赤松子",
+   "name": "赤松子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙人，借喻韩谏议"
+  },
+  {
+   "word": "张良",
+   "name": "张良",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "汉代功臣，比韩谏议"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "汉代定都之地，指朝廷功业"
+  },
+  {
+   "word": "帷幄",
+   "name": "帷幄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指运筹决策的谋臣之位"
+  },
+  {
+   "word": "枫香",
+   "name": "枫香",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "餐枫香，喻高洁自守"
+  },
+  {
+   "word": "周南",
+   "name": "周南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用典指留滞不得志"
+  },
+  {
+   "word": "南极老人",
+   "name": "老人星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "借指寿昌，祝韩谏议长寿"
+  },
+  {
+   "word": "玉堂",
+   "name": "玉堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指朝廷翰林之位"
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "id": 291,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "大道",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以宽阔道路比喻人生仕途"
+  },
+  {
+   "word": "青天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以青天比喻大道之广阔"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指代京城中市井子弟"
+  },
+  {
+   "word": "赤鸡",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "斗鸡赌博用的红鸡"
+  },
+  {
+   "word": "白雉",
+   "name": "雉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "斗雉赌博用的白雉"
+  },
+  {
+   "word": "剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "弹剑作歌抒不平"
+  },
+  {
+   "word": "王门",
+   "name": "王门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "权贵之门，曳裾其中不称情"
+  },
+  {
+   "word": "淮阴市井",
+   "name": "市井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用韩信典故，指市井之徒嘲笑"
+  },
+  {
+   "word": "韩信",
+   "name": "韩信",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借韩信受辱于市井的典故"
+  },
+  {
+   "word": "贾生",
+   "name": "贾生",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借贾谊被公卿忌恨的典故"
+  },
+  {
+   "word": "郭隗",
+   "name": "郭隗",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕昭王礼遇郭隗的典故"
+  },
+  {
+   "word": "拥篲",
+   "name": "拥篲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "持帚清道，表示礼贤下士"
+  },
+  {
+   "word": "剧辛",
+   "name": "剧辛",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕国名将，受昭王感召"
+  },
+  {
+   "word": "乐毅",
+   "name": "乐毅",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕国名将，受昭王感召"
+  },
+  {
+   "word": "昭王",
+   "name": "昭王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕昭王，曾筑黄金台招贤"
+  },
+  {
+   "word": "白骨",
+   "name": "白骨",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "昭王已死，白骨萦绕蔓草"
+  },
+  {
+   "word": "蔓草",
+   "name": "蔓草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "荒坟上蔓延的野草"
+  },
+  {
+   "word": "黄金台",
+   "name": "金台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "燕昭王招贤的黄金台，今无人更扫"
+  },
+  {
+   "word": "行路难",
+   "name": "行路难",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "反复咏叹行路艰难"
+  }
+ ]
+}

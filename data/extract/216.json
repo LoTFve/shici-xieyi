@@ -1,0 +1,171 @@
+{
+ "id": 216,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "点明傍晚时分，为田园归景定下暖色基调"
+  },
+  {
+   "word": "墟落",
+   "name": "村落",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "夕阳映照下的村庄，是整幅田园画面的背景"
+  },
+  {
+   "word": "穷巷",
+   "name": "巷",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "深巷是牛羊归来的路径，衬出乡村的幽静"
+  },
+  {
+   "word": "牛羊",
+   "name": "牛羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "傍晚归家的牲畜，体现田园生活的自然节奏"
+  },
+  {
+   "word": "野老",
+   "name": "老农",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "倚杖等候牧童的老人，写出农家亲情的温暖"
+  },
+  {
+   "word": "牧童",
+   "name": "牧童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "被老人牵挂的放牧孩子，是田园生活的一环"
+  },
+  {
+   "word": "杖",
+   "name": "杖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "老人倚杖而立，显出年迈与安闲"
+  },
+  {
+   "word": "荆扉",
+   "name": "柴门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "简陋的柴门，点出农家质朴的生活环境"
+  },
+  {
+   "word": "雉雊",
+   "name": "野鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "野鸡鸣叫，以声音写出田野的生机"
+  },
+  {
+   "word": "麦苗",
+   "name": "麦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "麦苗吐穗，是春日田园的典型景物"
+  },
+  {
+   "word": "蚕眠",
+   "name": "蚕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "蚕眠表示农事正忙，写出田家的劳作生活"
+  },
+  {
+   "word": "桑叶",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "桑叶被采得稀疏，侧面写出养蚕的忙碌"
+  },
+  {
+   "word": "田夫",
+   "name": "农夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "荷锄归来的农夫，与牛羊一同归家"
+  },
+  {
+   "word": "锄",
+   "name": "锄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "农夫肩上的农具，点明耕作归来的身份"
+  },
+  {
+   "word": "式微",
+   "name": "式微",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借《诗经·式微》典故，寄托诗人归隐的怅惘"
+  }
+ ]
+}

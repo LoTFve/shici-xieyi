@@ -1,0 +1,61 @@
+{
+ "id": 8,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山中",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "送别发生的幽静山林背景"
+  },
+  {
+   "word": "日暮",
+   "name": "日暮",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "点明送别归来的黄昏时分，烘托寂寥"
+  },
+  {
+   "word": "柴扉",
+   "name": "柴门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山中居所的简朴门扉，掩门见独居之寂"
+  },
+  {
+   "word": "春草",
+   "name": "草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象明年春草再绿，以草木反衬归期未定"
+  },
+  {
+   "word": "王孙",
+   "name": "王孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指所送的友人，寄托盼归之情"
+  }
+ ]
+}

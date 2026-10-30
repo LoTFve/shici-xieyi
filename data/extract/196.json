@@ -1,0 +1,182 @@
+{
+ "id": 196,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春日报新的啼鸟，反衬离思"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "燕语报春，与莺啼同写新年景象"
+  },
+  {
+   "word": "马邑",
+   "name": "马邑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "边塞地名，指征人远戍之路"
+  },
+  {
+   "word": "龙堆",
+   "name": "龙堆",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "塞外荒漠地名，极言路远"
+  },
+  {
+   "word": "层城",
+   "name": "层城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "思妇所居的高城宅第"
+  },
+  {
+   "word": "汉苑",
+   "name": "汉苑",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉苑指京都园林，点明家居所在"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "心随明月到胡天，月寄相思"
+  },
+  {
+   "word": "胡天",
+   "name": "胡天",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指征人所在的北方边地"
+  },
+  {
+   "word": "机",
+   "name": "机",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "织机，思妇织锦寄情之具"
+  },
+  {
+   "word": "锦字",
+   "name": "锦字",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用苏蕙织锦回文典，写长恨"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "思妇独眠之所"
+  },
+  {
+   "word": "花枝",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花枝笑独眠，以乐景反衬孤寂"
+  },
+  {
+   "word": "元戎",
+   "name": "元戎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指主帅窦车骑，盼望其早日班师"
+  },
+  {
+   "word": "窦车骑",
+   "name": "窦宪",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "用窦宪破匈奴勒石燕然典，借指边将"
+  },
+  {
+   "word": "旆",
+   "name": "旆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "旌旗，返旆即班师回朝"
+  },
+  {
+   "word": "燕然",
+   "name": "燕然",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "燕然山，勒石纪功之地，盼望平定边患"
+  }
+ ]
+}

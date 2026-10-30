@@ -1,0 +1,105 @@
+{
+ "id": 244,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "孤鸿",
+   "name": "鸿雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "自比孤高远避之鸿雁，全诗主象"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "孤鸿飞来的辽阔背景"
+  },
+  {
+   "word": "池潢",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小水塘，反衬孤鸿不屑栖止"
+  },
+  {
+   "word": "翠鸟",
+   "name": "翠鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻指得势一时的权贵小人"
+  },
+  {
+   "word": "三珠树",
+   "name": "珠树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神话中的珍木，喻权贵高位"
+  },
+  {
+   "word": "珍木",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "翠鸟所巢的珍贵树木"
+  },
+  {
+   "word": "金丸",
+   "name": "弹丸",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻指加害高显者的祸患"
+  },
+  {
+   "word": "美服",
+   "name": "华服",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻才华外露易招人指摘"
+  },
+  {
+   "word": "弋者",
+   "name": "猎人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "射鸟之人，反衬鸿雁高飞远祸"
+  }
+ ]
+}

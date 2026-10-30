@@ -1,0 +1,248 @@
+{
+ "id": 274,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山石",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "题名意象，点明荦确山径的艰险"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "交代到寺时分，渲染幽暗氛围"
+  },
+  {
+   "word": "寺",
+   "name": "寺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人夜宿之处，全诗游踪的落脚点"
+  },
+  {
+   "word": "蝙蝠",
+   "name": "蝙蝠",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "黄昏飞绕，烘托山寺荒僻幽暗"
+  },
+  {
+   "word": "新雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "雨后草木滋润，引出芭蕉栀子之肥"
+  },
+  {
+   "word": "芭蕉",
+   "name": "芭蕉",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "叶大肥硕，写寺中雨后生机"
+  },
+  {
+   "word": "栀子",
+   "name": "栀子",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与芭蕉并写，见雨后山寺草木丰茂"
+  },
+  {
+   "word": "古壁",
+   "name": "壁",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "寺中古壁佛画所在，引出举火照看"
+  },
+  {
+   "word": "火",
+   "name": "火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "举火照壁，见佛画依稀，写寺中夜趣"
+  },
+  {
+   "word": "百虫",
+   "name": "虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜深虫声绝迹，反衬山寺寂静"
+  },
+  {
+   "word": "清月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "出岭入户，写夜宿山寺的清幽"
+  },
+  {
+   "word": "岭",
+   "name": "岭",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "月出之岭，为月光入户的背景"
+  },
+  {
+   "word": "扉",
+   "name": "门",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月光入扉，写山寺夜居之静"
+  },
+  {
+   "word": "道路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "天明独去而无路，见山行之荒莽"
+  },
+  {
+   "word": "烟霏",
+   "name": "烟雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "出入高下穷尽烟霏，写晨行山间云雾"
+  },
+  {
+   "word": "山红",
+   "name": "山花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "山花红艳，与涧碧相映，写山色烂漫"
+  },
+  {
+   "word": "涧碧",
+   "name": "涧水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "涧水碧绿，与山红纷纭烂漫"
+  },
+  {
+   "word": "松枥",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "松枥十围，写山中古木苍莽"
+  },
+  {
+   "word": "涧石",
+   "name": "石",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赤足踏涧石，写山行之乐"
+  },
+  {
+   "word": "水声",
+   "name": "水声",
+   "category": "声音",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "激激水声与风吹衣并写，声色相衬"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "风吹衣袂，助写山行畅快"
+  },
+  {
+   "word": "吾党",
+   "name": "友人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "呼唤同游二三子，收束全诗归隐之愿"
+  }
+ ]
+}

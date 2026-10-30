@@ -1,0 +1,281 @@
+{
+ "id": 261,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "产竹之地，引出觱篥"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "制觱篥的材料"
+  },
+  {
+   "word": "龟兹",
+   "name": "龟兹",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乐曲发源地"
+  },
+  {
+   "word": "汉地",
+   "name": "汉地",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乐曲流传之地"
+  },
+  {
+   "word": "凉州",
+   "name": "凉州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "胡人籍贯"
+  },
+  {
+   "word": "胡人",
+   "name": "胡人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "吹奏者"
+  },
+  {
+   "word": "远客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "听曲落泪的游子"
+  },
+  {
+   "word": "长飙",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "形容乐声如狂风"
+  },
+  {
+   "word": "枯桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以枯桑寒声比乐"
+  },
+  {
+   "word": "老柏",
+   "name": "柏",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "与枯桑共构寒飒之境"
+  },
+  {
+   "word": "鸣凤",
+   "name": "凤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以凤鸣喻乐声清越"
+  },
+  {
+   "word": "龙",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "龙吟喻乐声雄浑"
+  },
+  {
+   "word": "虎",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "虎啸喻乐声威猛"
+  },
+  {
+   "word": "万籁",
+   "name": "万籁",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "众声与乐声相和"
+  },
+  {
+   "word": "百泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "泉声秋意衬乐"
+  },
+  {
+   "word": "渔阳掺",
+   "name": "渔阳掺",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "悲壮",
+   "note": "鼓曲名，喻变调悲壮"
+  },
+  {
+   "word": "黄云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "苍凉",
+   "note": "萧条之景"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "白日暗，写乐声之悲"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指《折杨柳》曲，表春意"
+  },
+  {
+   "word": "上林",
+   "name": "上林",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "上林苑，喻繁华"
+  },
+  {
+   "word": "繁花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "照眼新，写乐声转欢"
+  },
+  {
+   "word": "岁夜",
+   "name": "岁夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "无",
+   "note": "除夕之夜"
+  },
+  {
+   "word": "高堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "宴饮场所"
+  },
+  {
+   "word": "明烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜宴灯火"
+  },
+  {
+   "word": "美酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "宴饮助兴"
+  }
+ ]
+}

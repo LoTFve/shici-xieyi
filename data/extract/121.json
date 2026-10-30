@@ -1,0 +1,127 @@
+{
+ "id": 121,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云霞",
+   "name": "霞",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "海上日出时的云霞，点出早春清晨的绚烂"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "云霞从海面升起，勾勒出辽阔背景"
+  },
+  {
+   "word": "曙",
+   "name": "曙",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "曙光初现，点明早春清晨时分"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "早春梅花开放，与柳共同传递春讯"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳色渡江而来，写江南春意萌动"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梅柳春色渡江而至，暗含南北春讯"
+  },
+  {
+   "word": "黄鸟",
+   "name": "黄鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春气催促黄鸟啼鸣，写出早春生机"
+  },
+  {
+   "word": "晴光",
+   "name": "晴光",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "晴日光照使绿苹摇曳生姿"
+  },
+  {
+   "word": "绿苹",
+   "name": "苹",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边绿苹在晴光中转动，展现春水生机"
+  },
+  {
+   "word": "古调",
+   "name": "古调",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "听到陆丞所歌古诗调，触发归乡之思"
+  },
+  {
+   "word": "巾",
+   "name": "巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "归思之泪欲沾湿巾帕，写宦游人的感伤"
+  }
+ ]
+}

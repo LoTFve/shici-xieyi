@@ -1,0 +1,105 @@
+{
+ "id": 117,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山河",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以山河依旧反衬国破之痛"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明地点，与破败国都相对照"
+  },
+  {
+   "word": "草木",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以春草荒深渲染城池荒芜"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花本可娱人，此时却溅泪，移情于景"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸟鸣本可悦耳，此时却惊心，反衬离恨"
+  },
+  {
+   "word": "烽火",
+   "name": "烽火",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指战事连绵，点明时代背景"
+  },
+  {
+   "word": "家书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "家书抵万金，极言音信之珍贵与思亲之切"
+  },
+  {
+   "word": "白头",
+   "name": "白头",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人自指，白发因忧国思家而更短"
+  },
+  {
+   "word": "簪",
+   "name": "簪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以发不胜簪写衰老与愁苦之深"
+  }
+ ]
+}

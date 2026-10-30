@@ -1,0 +1,127 @@
+{
+ "id": 88,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "寒山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "秋日山色苍翠，构成闲居背景"
+  },
+  {
+   "word": "秋水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "潺潺秋水，写闲居环境的清幽"
+  },
+  {
+   "word": "柴门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人倚杖所倚之处，见隐居之朴"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "无",
+   "note": "临风听蝉，写出傍晚的凉意与闲适"
+  },
+  {
+   "word": "暮蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮色中的蝉声，点出秋日傍晚的萧瑟"
+  },
+  {
+   "word": "渡头",
+   "name": "渡口",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "落日所余之处，构出远景的渡口"
+  },
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "渡头落日，渲染傍晚的苍茫与宁静"
+  },
+  {
+   "word": "墟里",
+   "name": "村落",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "孤烟升起之处，见村落的静谧"
+  },
+  {
+   "word": "孤烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "墟里孤烟直上，以孤字写闲居的幽寂"
+  },
+  {
+   "word": "接舆",
+   "name": "接舆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "以楚狂接舆比裴迪，写其醉后狂放"
+  },
+  {
+   "word": "五柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借陶渊明五柳先生自况，点出隐逸之趣"
+  }
+ ]
+}

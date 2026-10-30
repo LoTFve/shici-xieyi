@@ -1,0 +1,72 @@
+{
+ "id": 38,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "故园",
+   "name": "故园",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "东望所向的故乡，寄托思念"
+  },
+  {
+   "word": "路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "漫长旅途，写离家之远"
+  },
+  {
+   "word": "袖",
+   "name": "袖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "双袖沾湿，写泪流不止"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "马上相逢的坐骑，点出行旅之中"
+  },
+  {
+   "word": "纸",
+   "name": "纸",
+   "category": "器物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "无纸笔，说明传语的缘由"
+  },
+  {
+   "word": "笔",
+   "name": "笔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与纸并列，强调匆匆无暇书写"
+  }
+ ]
+}

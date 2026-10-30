@@ -1,0 +1,28 @@
+{
+ "id": 71,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "儿童",
+   "name": "儿童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "天真笑问的孩童，与归客形成反差"
+  },
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "儿童口中的“客”实指诗人自己，暗含久客之感"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 232,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "点明时间，日暮西山，引出山中夜幕"
+  },
+  {
+   "word": "西岭",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "夕阳落下的山岭，交代山居环境"
+  },
+  {
+   "word": "群壑",
+   "name": "山谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "群山沟壑，暮色中转为昏暗"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "松下月色，渲染山夜清幽"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "松间明月生出夜凉，烘托等待的清寂"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "清幽",
+   "note": "风送泉声，写山中夜间的清听"
+  },
+  {
+   "word": "泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "泉水声满耳，以声写静"
+  },
+  {
+   "word": "樵人",
+   "name": "樵夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "归家的樵夫，反衬友人未至"
+  },
+  {
+   "word": "烟鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "暮烟中归巢的鸟，写日暮栖止"
+  },
+  {
+   "word": "孤琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "独自抚琴候友，点出孤候之情"
+  },
+  {
+   "word": "萝径",
+   "name": "萝径",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "藤萝掩映的小径，友人所期来处"
+  }
+ ]
+}

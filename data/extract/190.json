@@ -1,0 +1,138 @@
+{
+ "id": 190,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "渲染秋日萧瑟高远的气氛"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与风急相对，写秋空高远"
+  },
+  {
+   "word": "猿",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "猿啸哀鸣，烘托悲秋氛围"
+  },
+  {
+   "word": "渚",
+   "name": "渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "水中小洲，与清沙白鸟构成秋景"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "飞鸟回旋，反衬诗人漂泊无依"
+  },
+  {
+   "word": "落木",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "无边落叶萧萧而下，写秋之凋零"
+  },
+  {
+   "word": "长江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "滚滚不尽，以江水之无穷对比人生之短促"
+  },
+  {
+   "word": "秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明悲秋之时令"
+  },
+  {
+   "word": "台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登高之处，独登台见其孤独"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "繁霜鬓，以霜喻白发，写年老愁苦"
+  },
+  {
+   "word": "浊酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "新停浊酒杯，写潦倒不能借酒消愁"
+  },
+  {
+   "word": "杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "酒杯，与浊酒相连，写停饮之无奈"
+  }
+ ]
+}

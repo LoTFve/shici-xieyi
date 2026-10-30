@@ -1,0 +1,226 @@
+{
+ "id": 169,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸡鸣",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "以鸡鸣点出早朝时辰"
+  },
+  {
+   "word": "紫陌",
+   "name": "道路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "京城的道路，衬托早朝气象"
+  },
+  {
+   "word": "曙光",
+   "name": "曙光",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明清晨时分"
+  },
+  {
+   "word": "莺啭",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以莺啼写皇州春色"
+  },
+  {
+   "word": "皇州",
+   "name": "京城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指帝都长安"
+  },
+  {
+   "word": "春色",
+   "name": "春色",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明早朝时的季节"
+  },
+  {
+   "word": "金阙",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指皇宫，显示早朝地点"
+  },
+  {
+   "word": "晓钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "晨钟开启宫门，点明早朝"
+  },
+  {
+   "word": "万户",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "形容宫门重重开启的盛况"
+  },
+  {
+   "word": "玉阶",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "宫殿前的台阶，显示皇家气派"
+  },
+  {
+   "word": "仙仗",
+   "name": "仪仗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "皇帝的仪仗队"
+  },
+  {
+   "word": "千官",
+   "name": "官员",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容百官上朝的盛况"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春花迎接剑佩，增添早朝色彩"
+  },
+  {
+   "word": "剑珮",
+   "name": "佩剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "官员的佩剑和玉佩，代指官员"
+  },
+  {
+   "word": "星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "晨星初落，点明时间之早"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳枝拂过旌旗，写春景"
+  },
+  {
+   "word": "旌旗",
+   "name": "旗帜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "仪仗中的旗帜"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "露水未干，点明清晨"
+  },
+  {
+   "word": "凤凰池",
+   "name": "凤凰池",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指中书省，贾至所在官署"
+  },
+  {
+   "word": "阳春",
+   "name": "阳春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "用《阳春白雪》典故，赞美贾至诗作"
+  }
+ ]
+}

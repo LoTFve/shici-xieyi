@@ -1,0 +1,127 @@
+{
+ "id": 202,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "仙人乘去之鹤，引出今昔之叹"
+  },
+  {
+   "word": "黄鹤楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人登临之地，空留楼名"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "千载悠悠，衬托人去楼空"
+  },
+  {
+   "word": "晴川",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "晴日江面，视野开阔"
+  },
+  {
+   "word": "汉阳树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "历历可辨的岸边林木"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "萋萋芳草，暗生愁绪"
+  },
+  {
+   "word": "鹦鹉洲",
+   "name": "洲",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "江中洲名，含祢衡作赋典故"
+  },
+  {
+   "word": "日暮",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "日暮时分，触发乡愁"
+  },
+  {
+   "word": "乡关",
+   "name": "故乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "望而不可见的归处"
+  },
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "江上雾气迷蒙，愁绪弥漫"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "烟波所自，愁绪所依"
+  }
+ ]
+}

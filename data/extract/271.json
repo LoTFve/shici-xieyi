@@ -1,0 +1,160 @@
+{
+ "id": 271,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "渔翁",
+   "name": "渔翁",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "诗的主人公，夜宿西岩的隐者"
+  },
+  {
+   "word": "西岩",
+   "name": "岩",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "渔翁夜宿的西山崖壁"
+  },
+  {
+   "word": "晓",
+   "name": "晓",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明清晨汲水的时辰"
+  },
+  {
+   "word": "清湘",
+   "name": "湘水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "清晨汲水的清澈江水"
+  },
+  {
+   "word": "楚竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燃烧作炊的楚地竹子"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "清晨江面消散的雾气"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "烟消后升起的朝阳"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "日出后不见渔翁踪影，写其飘然隐去"
+  },
+  {
+   "word": "欸乃",
+   "name": "欸乃",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "一声橹桨渔歌，打破清晨的寂静"
+  },
+  {
+   "word": "山水",
+   "name": "山水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "橹声过后愈显青绿的自然景色"
+  },
+  {
+   "word": "天际",
+   "name": "天际",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "渔翁回望的辽远天边"
+  },
+  {
+   "word": "中流",
+   "name": "中流",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小舟顺流而下的江心"
+  },
+  {
+   "word": "岩",
+   "name": "岩",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回望时崖岩依旧，与云相映"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "岩上无心舒卷的白云，喻渔翁的自在"
+  }
+ ]
+}

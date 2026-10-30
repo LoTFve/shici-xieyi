@@ -1,0 +1,72 @@
+{
+ "id": 168,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "五地亲人共望之月，寄托乡愁"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以孤雁分飞比喻兄弟离散"
+  },
+  {
+   "word": "蓬",
+   "name": "蓬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以秋蓬辞根比喻漂泊无定的兄弟"
+  },
+  {
+   "word": "道路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "骨肉流离奔走之途"
+  },
+  {
+   "word": "干戈",
+   "name": "干戈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指战乱，点明田园荒废之因"
+  },
+  {
+   "word": "田园",
+   "name": "田园",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "荒废的故园，牵动乡思"
+  }
+ ]
+}

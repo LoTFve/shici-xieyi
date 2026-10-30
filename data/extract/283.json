@@ -1,0 +1,61 @@
+{
+ "id": 283,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "桂魄",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以月出点明秋夜初临，清冷月色笼罩全诗"
+  },
+  {
+   "word": "秋露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "微露暗写夜深寒生，衬托女子独处之凉意"
+  },
+  {
+   "word": "轻罗",
+   "name": "罗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "轻薄罗衣写女子装束，见秋寒而不更衣，暗示心绪"
+  },
+  {
+   "word": "银筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜久弹筝是排遣寂寞的动作，为全诗声情所寄"
+  },
+  {
+   "word": "空房",
+   "name": "空房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点出独守空闺的处境，是“心怯”与“不忍归”的缘由"
+  }
+ ]
+}

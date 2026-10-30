@@ -1,0 +1,83 @@
+{
+ "id": 54,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明漂泊之地，水乡背景"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "载酒行，写落魄中的放浪"
+  },
+  {
+   "word": "楚腰",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借细腰美人指扬州歌妓"
+  },
+  {
+   "word": "掌中",
+   "name": "舞女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用飞燕掌中舞典，写歌女体态轻盈"
+  },
+  {
+   "word": "扬州",
+   "name": "扬州",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "十年繁华梦的发生地"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "把十年扬州生活比作一场大梦"
+  },
+  {
+   "word": "青楼",
+   "name": "青楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指歌楼妓馆，点出薄幸之名"
+  }
+ ]
+}

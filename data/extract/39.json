@@ -1,0 +1,105 @@
+{
+ "id": 39,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "故人",
+   "name": "故人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "送别对象孟浩然"
+  },
+  {
+   "word": "黄鹤楼",
+   "name": "黄鹤楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "送别地点，名楼"
+  },
+  {
+   "word": "烟花",
+   "name": "烟花",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "三月繁花如烟的美景"
+  },
+  {
+   "word": "扬州",
+   "name": "扬州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "友人将去的繁华之地"
+  },
+  {
+   "word": "孤帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远去的友人之船"
+  },
+  {
+   "word": "远影",
+   "name": "影",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "帆影渐远渐淡"
+  },
+  {
+   "word": "碧空",
+   "name": "碧空",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "帆影消尽的辽阔天空"
+  },
+  {
+   "word": "长江",
+   "name": "长江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天际奔流的大江"
+  },
+  {
+   "word": "天际",
+   "name": "天际",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "水天相接的远方"
+  }
+ ]
+}

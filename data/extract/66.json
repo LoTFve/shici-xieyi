@@ -1,0 +1,72 @@
+{
+ "id": 66,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "日光",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "斜照集灵台的晨光，点明时间与场景"
+  },
+  {
+   "word": "集灵台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中的核心地点，皇家祭祀之所"
+  },
+  {
+   "word": "红树",
+   "name": "树",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "衬托晨景的红色树木"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "迎露开放，渲染春晨生机"
+  },
+  {
+   "word": "晓露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明清晨，露珠映花"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "太真入帘的遮蔽物，暗示内廷场景"
+  }
+ ]
+}

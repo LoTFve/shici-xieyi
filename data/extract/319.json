@@ -1,0 +1,72 @@
+{
+ "id": 319,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明夜黑无光，衬托雁飞之高与逃遁之隐秘"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "雁飞高既是实景，也暗示边塞肃杀与敌情"
+  },
+  {
+   "word": "单于",
+   "name": "单于",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "借指敌军首领，写其趁夜遁逃"
+  },
+  {
+   "word": "轻骑",
+   "name": "轻骑",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "写追兵的迅捷与将士的英武"
+  },
+  {
+   "word": "大雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "满弓刀之雪烘托边塞苦寒与追击的豪迈"
+  },
+  {
+   "word": "弓刀",
+   "name": "弓刀",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "落满大雪的兵器，见将士冒雪追敌的英姿"
+  }
+ ]
+}

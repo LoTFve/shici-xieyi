@@ -1,0 +1,259 @@
+{
+ "id": 276,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "渲染阴郁氛围"
+  },
+  {
+   "word": "清风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "突出天气变化"
+  },
+  {
+   "word": "众峰",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "展现衡山雄伟"
+  },
+  {
+   "word": "青空",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "衬托山峰高耸"
+  },
+  {
+   "word": "紫盖",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "衡山山峰名"
+  },
+  {
+   "word": "天柱",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "衡山山峰名"
+  },
+  {
+   "word": "石廪",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "衡山山峰名"
+  },
+  {
+   "word": "祝融",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "衡山最高峰"
+  },
+  {
+   "word": "松柏",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "通往灵宫的小径"
+  },
+  {
+   "word": "灵宫",
+   "name": "庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "衡岳庙"
+  },
+  {
+   "word": "粉墙",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "庙宇墙壁"
+  },
+  {
+   "word": "丹柱",
+   "name": "柱",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "庙宇红柱"
+  },
+  {
+   "word": "鬼物",
+   "name": "鬼",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "壁画内容"
+  },
+  {
+   "word": "脯酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭品"
+  },
+  {
+   "word": "庙令",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "管理庙宇的老人"
+  },
+  {
+   "word": "杯珓",
+   "name": "珓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占卜工具"
+  },
+  {
+   "word": "高阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "佛寺楼阁"
+  },
+  {
+   "word": "星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜空星点"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜月掩映"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "曈昽云影"
+  },
+  {
+   "word": "猿",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "猿鸣凄清"
+  },
+  {
+   "word": "钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "钟声报晓"
+  },
+  {
+   "word": "寒日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "旭日东升"
+  }
+ ]
+}

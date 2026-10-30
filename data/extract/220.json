@@ -1,0 +1,94 @@
+{
+ "id": 220,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄花川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明行踪所向的水名"
+  },
+  {
+   "word": "清溪水",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "贯穿全诗的核心景物，随山蜿蜒"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "溪水随山势千回百转的背景"
+  },
+  {
+   "word": "乱石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "水声喧哗激荡之处"
+  },
+  {
+   "word": "深松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪色在松林深处显得格外幽静"
+  },
+  {
+   "word": "菱荇",
+   "name": "菱",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水中漂浮的菱叶荇菜，漾漾可爱"
+  },
+  {
+   "word": "葭苇",
+   "name": "芦苇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "清澈溪水映照的芦苇"
+  },
+  {
+   "word": "磐石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人愿留坐垂钓的溪边大石"
+  }
+ ]
+}

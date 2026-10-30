@@ -1,0 +1,105 @@
+{
+ "id": 192,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "丞相祠堂",
+   "name": "祠堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "武侯祠，全诗凭吊的起点"
+  },
+  {
+   "word": "锦官城",
+   "name": "成都",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明祠堂所在，蜀地名城"
+  },
+  {
+   "word": "柏",
+   "name": "柏",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "森森古柏，烘托祠堂肃穆"
+  },
+  {
+   "word": "阶",
+   "name": "阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祠堂台阶，碧草映衬"
+  },
+  {
+   "word": "碧草",
+   "name": "草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "春草自绿，反衬人迹寥落"
+  },
+  {
+   "word": "叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "树叶掩映，鹂声从叶间传出"
+  },
+  {
+   "word": "黄鹂",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "好音空自婉转，徒增寂寥"
+  },
+  {
+   "word": "英雄",
+   "name": "英雄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "后世仰慕诸葛之人，包括诗人自己"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "英雄泪满襟，抒发悼惜之情"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 86,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "松风吹拂，衬托隐逸生活的清幽"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "松风解带，写隐者自在无拘"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山月相照，点出隐居环境"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "山月照弹琴，写月下抚琴的清雅"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "弹琴写隐者雅趣，与松风山月相和"
+  },
+  {
+   "word": "渔歌",
+   "name": "渔歌",
+   "category": "声音",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "渔歌入浦，以声收束，寄托归隐之志"
+  },
+  {
+   "word": "浦",
+   "name": "浦",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "渔歌入浦深，写水滨幽深之境"
+  }
+ ]
+}

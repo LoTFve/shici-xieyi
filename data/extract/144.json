@@ -1,0 +1,138 @@
+{
+ "id": 144,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "红叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "晚秋萧瑟的枫叶，点明时令与离情"
+  },
+  {
+   "word": "长亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "送别饯行之地，暗含离愁"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "长亭饯别的一瓢浊酒"
+  },
+  {
+   "word": "残云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "飘向太华山的残云，写潼关远眺之景"
+  },
+  {
+   "word": "太华",
+   "name": "华山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "西岳华山，残云归处，衬驿楼地势"
+  },
+  {
+   "word": "疏雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "飘过中条山的细雨，与残云对举成景"
+  },
+  {
+   "word": "中条",
+   "name": "中条山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄河对岸的中条山，疏雨所过之处"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "随山势绵延的树色，写山路深远"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "树色随之迥远，写潼关四望的山势"
+  },
+  {
+   "word": "河",
+   "name": "黄河",
+   "category": "水域",
+   "parent": "yellow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄河奔流入海，声闻遥远，写潼关形胜"
+  },
+  {
+   "word": "帝乡",
+   "name": "帝乡",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指京城长安，明日将赴之地"
+  },
+  {
+   "word": "渔樵",
+   "name": "渔樵",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "梦中所想的渔人樵夫，寄归隐之志"
+  }
+ ]
+}

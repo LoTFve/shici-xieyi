@@ -1,0 +1,149 @@
+{
+ "id": 182,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风尘",
+   "name": "风尘",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以战乱风尘喻安史之乱中的漂泊动荡"
+  },
+  {
+   "word": "三峡",
+   "name": "三峡",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明诗人漂泊西南的栖身之地"
+  },
+  {
+   "word": "楼台",
+   "name": "楼阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "三峡边淹留日月的居所，衬漂泊之久"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以日月流转借指岁月光阴的消磨"
+  },
+  {
+   "word": "五溪",
+   "name": "五溪",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "西南蛮荒之地，写所居之僻远"
+  },
+  {
+   "word": "衣服",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "五溪异族服饰，见风俗之殊、身世之飘零"
+  },
+  {
+   "word": "云山",
+   "name": "云山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与五溪衣服相对，写西南山川云气苍茫"
+  },
+  {
+   "word": "羯胡",
+   "name": "羯胡",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指安禄山等叛乱之胡人"
+  },
+  {
+   "word": "词客",
+   "name": "词客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "既是庾信也是杜甫自指，哀时未还"
+  },
+  {
+   "word": "庾信",
+   "name": "庾信",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以庾信身世自比，寄飘零萧瑟之感"
+  },
+  {
+   "word": "暮年",
+   "name": "暮年",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "写庾信晚年诗赋，暗含自身迟暮之悲"
+  },
+  {
+   "word": "诗赋",
+   "name": "诗赋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "暮年诗赋震动江关，是庾信也是杜甫的自我写照"
+  },
+  {
+   "word": "江关",
+   "name": "江关",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "庾信暮年诗赋震动江关，借以自况文名与身世"
+  }
+ ]
+}

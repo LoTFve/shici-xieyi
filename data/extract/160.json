@@ -1,0 +1,83 @@
+{
+ "id": 160,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "簟",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "长席迎风，点出秋夜卧具"
+  },
+  {
+   "word": "空城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "空寂城池笼罩月色"
+  },
+  {
+   "word": "月华",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "淡月洒落空城"
+  },
+  {
+   "word": "星河",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "秋夜银河横空"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "秋夜一雁，勾起羁旅之思"
+  },
+  {
+   "word": "砧杵",
+   "name": "砧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "千家捣衣声，暗示秋夜思妇"
+  },
+  {
+   "word": "鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "鸣鸦报晓，点出吟诗至天明"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 317,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鹫翎",
+   "name": "羽箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "以鹫羽装饰的金仆姑箭，点明将军精良装备"
+  },
+  {
+   "word": "金仆姑",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "名箭之名，突出将军武备之精"
+  },
+  {
+   "word": "燕尾",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "燕尾状绣旗，与蝥弧合写军旗之盛"
+  },
+  {
+   "word": "蝥弧",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "绣有蝥弧的军旗，烘托军容"
+  },
+  {
+   "word": "千营",
+   "name": "营",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "千营同呼，写军威之盛"
+  }
+ ]
+}

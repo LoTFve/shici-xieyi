@@ -1,0 +1,193 @@
+{
+ "id": 290,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "金樽",
+   "name": "樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "极言酒器贵重，反衬不能食的苦闷"
+  },
+  {
+   "word": "清酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "珍馐美酒却难以下咽的宴席"
+  },
+  {
+   "word": "玉盘",
+   "name": "盘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华贵食器，写宴席之盛"
+  },
+  {
+   "word": "珍羞",
+   "name": "珍馐",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "名贵菜肴，与金樽清酒共成盛宴"
+  },
+  {
+   "word": "杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "停杯不饮，动作写出心绪转折"
+  },
+  {
+   "word": "箸",
+   "name": "箸",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "投箸不食，表现内心茫然"
+  },
+  {
+   "word": "剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "拔剑四顾，是诗人侠气的动作"
+  },
+  {
+   "word": "黄河",
+   "name": "黄河",
+   "category": "水域",
+   "parent": "yellow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "冰塞川的黄河，象征行路之难"
+  },
+  {
+   "word": "冰",
+   "name": "冰",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "冰塞川，写渡河的阻隔"
+  },
+  {
+   "word": "太行",
+   "name": "太行",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "将登而雪满山，写行路艰难"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪满山，以自然险阻喻仕途"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "碧溪垂钓，用姜太公典寄托期待"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乘舟梦日，用伊尹典写遇合之想"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梦日边，借指君王与仕途机遇"
+  },
+  {
+   "word": "长风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "长风破浪，喻乘时而起的机会"
+  },
+  {
+   "word": "云帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "直挂云帆，想象中乘风远航"
+  },
+  {
+   "word": "沧海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "济沧海，是诗人向往的远大前程"
+  }
+ ]
+}

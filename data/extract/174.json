@@ -1,0 +1,127 @@
+{
+ "id": 174,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "斜月挂楼，点出梦醒后的清冷时辰"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "女子所居之楼，月斜映楼更显孤寂"
+  },
+  {
+   "word": "钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "五更钟声敲响，惊醒残梦，渲染夜尽之寂"
+  },
+  {
+   "word": "书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "梦中急切写成的书信，墨尚未浓，写别情之仓促"
+  },
+  {
+   "word": "墨",
+   "name": "墨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "墨未浓，衬出写信之急切与心神不宁"
+  },
+  {
+   "word": "蜡",
+   "name": "蜡",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残烛光照，半笼床帐，写室内幽冷氛围"
+  },
+  {
+   "word": "金翡翠",
+   "name": "翡翠",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "借指被褥帐饰，烛光半照更显闺中寂寥"
+  },
+  {
+   "word": "麝薰",
+   "name": "麝香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "麝香微度，绣芙蓉帐间香气隐约，写闺阁环境"
+  },
+  {
+   "word": "绣芙蓉",
+   "name": "芙蓉",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借指绣着芙蓉的帐帷，映衬女子独处"
+  },
+  {
+   "word": "刘郎",
+   "name": "刘郎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用刘晨入天台的典故，自比恨蓬山遥远之人"
+  },
+  {
+   "word": "蓬山",
+   "name": "蓬山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "仙山典故，指所思念之人所在，遥不可及"
+  }
+ ]
+}

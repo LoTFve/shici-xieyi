@@ -1,0 +1,127 @@
+{
+ "id": 148,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莓苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点出人迹罕至的幽径"
+  },
+  {
+   "word": "履痕",
+   "name": "足迹",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "暗示常道士行迹，引出寻访"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "映衬静渚的清幽"
+  },
+  {
+   "word": "静渚",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水中小洲，白云依之更显静谧"
+  },
+  {
+   "word": "春草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "闭锁闲门，显出隐居之地的荒寂"
+  },
+  {
+   "word": "门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "闲门紧闭，暗示主人不在"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后松色更翠，点明时间与氛围"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "雨后松色是寻访途中的清景"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "随山而行，引出水源"
+  },
+  {
+   "word": "水源",
+   "name": "溪水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "循山找到溪水源头，寻幽至深处"
+  },
+  {
+   "word": "溪花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪边野花，与禅意相对而忘言"
+  }
+ ]
+}

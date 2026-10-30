@@ -1,0 +1,83 @@
+{
+ "id": 20,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "千山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以层叠群山为背景，衬托空寂无人"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "飞鸟绝迹，写出天地间的死寂"
+  },
+  {
+   "word": "孤舟",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "江面唯一的小舟，点出画面中心"
+  },
+  {
+   "word": "蓑笠",
+   "name": "蓑笠",
+   "category": "器物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "渔翁的雨具，暗示风雪严寒"
+  },
+  {
+   "word": "翁",
+   "name": "渔翁",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "独钓寒江的蓑笠老人，全诗画眼"
+  },
+  {
+   "word": "寒江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒冷的江面，承载孤舟与钓者"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "满江飞雪，笼罩全诗清冷基调"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "id": 180,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "紫泉宫殿",
+   "name": "宫殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写隋宫锁于烟霞中的旧日繁华"
+  },
+  {
+   "word": "烟霞",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "锁住宫殿的雾气，渲染冷落"
+  },
+  {
+   "word": "芜城",
+   "name": "芜城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指扬州，暗含荒废之意"
+  },
+  {
+   "word": "帝家",
+   "name": "帝都",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指隋炀帝想以扬州为都城"
+  },
+  {
+   "word": "玉玺",
+   "name": "玉玺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指帝位天命"
+  },
+  {
+   "word": "日角",
+   "name": "日角",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帝王之相，指唐高祖李渊"
+  },
+  {
+   "word": "锦帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写隋炀帝龙舟南巡的奢华"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "夸张写船队将远至天边"
+  },
+  {
+   "word": "腐草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "萤火已无，写宫苑荒凉"
+  },
+  {
+   "word": "萤火",
+   "name": "萤火",
+   "category": "动物",
+   "parent": "none",
+   "reason": "无",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "用典写隋宫放萤旧事，今已无"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "隋堤柳依旧，衬托兴亡"
+  },
+  {
+   "word": "暮鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏鸦啼，写荒凉萧瑟"
+  },
+  {
+   "word": "陈后主",
+   "name": "陈后主",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡国之君，与隋炀帝并提"
+  },
+  {
+   "word": "后庭花",
+   "name": "后庭花",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡国之音，讽喻之意"
+  }
+ ]
+}

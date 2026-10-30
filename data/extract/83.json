@@ -1,0 +1,171 @@
+{
+ "id": 83,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "汉江",
+   "name": "汉江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗咏写的核心江流，壮阔铺展"
+  },
+  {
+   "word": "楚塞",
+   "name": "楚地",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明汉江所经的楚地边塞，拓展空间"
+  },
+  {
+   "word": "三湘",
+   "name": "三湘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与楚塞相接，写水脉绵延"
+  },
+  {
+   "word": "荆门",
+   "name": "荆门",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "九派汇通之处，写江势浩大"
+  },
+  {
+   "word": "九派",
+   "name": "九派",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "众多支流汇通，显水势浩茫"
+  },
+  {
+   "word": "江流",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "奔流直向天地之外，极写江远"
+  },
+  {
+   "word": "天地",
+   "name": "天地",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江流延伸至天地尽头，境界开阔"
+  },
+  {
+   "word": "山色",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "在若有若无之中，写远山朦胧"
+  },
+  {
+   "word": "郡邑",
+   "name": "城邑",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "仿佛浮在前浦之上，写水势浩大"
+  },
+  {
+   "word": "前浦",
+   "name": "水滨",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城邑所浮之处，写江岸水滨"
+  },
+  {
+   "word": "波澜",
+   "name": "波澜",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "波涛摇动远空，写江面动荡"
+  },
+  {
+   "word": "远空",
+   "name": "天空",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "被波澜摇动，写水天相接"
+  },
+  {
+   "word": "襄阳",
+   "name": "襄阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明临眺之地，引出留醉之兴"
+  },
+  {
+   "word": "风日",
+   "name": "风日",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写襄阳风和日丽，令人留连"
+  },
+  {
+   "word": "山翁",
+   "name": "山翁",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借山简之典，写留醉襄阳的逸兴"
+  }
+ ]
+}

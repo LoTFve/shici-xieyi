@@ -1,0 +1,116 @@
+{
+ "id": 154,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点出山路的深远幽静"
+  },
+  {
+   "word": "青溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪水与春意同长，写出山中清幽"
+  },
+  {
+   "word": "落花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "花瓣随水飘来，添春色与香气"
+  },
+  {
+   "word": "流水",
+   "name": "流水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "承载落花，送香远去"
+  },
+  {
+   "word": "闲门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "表现读书堂的清静无为"
+  },
+  {
+   "word": "山路",
+   "name": "山路",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "门向山路，写出隐居环境"
+  },
+  {
+   "word": "深柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "柳荫深处的读书堂，境界幽深"
+  },
+  {
+   "word": "读书堂",
+   "name": "书堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全诗中心，隐居读书之所"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "日光幽映，衬出环境的清静"
+  },
+  {
+   "word": "清辉",
+   "name": "清辉",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "日光清朗地照在衣裳上，收束全诗"
+  }
+ ]
+}

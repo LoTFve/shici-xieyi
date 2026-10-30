@@ -1,0 +1,149 @@
+{
+ "id": 262,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "马蹄",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "写少年骑手赌胜纵马的英武"
+  },
+  {
+   "word": "杀人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "点出豪侠少年刚猛好斗的形象"
+  },
+  {
+   "word": "须如猬毛磔",
+   "name": "须",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "以刺猬毛形容须髯戟张，写猛士气概"
+  },
+  {
+   "word": "黄云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与白云对举，写边塞苍茫天色"
+  },
+  {
+   "word": "陇底",
+   "name": "陇",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指陇山之下，交代戍边征战之地"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "白云飞动，暗引征人未归的乡思"
+  },
+  {
+   "word": "辽东小妇",
+   "name": "妇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写边地能歌善舞的年轻女子"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小妇所擅弹拨的乐器"
+  },
+  {
+   "word": "歌舞",
+   "name": "歌舞",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写小妇能歌善舞的才艺"
+  },
+  {
+   "word": "羌笛",
+   "name": "羌笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "羌笛吹出出塞之曲，是触发乡愁的乐器"
+  },
+  {
+   "word": "出塞声",
+   "name": "笛声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "笛声奏出塞曲，使三军落泪"
+  },
+  {
+   "word": "三军",
+   "name": "军",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指全体将士，写闻笛泪下的集体悲情"
+  },
+  {
+   "word": "泪如雨",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以雨比喻将士泪下之多"
+  }
+ ]
+}

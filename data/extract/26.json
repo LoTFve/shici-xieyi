@@ -1,0 +1,72 @@
+{
+ "id": 26,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "竹林寺",
+   "name": "寺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "灵澈上人归去的寺院，点明隐修之地"
+  },
+  {
+   "word": "苍苍",
+   "name": "竹林",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以苍翠竹林烘托寺院的幽深清寂"
+  },
+  {
+   "word": "钟声",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "傍晚寺钟传来，以声衬静，增添空灵意境"
+  },
+  {
+   "word": "笠",
+   "name": "笠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "灵澈上人头戴斗笠，勾勒行人形象"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "斜阳映照归人，点明傍晚时分，渲染送别气氛"
+  },
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "远山为背景，映衬友人独自归去的身影"
+  }
+ ]
+}
