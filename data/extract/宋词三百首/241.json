@@ -1,0 +1,248 @@
+{
+ "id": 241,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "夜色",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明时间，渲染幽暗氛围"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "清露收尽，暗示夜深"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月色昏暗，烘托幽会环境"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹槛灯窗，勾勒庭院雅致"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "灯窗亮着，指引幽会之处"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "灯窗结合，显示有人等候"
+  },
+  {
+   "word": "庭院",
+   "name": "院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "秋娘所居之处"
+  },
+  {
+   "word": "琼枝",
+   "name": "琼枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "比喻女子如玉树般美好"
+  },
+  {
+   "word": "玉树",
+   "name": "玉树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与琼枝并列，形容女子与己相依"
+  },
+  {
+   "word": "暖日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "无",
+   "time": "昼",
+   "emotion": "欢欣",
+   "note": "比喻相遇时的温暖明亮"
+  },
+  {
+   "word": "明霞",
+   "name": "霞",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "比喻女子光彩照人"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以水波比喻眼波流转"
+  },
+  {
+   "word": "兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以兰比喻性情高雅"
+  },
+  {
+   "word": "瑶台",
+   "name": "瑶台",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙家楼台，借指女子居所"
+  },
+  {
+   "word": "雨润",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "比喻情爱滋润"
+  },
+  {
+   "word": "云温",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "比喻温情缱绻"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "惊风吹散欢情，象征变故"
+  },
+  {
+   "word": "秋虫",
+   "name": "虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "秋虫哀鸣，渲染荒寒孤寂"
+  },
+  {
+   "word": "重门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "重门紧闭，更显孤寂"
+  },
+  {
+   "word": "败壁",
+   "name": "壁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "破败墙壁，突出荒凉"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "溪水隔不断相思，以景结情"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "溪山阻隔，相思却不断"
+  }
+ ]
+}

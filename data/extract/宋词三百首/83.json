@@ -1,0 +1,270 @@
+{
+ "id": 83,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "暮色中河桥边的柳树，点明送别与怀旧的场景"
+  },
+  {
+   "word": "河桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳荫下的河桥，是当年夜泊与如今追忆的地点"
+  },
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "晴日台苑中的莺鸟，反衬今日的凄凉"
+  },
+  {
+   "word": "台苑",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "昔日游赏的园林台榭，承载欢游记忆"
+  },
+  {
+   "word": "短策",
+   "name": "策",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "短手杖，写出当年春游的闲适姿态"
+  },
+  {
+   "word": "春香",
+   "name": "香",
+   "category": "其他",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春日花草的香气，萦绕在手杖之间"
+  },
+  {
+   "word": "酒杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "当年夜泊时频频举杯的欢饮"
+  },
+  {
+   "word": "蜡花",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "剪烛花，写夜深欢饮之久"
+  },
+  {
+   "word": "壶箭",
+   "name": "漏箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "壶中漏箭催促，暗写欢聚时光飞逝"
+  },
+  {
+   "word": "凌波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "用洛神凌波之典，写同游女子步态轻盈"
+  },
+  {
+   "word": "翠陌",
+   "name": "陌",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "翠绿的小路，指当年同游的郊野"
+  },
+  {
+   "word": "棹",
+   "name": "棹",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "连棹横塘，写当年泛舟同游之乐"
+  },
+  {
+   "word": "横塘",
+   "name": "塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "横塘水边，是当年游赏之地"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以西湖燕去比喻故人离散，寄托怀念"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "似西湖燕去，比喻旧日欢游与故人已散"
+  },
+  {
+   "word": "吴馆",
+   "name": "馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "吴地馆舍，燕去巢荒，写旧居冷落"
+  },
+  {
+   "word": "银罂",
+   "name": "罂",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "银制酒器，重来依旧唤酒，物是人非"
+  },
+  {
+   "word": "溪雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "急雨打溪，渲染重来时的凄迷心境"
+  },
+  {
+   "word": "岸花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "岸花在急雨中狂舞，烘托飘零之感"
+  },
+  {
+   "word": "残鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "残鸦飞过苍茫，增添日暮荒寒的气氛"
+  },
+  {
+   "word": "故人",
+   "name": "故人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "故人楼上，点出怀念的对象与登临之所"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "故人所在的楼阁，是遥望与怀人的立足点"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "芳草连天，寄托对故人的遥思"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "斜阳映照芳草，收束全词，写苍茫怅惘"
+  }
+ ]
+}

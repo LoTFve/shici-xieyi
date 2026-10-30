@@ -1,0 +1,116 @@
+{
+ "id": 42,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "别业",
+   "name": "别业",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明诗人所居的幽静别墅"
+  },
+  {
+   "word": "幽处",
+   "name": "幽处",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "概括别业所处的清幽环境"
+  },
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "正对门窗的远山，构成主要景框"
+  },
+  {
+   "word": "户牖",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "门窗框出南山景致"
+  },
+  {
+   "word": "澧水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "映照园林的水面"
+  },
+  {
+   "word": "园林",
+   "name": "园林",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "别业中的园子，与水相映"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "覆盖着经冬积雪的竹丛"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "竹上残留的冬雪"
+  },
+  {
+   "word": "庭",
+   "name": "庭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "未到晚便昏暗的庭院"
+  },
+  {
+   "word": "春禽",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "闲坐时听到的春鸟鸣叫"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 91,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "子衿",
+   "name": "衣襟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以恋人的衣领借指心上人，引出思念"
+  },
+  {
+   "word": "子佩",
+   "name": "佩带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以恋人佩带的饰物借指其人，加深相思"
+  },
+  {
+   "word": "城阙",
+   "name": "城楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "女子登城楼远望等候之处，点出徘徊场景"
+  },
+  {
+   "word": "三月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以三月之久比喻一日之别，极言相思之切"
+  }
+ ]
+}

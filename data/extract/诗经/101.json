@@ -1,0 +1,94 @@
+{
+ "id": 101,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "起兴之景，以高山起兴，引出对鲁道的描写"
+  },
+  {
+   "word": "雄狐",
+   "name": "狐",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雄狐缓行比喻齐子归鲁时的徘徊之态"
+  },
+  {
+   "word": "鲁道",
+   "name": "道",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指鲁国的大道，是齐子归鲁的必经之路"
+  },
+  {
+   "word": "葛屦",
+   "name": "屦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "葛麻制的鞋，以五两系之，象征婚姻的成双成对"
+  },
+  {
+   "word": "冠緌",
+   "name": "緌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帽带的下垂部分，双止，与葛屦对举，喻夫妇成双"
+  },
+  {
+   "word": "麻",
+   "name": "麻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "种麻需纵横耕治，兴娶妻需告父母"
+  },
+  {
+   "word": "薪",
+   "name": "薪",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "劈柴需用斧，兴娶妻需媒妁"
+  },
+  {
+   "word": "斧",
+   "name": "斧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "劈柴的工具，喻媒妁在婚姻中的必要性"
+  }
+ ]
+}

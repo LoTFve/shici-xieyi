@@ -1,0 +1,94 @@
+{
+ "id": 13,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蘩",
+   "name": "蘩",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "采来供祭祀用的白蒿"
+  },
+  {
+   "word": "沼",
+   "name": "沼",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "采摘蘩草的池塘"
+  },
+  {
+   "word": "沚",
+   "name": "沚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中小洲，采蘩之处"
+  },
+  {
+   "word": "涧",
+   "name": "涧",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山间溪涧，采蘩之所"
+  },
+  {
+   "word": "公侯",
+   "name": "公侯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "采蘩所为之服务的贵族"
+  },
+  {
+   "word": "宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "公侯之宫，祭祀用蘩的所在"
+  },
+  {
+   "word": "被",
+   "name": "发饰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "采蘩女子头上的首饰，形容其盛装"
+  },
+  {
+   "word": "夙夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "从早到晚在公所劳作"
+  }
+ ]
+}

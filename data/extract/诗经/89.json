@@ -1,0 +1,72 @@
+{
+ "id": 89,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东门",
+   "name": "东门",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明相会或眺望的地点"
+  },
+  {
+   "word": "𫮃",
+   "name": "墠",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "东门外的平地，是诗中的场景"
+  },
+  {
+   "word": "茹藘",
+   "name": "茜草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "坡上的茜草，烘托环境"
+  },
+  {
+   "word": "阪",
+   "name": "山坡",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "茜草生长的坡地，构成画面背景"
+  },
+  {
+   "word": "栗",
+   "name": "栗树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "东门旁的栗树，点明地点"
+  },
+  {
+   "word": "家室",
+   "name": "房屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "整齐排列的家室，暗示所思之人的居所"
+  }
+ ]
+}

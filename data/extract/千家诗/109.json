@@ -1,0 +1,83 @@
+{
+ "id": 109,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "落花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暮春凋零之花，点出春去之惜"
+  },
+  {
+   "word": "绿阴",
+   "name": "树荫",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "绿叶成荫，写春暮草木繁茂"
+  },
+  {
+   "word": "林莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "林中啼莺，以声写春将尽"
+  },
+  {
+   "word": "青草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "池塘边青草，衬暮春景象"
+  },
+  {
+   "word": "池塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蛙声所在的水面场景"
+  },
+  {
+   "word": "蛙",
+   "name": "蛙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "独听蛙声，暗示春去夏来"
+  },
+  {
+   "word": "门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "门外落花无人问，写幽静冷落"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 87,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晓风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "清晨的风吹入华清宫，渲染清冷气氛"
+  },
+  {
+   "word": "残月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "将落之月，点出破晓时分的萧瑟"
+  },
+  {
+   "word": "华清",
+   "name": "华清宫",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "华清宫，昔日繁华之地，今成凭吊之所"
+  },
+  {
+   "word": "朝元阁",
+   "name": "朝元阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "华清宫内楼阁，见证盛衰变迁"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风急吹，烘托宫苑荒凉"
+  },
+  {
+   "word": "长杨",
+   "name": "长杨",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "长杨树在风中作响，借指宫树，添萧瑟之感"
+  },
+  {
+   "word": "雨声",
+   "name": "雨",
+   "category": "声音",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "风吹长杨之声被比作雨声，以声写寂"
+  }
+ ]
+}

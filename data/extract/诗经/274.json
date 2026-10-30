@@ -1,0 +1,28 @@
+{
+ "id": 274,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "钟鼓",
+   "name": "钟",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "祭祀时鸣钟击鼓以娱神"
+  },
+  {
+   "word": "磬莞",
+   "name": "磬",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与钟鼓并奏的礼乐器，渲染祭典庄重"
+  }
+ ]
+}

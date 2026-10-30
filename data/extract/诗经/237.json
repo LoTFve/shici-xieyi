@@ -1,0 +1,160 @@
+{
+ "id": 237,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "瓜瓞",
+   "name": "瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以大瓜小瓜连绵不断比喻周人子孙繁衍"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "写古公亶父清晨驱马迁居"
+  },
+  {
+   "word": "水浒",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指漆水之滨，是迁居路线所沿"
+  },
+  {
+   "word": "岐下",
+   "name": "岐山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "周人迁居定居的岐山脚下"
+  },
+  {
+   "word": "堇荼",
+   "name": "堇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写周原土地肥沃，苦菜也甜如饴"
+  },
+  {
+   "word": "龟",
+   "name": "龟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占卜所用的龟甲，定筑室之地"
+  },
+  {
+   "word": "庙",
+   "name": "庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所建宗庙，庄严整饬"
+  },
+  {
+   "word": "皋门",
+   "name": "城门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所立外城门，高大雄伟"
+  },
+  {
+   "word": "应门",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所立正门，庄严整齐"
+  },
+  {
+   "word": "冢土",
+   "name": "社坛",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所立大社，用于祭祀与出征"
+  },
+  {
+   "word": "鼛鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "筑墙时击鼓役事，声势浩大"
+  },
+  {
+   "word": "柞棫",
+   "name": "柞",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拔除杂木，开通道路"
+  },
+  {
+   "word": "混夷",
+   "name": "混夷",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被周人威势所震而逃窜的部族"
+  },
+  {
+   "word": "虞芮",
+   "name": "虞芮",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "虞芮两国争田来质，喻文王德化"
+  }
+ ]
+}

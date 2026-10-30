@@ -1,0 +1,39 @@
+{
+ "id": 24,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "白发",
+   "name": "发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以夸张的白发写愁之长"
+  },
+  {
+   "word": "明镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "照见白发，引出下文的感叹"
+  },
+  {
+   "word": "秋霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻镜中白发如霜"
+  }
+ ]
+}

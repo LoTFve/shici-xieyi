@@ -1,0 +1,83 @@
+{
+ "id": 249,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "受天命庇佑，以天为至高权威"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被赞美颂祝的君王"
+  },
+  {
+   "word": "子孙",
+   "name": "子孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祝祷后代繁盛千亿"
+  },
+  {
+   "word": "天子",
+   "name": "天子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诸侯卿士所爱戴的君王"
+  },
+  {
+   "word": "朋友",
+   "name": "友",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮同乐、蒙受恩泽的群臣"
+  },
+  {
+   "word": "百辟",
+   "name": "诸侯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "泛指众诸侯，共奉天子"
+  },
+  {
+   "word": "卿士",
+   "name": "卿士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "朝中百官，各守其位"
+  }
+ ]
+}

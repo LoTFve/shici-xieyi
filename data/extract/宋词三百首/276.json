@@ -1,0 +1,149 @@
+{
+ "id": 276,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "词中女子所在的楼阁，月起楼阴"
+  },
+  {
+   "word": "阑干",
+   "name": "阑干",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月下阑干之影卧于东厢，衬托独处"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "东厢月色照人，全词的核心意象"
+  },
+  {
+   "word": "风露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜中一天风露，写环境的清冷"
+  },
+  {
+   "word": "杏花",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "杏花如雪，写出春夜花色的繁盛与清寒"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雪喻杏花纷白"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "隔着烟雾传来漏声，写夜的迷蒙"
+  },
+  {
+   "word": "漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "金虬漏壶，记录长夜难眠"
+  },
+  {
+   "word": "金虬",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "漏壶上龙形装饰，代指计时之漏"
+  },
+  {
+   "word": "罗帏",
+   "name": "罗帏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "暗淡的罗帏，写闺中独处的凄清"
+  },
+  {
+   "word": "灯花",
+   "name": "灯花",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "灯花结，暗示夜久与离思"
+  },
+  {
+   "word": "春梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "片时春梦，转入想象中的江南辽阔"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梦中天阔的江南，寄托对远方的思念"
+  }
+ ]
+}

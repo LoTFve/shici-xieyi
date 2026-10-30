@@ -1,0 +1,94 @@
+{
+ "id": 142,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "青山层叠，反衬楼阁与歌舞的繁盛"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "楼外楼写尽临安繁华，暗含讥讽"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明歌舞之地，表面安乐"
+  },
+  {
+   "word": "歌舞",
+   "name": "歌舞",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写权贵沉湎享乐、无休无止"
+  },
+  {
+   "word": "暖风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "既是春风，也喻靡靡之风"
+  },
+  {
+   "word": "游人",
+   "name": "游人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指醉心享乐的达官贵人"
+  },
+  {
+   "word": "杭州",
+   "name": "杭州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南宋都城临安，眼前之地"
+  },
+  {
+   "word": "汴州",
+   "name": "汴州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "北宋故都，借指沦陷的中原"
+  }
+ ]
+}

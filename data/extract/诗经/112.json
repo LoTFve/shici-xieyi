@@ -1,0 +1,127 @@
+{
+ "id": 112,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "檀",
+   "name": "檀",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被砍伐的树木，起兴之物"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "伐木者置木之处，河水清且起波"
+  },
+  {
+   "word": "河水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "清澈起涟漪的河水，反衬剥削者不劳而获"
+  },
+  {
+   "word": "涟",
+   "name": "涟",
+   "category": "其他",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水波纹，描绘河水的动态"
+  },
+  {
+   "word": "禾",
+   "name": "禾",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "粮食作物，指不劳而获的粮食"
+  },
+  {
+   "word": "庭",
+   "name": "庭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "庭院，悬挂猎物的场所"
+  },
+  {
+   "word": "县貆",
+   "name": "貆",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "悬挂的貆（豪猪），指不劳而获的猎物"
+  },
+  {
+   "word": "县特",
+   "name": "特",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "悬挂的三岁兽，指不劳而获的猎物"
+  },
+  {
+   "word": "县鹑",
+   "name": "鹑",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "悬挂的鹌鹑，指不劳而获的猎物"
+  },
+  {
+   "word": "伐辐",
+   "name": "辐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "砍伐木材做车辐，劳动场景"
+  },
+  {
+   "word": "伐轮",
+   "name": "轮",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "砍伐木材做车轮，劳动场景"
+  }
+ ]
+}

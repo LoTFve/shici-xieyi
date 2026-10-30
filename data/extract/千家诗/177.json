@@ -1,0 +1,138 @@
+{
+ "id": 177,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "画架",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "荡秋千的彩绘支架，点出少女春日嬉戏的场景"
+  },
+  {
+   "word": "翠络",
+   "name": "绳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "秋千上青翠的绳饰，写秋千的精致"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "荡秋千的少女，全诗描写的中心人物"
+  },
+  {
+   "word": "小楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "佳人戏耍的背景楼阁"
+  },
+  {
+   "word": "裙",
+   "name": "裙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "血色长裙随风飘拂拖地，写荡秋千时的动态"
+  },
+  {
+   "word": "玉容",
+   "name": "面容",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指佳人美丽的面庞，随秋千飞上天空"
+  },
+  {
+   "word": "花皮",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "饰花的秋千板，被杏花雨润湿"
+  },
+  {
+   "word": "红杏",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "杏花如雨，点明春日时令"
+  },
+  {
+   "word": "彩绳",
+   "name": "绳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "悬秋千的彩色绳索，斜映在绿杨烟中"
+  },
+  {
+   "word": "绿杨",
+   "name": "杨",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿柳如烟，衬托秋千与佳人的春景"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳色如烟，写春日的迷蒙景致"
+  },
+  {
+   "word": "蟾宫",
+   "name": "蟾宫",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月宫，用嫦娥典故比喻佳人是谪落人间的仙女"
+  }
+ ]
+}

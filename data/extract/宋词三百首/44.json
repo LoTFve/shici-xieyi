@@ -1,0 +1,160 @@
+{
+ "id": 44,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "冰肌",
+   "name": "肌肤",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "无",
+   "note": "写女子肌肤如冰般清凉莹润"
+  },
+  {
+   "word": "玉骨",
+   "name": "肌肤",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "无",
+   "note": "喻女子身姿清雅，与冰肌并写"
+  },
+  {
+   "word": "水殿",
+   "name": "水殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "临水宫殿，点明纳凉所在"
+  },
+  {
+   "word": "暗香",
+   "name": "香",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "风中送来的幽微香气，渲染清凉氛围"
+  },
+  {
+   "word": "绣帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "帘幕开启，引出明月窥人"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "明月窥人，写夜之清幽"
+  },
+  {
+   "word": "钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "枕上横钗，写女子睡态慵懒"
+  },
+  {
+   "word": "素手",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "牵手出户，写两人夜游之亲昵"
+  },
+  {
+   "word": "庭户",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "庭院无声，衬夜之寂静"
+  },
+  {
+   "word": "疏星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "疏星渡河，写夜深天象"
+  },
+  {
+   "word": "河汉",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "银河横斜，点明夜已深沉"
+  },
+  {
+   "word": "金波",
+   "name": "月光",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "金波指月光，写月色渐淡"
+  },
+  {
+   "word": "玉绳",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "玉绳星低转，写星移夜深"
+  },
+  {
+   "word": "西风",
+   "name": "西风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈指盼西风，暗含时光流逝之感"
+  }
+ ]
+}

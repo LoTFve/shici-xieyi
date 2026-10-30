@@ -1,0 +1,61 @@
+{
+ "id": 153,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以残荷点明秋末冬初的衰败"
+  },
+  {
+   "word": "菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "残菊傲霜，象征坚韧"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "霜降之景，突出菊枝耐寒"
+  },
+  {
+   "word": "橙",
+   "name": "橙",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "橙黄点明初冬丰收的亮色"
+  },
+  {
+   "word": "橘",
+   "name": "橘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "橘绿与橙黄并置，写初冬佳景"
+  }
+ ]
+}

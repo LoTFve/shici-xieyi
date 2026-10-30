@@ -1,0 +1,259 @@
+{
+ "id": 264,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "啼莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "以莺啼唤醒睡起，点明春晨"
+  },
+  {
+   "word": "青苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "青苔掩映，显出庭院幽寂"
+  },
+  {
+   "word": "房栊",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "向晚的窗棂，点明时间与室内视角"
+  },
+  {
+   "word": "乱红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花无数，暗写春去与愁绪"
+  },
+  {
+   "word": "残花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "残花被吹尽无人见，强化孤寂"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "垂杨自舞，反衬无人观赏的寂寞"
+  },
+  {
+   "word": "暖霭",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "暖霭初回，写天气转暖的初夏感"
+  },
+  {
+   "word": "宝扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "重寻宝扇，暗尘已侵，引出旧恨"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以明月比喻扇上的圆影，兼寄孤寂"
+  },
+  {
+   "word": "乘鸾女",
+   "name": "仙女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "扇上乘鸾女的图样，用典暗含旧情"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梦断江南，借指所思念的远方"
+  },
+  {
+   "word": "江渚",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "横江渚是梦境中的江岸，寄寓离愁"
+  },
+  {
+   "word": "浪",
+   "name": "浪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "浪黏天，写江浪浩渺的壮阔景象"
+  },
+  {
+   "word": "葡萄涨绿",
+   "name": "江水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以葡萄比喻春水新涨的碧绿"
+  },
+  {
+   "word": "烟雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "半空烟雨，渲染迷茫怅惘的氛围"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "楼前沧波，是眺望与愁思的立足点"
+  },
+  {
+   "word": "沧波",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "楼前沧波无限意，以水寄情"
+  },
+  {
+   "word": "苹花",
+   "name": "苹",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "采苹花寄取，化用采苹寄远的思念"
+  },
+  {
+   "word": "兰舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "兰舟容与，写舟行舒缓而人未归"
+  },
+  {
+   "word": "云帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "万里云帆，盼望远方来船"
+  },
+  {
+   "word": "孤鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "目送孤鸿，寄托对远方音信的期盼"
+  },
+  {
+   "word": "千山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "千山阻隔，写望断天涯的阻隔"
+  },
+  {
+   "word": "金缕",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "谁唱金缕，借指以歌声慰藉愁怀"
+  }
+ ]
+}

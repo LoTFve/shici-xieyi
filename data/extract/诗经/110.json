@@ -1,0 +1,105 @@
+{
+ "id": 110,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "岵",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "登高望父之山"
+  },
+  {
+   "word": "屺",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "登高望母之山"
+  },
+  {
+   "word": "冈",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "登高望兄之山"
+  },
+  {
+   "word": "父",
+   "name": "父",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象中叮嘱自己的父亲"
+  },
+  {
+   "word": "母",
+   "name": "母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象中叮嘱自己的母亲"
+  },
+  {
+   "word": "兄",
+   "name": "兄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象中叮嘱自己的兄长"
+  },
+  {
+   "word": "予子",
+   "name": "子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "父亲口中行役的儿子"
+  },
+  {
+   "word": "予季",
+   "name": "子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "母亲口中行役的幼子"
+  },
+  {
+   "word": "予弟",
+   "name": "弟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "兄长口中行役的弟弟"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 274,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "游丝",
+   "name": "游丝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以飘荡的蛛丝比喻离情缠绵"
+  },
+  {
+   "word": "飞絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以飘飞的柳絮比喻行人漂泊"
+  },
+  {
+   "word": "泪珠",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写离别时含泪相望"
+  },
+  {
+   "word": "烟柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "溪边垂柳万丝，却系不住行舟"
+  },
+  {
+   "word": "兰舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "载人远去的船"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "斜阳中飞过，惹人愁思"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮色中雁过斜阳，烘托离愁"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟雾迷蒙的洲渚上草色凄迷"
+  },
+  {
+   "word": "烟渚",
+   "name": "洲渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "烟雾笼罩的水边小洲，迷离凄清"
+  }
+ ]
+}

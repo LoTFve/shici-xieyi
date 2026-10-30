@@ -1,0 +1,61 @@
+{
+ "id": 12,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祭祀大成时击鼓以合节，渲染典礼的隆重与热烈"
+  },
+  {
+   "word": "芭",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "传递花朵交替起舞，是祭礼中的仪节道具"
+  },
+  {
+   "word": "姱女",
+   "name": "女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "美好的巫女倡歌起舞、从容自若，展现祭舞的优美"
+  },
+  {
+   "word": "春兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以春兰为祭，象征祭礼随四时不绝"
+  },
+  {
+   "word": "秋菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "以秋菊为祭，与春兰并举，喻祭祀终古不辍"
+  }
+ ]
+}

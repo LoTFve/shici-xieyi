@@ -1,0 +1,215 @@
+{
+ "id": 138,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "冷月照边塞，烘托清冷氛围"
+  },
+  {
+   "word": "龙沙",
+   "name": "龙沙",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞沙漠的代称，点出边地"
+  },
+  {
+   "word": "虎落",
+   "name": "虎落",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边防营垒，写边塞军事"
+  },
+  {
+   "word": "胡部曲",
+   "name": "胡乐",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "军中演奏的胡地乐曲"
+  },
+  {
+   "word": "毡幕",
+   "name": "毡帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "军中帐篷，写边地风貌"
+  },
+  {
+   "word": "层楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高楼耸立，写登临之所"
+  },
+  {
+   "word": "栏",
+   "name": "栏",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "楼阁栏杆，萦绕红色"
+  },
+  {
+   "word": "檐牙",
+   "name": "檐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "飞檐翠色，写楼阁形制"
+  },
+  {
+   "word": "粉香",
+   "name": "粉香",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "女子脂粉香气，写出姝丽"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜寒风细，写清冷环境"
+  },
+  {
+   "word": "词仙",
+   "name": "词仙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指仙人般的词人"
+  },
+  {
+   "word": "素云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "白云缭绕，伴仙游戏"
+  },
+  {
+   "word": "黄鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "仙人骑鹤的典故，写仙游"
+  },
+  {
+   "word": "玉梯",
+   "name": "梯",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "精美的楼梯，登临凝望"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "萋萋芳草，惹天涯之情"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒浇愁"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花销英气，写消磨"
+  },
+  {
+   "word": "西山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "西山晚景，收束全篇"
+  },
+  {
+   "word": "秋霁",
+   "name": "霁",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "秋雨初晴，帘外清景"
+  }
+ ]
+}

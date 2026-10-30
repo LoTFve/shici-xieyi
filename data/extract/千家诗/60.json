@@ -1,0 +1,138 @@
+{
+ "id": 60,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山色",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇远山含空，奠定苍茫基调"
+  },
+  {
+   "word": "空",
+   "name": "天空",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山色融入远空，写驿地开阔"
+  },
+  {
+   "word": "泽国",
+   "name": "水乡",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明松汀驿在苍茫水乡之东"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "海面明亮，先见日出"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "海上日出，驿地晨景"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江面泛白，远闻风声"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "声音",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江白处远闻风声，写驿地空阔"
+  },
+  {
+   "word": "鸟道",
+   "name": "鸟道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "高原上险窄小径，唯鸟可度"
+  },
+  {
+   "word": "高原",
+   "name": "高原",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鸟道通向的高地"
+  },
+  {
+   "word": "人烟",
+   "name": "人烟",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "小径通处有人家，添一点生趣"
+  },
+  {
+   "word": "小径",
+   "name": "小径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与鸟道对举，写驿地僻远"
+  },
+  {
+   "word": "五湖",
+   "name": "五湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "用范蠡归隐五湖典，反衬遗逸不在其中"
+  }
+ ]
+}

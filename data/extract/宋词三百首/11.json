@@ -1,0 +1,160 @@
+{
+ "id": 11,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "开篇雨后郊原的实景，奠定凄清基调"
+  },
+  {
+   "word": "败叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "零乱飘舞的落叶，点出秋意与身世飘零"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "风定而叶犹舞，写景物动态"
+  },
+  {
+   "word": "斜阳",
+   "name": "斜阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "挂于深树间的夕阳，渲染迟暮氛围"
+  },
+  {
+   "word": "深树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "斜阳映照的树丛，构成背景层次"
+  },
+  {
+   "word": "遥山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "远山如眉妩，以山喻人眉，寄愁思"
+  },
+  {
+   "word": "旧路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "重走来时旧路，引出今昔对比"
+  },
+  {
+   "word": "岩花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "娇黄半吐的山花，反衬今不如昔"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "溪水如故，反衬人事变迁"
+  },
+  {
+   "word": "邮亭",
+   "name": "驿亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "深静驿亭，倦旅歇脚与寻旧题之处"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "下马寻旧，写旅人动作"
+  },
+  {
+   "word": "人面桃花",
+   "name": "桃花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用崔护人面桃花典，问旧人是否还在"
+  },
+  {
+   "word": "小阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梦中所念的幽居小阁"
+  },
+  {
+   "word": "幽窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "梦境中幽暗的窗，寄托思念之人"
+  }
+ ]
+}

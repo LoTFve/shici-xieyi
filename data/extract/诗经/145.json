@@ -1,0 +1,105 @@
+{
+ "id": 145,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "泽",
+   "name": "泽",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边泽畔，全诗起兴与相会之所"
+  },
+  {
+   "word": "陂",
+   "name": "陂",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "泽边堤岸，交代人物所处之地"
+  },
+  {
+   "word": "蒲",
+   "name": "蒲",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "泽畔水草，与荷并生，起兴之物"
+  },
+  {
+   "word": "荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中荷花，映衬所思美人的丰姿"
+  },
+  {
+   "word": "蕳",
+   "name": "蕳",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "泽中香草，与荷同类，复沓换字"
+  },
+  {
+   "word": "菡萏",
+   "name": "菡萏",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "荷花别称，点出夏令与美人之容"
+  },
+  {
+   "word": "一人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "寤寐思服的美人，全诗抒情中心"
+  },
+  {
+   "word": "枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "辗转伏枕，写彻夜难眠的相思之苦"
+  },
+  {
+   "word": "涕泗",
+   "name": "涕",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "涕泪滂沱，极写求而不得的悲伤"
+  }
+ ]
+}

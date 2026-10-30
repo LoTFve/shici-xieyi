@@ -1,0 +1,39 @@
+{
+ "id": 106,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "射侯",
+   "name": "箭靶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中反复写射手终日射靶，突出其射艺"
+  },
+  {
+   "word": "矢",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写四矢贯靶，表现武艺精熟"
+  },
+  {
+   "word": "甥",
+   "name": "甥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明所赞之人为作者外甥"
+  }
+ ]
+}

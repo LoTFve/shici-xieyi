@@ -1,0 +1,127 @@
+{
+ "id": 167,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "薇",
+   "name": "薇",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "戍卒采薇充饥，起兴并暗示时节流逝"
+  },
+  {
+   "word": "岁亦莫止",
+   "name": "岁暮",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "年关已至，归期无望"
+  },
+  {
+   "word": "玁狁",
+   "name": "玁狁",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "北方外敌，戍卒有家难归的缘由"
+  },
+  {
+   "word": "常之华",
+   "name": "棠花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以棠梨花起兴，引出将帅车马"
+  },
+  {
+   "word": "君子之车",
+   "name": "战车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "将帅所乘战车，显示军威"
+  },
+  {
+   "word": "戎车",
+   "name": "战车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾好战车，准备迎敌"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹雄马驾车，形容军容强盛"
+  },
+  {
+   "word": "象弭",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "象牙装饰的弓，指代精良武器"
+  },
+  {
+   "word": "鱼服",
+   "name": "箭袋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鱼皮箭袋，与象弭对举，显示装备精良"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆出征时杨柳依依，与归途雨雪对照"
+  },
+  {
+   "word": "雨雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "归途风雪交加，渲染悲凉心境"
+  }
+ ]
+}

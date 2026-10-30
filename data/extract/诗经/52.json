@@ -1,0 +1,17 @@
+{
+ "id": 52,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鼠",
+   "name": "鼠",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鼠起兴，反衬人无礼仪"
+  }
+ ]
+}

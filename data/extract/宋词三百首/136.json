@@ -1,0 +1,149 @@
+{
+ "id": 136,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月色",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以旧时月色勾起对往昔梅边吹笛的追忆"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "全词核心意象，梅边吹笛、攀摘、疏花皆由此生发"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梅边吹笛的笛声，引出对玉人的回忆"
+  },
+  {
+   "word": "玉人",
+   "name": "玉人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中与词人一同攀摘梅花的佳人"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹外疏花的背景，以竹映衬梅的幽姿"
+  },
+  {
+   "word": "疏花",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "竹外稀疏的梅花，香冷入席，写眼前梅景"
+  },
+  {
+   "word": "瑶席",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "美称座席，写梅香清冷侵入宴席的感受"
+  },
+  {
+   "word": "江国",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明所居江南水乡，寂寂之中更添羁旅之感"
+  },
+  {
+   "word": "夜雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜雪初积，路遥难寄，烘托思念之深"
+  },
+  {
+   "word": "翠尊",
+   "name": "酒樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "翠玉酒杯，因感伤而似泣，写词人借酒伤怀"
+  },
+  {
+   "word": "红萼",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以红萼借指梅花，无言相忆，拟人化写梅之深情"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中曾携手同游之处，千树寒梅映照碧水"
+  },
+  {
+   "word": "千树",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "西湖千树梅花压枝，倒映寒碧，写昔日同游盛景"
+  }
+ ]
+}

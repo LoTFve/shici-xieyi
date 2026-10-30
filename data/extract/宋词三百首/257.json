@@ -1,0 +1,226 @@
+{
+ "id": 257,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蕙花",
+   "name": "蕙",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以香草点出元夜时令与雅致氛围"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪后初晴，池馆如画"
+  },
+  {
+   "word": "池馆",
+   "name": "池馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "园林池馆，雪晴后如画"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春风送暖，吹到宝钗楼上"
+  },
+  {
+   "word": "宝钗楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "华美楼阁，元夜笙歌之处"
+  },
+  {
+   "word": "笙箫",
+   "name": "笙箫",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "一片笙箫，写元夜热闹"
+  },
+  {
+   "word": "琉璃",
+   "name": "琉璃",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "琉璃灯彩，光射元夜"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "而今灯漫挂，今昔对比"
+  },
+  {
+   "word": "暗尘明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "回忆旧时元夜明月"
+  },
+  {
+   "word": "元夜",
+   "name": "元夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "点明元宵佳节"
+  },
+  {
+   "word": "蛾儿",
+   "name": "蛾儿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "元宵女子头饰，羞与争要"
+  },
+  {
+   "word": "江城",
+   "name": "江城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "江城人悄，写眼前冷清"
+  },
+  {
+   "word": "初更",
+   "name": "初更",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "初更打，点明时间"
+  },
+  {
+   "word": "红灺",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "剔残红灺，夜深人静"
+  },
+  {
+   "word": "钿车",
+   "name": "钿车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "梦里旧时元夜的车马"
+  },
+  {
+   "word": "罗帕",
+   "name": "罗帕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "梦里旧时女子手帕"
+  },
+  {
+   "word": "吴笺",
+   "name": "笺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "吴笺银粉，欲写旧家风景"
+  },
+  {
+   "word": "绿鬟",
+   "name": "绿鬟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "邻女绿鬟，倚窗唱歌"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "邻女倚窗而唱"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "借指",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "邻女唱‘夕阳西下’，借指旧曲"
+  }
+ ]
+}

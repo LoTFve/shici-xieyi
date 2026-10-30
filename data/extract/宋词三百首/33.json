@@ -1,0 +1,193 @@
+{
+ "id": 33,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "街南春景的主体，绿叶成阴"
+  },
+  {
+   "word": "絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春末飘飞的柳絮，如雪满路"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻满地柳絮如雪"
+  },
+  {
+   "word": "游春路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "游人踏春的街道"
+  },
+  {
+   "word": "树头",
+   "name": "树梢",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "花艳所在之处"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "树头繁花与娇云相杂"
+  },
+  {
+   "word": "娇云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "形容柔美的春云"
+  },
+  {
+   "word": "朱户",
+   "name": "朱门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "树底人家，暗示所思之人的居所"
+  },
+  {
+   "word": "北楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登楼远望之处"
+  },
+  {
+   "word": "疏帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高卷的帘幕，作为窗前景物"
+  },
+  {
+   "word": "阑干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "倚尽阑干，久立不去"
+  },
+  {
+   "word": "黄昏雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏时分的雨，添人怅惘"
+  },
+  {
+   "word": "青苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "晚春盘马踏过的地面青苔"
+  },
+  {
+   "word": "绿阴",
+   "name": "树阴",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "曾傍绿阴驻马，回忆旧游"
+  },
+  {
+   "word": "落花",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花仍在，人已不知何处"
+  },
+  {
+   "word": "香屏",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "空掩的屏风，暗示人去楼空"
+  },
+  {
+   "word": "人面",
+   "name": "人面",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "化用崔护“人面不知何处去”，指所思之人"
+  }
+ ]
+}

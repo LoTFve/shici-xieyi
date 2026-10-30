@@ -1,0 +1,17 @@
+{
+ "id": 287,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "庭",
+   "name": "庭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指朝廷，是君臣上下进退的场所"
+  }
+ ]
+}

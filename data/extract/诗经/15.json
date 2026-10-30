@@ -1,0 +1,138 @@
+{
+ "id": 15,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "苹",
+   "name": "苹",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采集的水生植物，用于祭祀"
+  },
+  {
+   "word": "藻",
+   "name": "藻",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采集的水藻，与苹同为祭品"
+  },
+  {
+   "word": "南涧",
+   "name": "涧",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采苹的溪涧之处"
+  },
+  {
+   "word": "滨",
+   "name": "滨",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水边，采集地点"
+  },
+  {
+   "word": "行潦",
+   "name": "潦",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "路边积水，采藻之处"
+  },
+  {
+   "word": "筐",
+   "name": "筐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛放祭品的竹器"
+  },
+  {
+   "word": "筥",
+   "name": "筥",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛放祭品的圆竹器"
+  },
+  {
+   "word": "锜",
+   "name": "锜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "三足锅，用于烹煮祭品"
+  },
+  {
+   "word": "釜",
+   "name": "釜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "无足锅，用于烹煮祭品"
+  },
+  {
+   "word": "宗室",
+   "name": "宗庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀的宗庙场所"
+  },
+  {
+   "word": "牖",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宗庙的窗户，祭品放置处"
+  },
+  {
+   "word": "季女",
+   "name": "少女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "主持祭祀的齐家少女"
+  }
+ ]
+}

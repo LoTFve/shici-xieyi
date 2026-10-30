@@ -1,0 +1,171 @@
+{
+ "id": 134,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "枝头",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳絮吹尽的枝头，点明暮春时节"
+  },
+  {
+   "word": "香絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳絮飘尽，暗喻离别与春逝"
+  },
+  {
+   "word": "人家",
+   "name": "人家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿荫深处的民居，反衬离人之孤寂"
+  },
+  {
+   "word": "门户",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绿深门户，描绘人家掩映于绿荫中"
+  },
+  {
+   "word": "远浦",
+   "name": "浦",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远处水滨，友人乘舟远去之处"
+  },
+  {
+   "word": "暮帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "暮色中零乱的帆影，象征离人漂泊"
+  },
+  {
+   "word": "长亭",
+   "name": "长亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地，见证无数离愁"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "长亭树阅人无数，拟人化表达离情"
+  },
+  {
+   "word": "日暮",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "日暮时分，望不见高城，倍增怅惘"
+  },
+  {
+   "word": "高城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "高城不见，暗示离人已远"
+  },
+  {
+   "word": "乱山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "乱山无数，遮挡视线，烘托离愁"
+  },
+  {
+   "word": "韦郎",
+   "name": "韦郎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借韦皋典故，指代离别的情郎"
+  },
+  {
+   "word": "玉环",
+   "name": "玉环",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "玉指环为信物，象征约定与思念"
+  },
+  {
+   "word": "红萼",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "红花，借指女子青春，怕无人呵护"
+  },
+  {
+   "word": "并刀",
+   "name": "剪刀",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "并州剪刀锋利，却难剪断离愁"
+  }
+ ]
+}

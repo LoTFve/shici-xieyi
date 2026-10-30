@@ -1,0 +1,116 @@
+{
+ "id": 73,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "桂楫",
+   "name": "桨",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指代所乘之船，点出行旅"
+  },
+  {
+   "word": "中流",
+   "name": "江流",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "船行江心，展开开阔江面"
+  },
+  {
+   "word": "空波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写江面空阔明净的水光"
+  },
+  {
+   "word": "扬子驿",
+   "name": "驿站",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "江岸驿馆，点明行旅途次"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "润州城畔山峦显现于林外"
+  },
+  {
+   "word": "润州城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "对岸城郭，与扬子驿对举成景"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指江海交汇的远方天际"
+  },
+  {
+   "word": "朔吹",
+   "name": "北风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "北风生寒，渲染江上秋意"
+  },
+  {
+   "word": "枫叶",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枫叶飘落，点明深秋时节"
+  },
+  {
+   "word": "秋声",
+   "name": "秋声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枫叶淅沥之声，收束全诗秋意"
+  }
+ ]
+}

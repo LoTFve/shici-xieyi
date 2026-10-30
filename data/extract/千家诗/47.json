@@ -1,0 +1,94 @@
+{
+ "id": 47,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "丹陛",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指代朝堂宫殿，写二人同朝为官"
+  },
+  {
+   "word": "紫薇",
+   "name": "紫薇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指中书省官署，点明分曹办公之所"
+  },
+  {
+   "word": "天仗",
+   "name": "仪仗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "写清晨随皇帝仪仗入朝的景象"
+  },
+  {
+   "word": "御香",
+   "name": "御香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "写傍晚退朝时衣上沾染的宫中香气"
+  },
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "自伤年老，为花落而悲"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花落引发年华老去之悲"
+  },
+  {
+   "word": "青云",
+   "name": "青云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指高位，写羡慕他人飞黄腾达"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸟飞喻仕途得意，反衬自身迟暮"
+  }
+ ]
+}

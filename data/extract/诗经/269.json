@@ -1,0 +1,39 @@
+{
+ "id": 269,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "邦",
+   "name": "邦",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指诸侯之国，强调守土之责"
+  },
+  {
+   "word": "王",
+   "name": "王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指周王，为诸侯所尊崇"
+  },
+  {
+   "word": "前王",
+   "name": "先王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "追念先王功德，勉励后人不忘"
+  }
+ ]
+}

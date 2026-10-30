@@ -1,0 +1,61 @@
+{
+ "id": 12,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鹊",
+   "name": "鹊",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以喜鹊筑巢起兴，引出婚嫁之事"
+  },
+  {
+   "word": "巢",
+   "name": "巢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹊所筑的巢，是起兴的核心物象"
+  },
+  {
+   "word": "鸠",
+   "name": "鸠",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占居鹊巢的鸠鸟，与鹊形成对照"
+  },
+  {
+   "word": "之子",
+   "name": "新娘",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指代出嫁的女子，是诗中被祝福的对象"
+  },
+  {
+   "word": "百两",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "形容迎亲车队之盛，渲染婚礼的隆重"
+  }
+ ]
+}

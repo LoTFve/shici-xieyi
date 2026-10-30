@@ -1,0 +1,39 @@
+{
+ "id": 92,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "扬之水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以流水起兴，反衬束楚不流"
+  },
+  {
+   "word": "束楚",
+   "name": "荆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "成捆的荆条，流水冲不走，喻兄弟之情"
+  },
+  {
+   "word": "束薪",
+   "name": "薪",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "成捆的柴草，流水冲不走，与束楚同义起兴"
+  }
+ ]
+}

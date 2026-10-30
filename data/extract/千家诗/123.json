@@ -1,0 +1,61 @@
+{
+ "id": 123,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梅子",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明梅雨时节却逢晴，交代时令"
+  },
+  {
+   "word": "小溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "乘舟而行的水路，行迹起点"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "舍舟登山的行路背景"
+  },
+  {
+   "word": "绿阴",
+   "name": "树阴",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山路上浓密的树荫，写夏日清凉"
+  },
+  {
+   "word": "黄鹂",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以鸟鸣添趣，写出游的愉悦"
+  }
+ ]
+}

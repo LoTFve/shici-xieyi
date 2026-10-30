@@ -1,0 +1,39 @@
+{
+ "id": 10,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "五陵",
+   "name": "五陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指长安附近五陵，点明友人去处"
+  },
+  {
+   "word": "宝剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "价值千金，作为赠别之物的核心意象"
+  },
+  {
+   "word": "心",
+   "name": "心",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以一片心喻平生情谊，赠剑即赠心"
+  }
+ ]
+}

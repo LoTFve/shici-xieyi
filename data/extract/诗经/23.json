@@ -1,0 +1,127 @@
+{
+ "id": 23,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "野",
+   "name": "野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "郊野之地，提供全诗的野外背景"
+  },
+  {
+   "word": "死麕",
+   "name": "麕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被猎获的獐子，作为男子赠礼的猎物"
+  },
+  {
+   "word": "白茅",
+   "name": "茅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "包裹猎物的茅草，增添洁净庄重之感"
+  },
+  {
+   "word": "女",
+   "name": "女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "怀春的女子，诗中的核心人物"
+  },
+  {
+   "word": "吉士",
+   "name": "士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "追求女子的男子"
+  },
+  {
+   "word": "林",
+   "name": "林",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "树林，交代狩猎与幽会的地点"
+  },
+  {
+   "word": "朴樕",
+   "name": "朴樕",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小树丛，构成林间景象"
+  },
+  {
+   "word": "死鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "猎获的鹿，作为男子的赠礼"
+  },
+  {
+   "word": "白茅纯束",
+   "name": "茅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用茅草捆扎猎物，与上章呼应"
+  },
+  {
+   "word": "帨",
+   "name": "帨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子身上佩巾，男子勿动以示尊重"
+  },
+  {
+   "word": "尨",
+   "name": "尨",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "长毛猎狗，它的吠叫会惊动旁人"
+  }
+ ]
+}

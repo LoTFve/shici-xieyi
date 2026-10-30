@@ -1,0 +1,160 @@
+{
+ "id": 261,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楚江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "点明孤雁所离之处，空阔苍茫的背景"
+  },
+  {
+   "word": "空晚",
+   "name": "晚",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "渲染暮色空阔的孤寂氛围"
+  },
+  {
+   "word": "寒塘",
+   "name": "塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤雁欲栖之处，寒冷暗示秋意与孤独"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "沙净草枯，描绘荒寒的栖息环境"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "草枯写出秋日萧瑟"
+  },
+  {
+   "word": "残毡",
+   "name": "毡",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "冬",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用苏武啮雪拥毡典故，暗指故人困顿"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "用典",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与残毡相连，用典写故人苦寒处境"
+  },
+  {
+   "word": "长门",
+   "name": "长门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "借陈皇后长门宫典故写孤寂幽怨"
+  },
+  {
+   "word": "锦筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "锦筝弹怨，以乐声寄托旅愁"
+  },
+  {
+   "word": "芦花",
+   "name": "芦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "想象伴侣宿于芦花丛中，秋意萧瑟"
+  },
+  {
+   "word": "暮雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "想象暮雨中相呼，增添凄迷气氛"
+  },
+  {
+   "word": "玉关",
+   "name": "玉关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "边关意象，指北归重见之处，寄寓思归之情"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以双燕归来反衬孤雁之孤，对比中见情"
+  },
+  {
+   "word": "画帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "画帘半卷，写双燕归来的人家场景"
+  }
+ ]
+}

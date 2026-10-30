@@ -1,0 +1,215 @@
+{
+ "id": 280,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洞庭",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明泛舟之地，湖面开阔"
+  },
+  {
+   "word": "青草",
+   "name": "青草",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青草湖与洞庭相连，交代水域"
+  },
+  {
+   "word": "中秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明时令，引出月夜"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "无",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "“无一点风色”写湖面平静"
+  },
+  {
+   "word": "玉鉴",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以玉镜喻湖面澄澈"
+  },
+  {
+   "word": "琼田",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以琼田喻湖面洁白"
+  },
+  {
+   "word": "扁舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "一叶小舟衬湖面浩渺"
+  },
+  {
+   "word": "素月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光分辉，映照湖面"
+  },
+  {
+   "word": "明河",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "银河倒影与湖光共澄澈"
+  },
+  {
+   "word": "岭海",
+   "name": "岭南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆贬谪岭南的岁月"
+  },
+  {
+   "word": "孤光",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以孤月自照喻孤高心境"
+  },
+  {
+   "word": "冰雪",
+   "name": "冰雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻肝肺纯洁如冰雪"
+  },
+  {
+   "word": "短发",
+   "name": "发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "短发萧骚写词人衰老清冷"
+  },
+  {
+   "word": "襟袖",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "襟袖生冷，衬夜寒"
+  },
+  {
+   "word": "沧浪",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指浩渺湖水，泛舟空阔"
+  },
+  {
+   "word": "西江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "想象尽吸西江之水为酒"
+  },
+  {
+   "word": "北斗",
+   "name": "北斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "以北斗为酒器，想象奇伟"
+  },
+  {
+   "word": "万象",
+   "name": "万物",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以万象为宾客，气象宏大"
+  },
+  {
+   "word": "舷",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "扣舷独笑，写泛舟之乐"
+  }
+ ]
+}

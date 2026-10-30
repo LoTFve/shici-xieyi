@@ -1,0 +1,39 @@
+{
+ "id": 175,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "彤弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "朱漆弓，天子赏赐诸侯的礼器，宴飨核心"
+  },
+  {
+   "word": "钟鼓",
+   "name": "钟鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮时敲钟击鼓，烘托隆重欢庆氛围"
+  },
+  {
+   "word": "嘉宾",
+   "name": "宾客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "被宴请的贵客，诗人表达恩赐与喜悦的对象"
+  }
+ ]
+}

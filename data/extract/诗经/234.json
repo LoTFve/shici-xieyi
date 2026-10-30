@@ -1,0 +1,94 @@
+{
+ "id": 234,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以草枯黄起兴，渲染征夫奔波的荒凉"
+  },
+  {
+   "word": "兕",
+   "name": "兕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以野牛猛虎反衬征夫非人非兽却行于旷野"
+  },
+  {
+   "word": "虎",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与兕并举，喻征夫流离荒野的非人处境"
+  },
+  {
+   "word": "旷野",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "征夫朝夕奔走的荒凉之地"
+  },
+  {
+   "word": "狐",
+   "name": "狐",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "蓬尾狐狸穿行幽草，烘托荒凉氛围"
+  },
+  {
+   "word": "幽草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "狐狸出没的深暗草丛，加重荒僻之感"
+  },
+  {
+   "word": "栈车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "征夫所乘的简陋役车，行于大道"
+  },
+  {
+   "word": "周道",
+   "name": "大道",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "役车行走的宽阔官道，反衬征夫劳苦"
+  }
+ ]
+}

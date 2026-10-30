@@ -1,0 +1,237 @@
+{
+ "id": 279,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "关塞",
+   "name": "关塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边关要塞，点明边境景象"
+  },
+  {
+   "word": "霜风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "秋风萧瑟，渲染边地凄凉"
+  },
+  {
+   "word": "边声",
+   "name": "边声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "边境特有的声响，烘托肃杀氛围"
+  },
+  {
+   "word": "洙泗",
+   "name": "洙泗",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "孔子讲学之地，借指礼乐文明"
+  },
+  {
+   "word": "弦歌",
+   "name": "弦歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "礼乐教化之声，与沦陷现实对比"
+  },
+  {
+   "word": "毡乡",
+   "name": "毡乡",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指金人统治区"
+  },
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "黄昏景象，暗喻国势衰微"
+  },
+  {
+   "word": "牛羊",
+   "name": "牛羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "边地牧放场景，显荒凉"
+  },
+  {
+   "word": "区脱",
+   "name": "区脱",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "匈奴哨所，借指金人营垒"
+  },
+  {
+   "word": "名王",
+   "name": "名王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "金人贵族，指敌方首领"
+  },
+  {
+   "word": "宵猎",
+   "name": "猎",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "夜间打猎，炫耀武力"
+  },
+  {
+   "word": "骑火",
+   "name": "火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "骑兵的火把，照亮原野"
+  },
+  {
+   "word": "笳鼓",
+   "name": "笳鼓",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "悲壮",
+   "note": "胡笳战鼓，渲染悲凉气氛"
+  },
+  {
+   "word": "腰间箭",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "闲置的武器，象征壮志未酬"
+  },
+  {
+   "word": "匣中剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "尘封的宝剑，喻英雄无用武之地"
+  },
+  {
+   "word": "神京",
+   "name": "神京",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指沦陷的北宋都城"
+  },
+  {
+   "word": "烽燧",
+   "name": "烽燧",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "烽火台，代指边境战事"
+  },
+  {
+   "word": "冠盖使",
+   "name": "使",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南宋使臣，往来求和"
+  },
+  {
+   "word": "中原遗老",
+   "name": "遗老",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "沦陷区百姓，盼望恢复"
+  },
+  {
+   "word": "羽葆霓旌",
+   "name": "旌旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "帝王仪仗，借指宋军北伐"
+  },
+  {
+   "word": "行人",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "路过的行人，指作者自己"
+  }
+ ]
+}

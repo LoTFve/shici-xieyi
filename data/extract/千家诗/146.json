@@ -1,0 +1,72 @@
+{
+ "id": 146,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "纸屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点出室内陈设的清简"
+  },
+  {
+   "word": "石枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写出夏日卧具的清凉"
+  },
+  {
+   "word": "竹方床",
+   "name": "床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "卧具，衬托闲适生活"
+  },
+  {
+   "word": "书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "抛出书卷，表现慵懒自得"
+  },
+  {
+   "word": "渔笛",
+   "name": "笛",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "笛声从水上传来，增添清幽"
+  },
+  {
+   "word": "沧浪",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指江湖隐逸之境"
+  }
+ ]
+}

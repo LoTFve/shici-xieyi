@@ -1,0 +1,171 @@
+{
+ "id": 239,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "旱麓",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "起兴的山脚，草木丰茂的背景"
+  },
+  {
+   "word": "榛",
+   "name": "榛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山麓丛生的灌木，烘托生机"
+  },
+  {
+   "word": "楛",
+   "name": "楛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与榛并生的丛木，状山野之盛"
+  },
+  {
+   "word": "玉瓒",
+   "name": "瓒",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀用的玉柄酒勺，显礼器之洁"
+  },
+  {
+   "word": "黄流",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "瓒中金黄的祭酒，象征福禄"
+  },
+  {
+   "word": "鸢",
+   "name": "鸢",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "飞至天际的猛禽，与鱼跃对举"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鸢飞所至的高空，拓展画面空间"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "跃于深渊的鱼，与鸢飞形成上下对照"
+  },
+  {
+   "word": "渊",
+   "name": "渊",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼跃的深水，与高天相对"
+  },
+  {
+   "word": "清酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祭祀所用的清酒，表敬神之诚"
+  },
+  {
+   "word": "骍牡",
+   "name": "牲",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赤色的公牛，祭祀的牺牲"
+  },
+  {
+   "word": "柞",
+   "name": "柞",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被民众采燎的树木，见山木之用"
+  },
+  {
+   "word": "棫",
+   "name": "棫",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与柞并称的灌木，供薪燎"
+  },
+  {
+   "word": "葛藟",
+   "name": "葛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蔓延的葛藤，喻福泽绵长"
+  },
+  {
+   "word": "条枚",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "葛藟攀附的枝条，兴君子求福"
+  }
+ ]
+}

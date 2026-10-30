@@ -1,0 +1,160 @@
+{
+ "id": 50,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "芙蓉",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "荷花落尽，点明秋日衰残之景"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "水天相接，烘托苍茫暮色"
+  },
+  {
+   "word": "日暮",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西沉，引出沧波愁思"
+  },
+  {
+   "word": "沧波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "暮色中苍茫水波涌起"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "双燕背飞，反衬人之孤独"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒云映衬双燕分飞之景"
+  },
+  {
+   "word": "小楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "独倚小楼，点明眺望之所"
+  },
+  {
+   "word": "阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "倚阑远望，见凭栏怀人之态"
+  },
+  {
+   "word": "尊",
+   "name": "酒杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒遣浮生，写尊前迟暮之感"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雪满长安，写故人所在之寒"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指京城，寄寓对故人的遥念"
+  },
+  {
+   "word": "高台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象故人登台远望，两地相思"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "江南春色，寄托故人赠梅之情"
+  },
+  {
+   "word": "一枝梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "折梅相赠，以江南春信慰离思"
+  }
+ ]
+}

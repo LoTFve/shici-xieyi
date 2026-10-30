@@ -1,0 +1,116 @@
+{
+ "id": 151,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "戈",
+   "name": "戈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "候人手持的兵器，点明其职守"
+  },
+  {
+   "word": "祋",
+   "name": "祋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "候人所持的杖类兵器，与戈并举"
+  },
+  {
+   "word": "赤芾",
+   "name": "芾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色蔽膝，指代三百高官的服饰"
+  },
+  {
+   "word": "鹈",
+   "name": "鹈鹕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鹈鹕在梁上不湿翼比喻名不副实"
+  },
+  {
+   "word": "梁",
+   "name": "鱼梁",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拦水捕鱼的堰坝，鹈鹕立其上"
+  },
+  {
+   "word": "翼",
+   "name": "翼",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹈鹕的翅膀，用以说明未沾水"
+  },
+  {
+   "word": "咮",
+   "name": "喙",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹈鹕的嘴，强调其未入水捕鱼"
+  },
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "朝云升起的山，烘托季女饥苦的背景"
+  },
+  {
+   "word": "朝𬯀",
+   "name": "朝云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "清晨升腾的云气，与季女之饥形成对照"
+  },
+  {
+   "word": "季女",
+   "name": "少女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "年幼饥饿的女子，诗末寄予同情"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": 71,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "葛藟",
+   "name": "葛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "河边绵绵蔓生的葛藤，起兴并烘托流离失亲之悲"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "葛藤生长的河岸环境，点出漂泊在外的背景"
+  },
+  {
+   "word": "浒",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边，与葛藟共同构成眼前实景"
+  },
+  {
+   "word": "漘",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边，与葛藟共同构成眼前实景"
+  },
+  {
+   "word": "兄弟",
+   "name": "兄弟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "被远离的亲人，是全诗思念的核心"
+  },
+  {
+   "word": "父",
+   "name": "父",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "流离中呼他人为父，反衬失亲之痛"
+  },
+  {
+   "word": "母",
+   "name": "母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "呼他人为母而不得顾，强化孤苦"
+  },
+  {
+   "word": "昆",
+   "name": "兄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "呼他人为兄而无人闻问，收束全诗哀情"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 24,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "彩袖",
+   "name": "袖",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指身着彩衣的歌女，当年宴饮时的舞者"
+  },
+  {
+   "word": "玉锺",
+   "name": "玉钟",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "玉制酒杯，写当年殷勤劝酒的欢宴"
+  },
+  {
+   "word": "醉颜红",
+   "name": "醉颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "醉后泛红的面容，见当年尽兴之态"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "楼前垂柳，衬舞姿低回、月影下移"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "歌舞所在的楼阁，舞低时月过楼心"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "楼心之月随舞步低垂，写夜宴之久"
+  },
+  {
+   "word": "桃花",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "歌扇上桃花影动，映歌女之艳与歌舞之盛"
+  },
+  {
+   "word": "扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "歌女所持之扇，扇影摇风"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "扇影生风，写歌声舞态之动人"
+  },
+  {
+   "word": "魂梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "别后几番梦里与君相逢，写相思之深"
+  },
+  {
+   "word": "银釭",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "今宵持灯相照，欲辨相逢是真是梦"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 20,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西下，奠定全诗萧瑟苍茫的基调"
+  },
+  {
+   "word": "五湖",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "点明游湖之地，湖面辽阔而苍茫"
+  },
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "湖面雾气弥漫，与处处愁绪相融"
+  },
+  {
+   "word": "东流",
+   "name": "流水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以江水东流借指千古兴亡之事，抒发沧桑之感"
+  }
+ ]
+}

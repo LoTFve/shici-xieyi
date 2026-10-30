@@ -1,0 +1,259 @@
+{
+ "id": 40,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天门",
+   "name": "天门",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇设问的天上之门，象征贤者进取之途"
+  },
+  {
+   "word": "凤",
+   "name": "凤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以凤远逝喻贤者被疏远"
+  },
+  {
+   "word": "鴳",
+   "name": "鴳",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鴳近处喻小人得宠"
+  },
+  {
+   "word": "鲸鱏",
+   "name": "鲸",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "鲸潜深渊喻贤者隐退"
+  },
+  {
+   "word": "虾",
+   "name": "虾",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "虾游水边喻平庸之辈得势"
+  },
+  {
+   "word": "虬",
+   "name": "虬",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "乘虬登阳，写神游天界之奇幻"
+  },
+  {
+   "word": "象",
+   "name": "象",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "载象上行，神游队伍中的坐骑"
+  },
+  {
+   "word": "葱岭",
+   "name": "葱岭",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "晨发葱岭，极言神游地域之远"
+  },
+  {
+   "word": "飞泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "cascade",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北饮飞泉，写神游中的仙泉"
+  },
+  {
+   "word": "芝英",
+   "name": "芝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "南采芝英，仙家服食之象征"
+  },
+  {
+   "word": "列宿",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "宣游列宿，神游于星辰之间"
+  },
+  {
+   "word": "红采",
+   "name": "红采",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红采为衣，写仙游服饰之华美"
+  },
+  {
+   "word": "翠缥",
+   "name": "翠缥",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "翠缥为裳，青色衣裳的描写"
+  },
+  {
+   "word": "剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "竦余剑兮干将，以宝剑显刚健之气"
+  },
+  {
+   "word": "干将",
+   "name": "干将",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "干将宝剑之名，用典增其神异"
+  },
+  {
+   "word": "腾蛇",
+   "name": "腾蛇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "腾蛇后从，神游随行之灵物"
+  },
+  {
+   "word": "飞駏",
+   "name": "駏",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "飞駏步旁，神游随行的灵兽"
+  },
+  {
+   "word": "玄圃",
+   "name": "玄圃",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "微观玄圃，昆仑仙境之代称"
+  },
+  {
+   "word": "瑶光",
+   "name": "瑶光",
+   "category": "天象",
+   "parent": "star",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "览察瑶光，北斗七星之一，用典写仙境"
+  },
+  {
+   "word": "蕙",
+   "name": "蕙",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "纫蕙永辞，以香草喻美德与离别"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "浮云容与，象征漂泊无依与离思"
+  },
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "闻雷阗阗，以雷声烘托内心的忧惧"
+  },
+  {
+   "word": "阗阗",
+   "name": "雷声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雷声阗阗的拟声，强化阴忧氛围"
+  }
+ ]
+}

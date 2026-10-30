@@ -1,0 +1,61 @@
+{
+ "id": 216,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "成双飞翔的水鸟，起兴并象征君子福禄与美满"
+  },
+  {
+   "word": "罗",
+   "name": "罗网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕鸟的网，交代鸳鸯被罗捕的处境"
+  },
+  {
+   "word": "梁",
+   "name": "鱼梁",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水堰，鸳鸯停歇收翼之处"
+  },
+  {
+   "word": "乘马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "驾车或备用的马，引出喂养与祝福"
+  },
+  {
+   "word": "厩",
+   "name": "马厩",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "马所在之处，写牲畜安顿有序"
+  }
+ ]
+}

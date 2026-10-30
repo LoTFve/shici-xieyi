@@ -1,0 +1,50 @@
+{
+ "id": 285,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "武王",
+   "name": "王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "颂扬武王功业"
+  },
+  {
+   "word": "文王",
+   "name": "王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "追述文王开创基业"
+  },
+  {
+   "word": "殷",
+   "name": "殷",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指殷商政权"
+  },
+  {
+   "word": "武",
+   "name": "武",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指继承武王功业"
+  }
+ ]
+}

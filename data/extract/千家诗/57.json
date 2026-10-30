@@ -1,0 +1,138 @@
+{
+ "id": 57,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楚山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "楚地远山连绵不尽，起笔写旅途所见"
+  },
+  {
+   "word": "归路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "归乡之路萧条冷落，点出旅情"
+  },
+  {
+   "word": "海色",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "晴日望海色而觉将雨，写江南水气"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "由海色预感的雨意"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜听江声潮响，写客中不寐"
+  },
+  {
+   "word": "潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜潮之声，衬旅夜寂寥"
+  },
+  {
+   "word": "剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "剑留南斗，写客居南方、书剑飘零"
+  },
+  {
+   "word": "南斗",
+   "name": "南斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "以南斗星位点明客地，暗寄归思"
+  },
+  {
+   "word": "书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "寄书北风，家信难达"
+  },
+  {
+   "word": "北风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "托北风寄书，风向北而人望乡"
+  },
+  {
+   "word": "空潭橘",
+   "name": "橘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "潭边空有橘，欲寄而无人为媒"
+  },
+  {
+   "word": "洛桥",
+   "name": "洛桥",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指洛阳家乡，点明寄书所向"
+  }
+ ]
+}

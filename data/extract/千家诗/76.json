@@ -1,0 +1,50 @@
+{
+ "id": 76,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "胜日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "点明晴朗和煦的春日好天气"
+  },
+  {
+   "word": "泗水",
+   "name": "泗水",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借孔子讲学之地暗指圣贤之道"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春风化育万物的象征"
+  },
+  {
+   "word": "万紫千红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以百花盛开的色彩写春色满眼"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "id": 31,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "原野",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人成长与遭弃的荒远之地"
+  },
+  {
+   "word": "门下",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指君王近臣权门，进谗之所"
+  },
+  {
+   "word": "高山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以崔巍高山反衬自身孤危"
+  },
+  {
+   "word": "水流",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "汤汤流水喻世道奔逝、生命将尽"
+  },
+  {
+   "word": "麋鹿",
+   "name": "麋鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "与麋鹿同坑，写死后的荒凉"
+  },
+  {
+   "word": "鸿鹄",
+   "name": "鸿鹄",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "比喻被斥逐的贤才"
+  },
+  {
+   "word": "鸱枭",
+   "name": "鸱枭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻君王亲近的谗佞小人"
+  },
+  {
+   "word": "橘柚",
+   "name": "橘柚",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻被斩伐的忠良之士"
+  },
+  {
+   "word": "苦桃",
+   "name": "苦桃",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻被列植的庸劣之人"
+  },
+  {
+   "word": "修竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以江潭修竹自喻高洁而孤独"
+  },
+  {
+   "word": "江潭",
+   "name": "江潭",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "修竹寄生之处，写幽僻之境"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "葳蕤防露，写竹丛茂密含露"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "泠泠来风，写竹下清冷之声"
+  },
+  {
+   "word": "苍天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "呼告苍天，抒发无人振理之怨"
+  }
+ ]
+}

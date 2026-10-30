@@ -1,0 +1,94 @@
+{
+ "id": 265,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "旻天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "呼告苍天，以天之威严降灾起笔"
+  },
+  {
+   "word": "岁旱",
+   "name": "旱",
+   "category": "气象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以旱灾草枯比喻国势凋敝"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "旱岁草不茂，喻民生凋零"
+  },
+  {
+   "word": "栖苴",
+   "name": "枯草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "水中浮草枯槁，喻流亡之民"
+  },
+  {
+   "word": "池",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "池竭自边起，喻祸患由外及内"
+  },
+  {
+   "word": "泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泉竭自中起，喻国家根本先坏"
+  },
+  {
+   "word": "蟊贼",
+   "name": "害虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以吃庄稼的害虫喻朝中内讧小人"
+  },
+  {
+   "word": "召公",
+   "name": "召公",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "追忆先王贤臣开疆拓土之功"
+  }
+ ]
+}

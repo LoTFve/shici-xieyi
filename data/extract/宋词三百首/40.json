@@ -1,0 +1,105 @@
+{
+ "id": 40,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明夜饮归来的时间背景"
+  },
+  {
+   "word": "三更",
+   "name": "三更",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "写归来已深夜，烘托醉归之态"
+  },
+  {
+   "word": "家童",
+   "name": "童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "写家童熟睡，反衬夜静与词人独醒"
+  },
+  {
+   "word": "鼻息",
+   "name": "鼻息",
+   "category": "声音",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "以雷鸣喻鼾声，写家童沉睡之态"
+  },
+  {
+   "word": "杖",
+   "name": "杖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "倚杖写出词人醉归独立江边的形象"
+  },
+  {
+   "word": "江声",
+   "name": "江声",
+   "category": "声音",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以江声衬夜静，引出下片的身世之叹"
+  },
+  {
+   "word": "縠纹",
+   "name": "波纹",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "以绉纱喻江面细波，写风静水平之景"
+  },
+  {
+   "word": "小舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "象征归隐江湖的愿望"
+  },
+  {
+   "word": "江海",
+   "name": "江海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象中的归隐之地，寄托余生之志"
+  }
+ ]
+}

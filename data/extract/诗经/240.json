@@ -1,0 +1,171 @@
+{
+ "id": 240,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "大任",
+   "name": "大任",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "文王之母，颂扬的起点"
+  },
+  {
+   "word": "周姜",
+   "name": "周姜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "太王之王后，与文王之母并称"
+  },
+  {
+   "word": "京室",
+   "name": "京室",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指周王室，以宫室代指王族"
+  },
+  {
+   "word": "大姒",
+   "name": "大姒",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "文王之妻，承继美好名声"
+  },
+  {
+   "word": "男",
+   "name": "男",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指子孙，言其多"
+  },
+  {
+   "word": "宗公",
+   "name": "宗公",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "先祖宗庙之公，指祖先神灵"
+  },
+  {
+   "word": "神",
+   "name": "神",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神灵，言其无怨无痛"
+  },
+  {
+   "word": "寡妻",
+   "name": "寡妻",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指嫡妻，文王以礼法示范"
+  },
+  {
+   "word": "兄弟",
+   "name": "兄弟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宗族兄弟，言文王推恩"
+  },
+  {
+   "word": "家邦",
+   "name": "家邦",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "家族与邦国，文王治化所及"
+  },
+  {
+   "word": "宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫室之中，雍雍和睦之所在"
+  },
+  {
+   "word": "庙",
+   "name": "庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宗庙，肃肃敬慎之所"
+  },
+  {
+   "word": "四戎",
+   "name": "四戎",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四方戎狄，言文王德化远及"
+  },
+  {
+   "word": "古之人",
+   "name": "古之人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指古代圣贤，诗人称颂效法"
+  },
+  {
+   "word": "士",
+   "name": "士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "贤士，言文王育才誉髦"
+  }
+ ]
+}

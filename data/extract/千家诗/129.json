@@ -1,0 +1,83 @@
+{
+ "id": 129,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山原",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿意覆盖的远山原野，铺展乡村背景"
+  },
+  {
+   "word": "川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "白水满溢的河川，与绿山形成色彩对照"
+  },
+  {
+   "word": "子规",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以啼声点出四月乡村的时令氛围"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "细密如烟的春雨，渲染朦胧田园景致"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "比喻雨丝如烟雾般迷蒙"
+  },
+  {
+   "word": "蚕桑",
+   "name": "蚕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指代采桑养蚕的农事，写乡村四月忙碌"
+  },
+  {
+   "word": "田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "插秧的水田，点出农忙场景"
+  }
+ ]
+}

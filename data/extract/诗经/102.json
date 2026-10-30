@@ -1,0 +1,61 @@
+{
+ "id": 102,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "甫田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "大片荒芜的田地，是全诗起兴和劝诫的背景"
+  },
+  {
+   "word": "莠",
+   "name": "莠",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "田中茂盛的杂草，象征荒芜与徒劳"
+  },
+  {
+   "word": "远人",
+   "name": "远人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "远方思念的人，是诗中忧思的对象"
+  },
+  {
+   "word": "总角",
+   "name": "总角",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "儿童的发式，指代年幼的孩童"
+  },
+  {
+   "word": "弁",
+   "name": "弁",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "成年男子的冠帽，借指孩童已成年"
+  }
+ ]
+}

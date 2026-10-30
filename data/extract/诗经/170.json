@@ -1,0 +1,105 @@
+{
+ "id": 170,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鱼落入竹笼，是宴饮丰盛的实景起兴"
+  },
+  {
+   "word": "罶",
+   "name": "罶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕鱼的竹笼，鱼入其中象征收获"
+  },
+  {
+   "word": "鲿",
+   "name": "鲿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "列举鱼名，铺陈鱼获之盛"
+  },
+  {
+   "word": "鲨",
+   "name": "鲨",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小鱼名，与鲿并列见物产之丰"
+  },
+  {
+   "word": "鲂",
+   "name": "鲂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鳊鱼，宴席鱼获之一"
+  },
+  {
+   "word": "鳢",
+   "name": "鳢",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黑鱼，与鲂并列"
+  },
+  {
+   "word": "鰋",
+   "name": "鰋",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鲇鱼，鱼获之一"
+  },
+  {
+   "word": "鲤",
+   "name": "鲤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鲤鱼，与鰋并列，收束鱼名铺陈"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "君子宴饮之酒，反复咏叹其旨且多"
+  }
+ ]
+}

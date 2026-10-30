@@ -1,0 +1,105 @@
+{
+ "id": 255,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "上帝",
+   "name": "上帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指主宰万物的天神，诗中以之立威"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "泛指上天、天命，作为权威的象征"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指殷商沉湎于酒，借以批评其失德"
+  },
+  {
+   "word": "蜩",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蝉鸣比喻朝政喧嚣混乱"
+  },
+  {
+   "word": "螗",
+   "name": "螗",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝉的一种，与蜩并用比喻喧嚷"
+  },
+  {
+   "word": "鬼方",
+   "name": "鬼方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "远方部族之名，表示祸乱波及边远"
+  },
+  {
+   "word": "枝叶",
+   "name": "枝叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以树木枝叶比喻国家表面，本根才是根本"
+  },
+  {
+   "word": "本",
+   "name": "根",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "树根，比喻国家的根本"
+  },
+  {
+   "word": "夏后",
+   "name": "夏后",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指夏桀，借历史兴亡为殷鉴"
+  }
+ ]
+}

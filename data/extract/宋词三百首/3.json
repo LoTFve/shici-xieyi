@@ -1,0 +1,237 @@
+{
+ "id": 3,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晚风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "吹落花瓣，渲染春暮凋零"
+  },
+  {
+   "word": "片绣",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "落花如绣片点缀草地"
+  },
+  {
+   "word": "重茵",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "草地如茵，落花点缀其上"
+  },
+  {
+   "word": "旧堤",
+   "name": "堤",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旧日江堤，引出离别场景"
+  },
+  {
+   "word": "燕尾",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "堤分如燕尾，暗含春意"
+  },
+  {
+   "word": "桂棹",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "桂木船桨，借指舟船"
+  },
+  {
+   "word": "轻鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "轻捷的鸥鸟，点缀江面"
+  },
+  {
+   "word": "宝勒",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美马勒，借指骑马之人"
+  },
+  {
+   "word": "残云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "残云倚天，烘托怅惘"
+  },
+  {
+   "word": "千丝",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳丝怨碧，写离愁别恨"
+  },
+  {
+   "word": "仙坞",
+   "name": "坞",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙家坞堡，指迷离之境"
+  },
+  {
+   "word": "迷津",
+   "name": "渡口",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用桃源典故，指迷失津渡"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "隔花窥见佳人背影"
+  },
+  {
+   "word": "楚腰",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "用楚王细腰典，写女子身姿"
+  },
+  {
+   "word": "门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "题门典故，写惆怅不遇"
+  },
+  {
+   "word": "堕履",
+   "name": "履",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用张良堕履典，写牵挂萦怀"
+  },
+  {
+   "word": "眼",
+   "name": "眼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "眼波传情，点明留情之由"
+  },
+  {
+   "word": "孤烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "孤烟冷寂，预示明朝孤寂"
+  },
+  {
+   "word": "风雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象明朝满湖风雨愁人"
+  },
+  {
+   "word": "山黛",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "山色如黛，暮色中苍茫"
+  },
+  {
+   "word": "尘波",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "烟波淡绿无痕，收束全词"
+  }
+ ]
+}

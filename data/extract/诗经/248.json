@@ -1,0 +1,138 @@
+{
+ "id": 248,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凫",
+   "name": "鸭",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水边野鸭，与鹥同为宴饮背景的禽鸟"
+  },
+  {
+   "word": "鹥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "沙洲水鸟，与凫并提作起兴"
+  },
+  {
+   "word": "泾",
+   "name": "泾",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水名兼水径，凫鹥所在之处"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水边沙洲，凫鹥栖息之地"
+  },
+  {
+   "word": "渚",
+   "name": "渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中小洲，凫鹥所止"
+  },
+  {
+   "word": "潨",
+   "name": "水汇",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水会流处，凫鹥所在"
+  },
+  {
+   "word": "亹",
+   "name": "水门",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水流峡中，凫鹥所止"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮之清酒，公尸燕饮的主角"
+  },
+  {
+   "word": "肴",
+   "name": "肴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴席上的菜肴，与酒并称"
+  },
+  {
+   "word": "脯",
+   "name": "脯",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "干肉，宴席食品"
+  },
+  {
+   "word": "燔炙",
+   "name": "燔炙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "烤肉，宴饮的香气来源"
+  },
+  {
+   "word": "公尸",
+   "name": "尸",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "代神受祭的尸，宴饮主角"
+  }
+ ]
+}

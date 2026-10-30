@@ -1,0 +1,116 @@
+{
+ "id": 131,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "交交鸣叫的黄鸟，起兴并烘托悲情"
+  },
+  {
+   "word": "棘",
+   "name": "棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟停落的酸枣树，起兴之物"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟停落的桑树，起兴之物"
+  },
+  {
+   "word": "楚",
+   "name": "楚",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟停落的荆条，起兴之物"
+  },
+  {
+   "word": "穴",
+   "name": "穴",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "殉葬的墓穴，令人战栗"
+  },
+  {
+   "word": "苍天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "呼天控诉，表达对良人被害的悲愤"
+  },
+  {
+   "word": "穆公",
+   "name": "穆公",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指秦穆公，交代殉葬之事的由来"
+  },
+  {
+   "word": "奄息",
+   "name": "奄息",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "子车氏三良之一，被殉葬的良人"
+  },
+  {
+   "word": "仲行",
+   "name": "仲行",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "子车氏三良之一，被殉葬的良人"
+  },
+  {
+   "word": "针虎",
+   "name": "针虎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "子车氏三良之一，被殉葬的良人"
+  }
+ ]
+}

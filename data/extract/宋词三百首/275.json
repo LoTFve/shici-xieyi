@@ -1,0 +1,127 @@
+{
+ "id": 275,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "社日",
+   "name": "社日",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "欢欣",
+   "note": "点明春社时节，反衬漂泊孤单"
+  },
+  {
+   "word": "双飞燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "哀愁",
+   "note": "成双燕子反衬人之孤独"
+  },
+  {
+   "word": "江城",
+   "name": "江城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "客居之地，点出漂泊所在"
+  },
+  {
+   "word": "乱山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "层叠乱山写身处荒僻"
+  },
+  {
+   "word": "溪桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "溪畔孤桥，衬寂寞处境"
+  },
+  {
+   "word": "春衫",
+   "name": "衫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春衫破旧，见羁旅潦倒"
+  },
+  {
+   "word": "泪痕",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泪满衣衫，写思乡伤心"
+  },
+  {
+   "word": "落日",
+   "name": "落日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮色解鞍，添羁旅迟暮之感"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "芳草岸头，暗含王孙不归之意"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花开无人戴，反衬孤身"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "有酒无人劝，写独醉无伴"
+  }
+ ]
+}

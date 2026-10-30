@@ -1,0 +1,39 @@
+{
+ "id": 120,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "羔裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以羔羊皮袄借指那位贵族官员，是诗中反复咏叹的穿着"
+  },
+  {
+   "word": "豹祛",
+   "name": "豹袖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "羔裘的豹皮袖口，显示其身份华贵，与羔裘共同构成人物形象"
+  },
+  {
+   "word": "豹褎",
+   "name": "豹袖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "同“豹祛”，指豹皮衣袖，重复咏叹以强化贵族形貌"
+  }
+ ]
+}

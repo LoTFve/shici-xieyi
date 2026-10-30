@@ -1,0 +1,39 @@
+{
+ "id": 146,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "羔裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以羔裘狐裘的华贵起兴，暗写对方安逸享乐"
+  },
+  {
+   "word": "狐裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "与羔裘对举，指朝服，衬出对方身份"
+  },
+  {
+   "word": "日出",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "以日出照耀裘衣的光泽作比，写羔裘之洁白润泽"
+  }
+ ]
+}

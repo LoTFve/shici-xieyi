@@ -1,0 +1,182 @@
+{
+ "id": 255,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "重阳",
+   "name": "重阳",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明节令，引出登高怀人之情"
+  },
+  {
+   "word": "风雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "渲染重阳时节凄凉氛围"
+  },
+  {
+   "word": "秋香",
+   "name": "桂花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指秋日花香，引出游兴"
+  },
+  {
+   "word": "西城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指游赏去处"
+  },
+  {
+   "word": "荒台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登高所见荒凉台榭，触景伤情"
+  },
+  {
+   "word": "尊前",
+   "name": "酒樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "宴饮场景，引出回忆"
+  },
+  {
+   "word": "洒酒插花人",
+   "name": "故人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆中已不在的旧友"
+  },
+  {
+   "word": "老兵",
+   "name": "老兵",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用典，感叹座上无豪杰旧友"
+  },
+  {
+   "word": "长楸",
+   "name": "楸树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中驰马的大道旁树木"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "回忆少年走马射猎的豪情"
+  },
+  {
+   "word": "雕弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "回忆中射猎的兵器"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "回忆中射柳的场景，今昔对比"
+  },
+  {
+   "word": "紫萸",
+   "name": "茱萸",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "重阳赐茱萸的旧俗，寄托故国之思"
+  },
+  {
+   "word": "汉家陵",
+   "name": "陵墓",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借汉陵指故国，抒发兴亡之感"
+  },
+  {
+   "word": "乌纱",
+   "name": "乌纱帽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "指头上纱帽，任风吹去，见洒脱与悲愤"
+  },
+  {
+   "word": "华发",
+   "name": "白发",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "感叹年老，岁月蹉跎"
+  }
+ ]
+}

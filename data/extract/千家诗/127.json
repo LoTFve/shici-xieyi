@@ -1,0 +1,83 @@
+{
+ "id": 127,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "浓荫覆盖，点出夏日山居的清幽"
+  },
+  {
+   "word": "楼台",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "倒影入池，写建筑与水的映照之美"
+  },
+  {
+   "word": "池塘",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "承接楼台倒影，展现静水画面"
+  },
+  {
+   "word": "水晶帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以水晶帘比喻池面波光，写微风拂水"
+  },
+  {
+   "word": "微风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "吹动帘动、送来花香，是全诗的动态引子"
+  },
+  {
+   "word": "蔷薇",
+   "name": "蔷薇",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "满架花开，香气满院，收束夏日芬芳"
+  },
+  {
+   "word": "院",
+   "name": "院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明香气的空间范围，写出庭院的幽静"
+  }
+ ]
+}

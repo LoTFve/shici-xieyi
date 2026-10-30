@@ -1,0 +1,237 @@
+{
+ "id": 258,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "烟中迷失的雁影，起兴羁旅"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "断续的街鼓声，点出夜深人静"
+  },
+  {
+   "word": "钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "零落钟声与鼓声交织，衬托寂静"
+  },
+  {
+   "word": "风檠",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "背寒壁的孤灯，映出客居清冷"
+  },
+  {
+   "word": "冰蜍",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "以冰蟾代月，月光穿窗而入"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光丝丝透窗，构成室内框景"
+  },
+  {
+   "word": "琼瑰",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以美玉喻泪，暗泣乡愁"
+  },
+  {
+   "word": "乡关",
+   "name": "故乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "直指故园，点明全词乡思"
+  },
+  {
+   "word": "霜芜",
+   "name": "霜草",
+   "category": "植物",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "霜打荒草如织，写故乡荒凉"
+  },
+  {
+   "word": "鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "化鹤归来之典，写身归而心迷"
+  },
+  {
+   "word": "蓬壶",
+   "name": "仙山",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蓬莱壶中仙境，借指旧游欢处"
+  },
+  {
+   "word": "蕖",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "莲浸水中，写仙苑清丽之景"
+  },
+  {
+   "word": "花院",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "花院梨溶，追忆春夜欢宴"
+  },
+  {
+   "word": "梨",
+   "name": "梨",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "梨花溶溶，渲染旧日春景"
+  },
+  {
+   "word": "弈",
+   "name": "棋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "柯云罢弈，用烂柯典写世事变迁"
+  },
+  {
+   "word": "樱桃",
+   "name": "樱桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "樱桃仍在而旧梦难寻，物是人非"
+  },
+  {
+   "word": "清光",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "劝月光相伴幽窗，寄托孤怀"
+  },
+  {
+   "word": "红楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "休照红楼夜笛，怕触动人间离恨"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜笛声起，添人间凄凉"
+  },
+  {
+   "word": "伊凉",
+   "name": "乐曲",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "伊凉曲换谱，暗喻世变音改"
+  },
+  {
+   "word": "素娥",
+   "name": "嫦娥",
+   "category": "人物",
+   "parent": "moon",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以月宫嫦娥收束，写清冷孤高"
+  }
+ ]
+}

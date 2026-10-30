@@ -1,0 +1,149 @@
+{
+ "id": 79,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "彭",
+   "name": "彭",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "清人驻守的河上地名，点出地点"
+  },
+  {
+   "word": "驷介",
+   "name": "驷",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹披甲战马，写军容之盛"
+  },
+  {
+   "word": "旁旁",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容驷马强壮之貌，以马代人"
+  },
+  {
+   "word": "二矛",
+   "name": "矛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "两枝长矛，写兵器之饰"
+  },
+  {
+   "word": "重英",
+   "name": "矛缨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "矛上重饰的缨穗"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄河边，清人翱翔逍遥之地"
+  },
+  {
+   "word": "消",
+   "name": "消",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "清人驻守的河上地名"
+  },
+  {
+   "word": "麃麃",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容驷马威武之貌"
+  },
+  {
+   "word": "重乔",
+   "name": "矛缨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "矛上重饰的雉羽"
+  },
+  {
+   "word": "轴",
+   "name": "轴",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "清人驻守的河上地名"
+  },
+  {
+   "word": "陶陶",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "形容驷马驱驰和乐之貌"
+  },
+  {
+   "word": "左旋右抽",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战车左转右抽的操演动作，写车战之技"
+  },
+  {
+   "word": "中军",
+   "name": "中军",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "中军主帅，写军中指挥者"
+  }
+ ]
+}

@@ -1,0 +1,226 @@
+{
+ "id": 180,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春社",
+   "name": "春社",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "点明时令，春社已过，燕子归来"
+  },
+  {
+   "word": "帘幕",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "燕子穿度帘幕，渲染旧居冷寂"
+  },
+  {
+   "word": "尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "去年积尘，写故巢冷落"
+  },
+  {
+   "word": "旧巢",
+   "name": "巢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "燕子欲归的旧巢，牵动怀旧"
+  },
+  {
+   "word": "雕梁",
+   "name": "雕梁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕子相看的华美屋梁"
+  },
+  {
+   "word": "藻井",
+   "name": "藻井",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与雕梁并写，见居处精致"
+  },
+  {
+   "word": "花梢",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "燕子拂过花梢，写春日生机"
+  },
+  {
+   "word": "翠尾",
+   "name": "尾",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写燕子翠色尾羽分开花影"
+  },
+  {
+   "word": "红影",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指花丛，写燕子掠过花间"
+  },
+  {
+   "word": "芳径",
+   "name": "芳径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "落花满径，燕子嬉戏之处"
+  },
+  {
+   "word": "芹泥",
+   "name": "泥",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后润湿的泥，燕子衔泥筑巢"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春雨润泥，衬燕子忙碌"
+  },
+  {
+   "word": "红楼",
+   "name": "红楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "燕子归晚的红楼，也是思妇所居"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "柳昏写暮色，暗含离愁"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "花暝与柳昏并写，暮色迷蒙"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指远方，花信不至的遥远之地"
+  },
+  {
+   "word": "芳信",
+   "name": "信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指远人的音信，燕子忘却传递"
+  },
+  {
+   "word": "翠黛",
+   "name": "翠黛",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指思妇的眉，写其愁损"
+  },
+  {
+   "word": "双蛾",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指思妇的双眉，愁损不展"
+  },
+  {
+   "word": "画阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "思妇日日独凭的画栏，写孤寂"
+  }
+ ]
+}

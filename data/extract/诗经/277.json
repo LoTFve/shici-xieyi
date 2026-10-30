@@ -1,0 +1,39 @@
+{
+ "id": 277,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "百谷",
+   "name": "谷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "农夫播种的各类谷物，点出春耕农事"
+  },
+  {
+   "word": "农夫",
+   "name": "农夫",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "统领春耕的农人形象"
+  },
+  {
+   "word": "三十里",
+   "name": "田地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极言耕种田亩之广，显农事之盛"
+  }
+ ]
+}

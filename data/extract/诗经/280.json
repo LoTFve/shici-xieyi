@@ -1,0 +1,204 @@
+{
+ "id": 280,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "瞽",
+   "name": "瞽",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盲人乐师，诗的主角，在周庭奏乐"
+  },
+  {
+   "word": "庭",
+   "name": "庭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "周王宗庙的庭院，奏乐场所"
+  },
+  {
+   "word": "业",
+   "name": "业",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "悬鼓的大版，乐器架的一部分"
+  },
+  {
+   "word": "虡",
+   "name": "虡",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "悬挂钟鼓的木架立柱"
+  },
+  {
+   "word": "崇牙",
+   "name": "崇牙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乐器架上刻如牙状的装饰"
+  },
+  {
+   "word": "羽",
+   "name": "羽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "插在乐器架上的羽毛装饰"
+  },
+  {
+   "word": "应",
+   "name": "应鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小鼓，应和大鼓"
+  },
+  {
+   "word": "田",
+   "name": "田鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "大鼓，与应鼓相配"
+  },
+  {
+   "word": "县鼓",
+   "name": "悬鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "悬挂起来的大鼓"
+  },
+  {
+   "word": "鞉",
+   "name": "鞉鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "摇鼓，奏乐所用"
+  },
+  {
+   "word": "磬",
+   "name": "磬",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "石制打击乐器"
+  },
+  {
+   "word": "柷",
+   "name": "柷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "木制乐器，奏乐开始时击打"
+  },
+  {
+   "word": "圉",
+   "name": "圉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "木制乐器，奏乐结束时刮奏"
+  },
+  {
+   "word": "箫",
+   "name": "箫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "管乐器，与管合奏"
+  },
+  {
+   "word": "管",
+   "name": "管",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "管乐器，与箫齐奏"
+  },
+  {
+   "word": "声",
+   "name": "乐声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "洪亮的乐声，肃穆和谐"
+  },
+  {
+   "word": "先祖",
+   "name": "先祖",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "在天的祖先神灵，聆听音乐"
+  },
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "前来观礼的宾客"
+  }
+ ]
+}

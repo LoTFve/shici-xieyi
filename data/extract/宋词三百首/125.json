@@ -1,0 +1,116 @@
+{
+ "id": 125,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "燕燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以轻盈飞燕比喻所思念的女子"
+  },
+  {
+   "word": "莺莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以娇软莺声比喻女子语声"
+  },
+  {
+   "word": "华胥",
+   "name": "华胥",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "借指梦境，点明所写为梦中相见"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "长夜难眠，衬出相思之苦"
+  },
+  {
+   "word": "书辞",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "别后往来的书信，寄托情意"
+  },
+  {
+   "word": "针线",
+   "name": "针线",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "别时缝衣的针线，留存旧日情意"
+  },
+  {
+   "word": "离魂",
+   "name": "魂",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "女子魂魄暗暗追随情郎远行"
+  },
+  {
+   "word": "淮南",
+   "name": "淮南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "点明相思所在之地"
+  },
+  {
+   "word": "皓月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "冷月照千山，映出凄清孤寂"
+  },
+  {
+   "word": "千山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光下群山清冷，境界空阔寂寥"
+  }
+ ]
+}

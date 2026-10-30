@@ -1,0 +1,160 @@
+{
+ "id": 72,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春景起兴，以萋萋碧草引出离愁"
+  },
+  {
+   "word": "南陌",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明芳草蔓延的城南道路"
+  },
+  {
+   "word": "暖絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暮春飘絮，映衬春愁无力"
+  },
+  {
+   "word": "乱红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花纷乱，烘托伤春情绪"
+  },
+  {
+   "word": "盈盈",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指体态轻盈的拾翠女伴"
+  },
+  {
+   "word": "拾翠侣",
+   "name": "游女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中同游拾翠的伴侣"
+  },
+  {
+   "word": "凤城",
+   "name": "京城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指京城，点出昔日寒食同游之地"
+  },
+  {
+   "word": "寒食",
+   "name": "寒食",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明昔日共游的节令"
+  },
+  {
+   "word": "海角",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "喻指如今漂泊的极远之地"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "与海角对举，写客居之远"
+  },
+  {
+   "word": "危阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "倚阑远望，写伫立之久"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时间，渲染伫立至暮的惆怅"
+  },
+  {
+   "word": "暮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮云凝碧，以景结情写望断之态"
+  },
+  {
+   "word": "鳞鸿",
+   "name": "鱼雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借鱼雁传书之典，盼望音信"
+  }
+ ]
+}

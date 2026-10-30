@@ -1,0 +1,116 @@
+{
+ "id": 69,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "小楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "词人清晨独处之地"
+  },
+  {
+   "word": "晓阴",
+   "name": "阴",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "清晨阴沉的天气"
+  },
+  {
+   "word": "穷秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻晓阴的萧瑟如深秋"
+  },
+  {
+   "word": "淡烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "画屏上的淡薄烟雾"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "画屏上的流水景致"
+  },
+  {
+   "word": "画屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "室内屏风，上有烟雾流水"
+  },
+  {
+   "word": "飞花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "自在飘落的花瓣，比喻梦境"
+  },
+  {
+   "word": "丝雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "细密如丝的雨，比喻愁绪"
+  },
+  {
+   "word": "宝帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "华美的帘幕，闲挂银钩"
+  },
+  {
+   "word": "银钩",
+   "name": "钩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "挂帘用的银制帘钩"
+  }
+ ]
+}

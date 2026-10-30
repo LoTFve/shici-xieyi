@@ -1,0 +1,127 @@
+{
+ "id": 2,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "湿云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "阴沉湿润的云，烘托离愁氛围"
+  },
+  {
+   "word": "雁影",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雁影映愁，象征远行与书信"
+  },
+  {
+   "word": "征路",
+   "name": "征路",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "远行的道路，点出离别主题"
+  },
+  {
+   "word": "疏钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "稀疏钟声催晓，增添清冷孤寂"
+  },
+  {
+   "word": "乱鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "乱鸦啼暮，渲染离愁别绪"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "花暗省，借花引发回忆"
+  },
+  {
+   "word": "行云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "行云比喻远去不归之人"
+  },
+  {
+   "word": "鸾",
+   "name": "鸾",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盟鸾心在，用典表示爱情盟誓"
+  },
+  {
+   "word": "鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "跨鹤程高，用典指仙道或高远行程"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "双燕象征成双成对，反衬孤独"
+  },
+  {
+   "word": "菱花",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "菱花指镜子，对镜说相思"
+  }
+ ]
+}

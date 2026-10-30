@@ -1,0 +1,50 @@
+{
+ "id": 147,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "素冠",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "白冠为丧服，表哀悼之情"
+  },
+  {
+   "word": "素衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "白衣丧服，寄托悲思"
+  },
+  {
+   "word": "素韠",
+   "name": "韠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "白色蔽膝，丧服之饰"
+  },
+  {
+   "word": "棘人",
+   "name": "棘人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "瘦削的服丧者"
+  }
+ ]
+}

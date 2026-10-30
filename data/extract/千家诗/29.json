@@ -1,0 +1,28 @@
+{
+ "id": 29,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟霞",
+   "name": "霞",
+   "category": "天象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写竹林寺周围云雾霞光缭绕、远离尘嚣的景致"
+  },
+  {
+   "word": "竹林寺",
+   "name": "寺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明诗人所游之地，是承载殷勤留恋的处所"
+  }
+ ]
+}

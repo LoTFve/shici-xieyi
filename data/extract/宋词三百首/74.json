@@ -1,0 +1,50 @@
+{
+ "id": 74,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "芳春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "点明时节，引出惜春之情"
+  },
+  {
+   "word": "老人",
+   "name": "老人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "词人自指，抒发年老惜春之感"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "恼花因惜春而生的怜爱对象"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "醉中求真，全词主旨所系"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": 185,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明秋日江景，奠定全词基调"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋雨增添寒意与愁绪"
+  },
+  {
+   "word": "寒沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒沙萦水，突出秋江冷寂"
+  },
+  {
+   "word": "画阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "人独倚画阁俯瞰江景"
+  },
+  {
+   "word": "烟蓑",
+   "name": "蓑衣",
+   "category": "器物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "渔人蓑衣在烟雨中散响"
+  },
+  {
+   "word": "乱鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乱鸥飞去打断诗思"
+  },
+  {
+   "word": "隔岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隔岸微茫云屋"
+  },
+  {
+   "word": "云屋",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云中隐约的房屋"
+  },
+  {
+   "word": "渔市",
+   "name": "渔市",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "想象渔市樵村的暮色"
+  },
+  {
+   "word": "樵村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "樵村与渔市相对"
+  },
+  {
+   "word": "暮",
+   "name": "暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "欲暮时分竞然竹"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "持酒慰凄凉"
+  },
+  {
+   "word": "南陌",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "一鞭南陌，指策马而行"
+  },
+  {
+   "word": "官渡",
+   "name": "渡",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "几篙官渡，乘船之处"
+  },
+  {
+   "word": "歌眉",
+   "name": "歌女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "歌女舒眉，聊慰寂寥"
+  },
+  {
+   "word": "乔木",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "闲愁挂乔木，愁绪蔓延"
+  },
+  {
+   "word": "淮山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "望彻淮山，寄托对故人的思念"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "相思无雁足，借指书信"
+  }
+ ]
+}

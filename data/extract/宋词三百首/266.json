@@ -1,0 +1,182 @@
+{
+ "id": 266,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晓光",
+   "name": "晨光",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明清晨时分，催动号角声"
+  },
+  {
+   "word": "角",
+   "name": "角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "清晨的号角声，渲染旅途早行氛围"
+  },
+  {
+   "word": "宿鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "栖息的鸟未惊，突出清晨寂静"
+  },
+  {
+   "word": "邻鸡",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "鸡鸣报晓，暗示乡村晨景"
+  },
+  {
+   "word": "烟村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "雾气笼罩的村庄，描绘旅途所见"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "马嘶人起，表现清晨启程的忙碌"
+  },
+  {
+   "word": "残月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残月穿林，点明拂晓时分，烘托寂寥"
+  },
+  {
+   "word": "林薄",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "树林，残月穿行其间，增添清冷感"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "泪痕带霜，写旅途寒苦"
+  },
+  {
+   "word": "风尘",
+   "name": "尘",
+   "category": "气象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻旅途劳顿和世俗纷扰"
+  },
+  {
+   "word": "京洛",
+   "name": "京洛",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指都城，表达对仕途奔波的厌倦"
+  },
+  {
+   "word": "孤鸿",
+   "name": "鸿",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "孤雁，寄托思念和音书难托"
+  },
+  {
+   "word": "翠幌",
+   "name": "帷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "翠色帷幔，指代家中温馨"
+  },
+  {
+   "word": "曲屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "曲折屏风，与翠幌共构室内暖景"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "与花并举，怨月恨花，表达离愁"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与月同怨，象征美好却惹愁之物"
+  }
+ ]
+}

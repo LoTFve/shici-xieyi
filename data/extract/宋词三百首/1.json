@@ -1,0 +1,138 @@
+{
+ "id": 1,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "翠禽",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枝上翠鸟啼鸣，触动离愁"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "清歌付与黄昏，渲染寂寥氛围"
+  },
+  {
+   "word": "柳花",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "欲向柳花倾诉，却怕它轻薄不解伤春"
+  },
+  {
+   "word": "楚乡",
+   "name": "楚乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "旅宿楚地，引发柔情别绪"
+  },
+  {
+   "word": "空樽",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "空杯夜泣，暗示独饮无绪"
+  },
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "青山不语，反衬人的孤寂"
+  },
+  {
+   "word": "残月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残月当门，烘托凄清夜色"
+  },
+  {
+   "word": "翠玉楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "楼前湘水湘云，点明地点"
+  },
+  {
+   "word": "湘水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "湘水摇荡，象征离思绵长"
+  },
+  {
+   "word": "湘云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "湘云舒卷，与湘水相映"
+  },
+  {
+   "word": "桃根",
+   "name": "桃根",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指所思念的女子，期盼重逢"
+  },
+  {
+   "word": "并刀",
+   "name": "并刀",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻能剪断愁绪的利器"
+  }
+ ]
+}

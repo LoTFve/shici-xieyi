@@ -1,0 +1,72 @@
+{
+ "id": 16,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人读易的幽静林间环境"
+  },
+  {
+   "word": "易",
+   "name": "易",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人所读的《周易》，点出隐逸读书生活"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人闲对鸥鸟的溪边场所"
+  },
+  {
+   "word": "鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与诗人相对，象征忘机闲适的鸥鸟"
+  },
+  {
+   "word": "楚",
+   "name": "楚",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指楚地，点出友人所在之地的文风"
+  },
+  {
+   "word": "词客",
+   "name": "词客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指楚地众多的文人诗客，引出对友人的询问"
+  }
+ ]
+}

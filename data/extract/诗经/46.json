@@ -1,0 +1,28 @@
+{
+ "id": 46,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "墙",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之物，墙上蒺藜不可扫除，引出下文"
+  },
+  {
+   "word": "茨",
+   "name": "蒺藜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "墙头蒺藜，象征难以清除的丑事"
+  }
+ ]
+}

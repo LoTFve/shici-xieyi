@@ -1,0 +1,94 @@
+{
+ "id": 195,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "旻天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "呼告苍天，点明上天震怒的威压"
+  },
+  {
+   "word": "下土",
+   "name": "大地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "上天威怒遍及人间大地"
+  },
+  {
+   "word": "龟",
+   "name": "龟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占卜用的龟甲，言卜筮已厌烦不再告示"
+  },
+  {
+   "word": "泉流",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以泉流溃散比喻国家衰败沦亡"
+  },
+  {
+   "word": "暴虎",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "空手搏虎，喻指不敢贸然行险"
+  },
+  {
+   "word": "冯河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "徒步涉河，与暴虎并举戒人勿冒险"
+  },
+  {
+   "word": "深渊",
+   "name": "深渊",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "如临深渊，状其戒惧危殆之心"
+  },
+  {
+   "word": "薄冰",
+   "name": "冰",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "如履薄冰，极言处境之危惧"
+  }
+ ]
+}

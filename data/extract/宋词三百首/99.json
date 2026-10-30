@@ -1,0 +1,248 @@
+{
+ "id": 99,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风起兴，烘托鬓发飘摇的迟暮之感"
+  },
+  {
+   "word": "烟碧",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟雾缭绕鬓发，渲染迷离愁绪"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以流水喻往事一去不返"
+  },
+  {
+   "word": "紫丝罗带",
+   "name": "罗带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "定情之物，牵出昔日盟誓"
+  },
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "罗带上的鸳鸯结，象征昔日情好"
+  },
+  {
+   "word": "镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "破镜重圆之典，指昔日盟誓"
+  },
+  {
+   "word": "钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "钗盟之誓，指旧日情约"
+  },
+  {
+   "word": "回文",
+   "name": "回文",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "苏蕙织锦回文典，指苦心寄情"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "安花着蒂喻情事落定"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雨覆云翻喻情变反复"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与雨并举，喻人情翻覆"
+  },
+  {
+   "word": "石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "石上玉簪脆，喻情分之脆弱易折"
+  },
+  {
+   "word": "玉簪",
+   "name": "玉簪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以玉簪易脆喻情缘易断"
+  },
+  {
+   "word": "朱楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "女子独处的楼阁，点出幽居之境"
+  },
+  {
+   "word": "空云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "愁压云低，以云写愁之沉重"
+  },
+  {
+   "word": "月痕",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残月照无寐之人，写彻夜难眠"
+  },
+  {
+   "word": "长门",
+   "name": "长门",
+   "category": "地名",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "长门宫典，喻失宠幽怨"
+  },
+  {
+   "word": "青草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "长门青草，写宫苑荒凉、春来无人"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春风亦催泪，反衬失意之悲"
+  },
+  {
+   "word": "荆钗",
+   "name": "荆钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以荆钗借指清贫自守的生活"
+  },
+  {
+   "word": "暮天",
+   "name": "暮天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "想象暮色苍茫的迟暮之境"
+  },
+  {
+   "word": "修竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "暮天修竹，映衬白头独倚的清冷"
+  }
+ ]
+}

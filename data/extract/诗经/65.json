@@ -1,0 +1,39 @@
+{
+ "id": 65,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "眼前庄稼，反衬故都荒凉"
+  },
+  {
+   "word": "稷",
+   "name": "稷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与黍并置，强化田园荒芜"
+  },
+  {
+   "word": "苍天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼天质问，表达忧愤"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 7,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "兔罝",
+   "name": "网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕兽的网，起兴之物，实指狩猎工具"
+  },
+  {
+   "word": "中逵",
+   "name": "路口",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "设网的九达路口"
+  },
+  {
+   "word": "中林",
+   "name": "树林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "设网的林中之地"
+  },
+  {
+   "word": "武夫",
+   "name": "武士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "赳赳勇武的猎人，借指可用之才"
+  },
+  {
+   "word": "公侯",
+   "name": "公侯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "武夫所事之主，指代诸侯贵族"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "id": 35,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "北斗",
+   "name": "北斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "点明侍宴时的夜空，衬托宫城高峻"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与北斗相映，写宫城气象"
+  },
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "终南山倚殿而立，写山川形胜"
+  },
+  {
+   "word": "殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "蓬莱三殿，点明侍宴之所"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云中标出金阙，写宫阙高耸入云"
+  },
+  {
+   "word": "金阙",
+   "name": "阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "金碧宫阙在云中回旋，显皇家气象"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "树梢间玉堂高悬，写宫室凌空之势"
+  },
+  {
+   "word": "玉堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "华美殿堂悬于树杪，衬终南之高"
+  },
+  {
+   "word": "半岭",
+   "name": "岭",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山腰通达佳气，写终南灵秀"
+  },
+  {
+   "word": "中峰",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "峰顶缭绕瑞烟，呈祥瑞之象"
+  },
+  {
+   "word": "瑞烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "祥瑞雾气环绕中峰，烘托祝寿气氛"
+  },
+  {
+   "word": "小臣",
+   "name": "臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人自指，谦称侍宴献寿之身"
+  },
+  {
+   "word": "尧天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借尧天喻盛世，颂圣祝寿"
+  }
+ ]
+}

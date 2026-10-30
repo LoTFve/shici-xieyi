@@ -1,0 +1,28 @@
+{
+ "id": 23,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "秋风先至洛阳，暗写归期被秋抢先，牵动客愁"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以日月代时光流转，写客心与时间争逐"
+  }
+ ]
+}

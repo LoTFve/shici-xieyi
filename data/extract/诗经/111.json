@@ -1,0 +1,39 @@
+{
+ "id": 111,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "十亩",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明采桑的田野范围"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "桑林是采桑劳作的场所，也是田园生活的标志"
+  },
+  {
+   "word": "桑者",
+   "name": "农人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采桑人悠闲自得的身影"
+  }
+ ]
+}

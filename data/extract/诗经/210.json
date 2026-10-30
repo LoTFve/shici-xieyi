@@ -1,0 +1,204 @@
+{
+ "id": 210,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "终南山，开篇以巍峨山势起兴，点出禹治水定疆的宏大背景"
+  },
+  {
+   "word": "上天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "上天，指苍穹，引出下文云雪降雨的天象"
+  },
+  {
+   "word": "同云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "漫天密布的阴云，预示瑞雪将至，渲染丰年气象"
+  },
+  {
+   "word": "雨雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "纷纷飘落的雪，与下文小雨共同润泽农田"
+  },
+  {
+   "word": "霡霂",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "细雨，补充雨雪使土地优渥沾足，滋养百谷"
+  },
+  {
+   "word": "原隰",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "高平与低湿之地，写农耕地貌的平整肥沃"
+  },
+  {
+   "word": "疆埸",
+   "name": "田界",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "田界整齐，衬托农事井然、庄稼茂盛"
+  },
+  {
+   "word": "黍稷",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "茂盛的黍稷，是丰收与酿酒祭祖的物质来源"
+  },
+  {
+   "word": "百谷",
+   "name": "谷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "百谷生长，总写雨水润泽后的丰收景象"
+  },
+  {
+   "word": "瓜",
+   "name": "瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "田边疆埸所结之瓜，可剥制为菹以献祖先"
+  },
+  {
+   "word": "庐",
+   "name": "茅庐",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "田中农舍，点出农人耕作时的居所"
+  },
+  {
+   "word": "酒食",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以丰收黍稷酿制的酒食，用于祭祀尸宾"
+  },
+  {
+   "word": "清酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所用的清酒，与骍牡同献祖考"
+  },
+  {
+   "word": "骍牡",
+   "name": "赤牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赤色公牛，作为祭牲献给祖先"
+  },
+  {
+   "word": "鸾刀",
+   "name": "刀",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "带铃的祭刀，用于宰牲启毛取血，是祭祀仪节的一部分"
+  },
+  {
+   "word": "皇祖",
+   "name": "祖先",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指先祖，是全诗祭祀祈福的对象"
+  },
+  {
+   "word": "曾孙",
+   "name": "曾孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "主祭者自称，即周王，贯穿耕作与祭祀的叙事主体"
+  },
+  {
+   "word": "尸宾",
+   "name": "尸宾",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀中代表祖先受祭的尸与助祭的宾客"
+  }
+ ]
+}

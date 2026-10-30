@@ -1,0 +1,94 @@
+{
+ "id": 138,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "衡门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "简陋居所，点明安贫栖隐之地"
+  },
+  {
+   "word": "泌",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "洋洋流淌的泉水，象征自足之乐"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以食鱼起兴，引出不必求珍馐之理"
+  },
+  {
+   "word": "鲂",
+   "name": "鲂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "河中美味的鳊鱼，借指非必需之珍"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "yellow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "产鲂鲤的大河，作为求鱼的标准背景"
+  },
+  {
+   "word": "鲤",
+   "name": "鲤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与鲂对举，重申食鱼不必求珍"
+  },
+  {
+   "word": "齐之姜",
+   "name": "姜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "齐国姜姓贵女，借指高门配偶"
+  },
+  {
+   "word": "宋之子",
+   "name": "子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宋国子姓贵女，与齐姜对举"
+  }
+ ]
+}

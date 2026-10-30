@@ -1,0 +1,61 @@
+{
+ "id": 134,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "渭阳",
+   "name": "渭水",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "送别舅氏的渭水之北，点明送行地点"
+  },
+  {
+   "word": "路车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赠别舅氏的大车，见赠礼之厚"
+  },
+  {
+   "word": "乘黄",
+   "name": "黄马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拉车的四匹黄马，与路车同赠"
+  },
+  {
+   "word": "琼瑰",
+   "name": "美玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赠别的美玉，寄托深情"
+  },
+  {
+   "word": "玉佩",
+   "name": "玉佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与琼瑰同赠的佩玉，表惜别之意"
+  }
+ ]
+}

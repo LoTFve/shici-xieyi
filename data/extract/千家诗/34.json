@@ -1,0 +1,127 @@
+{
+ "id": 34,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "剑阁",
+   "name": "剑阁",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明回銮所经的险要关隘"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "横亘剑阁，衬托山势高峻"
+  },
+  {
+   "word": "銮舆",
+   "name": "銮舆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指皇帝车驾，点明回京身份"
+  },
+  {
+   "word": "翠屏",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以翠屏比喻层叠青山"
+  },
+  {
+   "word": "千仞",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极言剑门山势之高"
+  },
+  {
+   "word": "丹嶂",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "赤色山嶂，与翠屏对举"
+  },
+  {
+   "word": "五丁",
+   "name": "五丁",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "用五丁开山典故，写剑门开辟之奇"
+  },
+  {
+   "word": "灌木",
+   "name": "灌木",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "萦绕旗帜，写山路草木之密"
+  },
+  {
+   "word": "旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "随驾旗帜在灌木间回转"
+  },
+  {
+   "word": "仙云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "拂马而过，写回銮时的轻快气象"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回銮车马，点出行旅"
+  }
+ ]
+}

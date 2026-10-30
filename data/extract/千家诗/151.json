@@ -1,0 +1,72 @@
+{
+ "id": 151,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江边",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春水上涨的背景"
+  },
+  {
+   "word": "春水",
+   "name": "春水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "涨起的春水，托起巨舰"
+  },
+  {
+   "word": "艨艟",
+   "name": "战舰",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "巨大的船，经春水托举轻如羽毛"
+  },
+  {
+   "word": "巨舰",
+   "name": "巨舰",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "大船，喻指学问或修养的成果"
+  },
+  {
+   "word": "中流",
+   "name": "江流",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中央，船自在之行的地方"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "标题泛舟，暗含自在之境"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 176,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "芳原",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明郊野春游的开阔场地"
+  },
+  {
+   "word": "绿野",
+   "name": "田野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与芳原呼应，写春草遍野"
+  },
+  {
+   "word": "遥山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "远山为春色环绕，构成远景"
+  },
+  {
+   "word": "乱红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "纷飞落花，写春游时穿行花间"
+  },
+  {
+   "word": "柳巷",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "柳树成巷，点出穿行之处"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "困倦时临水而坐的背景"
+  },
+  {
+   "word": "苔矶",
+   "name": "石",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "长满青苔的临水石台，供人休憩"
+  },
+  {
+   "word": "盏酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "劝酒之物，写游春之乐"
+  },
+  {
+   "word": "风花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "风中飘落的花，引出惜春之情"
+  },
+  {
+   "word": "清明",
+   "name": "清明",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "点明节令，正是游春好天气"
+  }
+ ]
+}

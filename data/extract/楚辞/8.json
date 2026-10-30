@@ -1,0 +1,292 @@
+{
+ "id": 8,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "暾",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "东方初升的太阳，东君出场的光源"
+  },
+  {
+   "word": "东方",
+   "name": "东方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "太阳升起的方向，点明迎日主题"
+  },
+  {
+   "word": "槛",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "太阳照到的栏杆，写出高处居所"
+  },
+  {
+   "word": "扶桑",
+   "name": "扶桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "神话中日出之树，东方日出标志"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "东君所驾之马，写其巡行威仪"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与天明对照，写夜色将尽"
+  },
+  {
+   "word": "龙辀",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "龙驾的车，东君出行所乘"
+  },
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "车轮声如雷，渲染声势"
+  },
+  {
+   "word": "云旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "如云的旗帜，随车而行"
+  },
+  {
+   "word": "瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "弹瑟以迎神，写祭祀乐舞"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "交鼓相应，写乐声齐作"
+  },
+  {
+   "word": "钟",
+   "name": "钟",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鸣钟以娱神，祭祀乐器"
+  },
+  {
+   "word": "瑶簴",
+   "name": "钟架",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "美玉装饰的钟架，写乐器华美"
+  },
+  {
+   "word": "篪",
+   "name": "篪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "吹篪与竽相和，写乐声"
+  },
+  {
+   "word": "竽",
+   "name": "竽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "吹竽伴奏，写祭祀乐舞"
+  },
+  {
+   "word": "翠曾",
+   "name": "翠鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "像翠鸟飞起，写舞者轻盈"
+  },
+  {
+   "word": "舞",
+   "name": "舞",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "会舞应节，写祭神场面"
+  },
+  {
+   "word": "青云衣",
+   "name": "青云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以青云为衣，写东君服饰之奇"
+  },
+  {
+   "word": "白霓裳",
+   "name": "霓",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以白霓为裳，写东君服饰之奇"
+  },
+  {
+   "word": "长矢",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "东君所持之箭，用于射天狼"
+  },
+  {
+   "word": "天狼",
+   "name": "天狼",
+   "category": "天象",
+   "parent": "star",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "星名，有侵凌之意，东君射之以除害"
+  },
+  {
+   "word": "弧",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "东君之弓，射天狼后收弓"
+  },
+  {
+   "word": "北斗",
+   "name": "北斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以北斗为酒勺，写东君豪迈"
+  },
+  {
+   "word": "桂浆",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "桂木制的酒浆，东君酌饮"
+  },
+  {
+   "word": "辔",
+   "name": "马缰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "持缰高驰，写东君归去"
+  },
+  {
+   "word": "杳冥冥",
+   "name": "暗",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "东行渐远，天色幽暗，收束全篇"
+  }
+ ]
+}

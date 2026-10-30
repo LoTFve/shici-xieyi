@@ -1,0 +1,50 @@
+{
+ "id": 30,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "沅湘",
+   "name": "沅湘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以沅湘长流不尽起兴，暗喻屈原怨恨之深"
+  },
+  {
+   "word": "日暮",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时辰，渲染萧瑟苍茫的氛围"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风骤起，烘托悲凉之情"
+  },
+  {
+   "word": "枫树林",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枫林萧萧作响，以秋景寄托对屈原的追怀"
+  }
+ ]
+}

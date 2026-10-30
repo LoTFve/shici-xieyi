@@ -1,0 +1,61 @@
+{
+ "id": 144,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "水光",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "晴日湖面波光潋滟，是全诗实景的起点"
+  },
+  {
+   "word": "山色",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "雨中山色空蒙，与晴日水光对举成景"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "后雨之奇，与初晴之好形成对照"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全诗所咏之地，以西子作比"
+  },
+  {
+   "word": "西子",
+   "name": "西施",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以美人比西湖，奠定淡妆浓抹皆宜的意趣"
+  }
+ ]
+}

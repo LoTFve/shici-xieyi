@@ -1,0 +1,105 @@
+{
+ "id": 154,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "寒夜",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明全诗清寒静谧的背景时间"
+  },
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "寒夜来访的友人，引出主客相得之乐"
+  },
+  {
+   "word": "茶",
+   "name": "茶",
+   "category": "其他",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以茶当酒，见主客清贫而情谊真淳"
+  },
+  {
+   "word": "竹炉",
+   "name": "炉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹编炉子，寒夜煮茶暖意的来源"
+  },
+  {
+   "word": "汤沸",
+   "name": "沸水",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "汤水沸腾，写出炉火正旺、室内温暖"
+  },
+  {
+   "word": "火",
+   "name": "火",
+   "category": "其他",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "炉火初红，寒夜中的一点暖色与生机"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "窗前是观月赏梅的画框式前景"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "寻常窗前月色，因梅花而顿显不同"
+  },
+  {
+   "word": "梅花",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点睛之笔，梅影入窗使今夜月色格外清雅"
+  }
+ ]
+}

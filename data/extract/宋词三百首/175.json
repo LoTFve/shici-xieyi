@@ -1,0 +1,83 @@
+{
+ "id": 175,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "燕鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明春归与时光流逝，候鸟飞过"
+  },
+  {
+   "word": "春梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻浮生短暂虚幻"
+  },
+  {
+   "word": "朝云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "比喻逝去无踪的往事"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借琴典写知音神仙伴侣"
+  },
+  {
+   "word": "罗衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "挽断罗衣也留不住离人"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "花间烂醉，劝人及时行乐"
+  },
+  {
+   "word": "独醒人",
+   "name": "醒者",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用屈原独醒典，劝人莫做清醒孤独者"
+  }
+ ]
+}

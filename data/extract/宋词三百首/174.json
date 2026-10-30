@@ -1,0 +1,116 @@
+{
+ "id": 174,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "池塘",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春水微暖，引出初见场景"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "池塘绿水，点明春景"
+  },
+  {
+   "word": "玉真",
+   "name": "玉真",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借仙女名指所遇女子"
+  },
+  {
+   "word": "歌韵",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆初见时的歌声"
+  },
+  {
+   "word": "舞腰",
+   "name": "舞女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "入破时红裙旋舞的身姿"
+  },
+  {
+   "word": "玉钩",
+   "name": "帘钩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帘下香阶的具体环境"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "玉钩挂帘，室内外之隔"
+  },
+  {
+   "word": "香阶",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帘下台阶，渲染环境"
+  },
+  {
+   "word": "红日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "醉后不觉日暮，暗含时光流逝"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "赏花是当年共游的乐事"
+  }
+ ]
+}

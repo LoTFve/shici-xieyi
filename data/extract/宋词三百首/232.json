@@ -1,0 +1,182 @@
+{
+ "id": 232,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "清蟾",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "以月中蟾蜍代月，写水中月色"
+  },
+  {
+   "word": "露井",
+   "name": "井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "庭院中带露的井栏，闲倚之处"
+  },
+  {
+   "word": "流萤",
+   "name": "萤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "回忆中笑着扑捉的萤火虫"
+  },
+  {
+   "word": "画罗轻扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "扑萤时被弄破的轻罗小扇"
+  },
+  {
+   "word": "阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜深久立凭倚之处"
+  },
+  {
+   "word": "更箭",
+   "name": "漏箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "以更漏之箭残尽写夜深难眠"
+  },
+  {
+   "word": "琼梳",
+   "name": "梳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "说对方鬓发稀疏怕用玉梳"
+  },
+  {
+   "word": "金镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "说对方容颜消瘦于铜镜中"
+  },
+  {
+   "word": "梅风",
+   "name": "梅风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄梅时节的潮湿之风"
+  },
+  {
+   "word": "虹雨",
+   "name": "虹雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后出虹的时雨，滋长苔藓"
+  },
+  {
+   "word": "苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雨后苔藓滋生，写庭院荒寂"
+  },
+  {
+   "word": "舞红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "架下飘舞的落花都已变样"
+  },
+  {
+   "word": "江淹",
+   "name": "江淹",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用江淹才尽典，写因思念而才减"
+  },
+  {
+   "word": "荀倩",
+   "name": "荀倩",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用荀奉倩伤妻典，写情深伤神"
+  },
+  {
+   "word": "明河",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "银河影下，夜深独望"
+  },
+  {
+   "word": "稀星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "天边稀疏数点星光，收束全词"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 54,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "驱使的马，表现归唁的急切"
+  },
+  {
+   "word": "漕",
+   "name": "漕",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "卫国邑名，目的地的象征"
+  },
+  {
+   "word": "阿丘",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "偏高的山丘，登高采蝱之处"
+  },
+  {
+   "word": "蝱",
+   "name": "贝母",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "草药名，女子采摘以疗郁"
+  },
+  {
+   "word": "麦",
+   "name": "麦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "芃芃茂盛的麦田，原野景象"
+  },
+  {
+   "word": "野",
+   "name": "野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "原野，行经之地"
+  }
+ ]
+}

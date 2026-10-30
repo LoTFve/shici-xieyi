@@ -1,0 +1,50 @@
+{
+ "id": 30,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "衾凤",
+   "name": "衾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "绣凤的被子冰冷，烘托独眠之苦"
+  },
+  {
+   "word": "枕鸳",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "绣鸳的枕头孤单，反衬情侣分离"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒浇愁，愁肠待酒舒展"
+  },
+  {
+   "word": "书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "情人书信，春时尚有秋来更疏"
+  }
+ ]
+}

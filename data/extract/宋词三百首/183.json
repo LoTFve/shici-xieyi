@@ -1,0 +1,215 @@
+{
+ "id": 183,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟光",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "朦胧烟光笼罩屋瓦，营造迷离氛围"
+  },
+  {
+   "word": "缥瓦",
+   "name": "瓦",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青碧琉璃瓦，点明居所"
+  },
+  {
+   "word": "晴檐",
+   "name": "檐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "晴日屋檐，引出下句风与柳花"
+  },
+  {
+   "word": "柳花",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳絮如洒，暗写春暮飘零"
+  },
+  {
+   "word": "锦瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "横放床上的锦瑟，暗示旧日欢情与尘封"
+  },
+  {
+   "word": "床",
+   "name": "床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "锦瑟横陈之处，见人去楼空"
+  },
+  {
+   "word": "凤弦",
+   "name": "弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指瑟弦，写久不弹奏"
+  },
+  {
+   "word": "犀帷",
+   "name": "帷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "犀角饰帷，写闺中人倦出"
+  },
+  {
+   "word": "王孙",
+   "name": "王孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指所思之人，梦中骑马而来"
+  },
+  {
+   "word": "骄马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梦中王孙所骑之马"
+  },
+  {
+   "word": "绡裙",
+   "name": "裙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "偷偷整理衣裙，惊觉腰身瘦减"
+  },
+  {
+   "word": "南楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "回忆中遥夜欢会之地"
+  },
+  {
+   "word": "翠箔",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "翠色帘幕张灯，忆昔日歌罢倚肩"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "张灯夜宴的暖色记忆"
+  },
+  {
+   "word": "铜驼",
+   "name": "铜驼",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借洛阳铜驼陌指旧日繁华街巷"
+  },
+  {
+   "word": "旧家",
+   "name": "家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "遍访旧日门巷"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "东风送春，也送恨与花谢"
+  },
+  {
+   "word": "闲花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以闲花谢落喻佳人消逝"
+  },
+  {
+   "word": "崔徽",
+   "name": "崔徽",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借崔徽画像典故，写归来暗画其容"
+  }
+ ]
+}

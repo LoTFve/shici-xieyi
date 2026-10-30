@@ -1,0 +1,83 @@
+{
+ "id": 161,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "归雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗题与诗末的归雁，是诗人借问的对象，寄托羁旅思归之情"
+  },
+  {
+   "word": "潇湘",
+   "name": "潇湘",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以大雁南归之地起问，暗含湘灵鼓瑟的传说"
+  },
+  {
+   "word": "水碧",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "想象中潇湘水色澄碧，写雁所居之地的清美"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沙明与碧水相映，写潇湘岸边的明净景色"
+  },
+  {
+   "word": "苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "两岸青苔，渲染潇湘的清幽冷寂"
+  },
+  {
+   "word": "二十五弦",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用湘灵鼓瑟之典，瑟声清怨正是雁归之由"
+  },
+  {
+   "word": "夜月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜月下弹瑟，营造清冷怨慕的氛围"
+  }
+ ]
+}

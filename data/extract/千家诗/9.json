@@ -1,0 +1,61 @@
+{
+ "id": 9,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光洒满前川，映照送别后的空寂"
+  },
+  {
+   "word": "前川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "友人归去所经的水路，月下波光粼粼"
+  },
+  {
+   "word": "连城璧",
+   "name": "璧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以和氏璧比喻赵纵才德可贵，非眼前实景"
+  },
+  {
+   "word": "赵氏",
+   "name": "赵",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借赵国得璧之典，指代赵纵的姓氏与家世"
+  },
+  {
+   "word": "旧府",
+   "name": "旧府",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "赵纵要归还的故乡府邸"
+  }
+ ]
+}

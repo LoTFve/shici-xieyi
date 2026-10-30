@@ -1,0 +1,116 @@
+{
+ "id": 205,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "北山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "起兴之景，暗示行役之苦"
+  },
+  {
+   "word": "杞",
+   "name": "杞",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "采集的植物，起兴劳作"
+  },
+  {
+   "word": "朝夕",
+   "name": "朝",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "从早到晚，强调劳役无休"
+  },
+  {
+   "word": "王事",
+   "name": "王事",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "公务劳役，全诗忧怨之源"
+  },
+  {
+   "word": "父母",
+   "name": "父母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "忧念父母，思乡之情"
+  },
+  {
+   "word": "溥天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "普天之下，强调王土广阔"
+  },
+  {
+   "word": "率土",
+   "name": "土",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四海之内，王臣众多"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾车的四匹公马，劳役奔波"
+  },
+  {
+   "word": "床",
+   "name": "床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "对比他人安逸卧床"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "对比他人饮酒享乐"
+  }
+ ]
+}

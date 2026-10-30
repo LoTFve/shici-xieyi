@@ -1,0 +1,72 @@
+{
+ "id": 141,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "诗人独自登临的楼阁，是凭眺与怀人的立足点"
+  },
+  {
+   "word": "月光",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月色如水，照出江天一色的空阔与独望的怅惘"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "江水映月，与天光混融，构成迷茫浩渺的背景"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "水天相接，衬托诗人思绪的渺远"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指去年同来赏月的友人，今已不在，反衬孤独"
+  },
+  {
+   "word": "风景",
+   "name": "风景",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "眼前景致依稀如去年，物是人非的对照"
+  }
+ ]
+}

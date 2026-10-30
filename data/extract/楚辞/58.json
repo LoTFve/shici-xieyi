@@ -1,0 +1,215 @@
+{
+ "id": 58,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "岩穴",
+   "name": "岩穴",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人栖身之所，象征退隐困境"
+  },
+  {
+   "word": "玉斗",
+   "name": "斗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以北斗玉斗喻国家权柄将失"
+  },
+  {
+   "word": "钮枢",
+   "name": "枢",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻朝廷关键职位遗失"
+  },
+  {
+   "word": "中野",
+   "name": "野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人吟谣的荒野之地"
+  },
+  {
+   "word": "璇玑",
+   "name": "璇玑",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "观察天象以寄忧思"
+  },
+  {
+   "word": "大火",
+   "name": "大火",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "星宿西沉，暗示时令推移"
+  },
+  {
+   "word": "摄提",
+   "name": "摄提",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "岁星运行低垂，喻时局衰微"
+  },
+  {
+   "word": "雷霆",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以雷霆震响烘托动荡氛围"
+  },
+  {
+   "word": "雹霰",
+   "name": "雹",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "冰雹纷飞，渲染凄苦环境"
+  },
+  {
+   "word": "奔电",
+   "name": "电",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "闪电晃耀，加强天象的威慑感"
+  },
+  {
+   "word": "凉风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凄风怆凉，映衬内心悲苦"
+  },
+  {
+   "word": "鸟兽",
+   "name": "鸟兽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "鸟兽惊骇相从，反衬诗人孤独"
+  },
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鸳鸯和鸣，对比人之介特无依"
+  },
+  {
+   "word": "狐狸",
+   "name": "狐",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "狐狸群行，写荒野凄凉"
+  },
+  {
+   "word": "蝼蛄",
+   "name": "蝼蛄",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "虫鸣东边，添孤寂悲凉"
+  },
+  {
+   "word": "蟊蠽",
+   "name": "蟊蠽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "虫号西边，与蝼蛄对举写虫豸夹余"
+  },
+  {
+   "word": "蛓",
+   "name": "蛓",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "毛虫缘衣，写处境之狼狈"
+  },
+  {
+   "word": "蠋",
+   "name": "蠋",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "野蚕入怀，极言孤独困厄"
+  },
+  {
+   "word": "虫豸",
+   "name": "虫豸",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "虫豸夹余，总写周遭恶劣"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "id": 246,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "行苇",
+   "name": "苇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "道旁芦苇，起兴以戒践踏，引发兄弟亲爱之思"
+  },
+  {
+   "word": "牛羊",
+   "name": "牛羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "叮嘱勿让牛羊践踏芦苇，体现爱护之心"
+  },
+  {
+   "word": "兄弟",
+   "name": "兄弟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "戚戚兄弟亲睦，点明宴饮主题"
+  },
+  {
+   "word": "筵",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "铺席设座，宴饮之始"
+  },
+  {
+   "word": "几",
+   "name": "几",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "授几以安长者，体现敬老之礼"
+  },
+  {
+   "word": "爵",
+   "name": "爵",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "酒器，洗爵以献，宴饮之礼"
+  },
+  {
+   "word": "斝",
+   "name": "斝",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "酒器，奠斝以酢，宴饮酬答"
+  },
+  {
+   "word": "醓醢",
+   "name": "肉酱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "肉酱以荐，宴席之食"
+  },
+  {
+   "word": "脾臄",
+   "name": "脾臄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嘉肴之属，宴席之食"
+  },
+  {
+   "word": "歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮时歌唱，欢乐气氛"
+  },
+  {
+   "word": "咢",
+   "name": "咢",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "徒击鼓曰咢，宴饮时击鼓为乐"
+  },
+  {
+   "word": "敦弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "雕饰之弓，用于射礼，序宾以贤"
+  },
+  {
+   "word": "四𬭤",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "四支箭，射礼所用，既均且树"
+  },
+  {
+   "word": "曾孙",
+   "name": "曾孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "主祭之人，主持宴饮"
+  },
+  {
+   "word": "酒醴",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "美酒，酌以大斗，以祈长寿"
+  },
+  {
+   "word": "大斗",
+   "name": "斗",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "大酒器，酌酒以祈黄耇"
+  },
+  {
+   "word": "黄耇",
+   "name": "老人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "长寿老人，受敬奉"
+  }
+ ]
+}

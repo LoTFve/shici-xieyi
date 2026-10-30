@@ -1,0 +1,116 @@
+{
+ "id": 186,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "白驹",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以白马喻贤者，可系留而不可久羁"
+  },
+  {
+   "word": "场苗",
+   "name": "苗",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "白马所食的园中青苗，写留客之景"
+  },
+  {
+   "word": "场藿",
+   "name": "藿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "豆叶，白马所食，与场苗对举"
+  },
+  {
+   "word": "今朝",
+   "name": "朝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "指眼前时光，欲系马长留此刻"
+  },
+  {
+   "word": "今夕",
+   "name": "夕",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "与今朝对举，写留客之殷"
+  },
+  {
+   "word": "空谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "白马所归的幽深山谷，写贤者远去"
+  },
+  {
+   "word": "生刍",
+   "name": "刍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "一束青草，古人待客之薄礼，见招隐之意"
+  },
+  {
+   "word": "其人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指所思的贤者佳客"
+  },
+  {
+   "word": "金玉",
+   "name": "金玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以金玉喻音信之珍贵，望勿疏远"
+  },
+  {
+   "word": "伊人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "所怀念的贤者，是逍遥嘉客所指"
+  }
+ ]
+}

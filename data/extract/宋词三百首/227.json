@@ -1,0 +1,182 @@
+{
+ "id": 227,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "条风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春风送暖，点明时令"
+  },
+  {
+   "word": "霏雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雾气弥漫中透出晴意"
+  },
+  {
+   "word": "池塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春色满塘的实景"
+  },
+  {
+   "word": "夜堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "寒食夜无月的昏暗厅堂"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "无",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "说无月，反衬夜堂的昏暗"
+  },
+  {
+   "word": "寒食",
+   "name": "寒食",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明节令，暗含禁火冷食"
+  },
+  {
+   "word": "梁间燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "社燕归来似笑人愁寂"
+  },
+  {
+   "word": "乱花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花狼藉，暗写春残"
+  },
+  {
+   "word": "芸香",
+   "name": "芸香",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "隔院香气与乱花相映"
+  },
+  {
+   "word": "油壁",
+   "name": "油壁车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆郊外邂逅所驻之车"
+  },
+  {
+   "word": "汉宫传烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "用寒食赐烛典写贵家烟火"
+  },
+  {
+   "word": "飞烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "五侯宅中飞起的炊烟"
+  },
+  {
+   "word": "青青草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春草迷路，写寻迹难寻"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "强携酒寻旧迹，借酒遣愁"
+  },
+  {
+   "word": "市桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远处市桥点出寻访方位"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "柳下人家犹识，勾起旧情"
+  }
+ ]
+}

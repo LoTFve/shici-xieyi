@@ -1,0 +1,94 @@
+{
+ "id": 204,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "九重天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指朝廷宫殿，指代君王所居"
+  },
+  {
+   "word": "潮阳",
+   "name": "潮阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "贬谪的遥远目的地"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "横亘秦岭的阴云，遮蔽归途"
+  },
+  {
+   "word": "秦岭",
+   "name": "秦岭",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回望长安的屏障，家国难归"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "拥塞蓝关的积雪，行路艰难"
+  },
+  {
+   "word": "蓝关",
+   "name": "蓝关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "贬谪途中的险要关隘"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雪中踟蹰不前的坐骑，映衬困顿"
+  },
+  {
+   "word": "瘴江",
+   "name": "瘴江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象中南方贬所的瘴疠江边，预示埋骨之地"
+  }
+ ]
+}

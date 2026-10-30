@@ -1,0 +1,94 @@
+{
+ "id": 105,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "簟茀",
+   "name": "车帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以竹席为车帘，写文姜车驾之饰"
+  },
+  {
+   "word": "朱鞹",
+   "name": "朱革",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色皮革车饰，显车驾华贵"
+  },
+  {
+   "word": "鲁道",
+   "name": "鲁道",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鲁国大道，平坦开阔，点明行经之地"
+  },
+  {
+   "word": "齐子",
+   "name": "齐子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指文姜，诗中讽刺的主角"
+  },
+  {
+   "word": "四骊",
+   "name": "黑马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹黑马驾车，见车马之盛"
+  },
+  {
+   "word": "辔",
+   "name": "马缰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "垂下的马缰，写马匹缓行之态"
+  },
+  {
+   "word": "汶水",
+   "name": "汶水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "齐境大河，以水势衬托文姜出游之盛"
+  },
+  {
+   "word": "行人",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "路上众多行人，反衬齐子招摇过市"
+  }
+ ]
+}

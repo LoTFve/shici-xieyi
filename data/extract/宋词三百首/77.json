@@ -1,0 +1,226 @@
+{
+ "id": 77,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮烟笼罩林梢，渲染羁旅苍茫"
+  },
+  {
+   "word": "横林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "无",
+   "note": "烟雾缭绕的远林，构成黄昏背景"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "远山沉入余晖，写黄昏远景"
+  },
+  {
+   "word": "远照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "落日余晖沉落山后，点明黄昏"
+  },
+  {
+   "word": "钟鼓",
+   "name": "钟鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "黄昏钟鼓声，报时并添苍茫"
+  },
+  {
+   "word": "烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "烛光映窗，写客舍夜坐"
+  },
+  {
+   "word": "帘栊",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "烛映帘栊，室内清冷景象"
+  },
+  {
+   "word": "蛩",
+   "name": "蟋蟀",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "蟋蟀催织，添秋夜凄清"
+  },
+  {
+   "word": "机杼",
+   "name": "织机",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "思妇织布之具，写闺中劳作"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清秋风露共苦，点明节候"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "秋露寒凉，与风共苦"
+  },
+  {
+   "word": "思妇",
+   "name": "思妇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "不眠思妇，写闺中念远"
+  },
+  {
+   "word": "砧杵",
+   "name": "砧杵",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "捣衣声应和，典型秋思意象"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "天涯倦宦，指漂泊极远之地"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "当年酒狂自负，忆旧日豪情"
+  },
+  {
+   "word": "东君",
+   "name": "春神",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "谓东君已春相付，借春神写当年得意"
+  },
+  {
+   "word": "征骖",
+   "name": "征马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "流浪征骖北道，写羁旅奔波"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "客墙南浦，借指送别之地"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "明月曾知旧游处，寄怀旧之情"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "好伴云来，还将梦去，云载梦往来"
+  }
+ ]
+}

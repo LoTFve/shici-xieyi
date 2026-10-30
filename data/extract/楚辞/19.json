@@ -1,0 +1,205 @@
+{
+ "id": 19,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "欲托寄言的飘浮云气，喻阻隔难通"
+  },
+  {
+   "word": "归鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "可托致辞的归飞之鸟"
+  },
+  {
+   "word": "玄鸟",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借高辛氏遇玄鸟受命的典故"
+  },
+  {
+   "word": "骐骥",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "所驾之良马，象征不改其度"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以车覆马颠喻前路受挫"
+  },
+  {
+   "word": "江夏",
+   "name": "江夏",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "将循行娱忧的水路之地"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "开春时节悠悠升起之日"
+  },
+  {
+   "word": "芳茝",
+   "name": "白芷",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采摘的香草，寓高洁之志"
+  },
+  {
+   "word": "宿莽",
+   "name": "宿莽",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "长洲上采撷的经冬香草"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "叹不及古人共赏的香草"
+  },
+  {
+   "word": "萹薄",
+   "name": "萹蓄",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "杂采以作交佩的草叶"
+  },
+  {
+   "word": "杂菜",
+   "name": "菜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与萹薄同备为佩的野菜"
+  },
+  {
+   "word": "芳华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻内在美质自显于外"
+  },
+  {
+   "word": "薜荔",
+   "name": "薜荔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "欲令为媒而惮缘木的香草"
+  },
+  {
+   "word": "嶓冢",
+   "name": "嶓冢",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所指的西隈之地，期约之处"
+  },
+  {
+   "word": "长洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "搴取宿莽的水中长洲"
+  },
+  {
+   "word": "芙蓉",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以荷为媒，喻求通君侧"
+  },
+  {
+   "word": "彭咸",
+   "name": "彭咸",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以彭咸为归宿，表守节之志"
+  }
+ ]
+}

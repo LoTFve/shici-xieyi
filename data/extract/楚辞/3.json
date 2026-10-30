@@ -1,0 +1,105 @@
+{
+ "id": 3,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "沐浴所用的香草，营造洁净芳香的祭神氛围"
+  },
+  {
+   "word": "华采衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀者所穿的华美彩衣"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与神的光辉齐明，烘托云中君的昭昭神性"
+  },
+  {
+   "word": "寿宫",
+   "name": "寿宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神灵安居的宫殿，祭神的场所"
+  },
+  {
+   "word": "龙驾",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云中君驾龙而行，象征神明的威仪"
+  },
+  {
+   "word": "帝服",
+   "name": "帝服",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "天帝般的服饰，写神灵的尊贵"
+  },
+  {
+   "word": "云中",
+   "name": "云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云中君所在之处，点明神名与高远之境"
+  },
+  {
+   "word": "冀洲",
+   "name": "冀州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "神灵俯瞰的中原之地，显出视野之广"
+  },
+  {
+   "word": "四海",
+   "name": "四海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "横绝四海，极写云中君周游无穷的威神"
+  }
+ ]
+}

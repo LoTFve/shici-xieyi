@@ -1,0 +1,39 @@
+{
+ "id": 186,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "诗人醒来时看到日光照在东窗上，点出闲居的晨景"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "日已红，写清晨阳光照窗，衬出从容闲适"
+  },
+  {
+   "word": "风云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借风云变态比喻思绪通达天地变化"
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "id": 217,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴景物，渲染春景"
+  },
+  {
+   "word": "鹈",
+   "name": "鹈鴂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春尽悲鸣之鸟，引发离恨"
+  },
+  {
+   "word": "鹧鸪",
+   "name": "鹧鸪",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "啼声凄切，烘托离别之苦"
+  },
+  {
+   "word": "杜鹃",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "啼血悲鸣，象征极深哀怨"
+  },
+  {
+   "word": "芳菲",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春尽花歇，喻美好时光消逝"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "昭君出塞典故，写离别的悲怨"
+  },
+  {
+   "word": "关塞",
+   "name": "关塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "昭君出塞经行之地，苍凉遥远"
+  },
+  {
+   "word": "长门",
+   "name": "长门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "陈皇后失宠幽居之所，喻冷落"
+  },
+  {
+   "word": "翠辇",
+   "name": "翠辇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "帝王车驾，指后妃辞宫远嫁"
+  },
+  {
+   "word": "金阙",
+   "name": "金阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "皇宫宫阙，象征权位与故国"
+  },
+  {
+   "word": "燕燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "《诗经》送别典故，写归妾之悲"
+  },
+  {
+   "word": "将军",
+   "name": "将军",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "李陵典故，身经百战而名裂"
+  },
+  {
+   "word": "河梁",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "李陵送苏武处，喻诀别之地"
+  },
+  {
+   "word": "易水",
+   "name": "易水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "荆轲刺秦出发地，悲壮送别"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋风萧瑟，渲染易水送别的苍凉"
+  },
+  {
+   "word": "衣冠",
+   "name": "衣冠",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "送行者白衣如雪，烘托悲壮气氛"
+  },
+  {
+   "word": "壮士",
+   "name": "壮士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指荆轲，悲歌慷慨"
+  },
+  {
+   "word": "悲歌",
+   "name": "歌声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "易水送别的悲壮歌声"
+  },
+  {
+   "word": "啼鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "啼鸟悲鸣，呼应人间离恨"
+  },
+  {
+   "word": "清泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "极言悲痛之深"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "结尾以醉月收束，孤独无人共饮"
+  }
+ ]
+}

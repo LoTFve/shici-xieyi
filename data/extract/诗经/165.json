@@ -1,0 +1,127 @@
+{
+ "id": 165,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "伐木",
+   "name": "伐木",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以伐木起兴，引出宴饮亲友的主题"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鸟鸣求友比喻人应求友"
+  },
+  {
+   "word": "幽谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸟儿从深谷飞出，象征环境变迁"
+  },
+  {
+   "word": "乔木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸟儿迁往高树，喻求友得所"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮亲友的必备之物"
+  },
+  {
+   "word": "羜",
+   "name": "羔羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "肥美的羔羊，用以招待亲友"
+  },
+  {
+   "word": "簋",
+   "name": "簋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛放食物的礼器，体现宴席的丰盛"
+  },
+  {
+   "word": "牡",
+   "name": "公畜",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "肥美的公畜，用以招待诸舅"
+  },
+  {
+   "word": "阪",
+   "name": "山坡",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "伐木于山坡，点明劳动场景"
+  },
+  {
+   "word": "笾豆",
+   "name": "笾豆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛放食物的礼器，陈列有序"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "击鼓奏乐，渲染宴饮的欢乐气氛"
+  }
+ ]
+}

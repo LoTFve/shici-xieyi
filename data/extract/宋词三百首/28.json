@@ -1,0 +1,105 @@
+{
+ "id": 28,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "哀筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "开篇点出演奏的乐器，奠定哀婉基调"
+  },
+  {
+   "word": "湘江",
+   "name": "湘江",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借湘妃典故暗示筝曲的悲怨"
+  },
+  {
+   "word": "湘波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以湘江绿波比喻筝声的凄清"
+  },
+  {
+   "word": "纤指",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "描写弹筝女子纤细的手指"
+  },
+  {
+   "word": "十三弦",
+   "name": "弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指筝的弦数，写实又暗合音律"
+  },
+  {
+   "word": "秋水",
+   "name": "眼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以秋水比喻女子明澈的眼波"
+  },
+  {
+   "word": "玉柱",
+   "name": "柱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "筝上玉制的弦柱，承托琴弦"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以斜飞雁阵比喻筝柱排列之形"
+  },
+  {
+   "word": "春山",
+   "name": "眉",
+   "category": "人物",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以春山比喻女子低垂的眉黛，写断肠神情"
+  }
+ ]
+}

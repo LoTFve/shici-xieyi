@@ -1,0 +1,204 @@
+{
+ "id": 223,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "青烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写月出前夜空青烟弥漫"
+  },
+  {
+   "word": "碧海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "比喻澄碧夜空如海"
+  },
+  {
+   "word": "金镜",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "比喻明月如金镜飞上天空"
+  },
+  {
+   "word": "永夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明漫长秋夜"
+  },
+  {
+   "word": "闲阶",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "空寂台阶承载月色"
+  },
+  {
+   "word": "桂影",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "以桂树影借指月光"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "写出秋夜凉意"
+  },
+  {
+   "word": "神京",
+   "name": "京城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "遥念都城，寄寓思归之情"
+  },
+  {
+   "word": "蓝桥",
+   "name": "蓝桥",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用裴航遇仙典，喻可近仙境"
+  },
+  {
+   "word": "水晶帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "写居处清透的帘幕"
+  },
+  {
+   "word": "云母屏",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "写室内陈设，映衬月色"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月光冷浸佳人脂粉"
+  },
+  {
+   "word": "金尊",
+   "name": "酒杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "以金樽承接月光，欲饮尽清辉"
+  },
+  {
+   "word": "流霞",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "借指美酒，倾杯共饮"
+  },
+  {
+   "word": "胡床",
+   "name": "胡床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "用庾亮南楼据胡床赏月典"
+  },
+  {
+   "word": "南楼",
+   "name": "楼阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "用庾亮事，写登楼赏月之兴"
+  },
+  {
+   "word": "玉",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以玉比喻月光，写人间澄澈"
+  },
+  {
+   "word": "素秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明清素秋色，总括全词"
+  }
+ ]
+}

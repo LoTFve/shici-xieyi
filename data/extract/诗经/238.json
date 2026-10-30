@@ -1,0 +1,61 @@
+{
+ "id": 238,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "棫朴",
+   "name": "棫",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之木，喻贤才众多可薪燎"
+  },
+  {
+   "word": "泾舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以泾水行舟喻众士协济"
+  },
+  {
+   "word": "楫",
+   "name": "楫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "船桨，写众人齐力划舟"
+  },
+  {
+   "word": "云汉",
+   "name": "天河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "银河为天章，喻周王德辉"
+  },
+  {
+   "word": "金玉",
+   "name": "金玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻君王品质精纯"
+  }
+ ]
+}

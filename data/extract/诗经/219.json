@@ -1,0 +1,50 @@
+{
+ "id": 219,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "青蝇",
+   "name": "蝇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以营营飞舞的青蝇起兴，喻指进谗言的小人"
+  },
+  {
+   "word": "樊",
+   "name": "篱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青蝇停歇的篱笆，是起兴的落脚点"
+  },
+  {
+   "word": "棘",
+   "name": "棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青蝇停歇的酸枣树，与樊、榛并列构成复沓"
+  },
+  {
+   "word": "榛",
+   "name": "榛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青蝇停歇的榛树，复沓中推进谗言之害"
+  }
+ ]
+}

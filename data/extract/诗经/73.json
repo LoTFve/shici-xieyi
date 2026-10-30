@@ -1,0 +1,72 @@
+{
+ "id": 73,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "大车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之物，引出对情人的思念与畏惧"
+  },
+  {
+   "word": "毳衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以细毛裘衣的色泽起兴，关联所思之人"
+  },
+  {
+   "word": "菼",
+   "name": "荻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻毳衣青白如荻花色"
+  },
+  {
+   "word": "谷",
+   "name": "谷",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指生时，与死相对，表达生死相随之誓"
+  },
+  {
+   "word": "穴",
+   "name": "墓穴",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指死后同穴，誓言生死不分离"
+  },
+  {
+   "word": "皎日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "以明亮的太阳为誓，表明心志可信"
+  }
+ ]
+}

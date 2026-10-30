@@ -1,0 +1,61 @@
+{
+ "id": 97,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "狃",
+   "name": "狃山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "猎人相遇的山间地带"
+  },
+  {
+   "word": "肩",
+   "name": "大兽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "并驾追逐的三岁大兽"
+  },
+  {
+   "word": "牡",
+   "name": "雄兽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "并驾追逐的公兽"
+  },
+  {
+   "word": "狼",
+   "name": "狼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "山阳追逐的猎物"
+  },
+  {
+   "word": "阳",
+   "name": "山南",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "狃山之阳，猎事发生的地点"
+  }
+ ]
+}

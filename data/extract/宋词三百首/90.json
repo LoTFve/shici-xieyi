@@ -1,0 +1,292 @@
+{
+ "id": 90,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋千",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春景中的庭院嬉戏之物，反衬春去后的荒凉"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "连天芳草写春深，也暗含离恨"
+  },
+  {
+   "word": "风沙",
+   "name": "风沙",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "风沙暗南浦，写春去时节的昏乱景象"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地，暗指送春与送人"
+  },
+  {
+   "word": "海门",
+   "name": "海门",
+   "category": "地名",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆中的海门飞絮，寄托故国之思"
+  },
+  {
+   "word": "飞絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飞絮飘零，象征春去与身世漂泊"
+  },
+  {
+   "word": "乱鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "乱鸦飞过，渲染城荒人稀的凄凉"
+  },
+  {
+   "word": "斗",
+   "name": "星斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "斗转城荒，写夜转天明而城已荒"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "城荒之景，寓故国倾颓"
+  },
+  {
+   "word": "试灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "回忆从前试灯时节，与今日荒城对照"
+  },
+  {
+   "word": "箭雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以箭雁沉边喻远徙边地、音信渺茫"
+  },
+  {
+   "word": "梁燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梁燕无主，喻旧巢无主、人事已非"
+  },
+  {
+   "word": "杜鹃",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "杜鹃声里长门暮，啼声添悲，写暮春哀音"
+  },
+  {
+   "word": "长门",
+   "name": "长门",
+   "category": "地名",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "借长门宫典故，写被弃与冷落"
+  },
+  {
+   "word": "玉树",
+   "name": "玉树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "玉树凋土，用陈后主玉树后庭花典，寓亡国之痛"
+  },
+  {
+   "word": "泪盘",
+   "name": "露盘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泪盘如露，用金铜仙人承露盘典，写亡国悲泪"
+  },
+  {
+   "word": "咸阳",
+   "name": "咸阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "咸阳送客，借此表达故都送别之悲"
+  },
+  {
+   "word": "斜日",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "斜日未能度，写日暮难行，暗喻局势难转"
+  },
+  {
+   "word": "江令",
+   "name": "江总",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借江总恨别，写自己的离愁别恨"
+  },
+  {
+   "word": "庾信",
+   "name": "庾信",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借庾信愁赋，写故国之思与漂泊之愁"
+  },
+  {
+   "word": "苏堤",
+   "name": "苏堤",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "苏堤风雨，指故国西湖旧景，寄托怀恋"
+  },
+  {
+   "word": "风和雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "苏堤尽日风雨，写春去时的凄风苦雨"
+  },
+  {
+   "word": "故国",
+   "name": "故国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "神游故国，点明全词的故国之思"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花记前度，借花忆旧，感慨物是人非"
+  },
+  {
+   "word": "孺子",
+   "name": "孩童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "顾孺子共夜雨，写流落中与幼子相依"
+  },
+  {
+   "word": "夜雨",
+   "name": "夜雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜雨共话，收束全词，写流落孤寂"
+  }
+ ]
+}

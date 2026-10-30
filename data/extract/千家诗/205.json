@@ -1,0 +1,105 @@
+{
+ "id": 205,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "干戈",
+   "name": "戈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指战乱未平，是诗人漂泊无依的背景"
+  },
+  {
+   "word": "两鬓丝",
+   "name": "鬓",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鬓发如丝，写年华老去、一事无成的自伤"
+  },
+  {
+   "word": "王粲",
+   "name": "王粲",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以王粲漂泊作比，自述身世踪迹"
+  },
+  {
+   "word": "杜陵",
+   "name": "杜陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借杜甫诗情怀，自比忧国伤时的心境"
+  },
+  {
+   "word": "鹡鸰",
+   "name": "鹡鸰",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "鹡鸰喻兄弟，音断写骨肉分离、千里难通"
+  },
+  {
+   "word": "乌鹊",
+   "name": "乌鹊",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "乌鹊巢寒，衬托漂泊无依的凄冷处境"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "寒月一枝，写夜中栖身之枝的孤清"
+  },
+  {
+   "word": "中山",
+   "name": "中山",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用中山千日酒之典，寄托醉入太平的愿望"
+  },
+  {
+   "word": "千日酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借千日酒表达愿长醉以避乱世的心情"
+  }
+ ]
+}

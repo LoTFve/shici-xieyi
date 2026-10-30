@@ -1,0 +1,226 @@
+{
+ "id": 130,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "闹红",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指盛开的荷花，渲染荷塘繁丽"
+  },
+  {
+   "word": "舸",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "词人乘舟入荷塘"
+  },
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "荷塘伴侣，反衬词人孤独"
+  },
+  {
+   "word": "陂",
+   "name": "陂塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "三十六陂指广阔荷塘水泽"
+  },
+  {
+   "word": "水佩风裳",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以佩裳喻荷叶荷花的风姿"
+  },
+  {
+   "word": "翠叶",
+   "name": "荷叶",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "写荷叶清凉"
+  },
+  {
+   "word": "玉容",
+   "name": "荷花",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以美人面容喻荷花"
+  },
+  {
+   "word": "菰蒲",
+   "name": "菰蒲",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边菰蒲，添荷塘雨意"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洒在菰蒲上的雨，渲染清冷"
+  },
+  {
+   "word": "日暮",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时间，转入迟暮惆怅"
+  },
+  {
+   "word": "青盖",
+   "name": "荷叶",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "荷叶如伞盖亭亭立"
+  },
+  {
+   "word": "情人",
+   "name": "情人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "所待之人不见"
+  },
+  {
+   "word": "舞衣",
+   "name": "荷花",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻荷花花瓣，恐寒落"
+  },
+  {
+   "word": "西风",
+   "name": "西风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风起，荷花将谢"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地，寄离愁"
+  },
+  {
+   "word": "高柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "柳荫垂岸，留人驻足"
+  },
+  {
+   "word": "老鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鱼吹浪，写荷塘生机"
+  },
+  {
+   "word": "花",
+   "name": "荷花",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "花间留住词人"
+  },
+  {
+   "word": "田田",
+   "name": "荷叶",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "荷叶茂密相连"
+  },
+  {
+   "word": "沙际",
+   "name": "沙岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沙边归路，写荷塘边界"
+  }
+ ]
+}

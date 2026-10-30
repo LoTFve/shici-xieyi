@@ -1,0 +1,105 @@
+{
+ "id": 39,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "城北横亘的青山，点明送别地点"
+  },
+  {
+   "word": "北郭",
+   "name": "城郭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城北外郭，交代送别方位"
+  },
+  {
+   "word": "白水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绕城东流的水，与青山对举成景"
+  },
+  {
+   "word": "东城",
+   "name": "城郭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城东，交代送别方位"
+  },
+  {
+   "word": "孤篷",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以孤舟借指远行万里的友人"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻游子漂泊不定的心意"
+  },
+  {
+   "word": "游子",
+   "name": "游子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指即将远行的友人"
+  },
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "以落日依依比喻故人惜别之情"
+  },
+  {
+   "word": "斑马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "离群之马，衬送别时的凄切"
+  }
+ ]
+}

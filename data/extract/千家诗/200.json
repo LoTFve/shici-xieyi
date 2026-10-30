@@ -1,0 +1,105 @@
+{
+ "id": 200,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全诗咏叹的主体乐器，声从画楼传出"
+  },
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "笛声传出的华美楼阁"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "笛声随风断续飘送"
+  },
+  {
+   "word": "行云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用响遏行云典故写笛声高亢"
+  },
+  {
+   "word": "碧落",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "笛声横贯碧空的背景"
+  },
+  {
+   "word": "冷月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "清冷月光与笛声一同入帘"
+  },
+  {
+   "word": "帘栊",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "笛声透入的窗帘，作为听者所在"
+  },
+  {
+   "word": "桓子",
+   "name": "桓伊",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借桓伊善笛三弄典故赞笛声"
+  },
+  {
+   "word": "马融",
+   "name": "马融",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借马融作《长笛赋》典故写听笛之感"
+  }
+ ]
+}

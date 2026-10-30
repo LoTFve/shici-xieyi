@@ -1,0 +1,28 @@
+{
+ "id": 123,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "杜",
+   "name": "棠梨",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以孤生的棠梨树起兴，暗喻孤独无依的处境"
+  },
+  {
+   "word": "道",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明棠梨生长在路旁的位置，引出对君子来访的期盼"
+  }
+ ]
+}

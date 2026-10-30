@@ -1,0 +1,149 @@
+{
+ "id": 70,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "禹庙",
+   "name": "庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "全诗核心古迹，空山中的禹王庙"
+  },
+  {
+   "word": "空山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "庙周荒寂的山景"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明时令并渲染萧瑟气氛"
+  },
+  {
+   "word": "落日",
+   "name": "落日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "斜阳映庙，增添迟暮苍凉"
+  },
+  {
+   "word": "橘柚",
+   "name": "橘",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "荒庭中垂挂的果实，见出庙宇荒废"
+  },
+  {
+   "word": "古屋",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "庙内古旧殿宇"
+  },
+  {
+   "word": "龙蛇",
+   "name": "龙蛇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "古屋壁画上的龙蛇图像"
+  },
+  {
+   "word": "云气",
+   "name": "云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "虚壁间升腾的云雾"
+  },
+  {
+   "word": "虚壁",
+   "name": "壁",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "庙中空寂的墙壁"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "庙外深江奔流"
+  },
+  {
+   "word": "白沙",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江畔白沙，江水冲刷之景"
+  },
+  {
+   "word": "四载",
+   "name": "四载",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用禹乘四载治水之典，赞其功业"
+  },
+  {
+   "word": "三巴",
+   "name": "三巴",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指禹疏凿所控的巴蜀之地"
+  }
+ ]
+}

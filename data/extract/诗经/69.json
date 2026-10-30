@@ -1,0 +1,61 @@
+{
+ "id": 69,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "中谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "设置荒凉山谷的背景，烘托弃妇处境"
+  },
+  {
+   "word": "蓷",
+   "name": "益母草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以干枯的益母草起兴，比喻女子憔悴"
+  },
+  {
+   "word": "有女",
+   "name": "女子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "被丈夫遗弃的女子，全诗抒情主体"
+  },
+  {
+   "word": "歗",
+   "name": "长啸",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "女子悲愤的长叹之声"
+  },
+  {
+   "word": "泣",
+   "name": "哭泣",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "女子无声抽泣，哀伤至极"
+  }
+ ]
+}

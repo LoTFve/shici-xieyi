@@ -1,0 +1,28 @@
+{
+ "id": 5,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "螽斯",
+   "name": "螽斯",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以螽斯群飞振翅起兴，喻子孙繁盛"
+  },
+  {
+   "word": "羽",
+   "name": "翅",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指螽斯振翅之态，是群聚兴旺的具体画面"
+  }
+ ]
+}

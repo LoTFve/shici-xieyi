@@ -1,0 +1,61 @@
+{
+ "id": 41,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "北风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "渲染寒冷肃杀的氛围，暗示政局或处境的严酷"
+  },
+  {
+   "word": "雨雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与北风共同构成严寒景象，烘托逃亡或离别的紧迫"
+  },
+  {
+   "word": "狐",
+   "name": "狐",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以赤狐比喻红色衣服的贵族或当权者，暗含讽刺"
+  },
+  {
+   "word": "乌",
+   "name": "乌鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以黑乌比喻黑色衣服的贵族或当权者，与狐对举，强化讽刺"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "携手同车，表示同行逃亡或归去，是实际交通工具"
+  }
+ ]
+}

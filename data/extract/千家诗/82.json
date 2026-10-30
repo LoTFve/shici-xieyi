@@ -1,0 +1,127 @@
+{
+ "id": 82,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "淡月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点出上元夜宴的天色背景"
+  },
+  {
+   "word": "疏星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜空中稀疏的星点，衬托夜色清朗"
+  },
+  {
+   "word": "建章",
+   "name": "建章",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借汉建章宫指代宋代宫殿，写宴饮所在"
+  },
+  {
+   "word": "仙风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "形容御炉香气如仙风飘下"
+  },
+  {
+   "word": "御炉",
+   "name": "炉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫廷香炉，写宴殿之华贵"
+  },
+  {
+   "word": "香",
+   "name": "香",
+   "category": "器物",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "御炉之香烟气缭绕，以雾气画法表现"
+  },
+  {
+   "word": "侍臣",
+   "name": "侍臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宴上侍立的群臣"
+  },
+  {
+   "word": "鹄",
+   "name": "鹄",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以天鹅喻侍臣引颈肃立之态"
+  },
+  {
+   "word": "通明殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "侍臣鹄立的宫殿，实景楼阁"
+  },
+  {
+   "word": "红云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "喻指簇拥玉皇的祥云，烘托帝王气象"
+  },
+  {
+   "word": "玉皇",
+   "name": "玉皇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指当朝皇帝，写群臣拥戴之状"
+  }
+ ]
+}

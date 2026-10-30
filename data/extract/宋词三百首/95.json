@@ -1,0 +1,171 @@
+{
+ "id": 95,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "琼",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "高洁",
+   "note": "以美玉喻花之洁白"
+  },
+  {
+   "word": "梨云",
+   "name": "梨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以梨花云比喻花之繁盛"
+  },
+  {
+   "word": "梅雪",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "高洁",
+   "note": "以梅雪衬托花之清丽"
+  },
+  {
+   "word": "淮山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明地点与时节"
+  },
+  {
+   "word": "玉关",
+   "name": "关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指边塞，感叹时光流逝"
+  },
+  {
+   "word": "金壶",
+   "name": "壶",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用于剪花赠送的容器"
+  },
+  {
+   "word": "琼枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "指代花枝"
+  },
+  {
+   "word": "一骑红尘",
+   "name": "骑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用唐玄宗送荔枝典，喻送花"
+  },
+  {
+   "word": "瑶阙",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指代宫廷"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指京城"
+  },
+  {
+   "word": "蜂蝶",
+   "name": "蜂蝶",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "表现春日生机"
+  },
+  {
+   "word": "杜郎",
+   "name": "杜牧",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借杜牧自比或指代前人"
+  },
+  {
+   "word": "扬州",
+   "name": "扬州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆中的繁华之地"
+  },
+  {
+   "word": "二十四桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "虚写扬州夜景，寄托怀旧"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "与二十四桥共同构成扬州月夜意象"
+  }
+ ]
+}

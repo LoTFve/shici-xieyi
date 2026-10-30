@@ -1,0 +1,50 @@
+{
+ "id": 83,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "冰霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "岁末残存的寒意，反衬春意将至"
+  },
+  {
+   "word": "草木",
+   "name": "草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "最先感知春意的生机"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "吹动水面，带来春天的气息"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "被东风吹起参差绿波"
+  }
+ ]
+}

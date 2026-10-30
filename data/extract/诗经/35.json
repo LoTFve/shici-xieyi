@@ -1,0 +1,149 @@
+{
+ "id": 35,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "谷风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以山谷之风起兴，渲染阴雨愁惨气氛"
+  },
+  {
+   "word": "阴",
+   "name": "阴",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "天阴，与雨并写，烘托压抑心境"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雨水象征愁苦与困境"
+  },
+  {
+   "word": "葑",
+   "name": "葑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "采葑采菲，以根茎可食喻夫妇应重内在"
+  },
+  {
+   "word": "菲",
+   "name": "菲",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "同上，采菲喻不弃下体"
+  },
+  {
+   "word": "荼",
+   "name": "荼",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "苦菜，以荼苦反衬荠甘，喻心境"
+  },
+  {
+   "word": "荠",
+   "name": "荠",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "荠菜味甘，与荼苦对比，喻新婚之乐"
+  },
+  {
+   "word": "泾",
+   "name": "泾",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泾水浊，以泾渭喻己与新妇清浊"
+  },
+  {
+   "word": "渭",
+   "name": "渭",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "渭水清，与泾对比，喻弃妇自持清白"
+  },
+  {
+   "word": "梁",
+   "name": "梁",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼梁，捕鱼设施，妇人嘱咐勿动"
+  },
+  {
+   "word": "笱",
+   "name": "笱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼篓，渔具，喻家中生计"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "渡深水用舟，喻共度艰难"
+  },
+  {
+   "word": "冬",
+   "name": "冬",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "御冬，以蓄菜备冬，喻往昔艰辛"
+  }
+ ]
+}

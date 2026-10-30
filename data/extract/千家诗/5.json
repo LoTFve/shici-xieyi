@@ -1,0 +1,61 @@
+{
+ "id": 5,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以边地少莺花反衬公主到来之稀罕"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "与莺并举，写边地春色稀少"
+  },
+  {
+   "word": "美人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指永乐公主，赞其容华"
+  },
+  {
+   "word": "天上",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "喻公主自天而降，身份尊贵"
+  },
+  {
+   "word": "龙塞",
+   "name": "龙塞",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞之地，因公主到来而生春意"
+  }
+ ]
+}

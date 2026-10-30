@@ -1,0 +1,50 @@
+{
+ "id": 148,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "隰",
+   "name": "湿地",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地，苌楚生长之处"
+  },
+  {
+   "word": "苌楚",
+   "name": "杨桃",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "全诗核心植物，反复咏叹其枝、华、实"
+  },
+  {
+   "word": "枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "苌楚柔美的枝条，起兴之景"
+  },
+  {
+   "word": "华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "苌楚之花，与枝、实递进咏叹"
+  }
+ ]
+}

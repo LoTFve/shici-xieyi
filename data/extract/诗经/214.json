@@ -1,0 +1,50 @@
+{
+ "id": 214,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "盛开的花，起兴于赞美君子"
+  },
+  {
+   "word": "叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "花叶繁盛，烘托人物风采"
+  },
+  {
+   "word": "四骆",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "四匹黑鬃白马，指君子车驾"
+  },
+  {
+   "word": "六辔",
+   "name": "辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "六条缰绳柔润，写驾车之从容"
+  }
+ ]
+}

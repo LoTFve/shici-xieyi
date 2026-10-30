@@ -1,0 +1,237 @@
+{
+ "id": 177,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "六月",
+   "name": "夏",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明出征时节，渲染酷暑行军的背景"
+  },
+  {
+   "word": "戎车",
+   "name": "战车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗核心的军旅器物，反复出现以写整军备战"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾车的四匹雄马，写军容之盛"
+  },
+  {
+   "word": "骙骙",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容马匹强壮，衬托军威"
+  },
+  {
+   "word": "常服",
+   "name": "戎服",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车上所载的军服，点出备战状态"
+  },
+  {
+   "word": "玁狁",
+   "name": "玁狁",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "北方敌族，作为征伐对象反复出现"
+  },
+  {
+   "word": "四骊",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹黑马，写车马齐整"
+  },
+  {
+   "word": "三十里",
+   "name": "行军",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "言一日行军之程，写军队推进"
+  },
+  {
+   "word": "焦获",
+   "name": "焦获",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "玁狁盘踞之地，交代战场位置"
+  },
+  {
+   "word": "镐",
+   "name": "镐京",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "周都，被侵之地，亦为凯旋所自"
+  },
+  {
+   "word": "方",
+   "name": "方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与镐并举的北方地名，写敌患之广"
+  },
+  {
+   "word": "泾阳",
+   "name": "泾阳",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "泾水之北，写敌军深入之地"
+  },
+  {
+   "word": "织文鸟章",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "绘有鸟纹的军旗，写军容鲜明"
+  },
+  {
+   "word": "白旆",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "白色旌旗，与鸟章旗并写军阵威仪"
+  },
+  {
+   "word": "元戎",
+   "name": "战车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大型战车十乘，写前锋精锐"
+  },
+  {
+   "word": "大原",
+   "name": "大原",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "征伐所至之地，写战线推进"
+  },
+  {
+   "word": "吉甫",
+   "name": "吉甫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗称颂的主将，文武兼备"
+  },
+  {
+   "word": "万邦",
+   "name": "万邦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天下诸侯，写吉甫为各方楷模"
+  },
+  {
+   "word": "鳖",
+   "name": "鳖",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴席上的佳肴，写凯旋受赏之乐"
+  },
+  {
+   "word": "鲤",
+   "name": "鲤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与鳖并称的宴饮之味，写庆功宴"
+  },
+  {
+   "word": "张仲",
+   "name": "张仲",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宴中孝友之贤，点出在场宾客"
+  }
+ ]
+}

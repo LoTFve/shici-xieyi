@@ -1,0 +1,116 @@
+{
+ "id": 131,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "池塘边茂盛的青草，点出乡村生机"
+  },
+  {
+   "word": "池塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "青草环绕的水面，诗中的近景"
+  },
+  {
+   "word": "陂",
+   "name": "陂",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "池塘岸坡，涨满的水漫到岸边"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "远山层叠，作为落日的背景"
+  },
+  {
+   "word": "落日",
+   "name": "落日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "被山衔住的夕阳，点明傍晚时分"
+  },
+  {
+   "word": "寒漪",
+   "name": "漪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "落日倒映在带凉意的水波中"
+  },
+  {
+   "word": "牧童",
+   "name": "牧童",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "骑牛归家的村童，全诗的主角"
+  },
+  {
+   "word": "牛",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "牧童横坐的牛背，写出归途的悠闲"
+  },
+  {
+   "word": "短笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "牧童随口吹奏的笛子，添乡村情趣"
+  },
+  {
+   "word": "笛声",
+   "name": "笛声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "无腔无调的随意笛声，是全诗的听觉意象"
+  }
+ ]
+}

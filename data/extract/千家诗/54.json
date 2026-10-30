@@ -1,0 +1,72 @@
+{
+ "id": 54,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "方丈",
+   "name": "方丈",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "画中海上仙山，借指画境之远"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "方丈山与之相连的浩渺水面"
+  },
+  {
+   "word": "天台",
+   "name": "天台",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "画中云雾缭绕的天台仙山"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "映衬天台山的流云"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借范蠡扁舟写画中隐逸之趣"
+  },
+  {
+   "word": "鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "王乔乘鹤典，写画中仙禽高逸"
+  }
+ ]
+}

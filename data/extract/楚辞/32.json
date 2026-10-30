@@ -1,0 +1,183 @@
+{
+ "id": 32,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻谗佞遮蔽君主"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻君主光明被遮蔽"
+  },
+  {
+   "word": "秋草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以秋草喻贤者处境衰败"
+  },
+  {
+   "word": "微霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜间降霜喻严酷环境"
+  },
+  {
+   "word": "商风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风肃杀喻世道摧残"
+  },
+  {
+   "word": "兰芷",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻贤者美德"
+  },
+  {
+   "word": "蕙芷",
+   "name": "蕙",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻自身高洁品格"
+  },
+  {
+   "word": "鲍肆",
+   "name": "鲍肆",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻恶浊环境使贤者失香"
+  },
+  {
+   "word": "首阳",
+   "name": "首阳",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "伯夷叔齐饿死之山"
+  },
+  {
+   "word": "岩穴",
+   "name": "岩穴",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "贤者隐居之处"
+  },
+  {
+   "word": "方舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人欲乘方舟顺流而下以悟君"
+  },
+  {
+   "word": "申子",
+   "name": "申子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借申包胥沉江之典痛惜忠言逆耳"
+  },
+  {
+   "word": "秋蓬",
+   "name": "蓬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以纵火秋蓬喻祸患蔓延之速"
+  },
+  {
+   "word": "湘沅",
+   "name": "湘沅",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指流放将赴的湘沅二水"
+  },
+  {
+   "word": "流澌",
+   "name": "流冰",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "写湘沅解冻流冰，衬托自沉之志"
+  },
+  {
+   "word": "沙砾",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "怀沙自沉，明不忍见君壅蔽之志"
+  }
+ ]
+}

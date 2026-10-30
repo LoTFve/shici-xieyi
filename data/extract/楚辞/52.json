@@ -1,0 +1,293 @@
+{
+ "id": 52,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "离骚",
+   "name": "离骚",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指屈原作品，引发哀思"
+  },
+  {
+   "word": "仆夫",
+   "name": "仆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "随从憔悴，烘托寂寥"
+  },
+  {
+   "word": "蕙",
+   "name": "蕙",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，象征高洁"
+  },
+  {
+   "word": "江蓠",
+   "name": "江蓠",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，佩以明志"
+  },
+  {
+   "word": "申椒",
+   "name": "椒",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香木，喻美德"
+  },
+  {
+   "word": "杜若",
+   "name": "杜若",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，手持以示芳洁"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "冠高如云，喻志行高远"
+  },
+  {
+   "word": "长陵",
+   "name": "陵",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登高四望，开阔视野"
+  },
+  {
+   "word": "芷",
+   "name": "芷",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，圃中繁茂"
+  },
+  {
+   "word": "兰皋",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "兰草水边，游赏之地"
+  },
+  {
+   "word": "玉石",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "玉石错落，喻美恶杂陈"
+  },
+  {
+   "word": "桂树",
+   "name": "桂",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "香木，结以象征芬芳"
+  },
+  {
+   "word": "荃蕙",
+   "name": "荃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，纫佩以表洁"
+  },
+  {
+   "word": "辛夷",
+   "name": "辛夷",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香木，与荃蕙并用"
+  },
+  {
+   "word": "林薄",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "草木丛生处，香草弃死其中"
+  },
+  {
+   "word": "渊",
+   "name": "渊",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "申徒狄赴渊，喻忠贞之死"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "介子推隐山，喻高洁"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "日暮阴曀，喻时世昏暗"
+  },
+  {
+   "word": "氛雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雾如尘塺，喻谗邪蔽明"
+  },
+  {
+   "word": "雄鸠",
+   "name": "鸠",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻忠信之士反被谗蔽"
+  },
+  {
+   "word": "薜荔",
+   "name": "薜荔",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，采于山野"
+  },
+  {
+   "word": "撚支",
+   "name": "撚支",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，采于中洲"
+  },
+  {
+   "word": "中洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中陆地，采香之处"
+  },
+  {
+   "word": "高丘",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "望高丘而叹，寄托忧思"
+  },
+  {
+   "word": "江湘",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以长江湘水长流不息起兴，反衬忧思难平"
+  },
+  {
+   "word": "涕",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "涕下如雨，极写冤结未舒的悲恸"
+  }
+ ]
+}

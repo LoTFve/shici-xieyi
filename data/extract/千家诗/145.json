@@ -1,0 +1,72 @@
+{
+ "id": 145,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿槐",
+   "name": "槐",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "夏",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "宫道两旁绿槐成行，点出暮色环境"
+  },
+  {
+   "word": "昏鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "黄昏时聚集的乌鸦，渲染暮色"
+  },
+  {
+   "word": "敕使",
+   "name": "使",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "传达皇帝诏令的使者"
+  },
+  {
+   "word": "玉堂",
+   "name": "玉堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指翰林院，诗人归返的官署"
+  },
+  {
+   "word": "月钩",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "初升的弯月，衬出夜静"
+  },
+  {
+   "word": "紫薇花",
+   "name": "紫薇",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "月下紫薇，点出宫中夏夜景致"
+  }
+ ]
+}

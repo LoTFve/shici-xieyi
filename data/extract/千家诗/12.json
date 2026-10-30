@@ -1,0 +1,28 @@
+{
+ "id": 12,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绨袍",
+   "name": "袍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "须贾赠袍怜范雎之寒，喻故人情谊"
+  },
+  {
+   "word": "布衣",
+   "name": "布衣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指未入仕的寒士，点出天下士不被识的感慨"
+  }
+ ]
+}

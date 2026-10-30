@@ -1,0 +1,61 @@
+{
+ "id": 283,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "龙旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "诸侯朝见时绘有龙纹的旗帜，显威仪"
+  },
+  {
+   "word": "和铃",
+   "name": "铃",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "车旗上和谐作响的铃铛，渲染肃穆欢畅"
+  },
+  {
+   "word": "鞗革",
+   "name": "马缰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "装饰精美的马辔头，表现车马华贵"
+  },
+  {
+   "word": "昭考",
+   "name": "先王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指已故的英明先父，祭祀对象"
+  },
+  {
+   "word": "眉寿",
+   "name": "寿眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以长眉喻长寿，表达祈福"
+  }
+ ]
+}

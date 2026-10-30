@@ -1,0 +1,116 @@
+{
+ "id": 218,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "迎亲的车驾，起兴之物"
+  },
+  {
+   "word": "舝",
+   "name": "车辖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车轴两端的销钉，以车行间关之声起兴"
+  },
+  {
+   "word": "平林",
+   "name": "林",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "平旷树林，野雉栖集之处"
+  },
+  {
+   "word": "鷮",
+   "name": "雉",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "栖于平林的野雉，喻贤淑女子"
+  },
+  {
+   "word": "高冈",
+   "name": "山冈",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登高析薪之地，起下章之景"
+  },
+  {
+   "word": "柞",
+   "name": "柞树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "析为薪柴的柞木，其叶茂盛"
+  },
+  {
+   "word": "高山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "仰止之高，喻德行崇高可仰"
+  },
+  {
+   "word": "景行",
+   "name": "大道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "光明大道，喻美德之行"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "驾车的四匹雄马，行步不止"
+  },
+  {
+   "word": "六辔",
+   "name": "马辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "六条缰绳调和如琴弦，喻御车之和谐"
+  }
+ ]
+}

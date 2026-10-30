@@ -1,0 +1,94 @@
+{
+ "id": 133,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "袍",
+   "name": "袍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战士共用战袍，象征同甘共苦"
+  },
+  {
+   "word": "戈",
+   "name": "戈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "修整兵器，准备征战"
+  },
+  {
+   "word": "矛",
+   "name": "矛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "修整兵器，准备征战"
+  },
+  {
+   "word": "泽",
+   "name": "泽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "贴身内衣，借指同袍之情"
+  },
+  {
+   "word": "戟",
+   "name": "戟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "修整兵器，准备征战"
+  },
+  {
+   "word": "裳",
+   "name": "裳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "下衣，象征共用衣物"
+  },
+  {
+   "word": "甲",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "修整铠甲，准备出征"
+  },
+  {
+   "word": "兵",
+   "name": "兵",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "兵器，与甲合指装备"
+  }
+ ]
+}

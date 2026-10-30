@@ -1,0 +1,127 @@
+{
+ "id": 51,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "禅房",
+   "name": "禅房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "义公修行之所，全诗题咏中心"
+  },
+  {
+   "word": "空林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "禅房所依的幽寂山林"
+  },
+  {
+   "word": "户外",
+   "name": "户外",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明观景视角，引出远峰"
+  },
+  {
+   "word": "一峰",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "门外秀峰，以山衬禅境清远"
+  },
+  {
+   "word": "阶前",
+   "name": "阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "寺中石阶，引出下望深壑"
+  },
+  {
+   "word": "众壑",
+   "name": "壑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "阶前深谷，写地势幽深"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "暮照与雨气相映，添禅房清晖"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨足初歇，与夕阳相接连"
+  },
+  {
+   "word": "空翠",
+   "name": "翠",
+   "category": "山石",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山间翠色如烟落于庭阴"
+  },
+  {
+   "word": "庭阴",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "翠色落处，禅房院落之阴"
+  },
+  {
+   "word": "莲花",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以莲之洁净喻禅心不染"
+  }
+ ]
+}

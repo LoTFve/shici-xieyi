@@ -1,0 +1,83 @@
+{
+ "id": 14,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "燕赵",
+   "name": "燕赵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "指称自古多慷慨悲歌之士的北方地域"
+  },
+  {
+   "word": "悲歌士",
+   "name": "侠士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "诗中所逢的慷慨悲歌的侠客"
+  },
+  {
+   "word": "剧孟",
+   "name": "剧孟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "借汉代侠士剧孟之名点出相逢之地的侠义氛围"
+  },
+  {
+   "word": "家",
+   "name": "宅",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "侠士剧孟的居所，作为相逢之处"
+  },
+  {
+   "word": "寸心",
+   "name": "心",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指侠客胸中拳拳之意，言不尽其情"
+  },
+  {
+   "word": "前路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指友人即将踏上的行程"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "夕阳将斜，点出离别时分与惜别之情"
+  }
+ ]
+}

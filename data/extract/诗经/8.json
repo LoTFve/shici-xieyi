@@ -1,0 +1,17 @@
+{
+ "id": 8,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "芣苡",
+   "name": "芣苡",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "全诗反复吟咏的采集对象，车前草，是妇女劳作的焦点"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 21,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "小星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以微光小星起兴，映衬小臣夜行劳碌的孤寂"
+  },
+  {
+   "word": "参",
+   "name": "参",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "参星出现点明夜空方位，强化宵征的辛苦"
+  },
+  {
+   "word": "昴",
+   "name": "昴",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "昴星与参并列，写实星象，烘托夜行场景"
+  },
+  {
+   "word": "衾",
+   "name": "衾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "抱衾与裯写小臣连夜携被褥奔波，见其劳碌"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 178,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花纷飞，春光消减，触动词人愁绪"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "吹飘万点落花，加重伤春之情"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借酒浇愁，入唇伤多仍不厌"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明曲江环境，小堂临江而建"
+  },
+  {
+   "word": "小堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "江畔小堂荒寂，反成翡翠筑巢之所"
+  },
+  {
+   "word": "翡翠",
+   "name": "翡翠",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "翡翠鸟巢于小堂，见人事荒废而禽鸟自得"
+  },
+  {
+   "word": "苑",
+   "name": "苑",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指曲江苑囿，与高冢相对，见盛衰之变"
+  },
+  {
+   "word": "高冢",
+   "name": "冢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "苑边高坟，暗含兴亡盛衰之感"
+  },
+  {
+   "word": "麒麟",
+   "name": "麒麟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "石麒麟卧于冢前，象征昔日显贵今已荒凉"
+  }
+ ]
+}

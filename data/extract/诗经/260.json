@@ -1,0 +1,94 @@
+{
+ "id": 260,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天之法则与监察，开篇至高背景"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾车之四匹公马，出行场面"
+  },
+  {
+   "word": "征夫",
+   "name": "征夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "随行差役，衬托出行"
+  },
+  {
+   "word": "八鸾",
+   "name": "鸾铃",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "马车上八只铃铛，锵锵喈喈之声"
+  },
+  {
+   "word": "东方",
+   "name": "东方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仲山甫筑城之地"
+  },
+  {
+   "word": "齐",
+   "name": "齐",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仲山甫所往之国"
+  },
+  {
+   "word": "清风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "喻吉甫所作诵诗之和穆"
+  },
+  {
+   "word": "衮",
+   "name": "衮衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指天子之职，有待仲山甫补阙"
+  }
+ ]
+}

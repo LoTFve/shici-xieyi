@@ -1,0 +1,61 @@
+{
+ "id": 10,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "汝坟",
+   "name": "汝坟",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "汝水堤岸，诗中人伐薪与望归之地"
+  },
+  {
+   "word": "条枚",
+   "name": "树枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子在堤岸上砍伐的枝条"
+  },
+  {
+   "word": "条肄",
+   "name": "新枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "砍后又生的枝条，暗示时间推移"
+  },
+  {
+   "word": "鲂鱼",
+   "name": "鲂鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以赪尾之鱼借喻王室劳役之苦"
+  },
+  {
+   "word": "父母",
+   "name": "父母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "近在身边的亲人，反衬王室之远"
+  }
+ ]
+}

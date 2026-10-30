@@ -1,0 +1,237 @@
+{
+ "id": 94,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楚江",
+   "name": "楚江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "起兴的水边背景"
+  },
+  {
+   "word": "湘娥",
+   "name": "湘妃",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以湘妃泪竹典故写花之清泪"
+  },
+  {
+   "word": "清泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "露珠如泪，赋予花以悲情"
+  },
+  {
+   "word": "春意",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点出花开的时令气氛"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风中花独自倚立"
+  },
+  {
+   "word": "凌波",
+   "name": "水波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写花如凌波仙子踏水而行"
+  },
+  {
+   "word": "香云",
+   "name": "香雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "花香如云随步而起"
+  },
+  {
+   "word": "汉宫仙掌",
+   "name": "仙掌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以汉宫承露盘喻花之亭亭玉立"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "明月下花影亭亭"
+  },
+  {
+   "word": "冰弦",
+   "name": "琴弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以琴弦写怨，喻花之情韵"
+  },
+  {
+   "word": "骚人",
+   "name": "骚人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借屈原等文人写花之幽怨"
+  },
+  {
+   "word": "芳兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以兰芷反衬花之国香"
+  },
+  {
+   "word": "幽芷",
+   "name": "芷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草陪衬，写骚人枉赋"
+  },
+  {
+   "word": "国香",
+   "name": "国香",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赞花为香中之最"
+  },
+  {
+   "word": "岁寒",
+   "name": "岁寒",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以岁寒伴侣写花之耐寒品格"
+  },
+  {
+   "word": "小窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "窗前焚香赏花的清静场景"
+  },
+  {
+   "word": "沈烟",
+   "name": "香烟",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "沉香熏染翠袖的室内氛围"
+  },
+  {
+   "word": "翠袂",
+   "name": "衣袖",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以翠袖借指赏花之人"
+  },
+  {
+   "word": "幽梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "梦醒后见花之清露"
+  },
+  {
+   "word": "清露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "梦觉时花上涓涓露珠"
+  },
+  {
+   "word": "灯影",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "灯影中一枝花影，收束全篇"
+  }
+ ]
+}

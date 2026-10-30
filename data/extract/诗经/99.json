@@ -1,0 +1,61 @@
+{
+ "id": 99,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "以东方日出起兴，烘托女子明媚与相聚之喜"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "以东方月出对应日出，暗示时光流转与情意绵绵"
+  },
+  {
+   "word": "室",
+   "name": "室",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明女子进入男子居所，是相会之所"
+  },
+  {
+   "word": "闼",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指内室小门，写女子近身相伴的亲密场景"
+  },
+  {
+   "word": "履",
+   "name": "履",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "踩踏、跟随之意，借鞋履动作写两人形影相随"
+  }
+ ]
+}

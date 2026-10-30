@@ -1,0 +1,94 @@
+{
+ "id": 44,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "赤日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "壁画中红日高照，点出画面气象"
+  },
+  {
+   "word": "石林",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "壁画中的山石林壑"
+  },
+  {
+   "word": "青天",
+   "name": "天",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "壁画上方的青碧天空"
+  },
+  {
+   "word": "江海",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "壁画中江海奔流之势"
+  },
+  {
+   "word": "鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以锡杖飞近白鹤的典故写禅师神通"
+  },
+  {
+   "word": "鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以杯渡不惊鸥的典故写禅师从容"
+  },
+  {
+   "word": "庐山",
+   "name": "庐山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借庐山高隐之地比拟禅师居处"
+  },
+  {
+   "word": "惠远",
+   "name": "惠远",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以东晋高僧惠远喻玄武禅师，赞其风范"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "id": 243,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "皎洁月色惊动栖乌，点出离别前夜"
+  },
+  {
+   "word": "乌",
+   "name": "乌",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月明惊乌栖不定，烘托离人不眠"
+  },
+  {
+   "word": "更漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "漏声将尽，暗示天将破晓、离时迫近"
+  },
+  {
+   "word": "辘轳",
+   "name": "辘轳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "井上辘轳声起，点出清晨汲水与将别"
+  },
+  {
+   "word": "金井",
+   "name": "井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "井栏缀金，写居处精致，衬离别之境"
+  },
+  {
+   "word": "泪花",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "泪落枕上，直写别前悲泣"
+  },
+  {
+   "word": "枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "红棉枕冷，泪湿衾枕，写孤眠之苦"
+  },
+  {
+   "word": "霜风",
+   "name": "霜风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "霜风拂鬓，写秋晨送别的凄寒"
+  },
+  {
+   "word": "鬓影",
+   "name": "鬓",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "风吹鬓影，写执手相看时的容颜"
+  },
+  {
+   "word": "阑干",
+   "name": "阑干",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "楼头阑干横斜，写倚楼远望之所"
+  },
+  {
+   "word": "斗柄",
+   "name": "斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "斗柄横斜，点明天将晓、夜已深"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "露寒人远，写别后清冷与距离"
+  },
+  {
+   "word": "鸡",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "鸡声相应，以晨鸡报晓收束离情"
+  }
+ ]
+}

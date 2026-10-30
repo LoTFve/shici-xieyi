@@ -1,0 +1,215 @@
+{
+ "id": 229,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "郊原",
+   "name": "郊原",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "描绘城郊原野的宁静景象"
+  },
+  {
+   "word": "城郭",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指环绕城市的城墙，点明地点"
+  },
+  {
+   "word": "车尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "客人离去后扬起的尘土，渲染离别氛围"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳映山，烘托黄昏的落寞"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "斜阳映照的山峦，作为背景"
+  },
+  {
+   "word": "孤城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤独的城池，强化寂寥感"
+  },
+  {
+   "word": "栏角",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城楼栏杆的一角，细节描写"
+  },
+  {
+   "word": "短亭",
+   "name": "短亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "送别之处，暗示离别"
+  },
+  {
+   "word": "流莺",
+   "name": "黄莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "黄莺啼鸣，劝人留连，增添春意"
+  },
+  {
+   "word": "绣鞍",
+   "name": "马鞍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华丽的马鞍，代指骑马"
+  },
+  {
+   "word": "春酌",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春日饮酒，体现闲适之情"
+  },
+  {
+   "word": "朱阁",
+   "name": "楼阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色的楼阁，指代居所"
+  },
+  {
+   "word": "惊飙",
+   "name": "狂风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "突如其来的大风，吹动帷幕，象征动荡"
+  },
+  {
+   "word": "幕",
+   "name": "帷幕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被风吹动的帘幕，室内场景"
+  },
+  {
+   "word": "红药",
+   "name": "芍药",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色的芍药花，园中景物"
+  },
+  {
+   "word": "西园",
+   "name": "西园",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西边的园林，泛指游赏之地"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "落花满地，表现春深"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春风，此处埋怨其无情，吹落花朵"
+  },
+  {
+   "word": "洞天",
+   "name": "洞天",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "道教仙境，借指逍遥自在的境界"
+  }
+ ]
+}

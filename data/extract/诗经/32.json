@@ -1,0 +1,83 @@
+{
+ "id": 32,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凯风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "南来的和风，起兴并喻母爱"
+  },
+  {
+   "word": "棘心",
+   "name": "棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "酸枣嫩芽，喻幼子"
+  },
+  {
+   "word": "棘薪",
+   "name": "棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "酸枣成柴，喻子已长大"
+  },
+  {
+   "word": "浚",
+   "name": "浚",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "卫国浚邑，寒泉所在之地"
+  },
+  {
+   "word": "寒泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "浚邑之下寒凉泉水，起兴母劳"
+  },
+  {
+   "word": "黄鸟",
+   "name": "黄鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "叫声悦耳的黄鸟，反衬七子不能慰母"
+  },
+  {
+   "word": "音",
+   "name": "鸟鸣",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟好听的鸣声"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 174,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "清明",
+   "name": "清明",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明节令，佳节与荒冢对比的起点"
+  },
+  {
+   "word": "桃李",
+   "name": "桃李",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以桃李盛开反衬野田荒冢之愁"
+  },
+  {
+   "word": "野田",
+   "name": "野田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "荒凉的田野，与佳节形成对照"
+  },
+  {
+   "word": "荒冢",
+   "name": "荒冢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "荒废的坟冢，生愁的核心景物"
+  },
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "春雷惊动天地，写清明时节的自然力量"
+  },
+  {
+   "word": "龙蛇",
+   "name": "龙蛇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指蛰伏的虫类，被雷惊醒"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春雨充足，滋润郊原草木"
+  },
+  {
+   "word": "郊原",
+   "name": "郊原",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "雨后草木柔美的原野"
+  },
+  {
+   "word": "草木",
+   "name": "草木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后柔嫩的春草春木"
+  },
+  {
+   "word": "蓬蒿",
+   "name": "蓬蒿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "满眼杂草荒芜，衬贤愚同归的感慨"
+  },
+  {
+   "word": "丘",
+   "name": "丘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指坟墓，贤愚千载同归一丘"
+  }
+ ]
+}

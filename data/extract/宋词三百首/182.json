@@ -1,0 +1,204 @@
+{
+ "id": 182,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光如波，渲染清冷夜境"
+  },
+  {
+   "word": "玉壶",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以玉壶喻澄澈天空，突出明净"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "翠眼圈花，指灯花或春景"
+  },
+  {
+   "word": "冰丝",
+   "name": "丝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "冰丝织练，形容月光如丝织"
+  },
+  {
+   "word": "黄道",
+   "name": "黄道",
+   "category": "天象",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄道宝光，指帝王仪仗或天象"
+  },
+  {
+   "word": "春色",
+   "name": "春色",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指繁华景象"
+  },
+  {
+   "word": "香",
+   "name": "香",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "随香趁烛，指元宵香气"
+  },
+  {
+   "word": "烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "随香趁烛，回忆元宵灯火"
+  },
+  {
+   "word": "杜郎",
+   "name": "杜牧",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以杜牧自比，感叹年老"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "东风笛，借指春景与笛声"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "东风笛，引发愁思"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "柳院灯疏，描绘庭院春夜"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "灯疏，灯火稀疏，衬托孤寂"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梅厅雪在，冬景残留"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梅厅雪在，积雪未消"
+  },
+  {
+   "word": "春碧",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春碧指酒，谁与共饮"
+  },
+  {
+   "word": "玉人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "指思念之人，夜寒帘隙"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "帘隙透寒，营造孤寂氛围"
+  }
+ ]
+}

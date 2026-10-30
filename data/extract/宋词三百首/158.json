@@ -1,0 +1,160 @@
+{
+ "id": 158,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鶗鴂",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以杜鹃啼声报春尽，起全词惜春之悲"
+  },
+  {
+   "word": "芳菲",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泛指春花，凋歇象征春去"
+  },
+  {
+   "word": "残红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "折残花惜春，流露留春不住之痛"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "轻雨衬风之暴，写春末摧花之景"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "风色暴，写摧残春光的恶风"
+  },
+  {
+   "word": "梅子",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "梅子青时节点明春夏之交，暗含时光流逝"
+  },
+  {
+   "word": "永丰柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借永丰坊柳典，写无人赏惜的寂寞杨柳"
+  },
+  {
+   "word": "花雪",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳絮如雪纷飞，喻春去与愁绪纷乱"
+  },
+  {
+   "word": "幺弦",
+   "name": "琴弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "拨幺弦诉怨，以弦声写极怨之情"
+  },
+  {
+   "word": "双丝网",
+   "name": "丝网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "心似双丝网，喻情思交织难解"
+  },
+  {
+   "word": "千千结",
+   "name": "结",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "网中千结，喻愁情郁结不解"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜过点明时间，写彻夜难眠"
+  },
+  {
+   "word": "东窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "东窗未白，写天将晓而未晓的孤寂等待"
+  },
+  {
+   "word": "残月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残月凝空收束全词，映照不寐人的凄清"
+  }
+ ]
+}

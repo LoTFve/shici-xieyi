@@ -1,0 +1,72 @@
+{
+ "id": 207,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鶗鴂",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以啼声点明春归，暗含伤春之情"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "满院春风，反衬愁绪"
+  },
+  {
+   "word": "海棠",
+   "name": "海棠",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花瓣铺地如绣，写春残之景"
+  },
+  {
+   "word": "梨花",
+   "name": "梨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飘落如雪，渲染春归的凋零"
+  },
+  {
+   "word": "丁香",
+   "name": "丁香",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "露珠如泣，比喻愁肠寸结"
+  },
+  {
+   "word": "风月",
+   "name": "风月",
+   "category": "天象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指男女情爱，用以否定愁因"
+  }
+ ]
+}

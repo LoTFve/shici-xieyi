@@ -1,0 +1,72 @@
+{
+ "id": 110,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "落花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "题目与诗末所指，花被风雨催落，象征美好受摧残"
+  },
+  {
+   "word": "连理枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "连理枝头花开，比喻恩爱相守"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "枝头正开之花，与后文落花对照"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "催落花枝，象征摧残美好的外力"
+  },
+  {
+   "word": "青帝",
+   "name": "青帝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春神，诗人愿其常做主以护花"
+  },
+  {
+   "word": "翠苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "落花纷纷点落之处，青翠苔地"
+  }
+ ]
+}

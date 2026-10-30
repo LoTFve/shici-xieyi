@@ -1,0 +1,72 @@
+{
+ "id": 191,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以高峻南山起兴，象征师尹权势"
+  },
+  {
+   "word": "维石岩岩",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写山石堆积高峻之貌"
+  },
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "呼天怨诉，表达对天不公的控诉"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "驾车四马，写欲驰骋而无处可往"
+  },
+  {
+   "word": "矛",
+   "name": "矛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以兵器比喻恶怒相向"
+  },
+  {
+   "word": "四方",
+   "name": "四方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指天下四方，写无处可驰骋的困局"
+  }
+ ]
+}

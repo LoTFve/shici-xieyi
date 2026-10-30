@@ -1,0 +1,127 @@
+{
+ "id": 156,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "飞絮",
+   "name": "絮",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳絮纷飞，喻离愁纷乱"
+  },
+  {
+   "word": "嘶骑",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "嘶鸣的马，指远行之人"
+  },
+  {
+   "word": "征尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "远行扬起的尘土，表离别之久"
+  },
+  {
+   "word": "双鸳",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "成双鸳鸯，反衬孤独"
+  },
+  {
+   "word": "池沼",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "池水溶溶，宁静景象"
+  },
+  {
+   "word": "小桡",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小船，连接南北，暗示通行"
+  },
+  {
+   "word": "画阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "女子所在之处，黄昏时更显寂寥"
+  },
+  {
+   "word": "斜月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "斜月照帘栊，夜深人静"
+  },
+  {
+   "word": "帘栊",
+   "name": "窗",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "窗帘，月照帘栊，见景思人"
+  },
+  {
+   "word": "桃杏",
+   "name": "桃杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以桃杏嫁东风反衬自己的孤寂"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风，借指归宿"
+  }
+ ]
+}

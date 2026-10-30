@@ -1,0 +1,61 @@
+{
+ "id": 27,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "高",
+   "name": "高处",
+   "category": "其他",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "昼",
+   "emotion": "孤寂",
+   "note": "重阳登高之处，点出行军途中的节令习俗"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "化用白衣送酒典，写无人送酒的重阳寂寞"
+  },
+  {
+   "word": "故园",
+   "name": "故园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "遥想中的长安家园，寄托思乡之情"
+  },
+  {
+   "word": "菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象中故园菊花，重阳的节令象征"
+  },
+  {
+   "word": "战场",
+   "name": "战场",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象故园菊傍战场而开，寄寓战乱之痛"
+  }
+ ]
+}

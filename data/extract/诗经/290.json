@@ -1,0 +1,94 @@
+{
+ "id": 290,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "百谷",
+   "name": "谷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "春耕所播的各类谷物，农事之始"
+  },
+  {
+   "word": "苗",
+   "name": "苗",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "禾苗茂盛，写田间长势之好"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "收获后酿制，用于祭祀祖先"
+  },
+  {
+   "word": "醴",
+   "name": "醴",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "甜酒，与酒并举献祭祖妣"
+  },
+  {
+   "word": "椒",
+   "name": "椒",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以椒之馨香喻祭祀之诚，祈老人安宁"
+  },
+  {
+   "word": "耜",
+   "name": "耜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "锋利好用的农具，春耕南亩"
+  },
+  {
+   "word": "隰",
+   "name": "隰",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地，与畛并举指耕作范围"
+  },
+  {
+   "word": "畛",
+   "name": "畛",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "田间小路，与隰并列写耘田所至"
+  }
+ ]
+}

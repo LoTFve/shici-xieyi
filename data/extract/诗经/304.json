@@ -1,0 +1,116 @@
+{
+ "id": 304,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洪水",
+   "name": "洪水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大禹治水时泛滥的洪水"
+  },
+  {
+   "word": "下土",
+   "name": "大地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指天下四方土地"
+  },
+  {
+   "word": "旒",
+   "name": "旒",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旗帜垂饰，比喻商为下国表率"
+  },
+  {
+   "word": "旆",
+   "name": "旆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "武王出征时的旗帜"
+  },
+  {
+   "word": "钺",
+   "name": "钺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "武王所持的兵器，象征征伐"
+  },
+  {
+   "word": "如火",
+   "name": "火",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容军威如烈火般猛烈"
+  },
+  {
+   "word": "苞",
+   "name": "苞",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻夏桀及其残余势力"
+  },
+  {
+   "word": "三蘖",
+   "name": "蘖",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旁生枝芽，比喻韦顾昆吾等附庸"
+  },
+  {
+   "word": "卿士",
+   "name": "卿士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "辅佐商王的百官"
+  },
+  {
+   "word": "阿衡",
+   "name": "阿衡",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指伊尹，商汤的贤相"
+  }
+ ]
+}

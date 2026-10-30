@@ -1,0 +1,149 @@
+{
+ "id": 215,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "元宵夜吹动灯火的春风"
+  },
+  {
+   "word": "花千树",
+   "name": "灯花",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "比喻",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "满城灯彩如千树繁花盛开"
+  },
+  {
+   "word": "星如雨",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "焰火或灯落如星雨纷飞"
+  },
+  {
+   "word": "宝马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "贵族出游的骏马雕鞍"
+  },
+  {
+   "word": "雕车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "华美车辆满路飘香"
+  },
+  {
+   "word": "凤箫",
+   "name": "箫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "乐声袅袅，烘托节日喧闹"
+  },
+  {
+   "word": "玉壶",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "喻明月流转，清光普照"
+  },
+  {
+   "word": "鱼龙舞",
+   "name": "鱼龙灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "鱼龙形状的花灯彻夜舞动"
+  },
+  {
+   "word": "蛾儿",
+   "name": "蛾儿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "女子元宵所戴的蛾形头饰"
+  },
+  {
+   "word": "雪柳",
+   "name": "雪柳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "女子头上的白色柳枝形饰物"
+  },
+  {
+   "word": "黄金缕",
+   "name": "金缕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "金线捻成的饰物，写游女华美"
+  },
+  {
+   "word": "暗香",
+   "name": "香",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "女子经过后留下的幽香"
+  },
+  {
+   "word": "灯火",
+   "name": "灯火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "稀落灯光处立着所寻之人"
+  }
+ ]
+}

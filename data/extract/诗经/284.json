@@ -1,0 +1,61 @@
+{
+ "id": 284,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "诗中反复呼唤的来客，即微子之来朝"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "客所乘之白马，亦被系留以表挽留之意"
+  },
+  {
+   "word": "旅",
+   "name": "旅",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指客的随从众徒，雕琢其行以备仪仗"
+  },
+  {
+   "word": "絷",
+   "name": "絷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绊马之绳，用以留客"
+  },
+  {
+   "word": "左右",
+   "name": "左右",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指随从臣属，安抚挽留来客"
+  }
+ ]
+}

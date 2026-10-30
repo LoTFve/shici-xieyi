@@ -1,0 +1,94 @@
+{
+ "id": 248,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "阑干",
+   "name": "栏",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "泪湿栏杆，写离别时倚栏落泪"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花上沾露，映衬泪眼与离愁"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "花着露珠，以露衬泪"
+  },
+  {
+   "word": "眉峰",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "愁聚眉峰，写女子愁容"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "短雨残云，以天气喻离情"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "残云无绪，写别后怅惘"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "今夜山深处，写行人所处的幽寂之地"
+  },
+  {
+   "word": "潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "托潮水寄断魂，把思念随潮带回"
+  }
+ ]
+}

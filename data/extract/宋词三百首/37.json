@@ -1,0 +1,50 @@
+{
+ "id": 37,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "关山",
+   "name": "关山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指遥远的边关山川，表达梦魂牵绕的思念"
+  },
+  {
+   "word": "塞雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "边塞的大雁，象征音信稀少，寄托思乡之情"
+  },
+  {
+   "word": "青",
+   "name": "鬓发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指两鬓乌黑的头发，借指青春容颜"
+  },
+  {
+   "word": "纱窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "想象归家后倚窗叙话的场景"
+  }
+ ]
+}

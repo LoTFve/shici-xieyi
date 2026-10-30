@@ -1,0 +1,116 @@
+{
+ "id": 53,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "干旄",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以旄牛尾装饰的旗帜，是诗中招贤者的仪仗"
+  },
+  {
+   "word": "浚",
+   "name": "浚",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "卫国城邑，点明访贤所在之地"
+  },
+  {
+   "word": "郊",
+   "name": "郊",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城郊旷野，交代旗帜出现的空间"
+  },
+  {
+   "word": "素丝",
+   "name": "丝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白色丝线，用来缀饰旗帜，见礼数之盛"
+  },
+  {
+   "word": "良马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四马、五马、六马随行，烘托招贤车驾之隆"
+  },
+  {
+   "word": "彼姝者子",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指贤者，是诗人想要赠礼求教的对方"
+  },
+  {
+   "word": "干旟",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "绘有鸟隼的旗帜，与干旄同类而递进"
+  },
+  {
+   "word": "都",
+   "name": "都",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城邑，与郊、城构成由外而内的空间层次"
+  },
+  {
+   "word": "干旌",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "饰羽的旗帜，三章递进，仪仗愈显隆重"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城邑之内，旗帜招展的最终场景"
+  }
+ ]
+}

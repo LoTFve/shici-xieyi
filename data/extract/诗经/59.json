@@ -1,0 +1,94 @@
+{
+ "id": 59,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "竹竿",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "钓鱼所用的竹竿"
+  },
+  {
+   "word": "淇",
+   "name": "淇水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "女子远嫁后思念的故乡河流"
+  },
+  {
+   "word": "泉源",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与淇水相对的泉水，标记故乡方向"
+  },
+  {
+   "word": "淇水",
+   "name": "淇水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "反复出现的故乡之水，寄托远嫁之思"
+  },
+  {
+   "word": "巧笑",
+   "name": "笑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中女子巧笑的模样"
+  },
+  {
+   "word": "佩玉",
+   "name": "玉佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中女子佩玉行步的仪态"
+  },
+  {
+   "word": "桧楫",
+   "name": "楫",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "桧木做的船桨"
+  },
+  {
+   "word": "松舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "松木造的小船，出游所用"
+  }
+ ]
+}

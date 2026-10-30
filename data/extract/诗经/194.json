@@ -1,0 +1,94 @@
+{
+ "id": 194,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼告苍天，质问其德"
+  },
+  {
+   "word": "旻天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "疾威之天，降灾于人"
+  },
+  {
+   "word": "饥馑",
+   "name": "饥荒",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "丧乱中的灾荒"
+  },
+  {
+   "word": "四国",
+   "name": "四方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指天下诸侯之国"
+  },
+  {
+   "word": "周宗",
+   "name": "周室",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "已灭之宗周"
+  },
+  {
+   "word": "王都",
+   "name": "都城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "劝人迁居的王都"
+  },
+  {
+   "word": "鼠思",
+   "name": "鼠",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "如鼠般忧思泣血"
+  },
+  {
+   "word": "泣血",
+   "name": "血",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "极言悲伤之深"
+  }
+ ]
+}

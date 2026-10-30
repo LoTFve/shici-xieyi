@@ -1,0 +1,116 @@
+{
+ "id": 45,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "太乙",
+   "name": "终南山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以别名称终南山，写其高峻接天"
+  },
+  {
+   "word": "天都",
+   "name": "天都",
+   "category": "天象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借天帝之都写山势高与天接"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写山脉连绵不断直至海边"
+  },
+  {
+   "word": "海隅",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极言山势绵延之远，直到海角"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "回望时云雾合拢，写出山间云气变幻"
+  },
+  {
+   "word": "青霭",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "近看却无的山间青色雾气"
+  },
+  {
+   "word": "中峰",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写终南山中峰分隔星野的宏大"
+  },
+  {
+   "word": "众壑",
+   "name": "山谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写各山谷阴晴不同，突出山势深广"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山间溪水，隔水问路的场景"
+  },
+  {
+   "word": "樵夫",
+   "name": "樵夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "隔水相问的山中打柴人，添隐逸气息"
+  }
+ ]
+}

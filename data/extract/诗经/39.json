@@ -1,0 +1,171 @@
+{
+ "id": 39,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "泉水",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "起兴之物，引出卫国故土之思"
+  },
+  {
+   "word": "淇",
+   "name": "淇",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "卫国河流，代指故国"
+  },
+  {
+   "word": "诸姬",
+   "name": "姬",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "同姓的陪嫁女子，可与之商量"
+  },
+  {
+   "word": "泲",
+   "name": "泲",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "出嫁途中留宿之地"
+  },
+  {
+   "word": "祢",
+   "name": "祢",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "饯行之地的地名"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "归卫所驾之车"
+  },
+  {
+   "word": "姑",
+   "name": "姑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "请教问安的姑母"
+  },
+  {
+   "word": "伯姊",
+   "name": "姊",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "同问安的长姊"
+  },
+  {
+   "word": "干",
+   "name": "干",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "再次出宿的卫国地名"
+  },
+  {
+   "word": "言",
+   "name": "言",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "饯行之地的地名"
+  },
+  {
+   "word": "脂",
+   "name": "脂",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "涂车轴用的油脂，指整装待发"
+  },
+  {
+   "word": "辖",
+   "name": "辖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车轴销钉，与脂同指备车"
+  },
+  {
+   "word": "肥泉",
+   "name": "肥泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "卫国泉水，思乡之叹的触点"
+  },
+  {
+   "word": "须",
+   "name": "须",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "卫国城邑，与漕并提"
+  },
+  {
+   "word": "漕",
+   "name": "漕",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "卫国城邑，思念所向"
+  }
+ ]
+}

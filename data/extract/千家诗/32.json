@@ -1,0 +1,28 @@
+{
+ "id": 32,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "借酒挽留友人的道具，寄托惜别之情"
+  },
+  {
+   "word": "石尤风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用石尤风之典，借指能阻人行程的风，愿它留住友人"
+  }
+ ]
+}

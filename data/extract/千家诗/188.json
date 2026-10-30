@@ -1,0 +1,105 @@
+{
+ "id": 188,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月坡堤",
+   "name": "堤",
+   "category": "建筑",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人徘徊其上的水边堤岸，点明游赏地点"
+  },
+  {
+   "word": "中天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "百尺台高耸入半天，写出亭台的高峻"
+  },
+  {
+   "word": "百尺台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北面高台，勾勒月陂周遭的景致"
+  },
+  {
+   "word": "秋气",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明时令，万物随之改色"
+  },
+  {
+   "word": "樽",
+   "name": "樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "傍晚乘凉开樽小饮，见诗人闲适之情"
+  },
+  {
+   "word": "水心",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水面澄澈，与云影相映成趣"
+  },
+  {
+   "word": "云影",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "倒映水中，与水光悠然相照"
+  },
+  {
+   "word": "林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "林木之下，为泉声提供幽静背景"
+  },
+  {
+   "word": "泉声",
+   "name": "泉",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "林中泉水声自然传来，以动衬静"
+  }
+ ]
+}

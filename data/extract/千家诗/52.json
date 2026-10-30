@@ -1,0 +1,50 @@
+{
+ "id": 52,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写张旭年老而闲适自放的形象"
+  },
+  {
+   "word": "青云",
+   "name": "青云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指高远的志向与超逸的境界，就在眼前"
+  },
+  {
+   "word": "床头",
+   "name": "床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点出醉卧之处，见其放达生活"
+  },
+  {
+   "word": "一壶酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以酒写张旭醉后颠逸的性情"
+  }
+ ]
+}

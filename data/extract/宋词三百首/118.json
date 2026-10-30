@@ -1,0 +1,160 @@
+{
+ "id": 118,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "怒发",
+   "name": "发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以怒发冲冠写报国之愤，人物情绪的外化"
+  },
+  {
+   "word": "阑",
+   "name": "栏",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "凭栏远望的凭依，登临之所"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "潇潇雨歇渲染悲愤氛围"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "仰天长啸的背景，抒泄激愤"
+  },
+  {
+   "word": "尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "功名如尘土，喻功业微不足道"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "八千里路云和月，写行军途中的云"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "与云并列，写转战南北的日夜兼程"
+  },
+  {
+   "word": "少年头",
+   "name": "头",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指青春年华，叹等闲虚度"
+  },
+  {
+   "word": "长车",
+   "name": "战车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "驾长车踏破敌阵，写北伐之志"
+  },
+  {
+   "word": "贺兰山",
+   "name": "贺兰山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指敌境关山，表达直捣敌巢之志"
+  },
+  {
+   "word": "胡虏肉",
+   "name": "胡虏",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "借指敌人，写刻骨仇恨与豪情"
+  },
+  {
+   "word": "匈奴血",
+   "name": "匈奴",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "借指金人，以饮血写灭敌决心"
+  },
+  {
+   "word": "旧山河",
+   "name": "山河",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指沦陷的国土，收复合一之愿"
+  },
+  {
+   "word": "朝天阙",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "朝拜天子的宫阙，写功成还朝的归宿"
+  }
+ ]
+}

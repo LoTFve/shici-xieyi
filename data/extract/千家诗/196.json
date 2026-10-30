@@ -1,0 +1,116 @@
+{
+ "id": 196,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "皓魄",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "开篇点出中秋明月，为全诗核心意象"
+  },
+  {
+   "word": "宝镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以宝镜比喻升起的圆月，突出其明亮"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云间仙籁，营造幽静高远的月夜氛围"
+  },
+  {
+   "word": "秋色",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "平分秋色，点明中秋时令"
+  },
+  {
+   "word": "一轮",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "一轮满月，再次强调中秋圆月之形"
+  },
+  {
+   "word": "云衢",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云衢指云间道路，写月光照亮千里云天"
+  },
+  {
+   "word": "狡兔",
+   "name": "兔",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月宫玉兔的典故，借指月中之兔"
+  },
+  {
+   "word": "妖蟆",
+   "name": "蟾蜍",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月宫蟾蜍的典故，诗人斥其不要现身妨月"
+  },
+  {
+   "word": "灵槎",
+   "name": "槎",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "乘槎上天的典故，表达登天游月的想象"
+  },
+  {
+   "word": "银河",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "想象银河清澈，与友人携手同游天宇"
+  }
+ ]
+}

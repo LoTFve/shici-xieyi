@@ -1,0 +1,216 @@
+{
+ "id": 14,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "苍天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指天为证，表达忠诚"
+  },
+  {
+   "word": "五帝",
+   "name": "五帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "召唤五帝来公正评判"
+  },
+  {
+   "word": "六神",
+   "name": "六神",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "命六神对质"
+  },
+  {
+   "word": "山川",
+   "name": "山川",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "让山川之神备御"
+  },
+  {
+   "word": "咎繇",
+   "name": "皋陶",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "命皋陶听讼断直"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "回忆梦中登天"
+  },
+  {
+   "word": "厉神",
+   "name": "厉神",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "使厉神占卜"
+  },
+  {
+   "word": "羹",
+   "name": "羹",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以热羹烫口作比喻，说明因受挫而戒备"
+  },
+  {
+   "word": "齑",
+   "name": "齑",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "切碎的腌菜，与羹并提构成受惩的经验"
+  },
+  {
+   "word": "阶",
+   "name": "阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻晋升的凭借，欲释阶登天是舍弃凭依"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登天喻指求得君心，高远难及"
+  },
+  {
+   "word": "矰弋",
+   "name": "矰弋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "系丝线的射鸟短箭，喻朝中构陷的机巧"
+  },
+  {
+   "word": "罻罗",
+   "name": "罗网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕鸟的网，与矰弋上下并设，喻处处陷阱"
+  },
+  {
+   "word": "木兰",
+   "name": "木兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香木，捣碎作干粮，象征高洁自持"
+  },
+  {
+   "word": "蕙",
+   "name": "蕙",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，与木兰同捣，表芳洁之志"
+  },
+  {
+   "word": "申椒",
+   "name": "椒",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香椒舂作粮食，喻甘守芳洁"
+  },
+  {
+   "word": "江离",
+   "name": "江离",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草，播种以制春日糗粮"
+  },
+  {
+   "word": "菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "滋长之菊，与江离同为春日糗芳的香洁之料"
+  },
+  {
+   "word": "春日",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "设想春日以香草为粮，寄托自洁远身之愿"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 130,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "榴花",
+   "name": "榴花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "五月盛开的石榴花，红艳照眼，是全诗主景"
+  },
+  {
+   "word": "枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "石榴枝头，果实初成的依托"
+  },
+  {
+   "word": "子",
+   "name": "果",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "枝间初结的小石榴，点出时令"
+  },
+  {
+   "word": "车马",
+   "name": "车马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "此地说没有车马，反衬榴花无人赏的冷清"
+  },
+  {
+   "word": "苍苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "地面青苔，烘托幽僻无人之境"
+  },
+  {
+   "word": "绛英",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飘落的红色花瓣，与苍苔相映，写出花落无人惜"
+  }
+ ]
+}

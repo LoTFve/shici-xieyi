@@ -1,0 +1,39 @@
+{
+ "id": 26,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "游侠仗剑远行的标志性器物"
+  },
+  {
+   "word": "大梁",
+   "name": "大梁",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借战国魏都指自己曾为豪侠门客之地"
+  },
+  {
+   "word": "信陵",
+   "name": "信陵",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "借信陵君喻五陵太守的知遇之恩"
+  }
+ ]
+}

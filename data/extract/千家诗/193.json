@@ -1,0 +1,149 @@
+{
+ "id": 193,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光满船，渲染清冷空寂的夜景"
+  },
+  {
+   "word": "船",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "诗人所居之舟，全诗场景所在"
+  },
+  {
+   "word": "绿水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "无痕的绿水，衬托夜的静谧"
+  },
+  {
+   "word": "樯影",
+   "name": "樯",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "桅樯的影子，随诗思浮沉"
+  },
+  {
+   "word": "橹声",
+   "name": "橹",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "摇橹之声，伴随梦魂摇拽"
+  },
+  {
+   "word": "星辰",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "倒映碧潭的星点，冷落稀疏"
+  },
+  {
+   "word": "鸿雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "悲鸣于红蓼风中，寄托羁旅之愁"
+  },
+  {
+   "word": "红蓼",
+   "name": "蓼",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "水边红蓼，点明秋意并映衬雁鸣"
+  },
+  {
+   "word": "渔灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "几点渔火依傍古岸，增添夜泊的寂寥"
+  },
+  {
+   "word": "古岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "渔灯所依的古老河岸，点出荒寒"
+  },
+  {
+   "word": "断桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "残断的桥，与垂露相映，显出荒凉"
+  },
+  {
+   "word": "垂露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "露水滴落，暗示夜深寒意"
+  },
+  {
+   "word": "梧桐",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "露滴梧桐，以声写静，烘托秋夜愁思"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": 42,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "龙",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "神兽坐骑，象征飞升"
+  },
+  {
+   "word": "英衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美衣裳，仙人装束"
+  },
+  {
+   "word": "华裳",
+   "name": "裳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华服，衬托仙姿"
+  },
+  {
+   "word": "羊角",
+   "name": "羊角",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "旋风，以喻飞升之力"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "云海逍遥"
+  },
+  {
+   "word": "流星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "天星坠雨，瑰丽天象"
+  },
+  {
+   "word": "丘墟",
+   "name": "丘墟",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "荒丘废墟，登临之处"
+  },
+  {
+   "word": "旧邦",
+   "name": "旧邦",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "故国故乡，远望郁葱"
+  },
+  {
+   "word": "素女",
+   "name": "素女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "神女微歌，典出《史记》"
+  },
+  {
+   "word": "王后",
+   "name": "王后",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神后吹竽，典出《楚辞》"
+  },
+  {
+   "word": "竽",
+   "name": "竽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乐器，神后所吹"
+  },
+  {
+   "word": "佩",
+   "name": "佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "玉佩缤纷，抚以自怜"
+  },
+  {
+   "word": "祝融",
+   "name": "祝融",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "火神开路，借指先驱"
+  },
+  {
+   "word": "昭明",
+   "name": "昭明",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "光明之神开门，借指启程"
+  },
+  {
+   "word": "六蛟",
+   "name": "蛟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "六龙驾车，飞升天界"
+  },
+  {
+   "word": "九州",
+   "name": "九州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "遍行天下，求索知音"
+  },
+  {
+   "word": "西囿",
+   "name": "西囿",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "西园，回望故国"
+  },
+  {
+   "word": "轸丘",
+   "name": "轸丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "崎岖山丘，触目伤情"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": 172,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "油壁香车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指所思念的女子及其车驾，已不可再逢"
+  },
+  {
+   "word": "峡云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用巫山云雨典，喻情事已渺无踪迹"
+  },
+  {
+   "word": "梨花",
+   "name": "梨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "院落中盛开的梨花，衬出春夜清丽之景"
+  },
+  {
+   "word": "院落",
+   "name": "院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梨花所在的庭院，点明环境"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "溶溶月色笼罩院落，渲染清冷氛围"
+  },
+  {
+   "word": "柳絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "池塘边飘飞的柳絮，点出暮春时节"
+  },
+  {
+   "word": "池塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳絮飘落的池面，构成春景一角"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "淡淡微风拂过，与月色相映成静景"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒消愁却更添寂寥"
+  },
+  {
+   "word": "禁烟",
+   "name": "寒食",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指寒食禁烟时节，烘托萧瑟心境"
+  },
+  {
+   "word": "鱼书",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指想寄给所思之人的书信"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以水远山长喻书信难达、相隔遥远"
+  }
+ ]
+}

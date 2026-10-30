@@ -1,0 +1,226 @@
+{
+ "id": 129,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "古城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明地点，古城墙阴影下"
+  },
+  {
+   "word": "官梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "早春梅花未开，红萼细小"
+  },
+  {
+   "word": "红萼",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "梅花的红色花萼，尚未适合簪戴"
+  },
+  {
+   "word": "池面",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "池水结冰，突出寒冷"
+  },
+  {
+   "word": "冰",
+   "name": "冰",
+   "category": "其他",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "池面冰胶，写冬日景象"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "墙腰积雪未消，点明残冬"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云意沉沉，渲染阴沉氛围"
+  },
+  {
+   "word": "翠藤",
+   "name": "藤",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "翠绿藤蔓，与竹径相映"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹径供人闲行"
+  },
+  {
+   "word": "沙禽",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "笑语惊起沙禽，以动衬静"
+  },
+  {
+   "word": "野老",
+   "name": "老翁",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "林泉间的野老，点缀山林"
+  },
+  {
+   "word": "林泉",
+   "name": "林泉",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山林泉石，隐逸之所"
+  },
+  {
+   "word": "台榭",
+   "name": "台榭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "故王台榭，引发登临之兴"
+  },
+  {
+   "word": "湘云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "湘地云彩，与楚水同写漂泊"
+  },
+  {
+   "word": "楚水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "楚地江河，目极伤心"
+  },
+  {
+   "word": "朱户",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "红漆门户，黏鸡迎春"
+  },
+  {
+   "word": "金盘",
+   "name": "盘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "金盘盛燕，立春习俗"
+  },
+  {
+   "word": "西楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆中的雅集之地"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象归时垂柳如金丝"
+  },
+  {
+   "word": "归鞍",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "期待归程，只怕春深"
+  }
+ ]
+}

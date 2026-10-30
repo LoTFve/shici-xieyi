@@ -1,0 +1,83 @@
+{
+ "id": 187,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "诗中反复驱赶的鸟，啄食庄稼，引发诗人思归之情"
+  },
+  {
+   "word": "谷",
+   "name": "谷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟啄食的谷物，象征他乡的剥削"
+  },
+  {
+   "word": "粟",
+   "name": "粟",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟所啄之粟，指代粮食"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟停歇的桑树，与农事相关"
+  },
+  {
+   "word": "粱",
+   "name": "粱",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟所啄的粱，指代粮食"
+  },
+  {
+   "word": "栩",
+   "name": "栩",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟停歇的栩树（柞树），与桑、谷并列"
+  },
+  {
+   "word": "黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟所啄的黍，指代粮食"
+  }
+ ]
+}

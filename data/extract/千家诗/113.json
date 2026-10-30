@@ -1,0 +1,83 @@
+{
+ "id": 113,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "瓦雀",
+   "name": "雀",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "双双落在书案旁的瓦雀，点出书房周围的生动气息"
+  },
+  {
+   "word": "书案",
+   "name": "书案",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "读书的书桌，交代诗人闲坐读书的场景"
+  },
+  {
+   "word": "杨花",
+   "name": "杨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "飘入砚池的柳絮，点明暮春时节"
+  },
+  {
+   "word": "砚池",
+   "name": "砚",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "承接飘落杨花的砚台，见书房之静"
+  },
+  {
+   "word": "小窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人闲坐读书之处，构成室内框景"
+  },
+  {
+   "word": "周易",
+   "name": "周易",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "所读之书，显出诗人闲适自得的心境"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "指春天时节，叹息不知春已归去"
+  }
+ ]
+}

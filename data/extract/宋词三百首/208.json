@@ -1,0 +1,171 @@
+{
+ "id": 208,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "象征春去和人生风雨"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "指代春光、春天"
+  },
+  {
+   "word": "落红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "象征春去和年华流逝"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "天涯芳草，暗喻归路迷茫"
+  },
+  {
+   "word": "画檐",
+   "name": "檐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "画檐珠网，指代精致屋檐"
+  },
+  {
+   "word": "珠网",
+   "name": "蛛网",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "蛛网惹絮，表现春去无聊"
+  },
+  {
+   "word": "飞絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飞絮象征春残和飘零"
+  },
+  {
+   "word": "长门",
+   "name": "长门",
+   "category": "地名",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用陈皇后失宠典故，喻失意"
+  },
+  {
+   "word": "蛾眉",
+   "name": "蛾眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指美人，喻贤才遭妒"
+  },
+  {
+   "word": "相如赋",
+   "name": "相如赋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用司马相如献赋典故，喻情难诉"
+  },
+  {
+   "word": "玉环",
+   "name": "玉环",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "杨玉环，喻得宠者终化尘土"
+  },
+  {
+   "word": "飞燕",
+   "name": "飞燕",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赵飞燕，喻宠幸短暂"
+  },
+  {
+   "word": "危楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "高危之楼，登临增愁"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "斜阳烟柳，渲染断肠愁绪"
+  },
+  {
+   "word": "烟柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "烟柳断肠，象征离愁别恨"
+  }
+ ]
+}

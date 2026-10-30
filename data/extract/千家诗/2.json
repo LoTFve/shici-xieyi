@@ -1,0 +1,72 @@
+{
+ "id": 2,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "门前映着淮水，点出送别地点"
+  },
+  {
+   "word": "淮水",
+   "name": "淮水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绿水映门，交代送别环境"
+  },
+  {
+   "word": "骑",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指客人车马，主人欲留客"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "明月随友人远行，寄托依依别情"
+  },
+  {
+   "word": "良掾",
+   "name": "友人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指郭司仓，点明所送之人"
+  },
+  {
+   "word": "春潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "春潮夜夜加深，喻友情愈深"
+  }
+ ]
+}

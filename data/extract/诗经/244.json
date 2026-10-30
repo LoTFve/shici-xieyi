@@ -1,0 +1,105 @@
+{
+ "id": 244,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "崇",
+   "name": "崇",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "文王征伐的崇国，武功的见证"
+  },
+  {
+   "word": "丰",
+   "name": "丰",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "文王所建都城，王业的根基"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "筑城于丰，经营都邑的实景"
+  },
+  {
+   "word": "垣",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丰邑的城墙，四方归附的屏障"
+  },
+  {
+   "word": "丰水",
+   "name": "丰水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "东流入渭，与禹绩相连的水势"
+  },
+  {
+   "word": "镐京",
+   "name": "镐京",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "武王定都之处，天下归心的中心"
+  },
+  {
+   "word": "辟雍",
+   "name": "辟雍",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "镐京学宫，教化四方的象征"
+  },
+  {
+   "word": "龟",
+   "name": "龟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占卜定都的灵龟，显示天命所归"
+  },
+  {
+   "word": "芑",
+   "name": "芑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丰水边生长的嘉谷，喻子孙受荫"
+  }
+ ]
+}

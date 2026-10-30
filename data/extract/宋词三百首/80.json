@@ -1,0 +1,248 @@
+{
+ "id": 80,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "宫粉",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以宫粉喻落梅，点出凋零之美"
+  },
+  {
+   "word": "仙云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻梅花飘落如仙云坠影"
+  },
+  {
+   "word": "野水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒湾野水衬托梅之寂寥"
+  },
+  {
+   "word": "古石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "古石埋香，写梅落石下"
+  },
+  {
+   "word": "金沙",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "金沙锁骨连环，形容梅落沙中"
+  },
+  {
+   "word": "南楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "南楼闻笛，寄离恨"
+  },
+  {
+   "word": "横笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "笛声起离愁"
+  },
+  {
+   "word": "晓风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "晓风关山，吹散梅魂"
+  },
+  {
+   "word": "关山",
+   "name": "关山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "关山阻隔，寄托离恨"
+  },
+  {
+   "word": "庭",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "庭上黄昏，梅落无人"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏时分更添冷落"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月冷阑干，烘托梅之清冷"
+  },
+  {
+   "word": "阑干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "月照阑干，人倚愁绝"
+  },
+  {
+   "word": "寿阳",
+   "name": "寿阳",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寿阳公主梅花妆典，写梅落妆残"
+  },
+  {
+   "word": "愁鸾",
+   "name": "鸾镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸾镜生愁，写对镜伤梅"
+  },
+  {
+   "word": "细雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "细雨添寒，梅落春寒"
+  },
+  {
+   "word": "归鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "归鸿反衬离魂不归"
+  },
+  {
+   "word": "孤山",
+   "name": "孤山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤山梅妻鹤子典，写梅之孤高"
+  },
+  {
+   "word": "缟衣",
+   "name": "白衣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以缟衣喻梅之洁白"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "解佩溪边，写梅魂缥缈"
+  },
+  {
+   "word": "啼鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "哀愁",
+   "note": "啼鸟晴明，反衬愁人"
+  },
+  {
+   "word": "叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "叶底青圆，写梅落后新叶"
+  }
+ ]
+}

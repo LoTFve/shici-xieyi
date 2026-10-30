@@ -1,0 +1,50 @@
+{
+ "id": 183,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之景，以流水朝宗喻人心所向"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "流水所归之处，反衬乱世无归"
+  },
+  {
+   "word": "飞隼",
+   "name": "隼",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以隼之飞止兴兄弟友朋之离散"
+  },
+  {
+   "word": "中陵",
+   "name": "陵",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "飞隼循陵而飞，暗喻谗言蔓延"
+  }
+ ]
+}

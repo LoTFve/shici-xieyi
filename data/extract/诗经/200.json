@@ -1,0 +1,127 @@
+{
+ "id": 200,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "贝锦",
+   "name": "锦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻谗人罗织罪状如编织贝纹锦"
+  },
+  {
+   "word": "南箕",
+   "name": "箕",
+   "category": "天象",
+   "parent": "star",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "箕星南向如张口，喻谗人张大口搬弄是非"
+  },
+  {
+   "word": "苍天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "呼天控诉，望天鉴察骄人劳人"
+  },
+  {
+   "word": "豺虎",
+   "name": "豺",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "欲将谗人投喂豺虎，表憎恶之极"
+  },
+  {
+   "word": "有北",
+   "name": "北",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "北方荒寒不毛之地，投谗人于此"
+  },
+  {
+   "word": "有昊",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "请求上天处置谗人，与苍天呼应"
+  },
+  {
+   "word": "杨园",
+   "name": "杨园",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "杨树园圃，诗人自述所由之路"
+  },
+  {
+   "word": "亩丘",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高地田亩，与杨园之道相邻"
+  },
+  {
+   "word": "寺人孟子",
+   "name": "寺人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "作者自称，以寺人孟子身份作此诗"
+  },
+  {
+   "word": "骄人",
+   "name": "骄人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指得志骄横的谗人"
+  },
+  {
+   "word": "劳人",
+   "name": "劳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指劳苦受谗的良善之人"
+  }
+ ]
+}

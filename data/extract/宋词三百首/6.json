@@ -1,0 +1,160 @@
+{
+ "id": 6,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "绣帷上鸳鸯柱，喻夫妇成双"
+  },
+  {
+   "word": "腻云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "形容女子浓密秀发如云"
+  },
+  {
+   "word": "秦树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借秦地树木暗指连理枝"
+  },
+  {
+   "word": "花梢",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "花枝映衬钿合，写闺中春景"
+  },
+  {
+   "word": "锦屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美屏风，反衬闺中孤独"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "东风催春，枝交花眠"
+  },
+  {
+   "word": "瑶钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "玉钗燕股，点缀女子妆饰"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕股喻钗形，兼示春意"
+  },
+  {
+   "word": "滟蜡",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "高烛满照欢丛，写夜宴之盛"
+  },
+  {
+   "word": "嫠蟾",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "孤月羞度，反衬人间欢聚"
+  },
+  {
+   "word": "华清",
+   "name": "华清池",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借杨贵妃沐浴典写承恩之欢"
+  },
+  {
+   "word": "风露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春盎风露，写华清浴后温润"
+  },
+  {
+   "word": "秋灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "暗殿锁秋灯，写长恨凄清"
+  },
+  {
+   "word": "长恨",
+   "name": "长恨歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借白居易长恨歌写离愁别恨"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 104,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "敝笱",
+   "name": "笱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "破旧的鱼篓，置于鱼梁上，象征礼法废弛"
+  },
+  {
+   "word": "梁",
+   "name": "梁",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拦水的鱼梁，敝笱所置之处的背景"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼梁中的鱼，反衬笱破而鱼不能制"
+  },
+  {
+   "word": "鲂鳏",
+   "name": "鲂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鲂鱼与鳏鱼，具体鱼名，烘托鱼梁之景"
+  },
+  {
+   "word": "鲂鱮",
+   "name": "鱮",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鲂鱼与鲢鱼，具体鱼名，与上章换韵"
+  },
+  {
+   "word": "齐子",
+   "name": "齐子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指齐国的女子（文姜），诗中追随者众的主体"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "喻随从之多，如云涌聚"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻随从之众，如雨密集"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻随从之多，如水滔滔"
+  }
+ ]
+}

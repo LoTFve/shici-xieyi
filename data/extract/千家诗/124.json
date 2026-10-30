@@ -1,0 +1,83 @@
+{
+ "id": 124,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "夏",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "清影笼罩幽窗，写出夏日幽静的居处"
+  },
+  {
+   "word": "清影",
+   "name": "影",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹影摇曳映窗，添幽静氛围"
+  },
+  {
+   "word": "幽窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "女子幽居的窗，是画面取景框"
+  },
+  {
+   "word": "时禽",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "夏",
+   "time": "暮",
+   "emotion": "无",
+   "note": "成双鸣叫的鸟，点出暮色中的声响"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明时辰，暮色笼住全诗"
+  },
+  {
+   "word": "海棠",
+   "name": "海棠",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "海棠凋谢，暗示春尽"
+  },
+  {
+   "word": "絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳絮飞尽，写春光消逝"
+  }
+ ]
+}

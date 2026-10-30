@@ -1,0 +1,83 @@
+{
+ "id": 253,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "中国",
+   "name": "国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指王朝京畿与疆域，是全诗劝谏施惠的核心对象"
+  },
+  {
+   "word": "四方",
+   "name": "四方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "泛指天下诸侯与边远之地，与“中国”相对"
+  },
+  {
+   "word": "京师",
+   "name": "京",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "王朝都城，与“中国”互文，强调惠政自近始"
+  },
+  {
+   "word": "四国",
+   "name": "四国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四方之国，指天下诸侯，呼应“四方”"
+  },
+  {
+   "word": "王",
+   "name": "王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "劝谏的对象，诗中以“我王”“小子”称之"
+  },
+  {
+   "word": "小子",
+   "name": "小子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指年轻的在位者，劝其虽小而任重“式弘大”"
+  },
+  {
+   "word": "威仪",
+   "name": "威仪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "君子的容止礼节，诗中主张“敬慎威仪”以近有德"
+  }
+ ]
+}

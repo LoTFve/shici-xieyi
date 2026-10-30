@@ -1,0 +1,61 @@
+{
+ "id": 136,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "宛丘",
+   "name": "宛丘",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中反复出现的舞蹈场所，是陈国著名的土丘"
+  },
+  {
+   "word": "击鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "描写宛丘下人们击鼓起舞的热闹场面"
+  },
+  {
+   "word": "鹭羽",
+   "name": "鹭羽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "舞者手持的鹭鸟羽毛，用作舞蹈道具"
+  },
+  {
+   "word": "缶",
+   "name": "缶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "陶制打击乐器，与击鼓呼应，表现民间乐舞"
+  },
+  {
+   "word": "鹭翿",
+   "name": "鹭翿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用鹭羽制成的舞具，舞者持之而舞"
+  }
+ ]
+}

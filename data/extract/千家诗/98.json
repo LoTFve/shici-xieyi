@@ -1,0 +1,72 @@
+{
+ "id": 98,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "美酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以美酒开篇，点出客中尽兴之物"
+  },
+  {
+   "word": "玉碗",
+   "name": "碗",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "盛酒之器，衬酒色之美"
+  },
+  {
+   "word": "琥珀光",
+   "name": "酒光",
+   "category": "其他",
+   "parent": "wine",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以琥珀喻酒色，写酒之澄莹诱人"
+  },
+  {
+   "word": "主人",
+   "name": "主人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "设宴留客者，全诗的情感依托"
+  },
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人自指，点出客居身份"
+  },
+  {
+   "word": "他乡",
+   "name": "他乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "与醉中忘乡相对，反衬沉醉之深"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 156,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "尘埃",
+   "name": "尘",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以尘埃不染反衬梅之高洁"
+  },
+  {
+   "word": "竹篱",
+   "name": "篱",
+   "category": "建筑",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "梅所栖身的简朴环境"
+  },
+  {
+   "word": "茅舍",
+   "name": "茅舍",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "梅甘心居处的清贫之所"
+  },
+  {
+   "word": "林和靖",
+   "name": "林逋",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借林逋梅妻鹤子之典写梅之名传"
+  },
+  {
+   "word": "诗人",
+   "name": "诗人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指历代咏梅题咏者"
+  }
+ ]
+}

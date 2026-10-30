@@ -1,0 +1,72 @@
+{
+ "id": 53,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "繁灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "元宵夜繁华灯火通明，反衬词人中年心境"
+  },
+  {
+   "word": "霁华",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "被繁灯夺去光彩的明月，指雨雪初晴后的月色"
+  },
+  {
+   "word": "戏鼓",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "戏鼓声喧闹，一直响到天明，写节日热闹"
+  },
+  {
+   "word": "镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "女子对镜画眉，写闺中情态"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "楼西拜月之处，写女子深夜独拜"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "楼西之月，女子拜月寄情，与繁灯对照"
+  }
+ ]
+}

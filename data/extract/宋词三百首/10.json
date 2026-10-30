@@ -1,0 +1,281 @@
+{
+ "id": 10,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明秋夜送别的寒冷氛围"
+  },
+  {
+   "word": "枫",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枫叶飘落长桥，渲染离别萧瑟"
+  },
+  {
+   "word": "长桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "送别地点，枫叶落于桥上"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "望天不尽，表现视野开阔与离思悠长"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "背城渐杳，指离城渐远，暗含不舍"
+  },
+  {
+   "word": "离亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之亭，黯黯伤神"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "恨水迢迢，以水喻离恨绵长"
+  },
+  {
+   "word": "红衣",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指荷花，翠香零落红衣老，写秋荷凋零"
+  },
+  {
+   "word": "残柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮愁锁残柳眉梢，以柳拟人写愁"
+  },
+  {
+   "word": "兰桡",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指船桨，代指船，曾系兰桡忆旧"
+  },
+  {
+   "word": "仙人",
+   "name": "仙人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用萧史弄玉典，以仙人凤箫喻箫声之美"
+  },
+  {
+   "word": "凤",
+   "name": "凤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "凤咽琼箫，用典写箫声凄咽"
+  },
+  {
+   "word": "琼箫",
+   "name": "箫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "玉箫，用典形容乐声"
+  },
+  {
+   "word": "九辨",
+   "name": "九辨",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用宋玉《九辩》典，表达悲秋伤别"
+  },
+  {
+   "word": "醉鬟",
+   "name": "歌女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "醉态的歌女，留盼送别"
+  },
+  {
+   "word": "小窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "小窗剪烛，回忆共处时光"
+  },
+  {
+   "word": "烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "剪烛夜谈，温暖而短暂"
+  },
+  {
+   "word": "歌云",
+   "name": "歌声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "歌声载恨飞上银霄，比喻歌声凄清"
+  },
+  {
+   "word": "银霄",
+   "name": "天空",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "银河霄汉，歌声飞上，意境高远"
+  },
+  {
+   "word": "素秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指秋天，不解随船去，怨秋无情"
+  },
+  {
+   "word": "败红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "败落红花，随寒涛流逝"
+  },
+  {
+   "word": "一叶",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "一叶扁舟，在寒涛中远去"
+  },
+  {
+   "word": "翠翘",
+   "name": "翠翘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "女子首饰，借指所思念之人"
+  },
+  {
+   "word": "鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "怨鸿料过南谯，借雁传恨"
+  },
+  {
+   "word": "南谯",
+   "name": "谯楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "南边的谯楼，雁过此楼，寄托离思"
+  }
+ ]
+}

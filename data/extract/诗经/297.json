@@ -1,0 +1,160 @@
+{
+ "id": 297,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "牡马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗反复咏赞的强壮公马，是鲁国牧马盛景的主体"
+  },
+  {
+   "word": "坰",
+   "name": "郊野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "马群放牧的远郊原野，铺开辽阔背景"
+  },
+  {
+   "word": "有驈有皇",
+   "name": "驈",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黑鬃白马与黄白马并列举出，铺陈马色之盛"
+  },
+  {
+   "word": "有骊有黄",
+   "name": "骊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "纯黑马与黄马并举，见马群毛色之繁"
+  },
+  {
+   "word": "有骓有𬳵",
+   "name": "骓",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "苍黑杂色马与白黑杂色马，续写毛色之富"
+  },
+  {
+   "word": "有骍有骐",
+   "name": "骍",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "赤黄马与青黑纹马并举，铺陈马群之众"
+  },
+  {
+   "word": "有驒有骆",
+   "name": "驒",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "有鳞纹的马与白身黑鬃马，继续罗列毛色"
+  },
+  {
+   "word": "有骝有雒",
+   "name": "骝",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "赤身黑鬃马与黑身白马并举，见马色之备"
+  },
+  {
+   "word": "有骃有騢",
+   "name": "骃",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "浅黑杂白马与赤白杂毛马，续写毛色"
+  },
+  {
+   "word": "有驔有鱼",
+   "name": "驔",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "小腿有长毛的马与两眼似鱼目的马，收束毛色罗列"
+  },
+  {
+   "word": "以车彭彭",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "马群驾车时盛多的样子，由马及车，见牧马之用"
+  },
+  {
+   "word": "以车伾伾",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾车有力之貌，与上章彭彭相应，状马之强健"
+  },
+  {
+   "word": "以车绎绎",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾车络绎不绝之貌，写马群之繁盛"
+  },
+  {
+   "word": "以车祛祛",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾车强健之貌，收束四章对马车的铺陈"
+  }
+ ]
+}

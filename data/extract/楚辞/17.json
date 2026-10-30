@@ -1,0 +1,238 @@
+{
+ "id": 17,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "长夜难明，衬托忧思绵长"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风动容，兴起悲秋之感"
+  },
+  {
+   "word": "荪",
+   "name": "荪",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草喻楚王，取其多怒"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "昔日约期，暗含失信之悲"
+  },
+  {
+   "word": "美人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻指君王，寄托忠贞之情"
+  },
+  {
+   "word": "三王",
+   "name": "三王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以古圣王为楷模，表明政治理想"
+  },
+  {
+   "word": "彭咸",
+   "name": "彭咸",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以彭咸为仪范，暗示守节之志"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "自南来集汉北，喻己独处异域"
+  },
+  {
+   "word": "汉北",
+   "name": "汉北",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "流放之地，点明孤独处境"
+  },
+  {
+   "word": "良媒",
+   "name": "媒",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "喻可通君侧之人，叹无人引荐"
+  },
+  {
+   "word": "北山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "眺望北山而流涕，寄托对故土的思念"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "临流水而太息，借流水抒发哀愁"
+  },
+  {
+   "word": "孟夏",
+   "name": "夏",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明时节是初夏，短夜难明"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "南指月以认路，寄托归乡之望"
+  },
+  {
+   "word": "列星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与月并列，指引方向"
+  },
+  {
+   "word": "江潭",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "溯江潭而行，展现江水的壮阔"
+  },
+  {
+   "word": "长濑",
+   "name": "濑",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "长长的急流，形容水势"
+  },
+  {
+   "word": "湍流",
+   "name": "流",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "急流，与长濑并列，渲染环境险恶"
+  },
+  {
+   "word": "轸石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "怪石嶙峋，阻挡前行"
+  },
+  {
+   "word": "北姑",
+   "name": "北姑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "住宿之地，暗示漂泊孤寂"
+  },
+  {
+   "word": "郢路",
+   "name": "郢",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "通往郢都的道路，象征归乡之路"
+  }
+ ]
+}

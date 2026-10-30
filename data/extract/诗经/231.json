@@ -1,0 +1,39 @@
+{
+ "id": 231,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "瓠叶",
+   "name": "瓠",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采来烹食的葫芦嫩叶，宴饮之始"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "君子宴饮待客的酒"
+  },
+  {
+   "word": "兔",
+   "name": "兔",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "炮燔炙之的野味，宴席主菜"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": 2,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "长剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "主祭者所佩之剑，显肃穆威仪"
+  },
+  {
+   "word": "玉珥",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "剑饰美玉，衬托祭典华贵"
+  },
+  {
+   "word": "琳琅",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "佩玉鸣声所喻的美玉"
+  },
+  {
+   "word": "瑶席",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所设的华美坐席"
+  },
+  {
+   "word": "玉瑱",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "压席的美玉，祭器陈设"
+  },
+  {
+   "word": "琼芳",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "手中所把的美玉之花，祭典芬芳"
+  },
+  {
+   "word": "蕙",
+   "name": "蕙",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "蕙草蒸制的祭肴，取其香洁"
+  },
+  {
+   "word": "兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "兰草衬垫祭肴，表高洁"
+  },
+  {
+   "word": "桂酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以桂酿制的祭酒"
+  },
+  {
+   "word": "椒浆",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "椒香之酒，祭神之物"
+  },
+  {
+   "word": "枹",
+   "name": "鼓槌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "扬槌击鼓，祭乐开场"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "祭祀中的主奏乐器"
+  },
+  {
+   "word": "竽",
+   "name": "竽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "陈设的吹奏乐器"
+  },
+  {
+   "word": "瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与竽并陈的弦乐器"
+  },
+  {
+   "word": "灵",
+   "name": "神灵",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "翩然起舞的巫神，祭典主角"
+  },
+  {
+   "word": "姣服",
+   "name": "舞衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "神灵所着华美衣饰"
+  },
+  {
+   "word": "满堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "香气与乐声充溢的祭堂"
+  },
+  {
+   "word": "五音",
+   "name": "乐音",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "众乐纷繁交会，祭典高潮"
+  }
+ ]
+}

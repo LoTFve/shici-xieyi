@@ -1,0 +1,105 @@
+{
+ "id": 43,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "暮色中隐于宫墙的花，点明春夜值宿之景"
+  },
+  {
+   "word": "掖垣",
+   "name": "宫墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "指左省官署的墙垣，交代值宿地点"
+  },
+  {
+   "word": "栖鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "啾啾归鸟飞过，以声衬暮色宁静"
+  },
+  {
+   "word": "星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "星光临照万户，显出宫城夜色的辽阔"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "月傍九霄，写宫阙高处的月色"
+  },
+  {
+   "word": "金钥",
+   "name": "钥匙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "宫门钥匙声，暗示夜已深而人未寐"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "风声引出对玉珂的联想"
+  },
+  {
+   "word": "玉坷",
+   "name": "玉珂",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "风中想象朝官马铃之声，暗盼早朝"
+  },
+  {
+   "word": "封事",
+   "name": "奏章",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明明朝要上密封奏章的心事"
+  }
+ ]
+}

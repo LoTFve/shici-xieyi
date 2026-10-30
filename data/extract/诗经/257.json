@@ -1,0 +1,139 @@
+{
+ "id": 257,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "桑柔",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以柔桑起兴，喻民生凋敝"
+  },
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼天诉冤，责天不怜"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写征战车马不息"
+  },
+  {
+   "word": "旟旐",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "军中旗帜翻飞，见兵乱之状"
+  },
+  {
+   "word": "中林",
+   "name": "林",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "林中群鹿反衬朋友相谮"
+  },
+  {
+   "word": "鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "甡甡其鹿，反衬人际不和"
+  },
+  {
+   "word": "穹苍",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼天无力的哀叹"
+  },
+  {
+   "word": "稼穑",
+   "name": "庄稼",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "以农事为宝，斥代食之弊"
+  },
+  {
+   "word": "蟊贼",
+   "name": "害虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻祸国害民之人"
+  },
+  {
+   "word": "大风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以大风起兴，喻贪暴之势"
+  },
+  {
+   "word": "大谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "空阔山谷，与大风相衬"
+  },
+  {
+   "word": "飞虫",
+   "name": "虫",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻小人如飞虫被弋获"
+  }
+ ]
+}

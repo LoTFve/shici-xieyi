@@ -1,0 +1,83 @@
+{
+ "id": 94,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以莺啼表现江南春日的生机"
+  },
+  {
+   "word": "水村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "临水村庄，展现江南水乡风貌"
+  },
+  {
+   "word": "山郭",
+   "name": "郭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "依山城郭，描绘江南山城特色"
+  },
+  {
+   "word": "酒旗",
+   "name": "酒旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "风中飘扬的酒旗，增添市井生活气息"
+  },
+  {
+   "word": "寺",
+   "name": "寺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "南朝遗留的寺庙，引发历史兴亡之思"
+  },
+  {
+   "word": "楼台",
+   "name": "楼台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "烟雨笼罩的楼台，营造朦胧意境"
+  },
+  {
+   "word": "烟雨",
+   "name": "烟雨",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "如烟细雨，增添朦胧与历史沧桑感"
+  }
+ ]
+}

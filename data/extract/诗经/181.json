@@ -1,0 +1,72 @@
+{
+ "id": 181,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸿雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以鸿雁起兴，喻流民奔波劳苦"
+  },
+  {
+   "word": "羽",
+   "name": "羽",
+   "category": "其他",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写鸿雁振翅之声，渲染劳碌之态"
+  },
+  {
+   "word": "中泽",
+   "name": "泽",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸿雁聚集之处，喻流民暂栖之地"
+  },
+  {
+   "word": "垣",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "服役者筑墙，写劳役之苦"
+  },
+  {
+   "word": "百堵",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容筑墙之多，反衬劳役繁重"
+  },
+  {
+   "word": "哀鸣",
+   "name": "雁鸣",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以雁之哀鸣比流民悲苦"
+  }
+ ]
+}

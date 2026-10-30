@@ -1,0 +1,237 @@
+{
+ "id": 234,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "焰蜡",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "元宵夜灯市的光源"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "烘托夜色清润"
+  },
+  {
+   "word": "花市",
+   "name": "花市",
+   "category": "其他",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "元宵灯市的热闹场所"
+  },
+  {
+   "word": "桂华",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以桂华代月光，写月色流瓦"
+  },
+  {
+   "word": "瓦",
+   "name": "瓦",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "月光流泻其上的屋瓦"
+  },
+  {
+   "word": "纤云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "云散月明的前景"
+  },
+  {
+   "word": "素娥",
+   "name": "嫦娥",
+   "category": "人物",
+   "parent": "moon",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月中仙子，欲下人间"
+  },
+  {
+   "word": "衣裳",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写女子淡雅装束"
+  },
+  {
+   "word": "楚女",
+   "name": "美女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指灯市中的游女"
+  },
+  {
+   "word": "纤腰",
+   "name": "腰",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "形容女子身姿轻盈"
+  },
+  {
+   "word": "箫鼓",
+   "name": "箫鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "元宵夜的热闹乐声"
+  },
+  {
+   "word": "人影",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "灯下参差攒动的人群"
+  },
+  {
+   "word": "香麝",
+   "name": "麝香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "满路飘散的香气"
+  },
+  {
+   "word": "都城",
+   "name": "都城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "回忆中京城放夜的盛景"
+  },
+  {
+   "word": "千门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "千家万户灯火如昼"
+  },
+  {
+   "word": "钿车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "贵女出游的华美车驾"
+  },
+  {
+   "word": "罗帕",
+   "name": "帕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子随身丝帕，暗写相逢"
+  },
+  {
+   "word": "暗尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车马过后扬起的轻尘"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "游人骑马随车而过"
+  },
+  {
+   "word": "清漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "漏声移转，夜深人散"
+  },
+  {
+   "word": "飞盖",
+   "name": "车盖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "借指疾驰的车马归去"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "id": 189,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "点明主人公所在之处，华美楼阁中独处"
+  },
+  {
+   "word": "帘幕",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "卷起新晴的帘幕，引出晴日光景"
+  },
+  {
+   "word": "银屏",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "掩映室内的屏风，写闺阁清冷"
+  },
+  {
+   "word": "晓寒",
+   "name": "晓寒",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "清晨微寒，烘托早春清冷氛围"
+  },
+  {
+   "word": "坠粉",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花落香飘，触发日日愁思"
+  },
+  {
+   "word": "湖",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆十年湖上旧游的水域背景"
+  },
+  {
+   "word": "娉婷",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指当年湖上相遇的美好女子"
+  },
+  {
+   "word": "春酲",
+   "name": "春酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒消愁，写年华飘零的醉意"
+  },
+  {
+   "word": "天阔",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写天空辽阔，反衬箫声难觅"
+  },
+  {
+   "word": "云闲",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "闲云悠悠，与主人公愁绪形成对比"
+  },
+  {
+   "word": "箫声",
+   "name": "箫声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寻觅而不得的旧日箫声，暗含怀人幽思"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "载酒买花是少年旧事，今已不同"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "与酒并举，忆少年买花载酒的欢游"
+  }
+ ]
+}

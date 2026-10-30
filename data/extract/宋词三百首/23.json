@@ -1,0 +1,105 @@
+{
+ "id": 23,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梦境所入的烟水之地，寄托离人所在的江南"
+  },
+  {
+   "word": "烟水",
+   "name": "烟水",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "江南迷蒙的雾水，渲染梦境朦胧"
+  },
+  {
+   "word": "路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梦中所行之途，暗示寻觅之远"
+  },
+  {
+   "word": "离人",
+   "name": "离人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梦中寻而不遇的离别之人"
+  },
+  {
+   "word": "尺素",
+   "name": "尺素",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "欲写情书的书信，寄托相思"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "浮雁传书之典，指书信难凭"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "沈鱼传书之典，与雁并举言音信无凭"
+  },
+  {
+   "word": "弦",
+   "name": "弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "缓弦弹奏，借以抒发别绪"
+  },
+  {
+   "word": "秦筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "弹奏的乐器，断肠处移破筝柱"
+  }
+ ]
+}

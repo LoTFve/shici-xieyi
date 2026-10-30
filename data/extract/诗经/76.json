@@ -1,0 +1,116 @@
+{
+ "id": 76,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "仲子",
+   "name": "仲子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子思念又畏惧的恋人"
+  },
+  {
+   "word": "里",
+   "name": "里",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "男子欲翻越的居所边界"
+  },
+  {
+   "word": "杞",
+   "name": "杞",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "里门旁可能被折断的树木"
+  },
+  {
+   "word": "父母",
+   "name": "父母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子畏惧的家中长辈"
+  },
+  {
+   "word": "墙",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "男子欲翻越的院墙"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "墙边可能被折断的桑树"
+  },
+  {
+   "word": "诸兄",
+   "name": "诸兄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子畏惧的兄长"
+  },
+  {
+   "word": "园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "男子欲翻越的园圃"
+  },
+  {
+   "word": "檀",
+   "name": "檀",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "园中可能被折断的檀树"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子畏惧的众人议论"
+  }
+ ]
+}

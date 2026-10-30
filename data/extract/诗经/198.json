@@ -1,0 +1,94 @@
+{
+ "id": 198,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼告上天以诉冤屈"
+  },
+  {
+   "word": "寝庙",
+   "name": "庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "君子所建的宗庙，象征秩序"
+  },
+  {
+   "word": "犬",
+   "name": "犬",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻指制伏狡兔的力量"
+  },
+  {
+   "word": "毚兔",
+   "name": "兔",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻指谗巧之人终被识破"
+  },
+  {
+   "word": "柔木",
+   "name": "木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻君子所树之善类"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "谗人居于河畔，点出其处所"
+  },
+  {
+   "word": "麋",
+   "name": "麋",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "河岸水草之地，写谗人栖身之所"
+  },
+  {
+   "word": "巧言如簧",
+   "name": "簧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以笙簧喻谗言动听，讥其厚颜"
+  }
+ ]
+}

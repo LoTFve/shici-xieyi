@@ -1,0 +1,83 @@
+{
+ "id": 278,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "日脚",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "写春日暖阳斜射，日影如脚，是眼前实景"
+  },
+  {
+   "word": "紫烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "日影映照下的紫色雾气，渲染春日暖意"
+  },
+  {
+   "word": "轻裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "写天气和暖到可穿薄裘，以衣饰反衬春温"
+  },
+  {
+   "word": "花气",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "欢欣",
+   "note": "醉人的花香，是春日实景中的嗅觉意象"
+  },
+  {
+   "word": "春塘水",
+   "name": "塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "以春塘水比喻春慵，水纹细皱如愁"
+  },
+  {
+   "word": "縠纹",
+   "name": "波纹",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以绉纱般的细波纹比喻春愁的细腻起伏"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "无力东风，写春日微风柔弱，呼应慵懒情绪"
+  }
+ ]
+}

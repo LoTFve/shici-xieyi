@@ -1,0 +1,94 @@
+{
+ "id": 193,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳无语，烘托旧游难寻的怅惘"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "归燕添愁，反衬人不得归"
+  },
+  {
+   "word": "玉纤",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以玉纤借指佳人，写帘钩轻动的旧梦"
+  },
+  {
+   "word": "小帘钩",
+   "name": "帘钩",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帘钩微动，勾连旧日闺中情景"
+  },
+  {
+   "word": "落絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飞絮无声如春泪，写春去之悲"
+  },
+  {
+   "word": "行云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "云影遮月，月似含羞，增添朦胧情致"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月含羞映照，写夜中幽独"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜来东风冷于秋，反衬心境之寒"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": 168,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战车，出征的象征"
+  },
+  {
+   "word": "牧",
+   "name": "郊野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "城郊放牧之地，点明出车地点"
+  },
+  {
+   "word": "仆夫",
+   "name": "仆夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "驾车之人，其憔悴反映征战之苦"
+  },
+  {
+   "word": "旐",
+   "name": "旐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "画有龟蛇的旗，军威的象征"
+  },
+  {
+   "word": "旄",
+   "name": "旄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "装饰牦牛尾的旗，军容之盛"
+  },
+  {
+   "word": "旟",
+   "name": "旟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "画有鹰隼的旗，与旐并提，显军阵"
+  },
+  {
+   "word": "方",
+   "name": "方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方地名，筑城之地"
+  },
+  {
+   "word": "朔方",
+   "name": "朔方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方，征战前线"
+  },
+  {
+   "word": "玁狁",
+   "name": "玁狁",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "北方部族，讨伐对象"
+  },
+  {
+   "word": "黍稷",
+   "name": "黍稷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "农作物，勾起对家乡的思念"
+  },
+  {
+   "word": "雨雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "归途遇雪，渲染艰辛与凄凉"
+  },
+  {
+   "word": "草虫",
+   "name": "草虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "草中鸣虫，烘托忧思"
+  },
+  {
+   "word": "阜螽",
+   "name": "阜螽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝗虫，与草虫并提，强化秋思"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指南仲，将士思念的统帅"
+  },
+  {
+   "word": "西戎",
+   "name": "西戎",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西方部族，征伐对象"
+  },
+  {
+   "word": "卉木",
+   "name": "草木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春日草木茂盛，映衬归途喜悦"
+  },
+  {
+   "word": "仓庚",
+   "name": "黄莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "黄莺鸣叫，春意盎然"
+  },
+  {
+   "word": "蘩",
+   "name": "白蒿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "采白蒿的人众多，显示和平生活"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 64,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "木瓜",
+   "name": "木瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "对方赠予的信物，起兴之物"
+  },
+  {
+   "word": "琼琚",
+   "name": "玉佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回赠的珍贵佩玉，象征情谊"
+  },
+  {
+   "word": "木桃",
+   "name": "木桃",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "赠予的信物，与木瓜相类"
+  },
+  {
+   "word": "琼瑶",
+   "name": "美玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回赠的美玉，表答谢之意"
+  },
+  {
+   "word": "木李",
+   "name": "木李",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "赠予的信物，与木瓜相类"
+  },
+  {
+   "word": "琼九",
+   "name": "美玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回赠的宝玉，示永好之情"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": 16,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晚秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明登临时节，渲染萧瑟氛围"
+  },
+  {
+   "word": "澄江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "描绘江水清澈如练的壮阔景象"
+  },
+  {
+   "word": "翠峰",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以翠峰如簇形容群山苍翠"
+  },
+  {
+   "word": "归帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "归帆点明归途，暗含思乡之情"
+  },
+  {
+   "word": "去棹",
+   "name": "棹",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "去棹指远行的船，增添孤寂感"
+  },
+  {
+   "word": "残阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "残阳烘托晚秋傍晚的苍凉气氛"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "西风带来秋意，加强萧瑟感"
+  },
+  {
+   "word": "酒旗",
+   "name": "酒旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "酒旗斜矗，为画面增添生活气息"
+  },
+  {
+   "word": "彩舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "彩舟云淡，描绘华丽游船映衬云天的美景"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "云淡风轻，衬托舟行之景"
+  },
+  {
+   "word": "星河",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "星河鹭起，以星河比喻江面灯火或倒影，意境开阔"
+  },
+  {
+   "word": "鹭",
+   "name": "鹭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鹭起飞翔，增添灵动生机"
+  },
+  {
+   "word": "寒烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寒烟笼罩，渲染衰败凄迷氛围"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "芳草凝绿，反衬六朝旧事已逝的荒凉"
+  },
+  {
+   "word": "商女",
+   "name": "歌女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "商女唱后庭曲，借指不知亡国之恨的世人"
+  },
+  {
+   "word": "后庭遗曲",
+   "name": "后庭花",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用陈后主亡国典故，暗讽当下"
+  },
+  {
+   "word": "门外楼头",
+   "name": "楼头",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "化用杜牧诗，指陈后主被俘的结绮阁"
+  },
+  {
+   "word": "六朝",
+   "name": "六朝",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "六朝旧事随流水，借指历史兴亡"
+  }
+ ]
+}

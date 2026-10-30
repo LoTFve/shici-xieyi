@@ -1,0 +1,83 @@
+{
+ "id": 125,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "乳鸭",
+   "name": "鸭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "小鸭在池塘中游动，点出初夏生机"
+  },
+  {
+   "word": "池塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "池塘水浅深不一，是夏日园景"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "熟梅天气点明时令，梅子成熟于初夏"
+  },
+  {
+   "word": "东园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "东园载酒，写园中游宴之乐"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "载酒游园，表现夏日闲适欢饮"
+  },
+  {
+   "word": "西园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西园醉，与东园对举写游宴"
+  },
+  {
+   "word": "枇杷",
+   "name": "枇杷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "枇杷一树金黄，摘尽写夏日果实丰收"
+  }
+ ]
+}

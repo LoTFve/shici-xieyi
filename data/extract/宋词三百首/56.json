@@ -1,0 +1,171 @@
+{
+ "id": 56,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "长空",
+   "name": "天空",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "描绘辽阔天空，反衬愁绪"
+  },
+  {
+   "word": "斜风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与细雨共同渲染愁苦氛围"
+  },
+  {
+   "word": "细雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与斜风一起编织愁网"
+  },
+  {
+   "word": "高楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登高望远，寄寓感慨"
+  },
+  {
+   "word": "千崖",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "展现秋色浩荡，气象开阔"
+  },
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暗示年老与悲慨"
+  },
+  {
+   "word": "神州",
+   "name": "神州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指代中原故土，寄托家国之痛"
+  },
+  {
+   "word": "牛山",
+   "name": "牛山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用齐景公泣牛山典，反衬自身悲慨"
+  },
+  {
+   "word": "春华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻少年才华与青春"
+  },
+  {
+   "word": "南朝",
+   "name": "南朝",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指代历史，暗含对世人的讥讽"
+  },
+  {
+   "word": "破帽",
+   "name": "帽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用孟嘉落帽典，讽刺陈腐"
+  },
+  {
+   "word": "黄花",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借菊抒怀，以花为友"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "与黄花相对，见洒脱"
+  },
+  {
+   "word": "鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "北去之雁，牵动乡愁"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "日暮西沉，象征国势衰微"
+  }
+ ]
+}

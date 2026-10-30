@@ -1,0 +1,39 @@
+{
+ "id": 4,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "樛木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南方弯曲的树，葛藟攀附其上，起兴之物"
+  },
+  {
+   "word": "葛藟",
+   "name": "葛",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "攀缘缠绕樛木的藤蔓，象征福禄累积"
+  },
+  {
+   "word": "南",
+   "name": "南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明樛木生长方位，南方"
+  }
+ ]
+}

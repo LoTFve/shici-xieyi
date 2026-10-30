@@ -1,0 +1,138 @@
+{
+ "id": 155,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸱鸮",
+   "name": "鸱鸮",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以猛禽起兴，喻强暴者夺子毁室"
+  },
+  {
+   "word": "子",
+   "name": "雏",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "被鸱鸮所取的幼鸟，喻受害者"
+  },
+  {
+   "word": "室",
+   "name": "巢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "鸟巢，喻家园，全诗核心意象"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "天之未阴雨，指天气时机"
+  },
+  {
+   "word": "阴雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "未雨绸缪的雨，喻灾祸"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "桑树根皮，用以缠缚巢穴"
+  },
+  {
+   "word": "牖户",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸟巢的窗洞门户，喻家室"
+  },
+  {
+   "word": "荼",
+   "name": "荼",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "茅草白花，鸟所捋取垫巢"
+  },
+  {
+   "word": "羽",
+   "name": "羽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "谯谯凋敝之羽，写鸟的憔悴"
+  },
+  {
+   "word": "尾",
+   "name": "尾",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "翛翛干枯之尾，写鸟的疲惫"
+  },
+  {
+   "word": "风雨",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "漂摇巢穴的风雨，喻时局危难"
+  },
+  {
+   "word": "音",
+   "name": "鸣",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "哓哓哀鸣，鸟的悲号，收束全诗"
+  }
+ ]
+}

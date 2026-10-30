@@ -1,0 +1,160 @@
+{
+ "id": 254,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指天命、天怒，全诗核心"
+  },
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "反复出现，指上天明察"
+  },
+  {
+   "word": "埙",
+   "name": "埙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻上天教化民众如埙篪相和"
+  },
+  {
+   "word": "篪",
+   "name": "篪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与埙并列，喻和谐教化"
+  },
+  {
+   "word": "璋",
+   "name": "璋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻上天引导民众如执璋圭"
+  },
+  {
+   "word": "圭",
+   "name": "圭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与璋并列，礼器喻教化"
+  },
+  {
+   "word": "藩",
+   "name": "藩篱",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻贤人为国家屏障"
+  },
+  {
+   "word": "垣",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻大师为国之围墙"
+  },
+  {
+   "word": "屏",
+   "name": "屏",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻大邦为国之屏障"
+  },
+  {
+   "word": "翰",
+   "name": "栋梁",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻大宗为国之骨干"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻宗子为国之城防"
+  },
+  {
+   "word": "刍荛",
+   "name": "樵夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "引先民之言，谓应向樵夫采询"
+  },
+  {
+   "word": "老夫",
+   "name": "老人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人自称，与小子相对"
+  },
+  {
+   "word": "小子",
+   "name": "少年",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指同僚中的年轻骄慢者"
+  }
+ ]
+}

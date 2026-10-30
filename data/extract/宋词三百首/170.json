@@ -1,0 +1,127 @@
+{
+ "id": 170,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "群芳",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "无",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "指春末已谢的百花，点明时令"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全词观赏与感慨的地点，颍州西湖"
+  },
+  {
+   "word": "残红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "芳华凋尽的狼籍花瓣，写春去之痕"
+  },
+  {
+   "word": "飞絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "蒙蒙飘飞，渲染暮春空濛的氛围"
+  },
+  {
+   "word": "垂柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "柳条垂拂阑干，终日在风中摆动"
+  },
+  {
+   "word": "阑干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳枝所拂的近景建筑构件"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "整日吹拂垂柳，写春末的动感"
+  },
+  {
+   "word": "笙歌",
+   "name": "笙歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "昔日游宴的乐声，如今已散尽"
+  },
+  {
+   "word": "帘栊",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "词人垂帘独处，隔开外界春空"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "细雨中归来的燕子，反衬人去之空"
+  },
+  {
+   "word": "细雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "燕归时的迷蒙细雨，添空寂之感"
+  }
+ ]
+}

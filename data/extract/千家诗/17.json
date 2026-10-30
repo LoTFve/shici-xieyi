@@ -1,0 +1,50 @@
+{
+ "id": 17,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "开篇设问，秋风为全诗引子，带来萧瑟基调"
+  },
+  {
+   "word": "雁群",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "秋雁南飞，暗寓游子漂泊与思归"
+  },
+  {
+   "word": "庭树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "秋风入树，写风声所及之处"
+  },
+  {
+   "word": "孤客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人自指，点出天涯孤客先闻秋声的敏感"
+  }
+ ]
+}

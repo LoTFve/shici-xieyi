@@ -1,0 +1,160 @@
+{
+ "id": 211,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "甫田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗题所指的大片农田，是全诗农事活动的场所"
+  },
+  {
+   "word": "南亩",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指南面向阳的田地，农事耕作之处"
+  },
+  {
+   "word": "黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "田中茁壮生长的农作物，象征丰收"
+  },
+  {
+   "word": "稷",
+   "name": "稷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "与黍并称的主要谷物，代表农作收成"
+  },
+  {
+   "word": "禾",
+   "name": "禾",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "田间茂盛生长的禾苗，展现庄稼长势"
+  },
+  {
+   "word": "稻",
+   "name": "稻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "收获的谷物之一，与黍稷粱并举"
+  },
+  {
+   "word": "粱",
+   "name": "粱",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "精细的谷物，丰收的粮食之一"
+  },
+  {
+   "word": "甘雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祭祀田祖祈求的及时雨，关乎庄稼生长"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祭祀时演奏的乐器，烘托庆典气氛"
+  },
+  {
+   "word": "瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与琴合奏的乐器，用于祭祀田祖"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "击鼓以迎田祖，祭祀中的节奏乐器"
+  },
+  {
+   "word": "牺羊",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀社方所用的纯色羊牲"
+  },
+  {
+   "word": "仓",
+   "name": "仓",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "千斯仓指众多粮仓，夸张表现丰收"
+  },
+  {
+   "word": "箱",
+   "name": "箱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "万斯箱指装载粮食的车箱，极言收获之多"
+  }
+ ]
+}

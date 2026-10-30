@@ -1,0 +1,116 @@
+{
+ "id": 35,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "画屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梦中画屏如天畔，引出十洲云水"
+  },
+  {
+   "word": "天畔",
+   "name": "天边",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "画屏与天边相接，营造遥远迷离之感"
+  },
+  {
+   "word": "十洲",
+   "name": "仙洲",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "道教仙境十洲，借指梦中所见云水"
+  },
+  {
+   "word": "云水",
+   "name": "云水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "十洲云水浩渺，写梦境迷离"
+  },
+  {
+   "word": "红笺",
+   "name": "笺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "手拈红笺写信，寄无限伤春之意"
+  },
+  {
+   "word": "别浦",
+   "name": "水滨",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "离别之浦，曾漫倚高楼远望"
+  },
+  {
+   "word": "高楼",
+   "name": "高楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "别浦高楼，昔日倚楼远眺江南"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "江南千里，是凭高所望的方向"
+  },
+  {
+   "word": "流水",
+   "name": "流水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "楼下分流的水声，引出当日凭高之泪"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以流水声喻当日凭高洒下的泪水"
+  }
+ ]
+}

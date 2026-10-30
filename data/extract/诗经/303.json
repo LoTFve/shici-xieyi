@@ -1,0 +1,94 @@
+{
+ "id": 303,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "玄鸟",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "天命所降的神鸟，商族起源的神话意象"
+  },
+  {
+   "word": "殷土",
+   "name": "殷土",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "商朝广袤的疆土"
+  },
+  {
+   "word": "四方",
+   "name": "四方",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "武汤所征定统辖的天下四方"
+  },
+  {
+   "word": "九有",
+   "name": "九州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指天下九州，言商王尽有之"
+  },
+  {
+   "word": "龙旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "绘有龙纹的旗帜，显诸侯朝觐之盛"
+  },
+  {
+   "word": "邦畿",
+   "name": "邦畿",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天子直辖的千里王畿"
+  },
+  {
+   "word": "四海",
+   "name": "四海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指天下四方，言疆域之广"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "yellow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "景山与大河环拱，言殷都形势之胜"
+  }
+ ]
+}

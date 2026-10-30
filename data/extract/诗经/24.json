@@ -1,0 +1,116 @@
+{
+ "id": 24,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "唐棣",
+   "name": "棠棣",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以繁盛花木起兴，比喻王姬容色与婚礼之盛"
+  },
+  {
+   "word": "华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "唐棣之花，起兴婚礼的秾丽"
+  },
+  {
+   "word": "王姬",
+   "name": "王姬",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "周王之女，诗中所咏的新娘"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "王姬出嫁的车驾，显其肃雍之仪"
+  },
+  {
+   "word": "桃李",
+   "name": "桃李",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以桃李之花比喻王姬颜色之盛"
+  },
+  {
+   "word": "平王之孙",
+   "name": "王孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明新娘的尊贵出身"
+  },
+  {
+   "word": "齐侯之子",
+   "name": "公子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明新郎的尊贵出身"
+  },
+  {
+   "word": "钓",
+   "name": "钓",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以垂钓起兴，引出丝缗，比喻婚姻的缔结"
+  },
+  {
+   "word": "丝",
+   "name": "丝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "钓线之丝，与缗相配以成钓具"
+  },
+  {
+   "word": "缗",
+   "name": "缗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "钓绳，与丝相合，兴婚姻结合之喻"
+  }
+ ]
+}

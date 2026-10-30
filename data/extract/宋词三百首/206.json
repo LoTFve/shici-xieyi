@@ -1,0 +1,259 @@
+{
+ "id": 206,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以雁落平沙起兴，暗寓漂泊与思念"
+  },
+  {
+   "word": "平沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雁落之地，勾勒荒寒背景"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "笼住寒水，营造迷蒙凄清的氛围"
+  },
+  {
+   "word": "寒水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "烟笼寒水，写出冷寂的水面"
+  },
+  {
+   "word": "古垒",
+   "name": "古垒",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "古代营垒遗迹，增添苍凉历史感"
+  },
+  {
+   "word": "笳",
+   "name": "笳",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸣笳声断，渲染边塞式悲凉"
+  },
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隐隐青山，作为远望的背景"
+  },
+  {
+   "word": "败叶",
+   "name": "败叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "萧萧败叶点明秋景与凋零之感"
+  },
+  {
+   "word": "暝鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "天际零乱归鸦，衬托黄昏的纷乱心绪"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "楼上黄昏，点明主人公所在与时间"
+  },
+  {
+   "word": "片帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "千里归程的片帆，寄托归思"
+  },
+  {
+   "word": "碧云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "碧云空暮，写黄昏天际的空阔"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "所思念之人，引出梦魂俱远"
+  },
+  {
+   "word": "邃馆",
+   "name": "馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中的深幽馆舍"
+  },
+  {
+   "word": "朱扉",
+   "name": "门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红门，旧游之地的细节"
+  },
+  {
+   "word": "小园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "回忆中的小园香径"
+  },
+  {
+   "word": "香径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "落花满径，映衬旧日欢游"
+  },
+  {
+   "word": "桃花人面",
+   "name": "桃花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用崔护人面桃花典，写物是人非之恨"
+  },
+  {
+   "word": "锦轴",
+   "name": "书卷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "书盈锦轴，书信满卷却难寄相思"
+  },
+  {
+   "word": "金徽",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "琴徽满恨，以琴写幽怨"
+  },
+  {
+   "word": "一尊芳酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒浇离愁，一尊芳酒衬凄凉"
+  },
+  {
+   "word": "危阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "倚遍危阑，写尽徘徊与思念"
+  },
+  {
+   "word": "西风",
+   "name": "西风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凭仗西风吹干泪眼，收束全词悲情"
+  }
+ ]
+}

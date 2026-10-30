@@ -1,0 +1,171 @@
+{
+ "id": 153,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "孤垒",
+   "name": "营垒",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒凉残破的旧军营，奠定苍凉基调"
+  },
+  {
+   "word": "危亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "词人登临远望之处"
+  },
+  {
+   "word": "烟渚",
+   "name": "沙洲",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "烟雾笼罩的水中洲渚，营造朦胧远景"
+  },
+  {
+   "word": "雌霓",
+   "name": "虹",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "雨后挂着的虹霓，写天气初变"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "虹霓挂雨，残雨未歇"
+  },
+  {
+   "word": "雄风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拂过栏杆的劲风，带来初凉"
+  },
+  {
+   "word": "一叶",
+   "name": "落叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "一叶惊秋，点明时序转换"
+  },
+  {
+   "word": "残蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "傍晚残蝉鸣噪，渲染秋日凄清"
+  },
+  {
+   "word": "素商",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "以乐律借指秋季时序"
+  },
+  {
+   "word": "神京",
+   "name": "京城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "遥指都城，寄托追怀故人与旧欢之情"
+  },
+  {
+   "word": "暝鸦",
+   "name": "乌鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "暮色中零乱的乌鸦，添萧索之感"
+  },
+  {
+   "word": "江城",
+   "name": "江城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "江边城郭笼于暮色，写眼前萧条"
+  },
+  {
+   "word": "南楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "吹角之声所出之楼，勾连全词暮景"
+  },
+  {
+   "word": "画角",
+   "name": "角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "城头号角声，送走残阳，倍添凄凉"
+  },
+  {
+   "word": "残阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "落日被角声送走，收束全词暮色与离愁"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "id": 220,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "筵",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宴饮开始的座席陈设"
+  },
+  {
+   "word": "笾豆",
+   "name": "笾豆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛放祭品与菜肴的礼器"
+  },
+  {
+   "word": "殽核",
+   "name": "肴核",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宴席上的鱼肉与果品"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "全诗反复咏饮的核心之物"
+  },
+  {
+   "word": "钟鼓",
+   "name": "钟鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮与祭祀时的乐声"
+  },
+  {
+   "word": "大侯",
+   "name": "箭靶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "射礼所用的靶子"
+  },
+  {
+   "word": "弓矢",
+   "name": "弓箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "射礼中张弓搭箭"
+  },
+  {
+   "word": "射夫",
+   "name": "射手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "参与射礼的众人"
+  },
+  {
+   "word": "籥舞",
+   "name": "籥舞",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "执籥而舞的祭仪乐舞"
+  },
+  {
+   "word": "笙鼓",
+   "name": "笙鼓",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "配合舞蹈的乐器合奏"
+  },
+  {
+   "word": "烈祖",
+   "name": "祖先",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所祈福的先祖"
+  },
+  {
+   "word": "康爵",
+   "name": "酒杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "大杯劝饮之器"
+  },
+  {
+   "word": "弁",
+   "name": "弁",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "醉后歪斜的皮帽，状醉态"
+  },
+  {
+   "word": "羖",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以童羖喻醉后妄言不可从"
+  }
+ ]
+}

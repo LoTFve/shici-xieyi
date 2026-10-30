@@ -1,0 +1,171 @@
+{
+ "id": 143,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "寒蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以凄切蝉声渲染离别前的悲凉气氛"
+  },
+  {
+   "word": "长亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "送别之地，点明离别场景"
+  },
+  {
+   "word": "骤雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "初歇之雨烘托离别的压抑气氛"
+  },
+  {
+   "word": "都门",
+   "name": "都门",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "京城城门，交代送别地点"
+  },
+  {
+   "word": "帐",
+   "name": "帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "都门设帐饯别，写送别酒席"
+  },
+  {
+   "word": "兰舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "催发的行舟，象征离人远去"
+  },
+  {
+   "word": "泪眼",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "执手相看时的泪眼，直写离别之痛"
+  },
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "千里烟波写去路渺茫，烘托离愁"
+  },
+  {
+   "word": "暮霭",
+   "name": "暮霭",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "沉沉暮霭写出楚天辽阔中的苍茫愁绪"
+  },
+  {
+   "word": "楚天",
+   "name": "楚天",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "楚地天空，以阔大反衬离人孤寂"
+  },
+  {
+   "word": "清秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "冷落清秋节，点明离别时令之悲"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "今宵酒醒何处，以酒写别后愁绪"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "杨柳岸是别后设想之景，柳寓离情"
+  },
+  {
+   "word": "晓风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "晓风残月构成清冷凄迷的别后意境"
+  },
+  {
+   "word": "残月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "残月与晓风相映，写酒醒后的孤寂冷清"
+  }
+ ]
+}

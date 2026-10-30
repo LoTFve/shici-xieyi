@@ -1,0 +1,182 @@
+{
+ "id": 92,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "璧月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以圆月反衬山河破碎之痛"
+  },
+  {
+   "word": "黛云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "远淡的云渲染寂寥氛围"
+  },
+  {
+   "word": "禁苑",
+   "name": "苑",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指故都宫苑，暗含兴亡之叹"
+  },
+  {
+   "word": "湖堤",
+   "name": "堤",
+   "category": "建筑",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "西湖堤岸，引发今昔对比"
+  },
+  {
+   "word": "香尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "暗写当年繁华车马之盛"
+  },
+  {
+   "word": "华灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "回忆中元夕灯火辉煌之景"
+  },
+  {
+   "word": "断烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "寒食禁烟，象征冷落时局"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以风雨喻愁苦，满城萧条"
+  },
+  {
+   "word": "宣和",
+   "name": "宣和",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借宋徽宗年号指北宋旧都盛时"
+  },
+  {
+   "word": "临安",
+   "name": "临安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "南宋都城，寄寓故国之思"
+  },
+  {
+   "word": "缃帙",
+   "name": "书卷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指文化典籍，叹其流散"
+  },
+  {
+   "word": "风鬟",
+   "name": "女子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用李清照典，写乱世女子之苦"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指故国江山，路断难归"
+  },
+  {
+   "word": "州",
+   "name": "州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "作者所在之地，强调客居孤苦"
+  },
+  {
+   "word": "残",
+   "name": "残灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残灯无眠，烘托愁苦心境"
+  },
+  {
+   "word": "社鼓",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "社日祭鼓，以乐景写哀情"
+  }
+ ]
+}

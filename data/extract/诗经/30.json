@@ -1,0 +1,72 @@
+{
+ "id": 30,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以狂风起兴，比喻丈夫的暴戾无常"
+  },
+  {
+   "word": "霾",
+   "name": "霾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "阴霾蔽日，渲染压抑昏暗的氛围"
+  },
+  {
+   "word": "曀",
+   "name": "阴云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "天色阴沉，反复出现以写心绪郁结"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "“不日有曀”指不见太阳，写天昏地暗"
+  },
+  {
+   "word": "阴",
+   "name": "阴云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "阴云密布，以景衬情"
+  },
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雷声虺虺，以天象之威喻人喜怒无常"
+  }
+ ]
+}

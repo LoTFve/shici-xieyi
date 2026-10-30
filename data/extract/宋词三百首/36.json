@@ -1,0 +1,83 @@
+{
+ "id": 36,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "红叶",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以红叶点明深秋时节，渲染离愁"
+  },
+  {
+   "word": "黄花",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "黄花象征秋意与孤寂"
+  },
+  {
+   "word": "飞云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "飞云过尽，暗示等待之久与音信渺茫"
+  },
+  {
+   "word": "归鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "归鸿无信，借雁传书寄托思念"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "临窗滴泪，窗是室内外连接的意象"
+  },
+  {
+   "word": "砚",
+   "name": "砚",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "就砚研墨，书写思念"
+  },
+  {
+   "word": "红笺",
+   "name": "笺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "红笺无色，极言悲痛之深"
+  }
+ ]
+}

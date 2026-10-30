@@ -1,0 +1,171 @@
+{
+ "id": 192,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "昆明池",
+   "name": "昆明池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借汉武旧事起兴，暗含盛衰之叹"
+  },
+  {
+   "word": "旌旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象中武帝水军旌旗飘扬的盛况"
+  },
+  {
+   "word": "织女",
+   "name": "织女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "昆明池织女石像虚对夜月，徒增寂寥"
+  },
+  {
+   "word": "机丝",
+   "name": "丝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "织女石像的机丝空对月夜，暗喻人事空幻"
+  },
+  {
+   "word": "夜月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "冷月映照石像，烘托空寂氛围"
+  },
+  {
+   "word": "石鲸",
+   "name": "石鲸",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "昆明池石鲸鳞甲似在秋风中抖动，以静写动"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风起而万物萧瑟，引出下文的衰败之景"
+  },
+  {
+   "word": "菰米",
+   "name": "菰米",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "漂沉的菰米如黑云，写池中荒凉"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以沉云比喻漂黑的菰米，突出水面的昏暗"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "冷露寒凉，衬托莲房的凋零"
+  },
+  {
+   "word": "莲房",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "莲房坠粉红，写秋荷衰败，暗喻自身飘零"
+  },
+  {
+   "word": "关塞",
+   "name": "关塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极天关塞，唯有鸟道可通，写蜀道之险与归路之难"
+  },
+  {
+   "word": "鸟道",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "唯鸟能度的险峻山径，暗示人迹罕至"
+  },
+  {
+   "word": "江湖",
+   "name": "江湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "满地江湖，与一渔翁形成空间对比，突出漂泊孤独"
+  },
+  {
+   "word": "渔翁",
+   "name": "渔翁",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以渔翁自况，写飘零江湖的孤寂"
+  }
+ ]
+}

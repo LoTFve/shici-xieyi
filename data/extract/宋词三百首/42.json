@@ -1,0 +1,94 @@
+{
+ "id": 42,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "缺月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残缺之月挂在桐枝间，奠定凄清基调"
+  },
+  {
+   "word": "疏桐",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "叶落后的梧桐，衬托环境的萧瑟"
+  },
+  {
+   "word": "漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "漏声已断，点出夜深人静"
+  },
+  {
+   "word": "幽人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "独往独来的幽居之人，是词人的自写"
+  },
+  {
+   "word": "孤鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "缥缈孤雁既是实景，也映照幽人的身影"
+  },
+  {
+   "word": "寒枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "拣尽寒枝不肯栖，写孤鸿的傲岸与无所依托"
+  },
+  {
+   "word": "枫",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枫叶飘落吴江，以秋景收束，寒意顿生"
+  },
+  {
+   "word": "吴江",
+   "name": "吴江",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枫落吴江的冷，既是地名也是眼前水景，渲染凄冷"
+  }
+ ]
+}

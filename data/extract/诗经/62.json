@@ -1,0 +1,72 @@
+{
+ "id": 62,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "殳",
+   "name": "殳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "伯所执之兵器，显其英武"
+  },
+  {
+   "word": "飞蓬",
+   "name": "蓬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蓬草飞散喻思妇发乱容衰"
+  },
+  {
+   "word": "膏沐",
+   "name": "膏沐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梳妆用品，反衬无心修饰"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以盼雨反衬烈日，喻盼夫不归"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "杲杲出日，与所盼之雨相反"
+  },
+  {
+   "word": "谖草",
+   "name": "萱草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "忘忧草，欲种以忘思伯之忧"
+  }
+ ]
+}

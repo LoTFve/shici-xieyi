@@ -1,0 +1,270 @@
+{
+ "id": 45,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "九灵",
+   "name": "九灵",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "神仙居所，游神之所"
+  },
+  {
+   "word": "静女",
+   "name": "静女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "歌者，清晨微光中歌唱"
+  },
+  {
+   "word": "晨",
+   "name": "晨",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明时辰"
+  },
+  {
+   "word": "葛",
+   "name": "葛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山丘上积满的葛藤"
+  },
+  {
+   "word": "贞枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以贞枝受抑喻志士不遇"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "枉车登庆云，喻小人得志"
+  },
+  {
+   "word": "庆云",
+   "name": "庆云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "祥云，枉车所登之处"
+  },
+  {
+   "word": "玄螭",
+   "name": "螭",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾以北征的神兽"
+  },
+  {
+   "word": "葱岭",
+   "name": "葱岭",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北征所向的西方高山"
+  },
+  {
+   "word": "五宿",
+   "name": "星宿",
+   "category": "天象",
+   "parent": "star",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "连缀星宿以建旄"
+  },
+  {
+   "word": "旄",
+   "name": "旄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以星宿为旗旄"
+  },
+  {
+   "word": "氛气",
+   "name": "气",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "扬气为旌旗"
+  },
+  {
+   "word": "旌",
+   "name": "旌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "气氛所化之旗"
+  },
+  {
+   "word": "广漠",
+   "name": "广漠",
+   "category": "山石",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驰骛所历的荒漠"
+  },
+  {
+   "word": "中国",
+   "name": "中国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "俯瞰中原冥冥"
+  },
+  {
+   "word": "玄武",
+   "name": "玄武",
+   "category": "天象",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方神兽，随行护驾"
+  },
+  {
+   "word": "水母",
+   "name": "水母",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水神，与主人公相约"
+  },
+  {
+   "word": "南荣",
+   "name": "南荣",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南方楼观，相约之地"
+  },
+  {
+   "word": "华盖",
+   "name": "华盖",
+   "category": "天象",
+   "parent": "star",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "华盖星，登而乘阳"
+  },
+  {
+   "word": "阳",
+   "name": "阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "虚写",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "乘阳气而逍遥"
+  },
+  {
+   "word": "库娄",
+   "name": "库娄",
+   "category": "天象",
+   "parent": "star",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "星名，抽以为酌酒之器"
+  },
+  {
+   "word": "醴",
+   "name": "醴",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "酌饮的甜酒"
+  },
+  {
+   "word": "瓟瓜",
+   "name": "瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "星名，援以接粮"
+  },
+  {
+   "word": "玉轫",
+   "name": "轫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "玉制车闸，发车西行"
+  }
+ ]
+}

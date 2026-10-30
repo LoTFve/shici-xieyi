@@ -1,0 +1,226 @@
+{
+ "id": 209,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "茨",
+   "name": "蒺藜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "开篇以拔除蒺藜起兴，引出农事"
+  },
+  {
+   "word": "棘",
+   "name": "荆棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与茨并提，指田间杂木荆棘"
+  },
+  {
+   "word": "黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "所种谷物，仓廪充盈的来源"
+  },
+  {
+   "word": "稷",
+   "name": "稷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与黍并举，指丰收的粮食作物"
+  },
+  {
+   "word": "仓",
+   "name": "仓",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "粮仓已满，写丰收景象"
+  },
+  {
+   "word": "庾",
+   "name": "庾",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "露天粮囤，言储粮亿万"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以黍稷酿成，用于祭祀享神"
+  },
+  {
+   "word": "牛羊",
+   "name": "牛羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所用的牺牲"
+  },
+  {
+   "word": "祊",
+   "name": "庙门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祖于庙门之内，点明祭祀场所"
+  },
+  {
+   "word": "爨",
+   "name": "灶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "执爨烹饪，写祭祀备膳之忙"
+  },
+  {
+   "word": "俎",
+   "name": "俎",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛牲之礼器，言其硕大"
+  },
+  {
+   "word": "豆",
+   "name": "豆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛食礼器，言其众多"
+  },
+  {
+   "word": "钟",
+   "name": "钟",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祭祀奏乐之器，钟鼓既戒"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与钟并奏，送尸归神"
+  },
+  {
+   "word": "孝孙",
+   "name": "孝孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "主祭者自称，承先祖之福"
+  },
+  {
+   "word": "工祝",
+   "name": "祝官",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "司祭礼传达神意的祝官"
+  },
+  {
+   "word": "皇尸",
+   "name": "尸",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "代神受祭的尸主，祭毕起身"
+  },
+  {
+   "word": "君妇",
+   "name": "主妇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "参与祭祀备膳的女主人"
+  },
+  {
+   "word": "宾客",
+   "name": "宾客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "献酬交错，宴饮之乐"
+  },
+  {
+   "word": "诸父兄弟",
+   "name": "父兄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祭后燕私，家族同欢"
+  }
+ ]
+}

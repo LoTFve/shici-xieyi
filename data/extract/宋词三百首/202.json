@@ -1,0 +1,160 @@
+{
+ "id": 202,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "薄雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "哀愁",
+   "note": "开篇渲染愁闷氛围"
+  },
+  {
+   "word": "浓云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "哀愁",
+   "note": "与薄雾共构阴沉天色"
+  },
+  {
+   "word": "瑞脑",
+   "name": "香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "香炉中焚香，写室内寂寥"
+  },
+  {
+   "word": "金兽",
+   "name": "香炉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "兽形香炉，香尽显出冷清"
+  },
+  {
+   "word": "重阳",
+   "name": "重阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "佳节点明时令与怀人之情"
+  },
+  {
+   "word": "玉枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "闺中独卧之物，衬孤枕难眠"
+  },
+  {
+   "word": "纱厨",
+   "name": "纱帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "纱帐透凉，写秋夜独处"
+  },
+  {
+   "word": "东篱",
+   "name": "篱",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "用陶渊明采菊典，暗点菊与隐逸"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏把酒，借酒浇愁"
+  },
+  {
+   "word": "暗香",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以菊香盈袖暗写菊花与自身"
+  },
+  {
+   "word": "袖",
+   "name": "袖",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香满衣袖，写赏菊情致"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "帘卷西风，引出人瘦之叹"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "秋风卷帘，渲染凄清"
+  },
+  {
+   "word": "黄花",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以菊之瘦比人之瘦，点睛之笔"
+  }
+ ]
+}

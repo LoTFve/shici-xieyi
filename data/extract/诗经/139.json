@@ -1,0 +1,83 @@
+{
+ "id": 139,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东门",
+   "name": "城门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明沤麻池塘所在的城门方位"
+  },
+  {
+   "word": "池",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全诗反复咏叹的沤麻池水，是劳动与相会之地"
+  },
+  {
+   "word": "麻",
+   "name": "麻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "池中沤渍的麻，点出劳作内容"
+  },
+  {
+   "word": "淑姬",
+   "name": "女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "诗人想与之对歌的美丽女子"
+  },
+  {
+   "word": "歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与淑姬相会时的对唱，表达爱慕"
+  },
+  {
+   "word": "纻",
+   "name": "纻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "第二章沤渍的麻类植物，与麻换文叶韵"
+  },
+  {
+   "word": "菅",
+   "name": "菅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "第三章沤渍的茅草，换文反复咏叹"
+  }
+ ]
+}

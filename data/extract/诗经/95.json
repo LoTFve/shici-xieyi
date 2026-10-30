@@ -1,0 +1,72 @@
+{
+ "id": 95,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "溱",
+   "name": "溱",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春水涣涣的河流，男女游春之地"
+  },
+  {
+   "word": "洧",
+   "name": "洧",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春水清澈的河流，上巳游乐之所"
+  },
+  {
+   "word": "士",
+   "name": "士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "参与游春的青年男子"
+  },
+  {
+   "word": "女",
+   "name": "女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "参与游春的青年女子"
+  },
+  {
+   "word": "蕳",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "手中所秉的香草，春日祛除不祥"
+  },
+  {
+   "word": "勺药",
+   "name": "芍药",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "男女相赠以结情好"
+  }
+ ]
+}

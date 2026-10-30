@@ -1,0 +1,182 @@
+{
+ "id": 108,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇阔大背景，反衬愁情"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高天流云，营造空远氛围"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "横溪远水，构图上横向延展"
+  },
+  {
+   "word": "晚日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "傍晚落日生寒晕，点明暮色与凄寒"
+  },
+  {
+   "word": "阶",
+   "name": "阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "闲阶寂静，写庭院空寂"
+  },
+  {
+   "word": "杨花",
+   "name": "杨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "杨花渐少，暗示春将尽"
+  },
+  {
+   "word": "朱门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "朱门掩闭，写深院幽闭"
+  },
+  {
+   "word": "莺声",
+   "name": "莺",
+   "category": "声音",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "莺声犹嫩，以声写春残之景"
+  },
+  {
+   "word": "清明",
+   "name": "清明",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清明时节，点明时序与悔恨"
+  },
+  {
+   "word": "馀芳",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "残余芬芳，写春末凋零"
+  },
+  {
+   "word": "阴沈",
+   "name": "阴云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "连日阴沉，烘托慵困愁绪"
+  },
+  {
+   "word": "双眉",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "怨入双眉，以眉写愁"
+  },
+  {
+   "word": "蓬莱",
+   "name": "蓬莱",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙山蓬莱，喻梦境与远方"
+  },
+  {
+   "word": "梦里",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "梦中蓬莱，写虚幻的慰藉"
+  },
+  {
+   "word": "莺花",
+   "name": "莺花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "莺花留得而东风不住，叹春光难驻"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "东风不住，象征时光流逝"
+  }
+ ]
+}

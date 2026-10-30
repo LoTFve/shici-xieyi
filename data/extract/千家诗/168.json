@@ -1,0 +1,215 @@
+{
+ "id": 168,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "点出上元时节冬寒未尽、雪刚消融"
+  },
+  {
+   "word": "华月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "上元夜明月满台，衬托佳节盛景"
+  },
+  {
+   "word": "仙台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以仙台喻宫廷楼台之高华"
+  },
+  {
+   "word": "万烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "万千烛火当楼，写元宵灯火之盛"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "烛火映照的楼阁，是宴乐场景的主体"
+  },
+  {
+   "word": "宝扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "仪仗宝扇展开，写宫廷排场"
+  },
+  {
+   "word": "双凤",
+   "name": "凤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以凤凰云中扶辇写帝王车驾的神圣"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云中凤凰扶辇，营造仙境般的仪仗"
+  },
+  {
+   "word": "辇",
+   "name": "辇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "帝王车驾，点明应制颂圣的对象"
+  },
+  {
+   "word": "六鳌",
+   "name": "鳌",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "用巨鳌负山典故写灯山奇观"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "海上鳌山，借神话海景写灯会气象"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指鳌背负的灯山，喻元宵灯景"
+  },
+  {
+   "word": "镐京",
+   "name": "镐京",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借西周都城镐京喻本朝都城宴乐"
+  },
+  {
+   "word": "春酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借周宴春酒写君臣宴饮之乐"
+  },
+  {
+   "word": "汾水",
+   "name": "汾水",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "用汉武帝汾水秋风辞典故，贬汉才以颂今"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "与汾水连用，构成汉武帝典故的背景"
+  },
+  {
+   "word": "紫霞杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "君王进酒，收束于宴乐升平的场景"
+  },
+  {
+   "word": "君王",
+   "name": "君王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "应制诗颂圣的中心人物"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "众人尽乐，写升平气象中的群像"
+  }
+ ]
+}

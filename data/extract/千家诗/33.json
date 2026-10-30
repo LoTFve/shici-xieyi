@@ -1,0 +1,28 @@
+{
+ "id": 33,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "松树",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人栖居其下的常青树，点出山居清幽"
+  },
+  {
+   "word": "石头",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以石为枕，写山居随性自在"
+  }
+ ]
+}

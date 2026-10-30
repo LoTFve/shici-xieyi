@@ -1,0 +1,227 @@
+{
+ "id": 49,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以日月为证，请其长照以明己志"
+  },
+  {
+   "word": "招摇",
+   "name": "招摇",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "北斗星，抚之以求公正"
+  },
+  {
+   "word": "四时",
+   "name": "四时",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旁引四时以为证"
+  },
+  {
+   "word": "驷马",
+   "name": "驷马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻朝政失控如驷马惊奔"
+  },
+  {
+   "word": "辕",
+   "name": "辕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车辕摧折，喻国势倾覆"
+  },
+  {
+   "word": "汨罗",
+   "name": "汨罗",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原自沉之地，寄追随之志"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沿江曲折而行"
+  },
+  {
+   "word": "石埼",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江边曲岸之石"
+  },
+  {
+   "word": "波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "波浪汹涌扬起"
+  },
+  {
+   "word": "黄沱",
+   "name": "黄沱",
+   "category": "水域",
+   "parent": "yellow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乘黄浊之水而下"
+  },
+  {
+   "word": "玄舆",
+   "name": "舆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黑色车驾，喻身随水逝"
+  },
+  {
+   "word": "棹",
+   "name": "桨",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "划舟渡江的工具，点出行旅"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人所乘之船，漂泊江上"
+  },
+  {
+   "word": "湘流",
+   "name": "湘江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "南渡所济之水，牵动去国之悲"
+  },
+  {
+   "word": "江界",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人伫立长吟的江畔"
+  },
+  {
+   "word": "日暮",
+   "name": "日暮",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏时分，烘托幽悲心境"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "与日暮相叠，强化苍茫迟暮之感"
+  },
+  {
+   "word": "郢",
+   "name": "郢",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "楚国故都，指代诗人眷恋的旧邦"
+  },
+  {
+   "word": "河水",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "淫淫河水，象征绵绵情思与归途阻隔"
+  },
+  {
+   "word": "郢路",
+   "name": "郢路",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回望故都之路，终不得返"
+  }
+ ]
+}

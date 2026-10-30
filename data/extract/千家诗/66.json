@@ -1,0 +1,138 @@
+{
+ "id": 66,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "香阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "点明宿处，寺阁为全诗立足点"
+  },
+  {
+   "word": "东山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "寺阁所依之山，交代环境"
+  },
+  {
+   "word": "烟花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "形容春景繁花如烟，衬出幽境"
+  },
+  {
+   "word": "悬灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "寺中夜灯，照亮千嶂暮色"
+  },
+  {
+   "word": "千嶂",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "层叠群峰，写出阁上远望之势"
+  },
+  {
+   "word": "五湖",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指广阔江湖，卷幔所见秋色"
+  },
+  {
+   "word": "画壁",
+   "name": "壁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "寺阁壁画，引出壁上鸿雁"
+  },
+  {
+   "word": "鸿雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "壁画中的雁，暗含羁旅之思"
+  },
+  {
+   "word": "纱窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "窗为观星之所，引出斗牛"
+  },
+  {
+   "word": "斗牛",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "星宿临窗，写夜宿之高"
+  },
+  {
+   "word": "天路",
+   "name": "天路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "疑阁高近天，生出登天之感"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "梦中与云同游，收束全诗超逸之思"
+  }
+ ]
+}

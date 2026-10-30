@@ -1,0 +1,193 @@
+{
+ "id": 101,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以东风老大起兴，写春风吹拂中柳絮飘零的时令背景"
+  },
+  {
+   "word": "江山",
+   "name": "江山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江山身是寄，写词人漂泊无依、寄身天地间的身世之感"
+  },
+  {
+   "word": "官道",
+   "name": "道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "忆临官道，点出昔日行役奔波的道路场景"
+  },
+  {
+   "word": "扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "扇底相逢，借团扇写柳絮轻附、旧日相逢的细腻情景"
+  },
+  {
+   "word": "钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "钗头微缀，写柳絮轻落钗头的纤巧之态"
+  },
+  {
+   "word": "亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "遮亭障驿，写柳条遮蔽长亭驿站的送别之景"
+  },
+  {
+   "word": "驿",
+   "name": "驿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与亭并列，写柳荫遮掩驿路，暗含行旅离别"
+  },
+  {
+   "word": "江水",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "不隔江水，写柳条虽密却隔不断江水与离思"
+  },
+  {
+   "word": "瓜洲",
+   "name": "瓜洲",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "瓜洲曾舣，点出江边停舟之地，牵动羁旅之思"
+  },
+  {
+   "word": "城乌",
+   "name": "乌",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "城乌夜起，以夜栖城头的乌鸦烘托长秋日暮的凄凉"
+  },
+  {
+   "word": "帐庐",
+   "name": "帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帐庐好在春睡，写春帐中酣睡，反衬漂泊之苦"
+  },
+  {
+   "word": "湖上",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "共飞归湖上，想象柳絮飞归湖上的自在归宿"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "草青无地，写春草青青、柳絮纷飞的暮春景象"
+  },
+  {
+   "word": "丰乐楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丰乐楼前，借汴京名楼写旧游繁华已逝的怅惘"
+  },
+  {
+   "word": "青门",
+   "name": "青门",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "青门都废，用长安青门典写故都荒废、兴亡之感"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "点点抟作，雪绵松润，以雪喻柳絮成团洁白松软的形态"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪绵松润，以松的蓬松状形容柳絮如雪团般润泽"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 102,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "紫陌",
+   "name": "陌",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "京城大道，点出看花归来的热闹场景"
+  },
+  {
+   "word": "红尘",
+   "name": "尘",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拂面的尘土，渲染看花人马的喧腾"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "众人争看的桃花，是诗中的热闹焦点"
+  },
+  {
+   "word": "玄都观",
+   "name": "道观",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "桃花所在的道观，也是诗人被贬后重游之地"
+  },
+  {
+   "word": "桃千树",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以千树桃花比喻朝中新贵，暗含讥讽"
+  },
+  {
+   "word": "刘郎",
+   "name": "刘郎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人自称，点明去后重来、物是人非的感慨"
+  }
+ ]
+}

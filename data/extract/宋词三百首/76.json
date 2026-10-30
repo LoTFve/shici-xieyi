@@ -1,0 +1,94 @@
+{
+ "id": 76,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "斜月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "描绘画堂外斜月朦胧的夜景，烘托相会氛围"
+  },
+  {
+   "word": "翡翠屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "室内陈设，表现居处华美"
+  },
+  {
+   "word": "芙蓉帐",
+   "name": "帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "床帐，暗示私密相会场景"
+  },
+  {
+   "word": "香罗",
+   "name": "罗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丝质衣物，体现女子服饰"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借燕传情，表达相思与期待"
+  },
+  {
+   "word": "重帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "阻隔内外，象征相思难通"
+  },
+  {
+   "word": "花梢",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "花枝梢头，点明春昼漫长"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春浓酒暖，反衬无聊赖的心绪"
+  }
+ ]
+}

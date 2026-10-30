@@ -1,0 +1,127 @@
+{
+ "id": 195,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "火云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "夏末余威的云霞，点出新秋刚至的时令"
+  },
+  {
+   "word": "奇峰",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以奇峰比喻火云堆叠的形状"
+  },
+  {
+   "word": "一叶风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "一叶知秋，写秋风初起"
+  },
+  {
+   "word": "园林",
+   "name": "园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "园林萧瑟，写秋色萧条"
+  },
+  {
+   "word": "砧杵",
+   "name": "砧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "捣衣声寂寥，暗含秋思"
+  },
+  {
+   "word": "蝉声",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝉声断续，悲秋之声"
+  },
+  {
+   "word": "残月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残月与蝉声相映，渲染凄清"
+  },
+  {
+   "word": "萤焰",
+   "name": "萤火",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "萤火高低，点缀暮空寂寥"
+  },
+  {
+   "word": "暮空",
+   "name": "天空",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮色天空，烘托寂寥氛围"
+  },
+  {
+   "word": "金门",
+   "name": "金门",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指朝廷，表达献赋求仕之志"
+  },
+  {
+   "word": "飞蓬",
+   "name": "蓬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以飞蓬自喻漂泊无定"
+  }
+ ]
+}

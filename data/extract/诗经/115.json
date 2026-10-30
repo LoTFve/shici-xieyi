@@ -1,0 +1,171 @@
+{
+ "id": 115,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "起兴之景，山上有枢，引出下文"
+  },
+  {
+   "word": "枢",
+   "name": "枢",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上的刺榆，起兴之物"
+  },
+  {
+   "word": "隰",
+   "name": "隰",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地，与山对举"
+  },
+  {
+   "word": "榆",
+   "name": "榆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隰上的榆树，起兴之物"
+  },
+  {
+   "word": "衣裳",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所有之物，却不去穿用"
+  },
+  {
+   "word": "车马",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所有之物，却不去驾驭"
+  },
+  {
+   "word": "栲",
+   "name": "栲",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上的臭椿，起兴之物"
+  },
+  {
+   "word": "杻",
+   "name": "杻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隰上的檍树，起兴之物"
+  },
+  {
+   "word": "廷内",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所有的庭堂，却不去洒扫"
+  },
+  {
+   "word": "钟鼓",
+   "name": "钟鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所有的乐器，却不去敲击"
+  },
+  {
+   "word": "漆",
+   "name": "漆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上的漆树，起兴之物"
+  },
+  {
+   "word": "栗",
+   "name": "栗",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隰上的栗树，起兴之物"
+  },
+  {
+   "word": "酒食",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "所有的酒食，劝人享用"
+  },
+  {
+   "word": "瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "弹瑟以喜乐永日"
+  },
+  {
+   "word": "室",
+   "name": "室",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "他人入室，暗指死后家宅归他人"
+  }
+ ]
+}

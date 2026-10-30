@@ -1,0 +1,94 @@
+{
+ "id": 83,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "女",
+   "name": "女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与诗人同车同行的美丽女子，全诗赞美的中心"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子与诗人同乘的车驾，构成全诗场景"
+  },
+  {
+   "word": "舜华",
+   "name": "木槿",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "木槿花比喻女子容颜之美"
+  },
+  {
+   "word": "佩玉",
+   "name": "佩玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子身上的玉佩，行走时摇曳作响，衬托其身份与美"
+  },
+  {
+   "word": "琼琚",
+   "name": "琼琚",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "美玉饰物，具体写佩玉之珍美"
+  },
+  {
+   "word": "孟姜",
+   "name": "孟姜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "泛指美好的女子，借以赞美同行之女"
+  },
+  {
+   "word": "舜英",
+   "name": "木槿",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "木槿花再次比喻女子容颜，与“舜华”呼应"
+  },
+  {
+   "word": "将将",
+   "name": "玉佩声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "佩玉相击的清脆声响，侧面写女子行姿之美"
+  }
+ ]
+}

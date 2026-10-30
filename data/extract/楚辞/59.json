@@ -1,0 +1,270 @@
+{
+ "id": 59,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "汉渚",
+   "name": "汉水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "开篇徘徊之地，寻求水神"
+  },
+  {
+   "word": "水神",
+   "name": "神女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人所求的灵女"
+  },
+  {
+   "word": "灵女",
+   "name": "神女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与水神同指"
+  },
+  {
+   "word": "鴳雀",
+   "name": "雀",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "杂乱喧哗的凡鸟"
+  },
+  {
+   "word": "鸲鹆",
+   "name": "鸲鹆",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸣声聒耳，象征世俗喧嚣"
+  },
+  {
+   "word": "昭华",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所抱之美玉，喻才德"
+  },
+  {
+   "word": "宝璋",
+   "name": "玉璋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与昭华并提，喻珍宝"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "阴曀未光，烘托世道昏暗"
+  },
+  {
+   "word": "河皋",
+   "name": "河岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "周流所遵之地"
+  },
+  {
+   "word": "沧海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "东游所涉"
+  },
+  {
+   "word": "天池",
+   "name": "天池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沐浴之所"
+  },
+  {
+   "word": "太昊",
+   "name": "太昊",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "访道之古帝"
+  },
+  {
+   "word": "周文",
+   "name": "周文王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "归向之圣王"
+  },
+  {
+   "word": "邠歧",
+   "name": "邠岐",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "周文王所居之地"
+  },
+  {
+   "word": "玉英",
+   "name": "玉英",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "结誓之信物"
+  },
+  {
+   "word": "陇堆",
+   "name": "陇山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "远行所逾之山"
+  },
+  {
+   "word": "桂车",
+   "name": "桂车",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所过之地"
+  },
+  {
+   "word": "合黎",
+   "name": "合黎",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所过之地"
+  },
+  {
+   "word": "昆山",
+   "name": "昆仑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "神话中山，歇马之处"
+  },
+  {
+   "word": "玉液",
+   "name": "玉液",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "止渴之仙液"
+  },
+  {
+   "word": "芝华",
+   "name": "灵芝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "疗饥之仙草"
+  },
+  {
+   "word": "江汉",
+   "name": "江汉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "远望所伤怀之水"
+  },
+  {
+   "word": "尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "莫莫未晞，喻世道昏暗"
+  },
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以雷声喻叹息之重"
+  }
+ ]
+}

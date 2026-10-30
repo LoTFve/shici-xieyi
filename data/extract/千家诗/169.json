@@ -1,0 +1,127 @@
+{
+ "id": 169,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云汉",
+   "name": "天河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以银河比喻别业高耸入云，烘托皇家气派"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写别业周围山势如鸣凤岭般秀美"
+  },
+  {
+   "word": "池",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写别业中池水堪比饮龙川"
+  },
+  {
+   "word": "妆楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写公主别业中的妆楼翠幕，留住春色"
+  },
+  {
+   "word": "翠幌",
+   "name": "帷幔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "翠色帘幕留住春光，写别业之华美"
+  },
+  {
+   "word": "舞阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写舞阁金铺映日，极言别业富丽"
+  },
+  {
+   "word": "金铺",
+   "name": "门饰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "金色门环借日光悬挂，衬托楼阁辉煌"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "日光映照金铺，写别业白昼之盛"
+  },
+  {
+   "word": "乘舆",
+   "name": "车驾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指皇帝车驾，点明侍宴随驾而来"
+  },
+  {
+   "word": "觞",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "举杯献寿，写宴饮祝寿之乐"
+  },
+  {
+   "word": "钧天",
+   "name": "天乐",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "用钧天广乐典故，形容宴乐之美妙"
+  }
+ ]
+}
