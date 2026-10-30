@@ -1,0 +1,149 @@
+{
+ "id": 213,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "仙台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明仙游观所在的高台"
+  },
+  {
+   "word": "五城楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以仙家楼阁比拟道观建筑"
+  },
+  {
+   "word": "宿雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "写夜雨初停的清晨景象"
+  },
+  {
+   "word": "山色",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "远山与秦地树木相连的暮色"
+  },
+  {
+   "word": "秦树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "借秦地之树点出地域与秋意"
+  },
+  {
+   "word": "砧声",
+   "name": "砧",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "捣衣声报秋，引发羁旅之思"
+  },
+  {
+   "word": "汉宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借汉宫指代京城与秋日宫苑"
+  },
+  {
+   "word": "疏松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "稀疏松影落在空坛上，衬出清静"
+  },
+  {
+   "word": "空坛",
+   "name": "坛",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "道观中寂静的祭坛"
+  },
+  {
+   "word": "细草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "细草幽香，写小洞的闲静"
+  },
+  {
+   "word": "小洞",
+   "name": "洞",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "幽深的小洞，增添道观仙气"
+  },
+  {
+   "word": "方外",
+   "name": "方外",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指世外仙境，反衬人间自有仙居"
+  },
+  {
+   "word": "丹丘",
+   "name": "丹丘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "神话中的仙山，喻指此地如仙境"
+  }
+ ]
+}

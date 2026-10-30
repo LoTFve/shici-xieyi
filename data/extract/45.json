@@ -1,0 +1,94 @@
+{
+ "id": 45,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云母屏风",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "室内陈设，烛光映照出幽深氛围"
+  },
+  {
+   "word": "烛影",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "烛光摇曳，点出深夜独坐的幽暗"
+  },
+  {
+   "word": "长河",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "银河渐落，暗示夜将尽"
+  },
+  {
+   "word": "晓星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "晨星沉落，写拂晓时分的清冷"
+  },
+  {
+   "word": "嫦娥",
+   "name": "嫦娥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "借神话人物写孤寂心境"
+  },
+  {
+   "word": "灵药",
+   "name": "仙药",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "偷药升天的典故核心物"
+  },
+  {
+   "word": "碧海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "想象月宫周围苍茫无际的海色"
+  },
+  {
+   "word": "青天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与碧海并置，写月宫夜夜的辽阔空寂"
+  }
+ ]
+}

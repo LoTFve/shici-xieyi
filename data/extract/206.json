@@ -1,0 +1,116 @@
+{
+ "id": 206,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江上",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明送别地点，江面为望月观雁提供背景"
+  },
+  {
+   "word": "月明",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "明月照耀江面，渲染离别后孤寂清冷的氛围"
+  },
+  {
+   "word": "胡雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "北雁南飞，既点明秋令，又暗喻漂泊与思归"
+  },
+  {
+   "word": "淮南",
+   "name": "淮南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指代友人将往之地，与下句楚山对举，拓展空间"
+  },
+  {
+   "word": "木落",
+   "name": "落叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "树叶凋零，点明深秋时节，烘托萧瑟心境"
+  },
+  {
+   "word": "楚山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "楚地群山连绵，与木落对照，显出秋日寥廓"
+  },
+  {
+   "word": "沧洲",
+   "name": "沧洲",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指隐逸之地，表达对归隐生活的向往"
+  },
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以白发自况，感叹年老体衰、岁月蹉跎"
+  },
+  {
+   "word": "龙钟",
+   "name": "老翁",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "形容自己老态龙钟，被人共弃的凄凉处境"
+  },
+  {
+   "word": "风波",
+   "name": "风波",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻世路艰险，友人的叮嘱更显情谊深厚"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": 225,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指李白被流放的南方瘴疠之地"
+  },
+  {
+   "word": "瘴疠",
+   "name": "瘴",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "南方湿热瘴气，暗示李白处境险恶"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "全诗由梦展开，是相见之所"
+  },
+  {
+   "word": "枫叶",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "魂来时的秋景，青枫暗含凄清"
+  },
+  {
+   "word": "关塞",
+   "name": "关塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "魂返时黑沉沉的关山，路远难测"
+  },
+  {
+   "word": "罗网",
+   "name": "罗网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻李白身陷囹圄、失去自由"
+  },
+  {
+   "word": "羽翼",
+   "name": "羽翼",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "反问李白何能脱身飞来入梦"
+  },
+  {
+   "word": "落月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "满屋梁的落月，疑是故人容颜"
+  },
+  {
+   "word": "屋梁",
+   "name": "屋梁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "月光洒满屋梁，梦醒后空寂的实景"
+  },
+  {
+   "word": "水深",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江湖水深浪阔，暗喻世路险恶"
+  },
+  {
+   "word": "波浪",
+   "name": "波浪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "浪阔难渡，忧李白魂魄安危"
+  },
+  {
+   "word": "蛟龙",
+   "name": "蛟龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "水中蛟龙，喻陷害李白的险恶势力"
+  }
+ ]
+}

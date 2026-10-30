@@ -1,0 +1,83 @@
+{
+ "id": 255,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "长风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋风万里，烘托豪迈之情"
+  },
+  {
+   "word": "秋雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "秋日大雁，引发离愁"
+  },
+  {
+   "word": "高楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "谢朓楼，饯别之所"
+  },
+  {
+   "word": "青天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "广阔天空，衬托逸兴"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "欲上青天揽月，喻高远志向"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "抽刀断水，喻愁绪难断"
+  },
+  {
+   "word": "扁舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "散发弄舟，表达归隐之愿"
+  }
+ ]
+}

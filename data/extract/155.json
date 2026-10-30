@@ -1,0 +1,83 @@
+{
+ "id": 155,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "故关",
+   "name": "关",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "送别之地的古关，点明荒凉边地背景"
+  },
+  {
+   "word": "衰草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "遍地枯草渲染离别悲凉"
+  },
+  {
+   "word": "路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "友人远行之路伸向寒云之外"
+  },
+  {
+   "word": "寒云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒云笼罩，烘托路途遥远凄冷"
+  },
+  {
+   "word": "暮雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "暮色飞雪中归人，写送别时令与心境"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "掩泪相向，直写离别之悲"
+  },
+  {
+   "word": "风尘",
+   "name": "风尘",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻指漂泊乱世，感叹后会无期"
+  }
+ ]
+}

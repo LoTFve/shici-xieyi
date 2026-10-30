@@ -1,0 +1,61 @@
+{
+ "id": 84,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "南山",
+   "name": "南山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人隐居终南山旁的居所所在"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "行到水尽处，表现随性漫游"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "坐看云起，象征无心自在的心境"
+  },
+  {
+   "word": "林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "林中偶遇老翁，点出山林幽居环境"
+  },
+  {
+   "word": "叟",
+   "name": "翁",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "林中偶遇的老者，谈笑忘归"
+  }
+ ]
+}

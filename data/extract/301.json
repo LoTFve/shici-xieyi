@@ -1,0 +1,94 @@
+{
+ "id": 301,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "点明捣衣思妇所在之地，都城月夜的背景"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "笼罩长安的秋月，牵动万户思妇之情"
+  },
+  {
+   "word": "万户",
+   "name": "人家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "借指长安城中众多百姓人家，写出捣衣声之广"
+  },
+  {
+   "word": "捣衣声",
+   "name": "砧声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "秋夜妇女为征人赶制寒衣的捣练声，是全诗情感的声音载体"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "吹之不尽的秋风，象征绵绵不绝的思夫之情"
+  },
+  {
+   "word": "玉关",
+   "name": "玉关",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指边关征戍之地，承载思妇对远人的牵挂"
+  },
+  {
+   "word": "胡虏",
+   "name": "胡虏",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指侵扰边境的敌人，寄托平定边患的愿望"
+  },
+  {
+   "word": "良人",
+   "name": "良人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "思妇对远征丈夫的称呼，全诗思念的核心对象"
+  }
+ ]
+}

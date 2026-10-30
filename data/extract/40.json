@@ -1,0 +1,83 @@
+{
+ "id": 40,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "白帝",
+   "name": "白帝",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "点明出发之地，城在高处如入云间"
+  },
+  {
+   "word": "彩云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "清晨绚丽的云霞，烘托轻快心情"
+  },
+  {
+   "word": "江陵",
+   "name": "江陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "目的地，以千里之遥反衬舟行之快"
+  },
+  {
+   "word": "两岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "峡江两岸，交代猿声所出的空间"
+  },
+  {
+   "word": "猿声",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "三峡猿啼本是凄清之声，这里化作一路相伴的背景"
+  },
+  {
+   "word": "轻舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "轻快的小船，是全诗主体意象，写归心似箭"
+  },
+  {
+   "word": "万重山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "层叠无尽的三峡群山，反衬舟行迅疾"
+  }
+ ]
+}

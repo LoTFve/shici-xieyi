@@ -1,0 +1,127 @@
+{
+ "id": 292,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "颍川水",
+   "name": "颍水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "许由洗耳避世之典，反衬不必孤高"
+  },
+  {
+   "word": "首阳蕨",
+   "name": "蕨",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "伯夷叔齐采薇首阳之典，借指高洁隐逸"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "比喻孤高自许"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与云并举，喻高洁孤高"
+  },
+  {
+   "word": "吴江",
+   "name": "吴江",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "伍子胥被弃尸于吴江的典故"
+  },
+  {
+   "word": "湘水",
+   "name": "湘水",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原自沉湘水之典"
+  },
+  {
+   "word": "华亭鹤唳",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "陆机临刑叹华亭鹤唳，喻功成不退之祸"
+  },
+  {
+   "word": "苍鹰",
+   "name": "鹰",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "李斯叹上蔡东门逐狡兔之典，借指仕途悔恨"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "张翰因秋风思莼鲈而归，点出归隐之念"
+  },
+  {
+   "word": "江东",
+   "name": "江东",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "张翰归乡之地，寄归隐之情"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "且乐生前一杯酒，表达及时行乐"
+  }
+ ]
+}

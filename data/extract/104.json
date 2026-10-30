@@ -1,0 +1,83 @@
+{
+ "id": 104,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "客去后水面平静，映出离别的空寂"
+  },
+  {
+   "word": "蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝉声停歇，点出夏末秋初的萧瑟"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "露水满枝，渲染夜深清冷"
+  },
+  {
+   "word": "枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "露水所附之处，衬托夜凉"
+  },
+  {
+   "word": "北斗",
+   "name": "北斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "仰望北斗，寄托对远方友人的思念"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指遥远他乡，写与友人相隔之远"
+  },
+  {
+   "word": "南陵",
+   "name": "南陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "友人寓居之地，寄信迟迟不到"
+  }
+ ]
+}

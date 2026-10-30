@@ -1,0 +1,61 @@
+{
+ "id": 73,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月色",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "深夜月色照亮半边庭院"
+  },
+  {
+   "word": "北斗",
+   "name": "北斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜空中横斜的北斗七星"
+  },
+  {
+   "word": "南斗",
+   "name": "南斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与北斗相对倾斜的南斗星"
+  },
+  {
+   "word": "虫声",
+   "name": "虫",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "初春新虫鸣声透窗而来"
+  },
+  {
+   "word": "绿窗纱",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "透入虫声的绿色窗纱"
+  }
+ ]
+}

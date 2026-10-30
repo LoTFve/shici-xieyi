@@ -1,0 +1,83 @@
+{
+ "id": 35,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "罗巾",
+   "name": "巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "泪水浸湿的丝巾，写失宠宫人的悲伤"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜不能寐，连梦也做不成"
+  },
+  {
+   "word": "夜深",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明深夜时分，衬托冷宫孤寂"
+  },
+  {
+   "word": "前殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "前殿传来的歌声与冷宫形成对比"
+  },
+  {
+   "word": "歌声",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "前殿欢歌，反衬失宠者的凄凉"
+  },
+  {
+   "word": "红颜",
+   "name": "红颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指美貌的宫人自己"
+  },
+  {
+   "word": "薰笼",
+   "name": "薰笼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "斜倚薰笼，写长夜独坐的冷落"
+  }
+ ]
+}

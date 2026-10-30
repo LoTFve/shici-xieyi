@@ -1,0 +1,171 @@
+{
+ "id": 177,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "题名之雨，笼罩全诗的迷蒙冷意"
+  },
+  {
+   "word": "新春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明时令，反衬愁绪"
+  },
+  {
+   "word": "白夹衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人春寒中独卧的穿着"
+  },
+  {
+   "word": "白门",
+   "name": "白门",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借指男女相会之地，今已寥落"
+  },
+  {
+   "word": "红楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "雨中对望的冷寂楼阁"
+  },
+  {
+   "word": "珠箔",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "雨夜飘灯独归时所见的帘幕"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "雨中飘摇的孤灯，映独归身影"
+  },
+  {
+   "word": "远路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象对方远行途中的迟暮之悲"
+  },
+  {
+   "word": "春晼晚",
+   "name": "晚春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "春色将暮，暗喻年华与欢情迟暮"
+  },
+  {
+   "word": "残霄",
+   "name": "残夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "残夜将尽时依稀入梦"
+  },
+  {
+   "word": "梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "唯于残夜梦中得见，愈显相思"
+  },
+  {
+   "word": "玉珰",
+   "name": "玉珰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "欲寄赠情人的信物"
+  },
+  {
+   "word": "札",
+   "name": "书札",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "封缄的书信，叹无由送达"
+  },
+  {
+   "word": "云罗",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "万里云如罗网，喻阻隔之广"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "云中孤雁，既是传书之望也是自身写照"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 217,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "西施",
+   "name": "西施",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗咏的主体，由微贱变尊贵的越女"
+  },
+  {
+   "word": "越溪",
+   "name": "越溪",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西施微贱时浣纱之地"
+  },
+  {
+   "word": "吴宫",
+   "name": "吴宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "西施显贵后所入的宫殿"
+  },
+  {
+   "word": "香粉",
+   "name": "粉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写西施贵后有人为她敷粉的娇态"
+  },
+  {
+   "word": "罗衣",
+   "name": "罗衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写西施贵后不自着衣的娇贵"
+  },
+  {
+   "word": "浣纱",
+   "name": "浣纱",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西施贫贱时溪边劳作的旧事"
+  },
+  {
+   "word": "邻家子",
+   "name": "邻女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指效颦者，喻盲目模仿之人"
+  }
+ ]
+}

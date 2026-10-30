@@ -1,0 +1,116 @@
+{
+ "id": 300,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "镜湖",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明采莲的广阔水面背景"
+  },
+  {
+   "word": "菡萏",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与荷花并称，写湖上荷花盛开"
+  },
+  {
+   "word": "荷花",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "夏歌核心景物，繁盛明丽"
+  },
+  {
+   "word": "五月",
+   "name": "五月",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "交代时令，点出盛夏"
+  },
+  {
+   "word": "西施",
+   "name": "西施",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借越国美女指采莲女子之美"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写围观者众多，烘托采莲盛况"
+  },
+  {
+   "word": "若耶",
+   "name": "若耶",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西施采莲之地，添历史风流"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "采莲人归去所乘之船"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "回舟不待月，写采莲人归来之早"
+  },
+  {
+   "word": "越王家",
+   "name": "越王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以西施归越王宫收束，暗含艳羡与传说色彩"
+  }
+ ]
+}

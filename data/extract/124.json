@@ -1,0 +1,50 @@
+{
+ "id": 124,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指归隐山林的去处，以芳草象征隐逸生活"
+  },
+  {
+   "word": "故人",
+   "name": "故人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指友人王维，点明惜别之情"
+  },
+  {
+   "word": "故园",
+   "name": "故园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指家乡旧居，写归隐之处的门扉"
+  },
+  {
+   "word": "扉",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "故园之门，掩门独守寂寞的收束画面"
+  }
+ ]
+}

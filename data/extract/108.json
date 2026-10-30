@@ -1,0 +1,83 @@
+{
+ "id": 108,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "高阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "客人散尽后空寂的高楼，点出送别后的冷清"
+  },
+  {
+   "word": "小园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "落花纷飞的庭园，是全诗场景所在"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "乱飞的落花，象征春光与芳心的消逝"
+  },
+  {
+   "word": "曲陌",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "落花参差相连的小径，延展画面纵深"
+  },
+  {
+   "word": "斜晖",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "落花迢递送走斜阳，写暮色与春尽的怅惘"
+  },
+  {
+   "word": "芳心",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以花心借指惜春之心，随春尽而落"
+  },
+  {
+   "word": "沾衣",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花沾衣如泪，收束全诗断肠之情"
+  }
+ ]
+}

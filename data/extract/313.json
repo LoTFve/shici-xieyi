@@ -1,0 +1,72 @@
+{
+ "id": 313,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "慈母",
+   "name": "母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中主角，慈爱的母亲形象"
+  },
+  {
+   "word": "游子",
+   "name": "游子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "离家的孩子，母亲的牵挂对象"
+  },
+  {
+   "word": "线",
+   "name": "线",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "母亲手中缝衣的针线，寄托关爱"
+  },
+  {
+   "word": "衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "游子身上的衣服，承载母爱"
+  },
+  {
+   "word": "寸草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻子女微薄的心意"
+  },
+  {
+   "word": "三春晖",
+   "name": "春晖",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻母亲深厚的恩情"
+  }
+ ]
+}

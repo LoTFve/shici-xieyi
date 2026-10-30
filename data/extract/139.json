@@ -1,0 +1,83 @@
+{
+ "id": 139,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "孤雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "全诗核心意象，失群孤飞，寄托诗人身世飘零之感"
+  },
+  {
+   "word": "塞",
+   "name": "塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "归雁所向的边塞，点出雁群远去的方向"
+  },
+  {
+   "word": "暮雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮色寒雨，渲染孤雁失伴呼号的凄冷氛围"
+  },
+  {
+   "word": "寒塘",
+   "name": "塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤雁欲落而迟疑的寒水，映其惊惧不安"
+  },
+  {
+   "word": "渚云",
+   "name": "云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "低云暗度，写孤雁飞行环境的压抑昏暗"
+  },
+  {
+   "word": "关月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "关山冷月相随，以清冷月色衬孤雁之独"
+  },
+  {
+   "word": "矰缴",
+   "name": "矰缴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "射鸟的短箭丝绳，借指人事的猜忌与暗算"
+  }
+ ]
+}

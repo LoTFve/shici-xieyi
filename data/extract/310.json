@@ -1,0 +1,50 @@
+{
+ "id": 310,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "金缕衣",
+   "name": "金衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以华贵衣物比喻值得珍惜的荣华富贵"
+  },
+  {
+   "word": "少年",
+   "name": "少年",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指青春年少的时光"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以花开喻青春盛年"
+  },
+  {
+   "word": "枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "折花的枝条，衬托花开的鲜活"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 236,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "大江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "女儿乘舟远行所溯的浩渺江水"
+  },
+  {
+   "word": "轻舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "载女儿远嫁的船"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "离别时父女相泣的泪"
+  },
+  {
+   "word": "缨",
+   "name": "缨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泪水沿冠缨流淌，写父亲归来的悲恸"
+  },
+  {
+   "word": "晨",
+   "name": "晨",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明离别发生在清晨"
+  }
+ ]
+}

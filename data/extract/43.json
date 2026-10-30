@@ -1,0 +1,50 @@
+{
+ "id": 43,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明时节，暗讽举国为南游忙碌"
+  },
+  {
+   "word": "宫锦",
+   "name": "锦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "举国裁剪的华贵织物，见奢靡"
+  },
+  {
+   "word": "障泥",
+   "name": "障泥",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "马鞯，锦料一半用作此物"
+  },
+  {
+   "word": "帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "另一半宫锦制帆，写龙舟南游之盛"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": 5,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绮窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "故乡家中雕饰的窗，是诗人记忆中家的焦点"
+  },
+  {
+   "word": "寒梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象中故乡窗前冬梅是否开花，寄托对家乡的牵挂"
+  }
+ ]
+}

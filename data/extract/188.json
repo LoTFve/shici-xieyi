@@ -1,0 +1,160 @@
+{
+ "id": 188,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "岁暮",
+   "name": "岁暮",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明时节，一年将尽的迟暮之感"
+  },
+  {
+   "word": "霜雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒宵雪霁的清冷背景"
+  },
+  {
+   "word": "寒宵",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点出寒冷夜晚的时间背景"
+  },
+  {
+   "word": "五更",
+   "name": "五更",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "交代夜深将晓的时辰"
+  },
+  {
+   "word": "鼓角",
+   "name": "鼓角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "军中鼓角声，悲壮苍凉"
+  },
+  {
+   "word": "三峡",
+   "name": "三峡",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明夔州地点，江峡壮阔"
+  },
+  {
+   "word": "星河",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "倒映江中随波摇动的星空"
+  },
+  {
+   "word": "野哭",
+   "name": "哭声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "战乱中荒野人家的悲哭"
+  },
+  {
+   "word": "战伐",
+   "name": "战伐",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点出哭声的由来，战乱之苦"
+  },
+  {
+   "word": "夷歌",
+   "name": "夷歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "当地少数民族的歌声，与野哭相映"
+  },
+  {
+   "word": "渔樵",
+   "name": "渔樵",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "唱夷歌的渔人樵夫"
+  },
+  {
+   "word": "卧龙",
+   "name": "卧龙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指诸葛亮，终归黄土的感慨"
+  },
+  {
+   "word": "跃马",
+   "name": "跃马",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指公孙述，与卧龙同归黄土"
+  },
+  {
+   "word": "黄土",
+   "name": "黄土",
+   "category": "山石",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻指死亡与历史湮没"
+  }
+ ]
+}

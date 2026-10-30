@@ -1,0 +1,149 @@
+{
+ "id": 185,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "三峡",
+   "name": "三峡",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明蜀主东征所经的险要江峡"
+  },
+  {
+   "word": "永安宫",
+   "name": "永安宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蜀主崩逝之处，是全诗凭吊的核心地点"
+  },
+  {
+   "word": "翠华",
+   "name": "翠华",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以天子仪仗借指蜀主当年的威仪"
+  },
+  {
+   "word": "空山",
+   "name": "空山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "渲染想象中翠华仪仗消逝后的空寂"
+  },
+  {
+   "word": "玉殿",
+   "name": "玉殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "昔日华美的宫殿如今只存虚无之感"
+  },
+  {
+   "word": "野寺",
+   "name": "野寺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "玉殿旧址上的荒凉野寺，见沧桑之变"
+  },
+  {
+   "word": "古庙",
+   "name": "古庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "眼前实景，先主庙的古旧肃穆"
+  },
+  {
+   "word": "杉松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "古庙周围的老树，增添荒寂古意"
+  },
+  {
+   "word": "水鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "巢于杉松之上的水鹤，写庙宇荒凉"
+  },
+  {
+   "word": "村翁",
+   "name": "村翁",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "岁时伏腊前来祭祀的村民，见民间香火"
+  },
+  {
+   "word": "伏腊",
+   "name": "伏腊",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指伏祭与腊祭，点明祭祀的时令习俗"
+  },
+  {
+   "word": "武侯祠堂",
+   "name": "祠堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诸葛亮祠堂与先主庙相邻，引出君臣同祀"
+  },
+  {
+   "word": "君臣",
+   "name": "君臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指刘备与诸葛亮，点明一体同祀的主题"
+  }
+ ]
+}

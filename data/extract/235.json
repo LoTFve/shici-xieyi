@@ -1,0 +1,105 @@
+{
+ "id": 235,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "簪组",
+   "name": "簪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指官场仕宦的束缚"
+  },
+  {
+   "word": "南夷",
+   "name": "南夷",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指贬谪所在的南方荒远之地"
+  },
+  {
+   "word": "农圃",
+   "name": "农圃",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写闲居时与田园菜圃为邻"
+  },
+  {
+   "word": "山林",
+   "name": "山林",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点出如山林隐客般的自在"
+  },
+  {
+   "word": "露草",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "晓耕时沾露的草，见晨起劳作"
+  },
+  {
+   "word": "溪石",
+   "name": "溪石",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "夜榜触石作响，衬溪居之静"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "来往不见人，写幽居的孤寂"
+  },
+  {
+   "word": "长歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "放声长歌，抒旷达之情"
+  },
+  {
+   "word": "楚天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "楚地碧空，映衬歌者的开阔心境"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 36,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "花开时节反衬宫院紧闭、青春虚度"
+  },
+  {
+   "word": "院门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "深闭的院门点出宫女与世隔绝的处境"
+  },
+  {
+   "word": "美人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "两位并列而立、欲言又止的宫女"
+  },
+  {
+   "word": "琼轩",
+   "name": "轩",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美的长廊，衬出宫女居所的精致与冷清"
+  },
+  {
+   "word": "鹦鹉",
+   "name": "鹦鹉",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "学舌之鸟，象征宫中不敢言说的耳目之惧"
+  }
+ ]
+}

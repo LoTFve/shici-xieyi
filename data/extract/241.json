@@ -1,0 +1,72 @@
+{
+ "id": 241,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟雾",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "渲染离别时的迷茫氛围"
+  },
+  {
+   "word": "归棹",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指诗人归去的船，点明行程"
+  },
+  {
+   "word": "残钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "钟声残留，象征离别的不舍"
+  },
+  {
+   "word": "广陵",
+   "name": "广陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指扬州，友人所在之地，借以表达留恋"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "广陵的树，与钟声共构离别场景"
+  },
+  {
+   "word": "波",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江波，象征世事变幻"
+  }
+ ]
+}

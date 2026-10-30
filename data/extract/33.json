@@ -1,0 +1,61 @@
+{
+ "id": 33,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "异乡",
+   "name": "异乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人独处的他乡，点明漂泊处境"
+  },
+  {
+   "word": "佳节",
+   "name": "佳节",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "重阳佳节，反衬游子思亲之切"
+  },
+  {
+   "word": "兄弟",
+   "name": "兄弟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象中登高的故乡亲人"
+  },
+  {
+   "word": "登高处",
+   "name": "登高",
+   "category": "其他",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "昼",
+   "emotion": "思乡",
+   "note": "重阳登高习俗，此处为想象之景"
+  },
+  {
+   "word": "茱萸",
+   "name": "茱萸",
+   "category": "植物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "重阳插茱萸的习俗之物，寄托思亲之情"
+  }
+ ]
+}

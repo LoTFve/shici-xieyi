@@ -1,0 +1,138 @@
+{
+ "id": 127,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸡黍",
+   "name": "鸡黍",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "故人备下的农家饭菜，见待客的质朴情谊"
+  },
+  {
+   "word": "田家",
+   "name": "田家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人受邀前去的农家院落"
+  },
+  {
+   "word": "绿树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "环绕村边的葱茏树木，点出村庄的生机"
+  },
+  {
+   "word": "村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿树环抱的村落，是宴饮所在的环境"
+  },
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "城外斜延的青山，构成村庄的远景"
+  },
+  {
+   "word": "郭",
+   "name": "城郭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青山斜出城郭之外，衬出田园的疏朗"
+  },
+  {
+   "word": "轩",
+   "name": "轩",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "打开轩窗正对谷场菜圃，写宴饮时的视野"
+  },
+  {
+   "word": "场圃",
+   "name": "场圃",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "窗前的打谷场与菜园，是农家生活的实景"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "把酒对饮，是故人相聚的核心场景"
+  },
+  {
+   "word": "桑麻",
+   "name": "桑麻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指农事，写席间所谈的田园话题"
+  },
+  {
+   "word": "重阳",
+   "name": "重阳",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "约定重聚的节日，是想象中的来日之约"
+  },
+  {
+   "word": "菊花",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "重阳赏菊的预期，寄托再来相聚的期待"
+  }
+ ]
+}

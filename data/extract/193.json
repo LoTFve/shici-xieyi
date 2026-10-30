@@ -1,0 +1,94 @@
+{
+ "id": 193,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春水",
+   "name": "春水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "环绕草堂的春水，点出环境与季节"
+  },
+  {
+   "word": "群鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "日日来访的群鸥，衬出江村清幽与客稀"
+  },
+  {
+   "word": "花径",
+   "name": "花径",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "落花满径，写草堂春景与久无客来"
+  },
+  {
+   "word": "蓬门",
+   "name": "蓬门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "简陋的柴门，因客至而始开，见待客之诚"
+  },
+  {
+   "word": "盘飧",
+   "name": "盘飧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盘中饭菜，写市远家贫的简朴待客"
+  },
+  {
+   "word": "樽酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "樽中旧醅，见家贫而情真"
+  },
+  {
+   "word": "邻翁",
+   "name": "邻翁",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "隔篱相唤共饮的邻家老翁，添村居人情"
+  },
+  {
+   "word": "篱",
+   "name": "篱",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "隔篱呼邻，写草堂邻舍相接的田园生活"
+  }
+ ]
+}

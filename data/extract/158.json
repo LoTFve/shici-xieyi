@@ -1,0 +1,83 @@
+{
+ "id": 158,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "西陆",
+   "name": "西陆",
+   "category": "天象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指秋天，点明蝉鸣时节"
+  },
+  {
+   "word": "蝉声",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蝉鸣起兴，引出囚客愁思"
+  },
+  {
+   "word": "南冠",
+   "name": "南冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用楚囚典故自指囚徒身份"
+  },
+  {
+   "word": "玄鬓",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "借蝉的黑色双翼指蝉自身"
+  },
+  {
+   "word": "白头",
+   "name": "白头",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指诗人自己年老白头，与蝉影相对"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "露重喻环境艰难，蝉难飞进"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "风多使蝉声沉没，喻世路艰难"
+  }
+ ]
+}

@@ -1,0 +1,270 @@
+{
+ "id": 266,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "剑器",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "公孙大娘所舞之剑，全诗核心"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "观者如山，极言人多"
+  },
+  {
+   "word": "天地",
+   "name": "天地",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天地低昂，写舞势撼动乾坤"
+  },
+  {
+   "word": "羿",
+   "name": "后羿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借后羿射日喻舞姿迅疾"
+  },
+  {
+   "word": "九日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "羿射九日落，喻剑光霍霍"
+  },
+  {
+   "word": "群帝",
+   "name": "群帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "群帝骖龙，喻舞姿矫健"
+  },
+  {
+   "word": "龙",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "群帝所骖之龙，写舞势飞翔"
+  },
+  {
+   "word": "雷霆",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "来如雷霆，喻舞起之威"
+  },
+  {
+   "word": "江海",
+   "name": "江海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "罢如江海凝光，喻舞收之静"
+  },
+  {
+   "word": "绛唇",
+   "name": "唇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以唇袖代指公孙大娘其人"
+  },
+  {
+   "word": "珠袖",
+   "name": "袖",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "珠袖寂寞，言公孙已逝"
+  },
+  {
+   "word": "白帝",
+   "name": "白帝城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "弟子所在之地"
+  },
+  {
+   "word": "先帝",
+   "name": "先帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指玄宗，寄盛衰之叹"
+  },
+  {
+   "word": "梨园",
+   "name": "梨园",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "梨园弟子散如烟，写乱后凋零"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "弟子散如烟，喻飘零无踪"
+  },
+  {
+   "word": "寒日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "余姿映寒日，写凄凉晚景"
+  },
+  {
+   "word": "金粟堆",
+   "name": "金粟堆",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "玄宗陵墓所在，木已拱写岁月"
+  },
+  {
+   "word": "木",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "木已拱，言先帝陵木成拱"
+  },
+  {
+   "word": "瞿唐",
+   "name": "瞿塘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "瞿唐石城，写眼前荒凉"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "草萧瑟，渲染萧条"
+  },
+  {
+   "word": "玳筵",
+   "name": "宴席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "盛筵急管，乐极之景"
+  },
+  {
+   "word": "急管",
+   "name": "管乐",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "急管繁弦，反衬乐极哀来"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月东出，乐终哀至，夜深人散"
+  },
+  {
+   "word": "荒山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "足茧荒山，写老翁迷惘行迹"
+  }
+ ]
+}

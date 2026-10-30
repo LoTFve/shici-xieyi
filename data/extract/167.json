@@ -1,0 +1,182 @@
+{
+ "id": 167,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "积雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "久雨笼罩山庄，奠定湿润静谧的基调"
+  },
+  {
+   "word": "空林",
+   "name": "林",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "雨后空寂的山林，烘托幽静氛围"
+  },
+  {
+   "word": "烟火",
+   "name": "炊烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "雨后炊烟迟缓升起，写田家生活气息"
+  },
+  {
+   "word": "藜",
+   "name": "藜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "蒸藜为饭，写农家粗淡饮食"
+  },
+  {
+   "word": "黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "炊黍饷田，点出农忙时节的人情"
+  },
+  {
+   "word": "东菑",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "东边田亩，指向农人劳作之处"
+  },
+  {
+   "word": "水田",
+   "name": "水田",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "漠漠水田铺展，构成开阔平远的画面"
+  },
+  {
+   "word": "白鹭",
+   "name": "鹭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "白鹭掠水田而飞，以动衬静，点活画面"
+  },
+  {
+   "word": "夏木",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "阴阴夏木成荫，写山庄浓绿幽深"
+  },
+  {
+   "word": "黄鹂",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "黄鹂鸣啭于夏木，以声写静，添生机"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山中习静，点明隐居环境"
+  },
+  {
+   "word": "朝槿",
+   "name": "木槿",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "晨观木槿朝开暮落，暗含对短暂无常的静观"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "松下清斋，写高洁清寂的修行生活"
+  },
+  {
+   "word": "露葵",
+   "name": "葵",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "折带露葵菜为斋，见山居清素之味"
+  },
+  {
+   "word": "野老",
+   "name": "野老",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人自指，写与世无争的村野老者形象"
+  },
+  {
+   "word": "海鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "用海鸥忘机之典，反问他何必相疑，表明心无杂念"
+  }
+ ]
+}

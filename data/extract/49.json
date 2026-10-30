@@ -1,0 +1,61 @@
+{
+ "id": 49,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "岐王宅",
+   "name": "宅",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中当年长安权贵府邸，繁华往昔的见证"
+  },
+  {
+   "word": "崔九堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中旧日贵族厅堂，昔日交往的场所"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明重逢地点，风景虽好却逢乱世衰年"
+  },
+  {
+   "word": "落花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暮春飘落的花瓣，暗喻彼此飘零的身世"
+  },
+  {
+   "word": "君",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指李龟年，眼前重逢的故人"
+  }
+ ]
+}

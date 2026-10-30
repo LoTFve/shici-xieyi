@@ -1,0 +1,116 @@
+{
+ "id": 65,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "禁门",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明宫女所居的深宫环境"
+  },
+  {
+   "word": "宫树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "宫中树木，映衬月痕与寂寥"
+  },
+  {
+   "word": "月痕",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "一弯月痕掠过宫树，烘托清冷夜色"
+  },
+  {
+   "word": "媚眼",
+   "name": "眼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "写宫人含媚却孤寂的眼神"
+  },
+  {
+   "word": "宿鹭",
+   "name": "鹭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "宿鹭成双反衬宫人独宿"
+  },
+  {
+   "word": "窠",
+   "name": "巢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "鹭鸟栖息的巢窝"
+  },
+  {
+   "word": "玉钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "宫女拔钗的动作，见其百无聊赖"
+  },
+  {
+   "word": "灯影",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "灯下孤影，映出深宫长夜"
+  },
+  {
+   "word": "红焰",
+   "name": "焰",
+   "category": "其他",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "灯焰，被剔开的火光"
+  },
+  {
+   "word": "飞蛾",
+   "name": "蛾",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "扑灯飞蛾，宫女救之，寄寓自身命运"
+  }
+ ]
+}

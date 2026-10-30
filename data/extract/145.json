@@ -1,0 +1,149 @@
+{
+ "id": 145,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "遥夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明长夜背景，奠定清冷基调"
+  },
+  {
+   "word": "清瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以瑟声写秋夜之清冷萧瑟"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风起，吹动翠萝，渲染秋意"
+  },
+  {
+   "word": "翠萝",
+   "name": "萝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西风吹拂的藤萝，见秋色之清幽"
+  },
+  {
+   "word": "残萤",
+   "name": "萤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残萤点出秋夜衰微之感"
+  },
+  {
+   "word": "玉露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "秋露凝于萤身，写夜凉与衰败"
+  },
+  {
+   "word": "早雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "早雁南飞，牵动羁旅思乡之情"
+  },
+  {
+   "word": "金河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "银河或秋水，雁拂其上，境界开阔"
+  },
+  {
+   "word": "高树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "无",
+   "note": "晓色中树影犹密，写早秋晨景"
+  },
+  {
+   "word": "远山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "晴空下山色更显分明，拓展视野"
+  },
+  {
+   "word": "淮南",
+   "name": "淮南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用淮南小山《招隐士》典，暗含归思"
+  },
+  {
+   "word": "一叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "一叶知秋，点明早秋时节"
+  },
+  {
+   "word": "洞庭波",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用《九歌》洞庭波典，寄寓秋思与归情"
+  }
+ ]
+}

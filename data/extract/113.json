@@ -1,0 +1,50 @@
+{
+ "id": 113,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "西郊",
+   "name": "郊",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指当时叛军充斥的京城西郊，战乱之地"
+  },
+  {
+   "word": "京邑",
+   "name": "京",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指长安，诗人得以归返的京城"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人驻马回望的坐骑，衬出徘徊不舍"
+  },
+  {
+   "word": "千门",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以宫门重重借指京城朝廷，回望中满是眷恋"
+  }
+ ]
+}

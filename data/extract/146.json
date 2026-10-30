@@ -1,0 +1,116 @@
+{
+ "id": 146,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "荒戍",
+   "name": "戍楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒凉边地军营，点出送别环境的萧瑟"
+  },
+  {
+   "word": "黄叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落叶飘零，渲染秋日离别的凄清"
+  },
+  {
+   "word": "故关",
+   "name": "关",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "离别的旧关塞，暗示远行与乡愁"
+  },
+  {
+   "word": "高风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋风浩荡，衬托离人远行的开阔气象"
+  },
+  {
+   "word": "汉阳渡",
+   "name": "渡口",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明友人东游途经的具体地点"
+  },
+  {
+   "word": "初日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "朝阳映照郢门山，照亮送别前路"
+  },
+  {
+   "word": "郢门山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以名山点明行程远阔"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大江背景，映衬孤舟远行"
+  },
+  {
+   "word": "孤棹",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "友人孤舟远归，寄托惜别之情"
+  },
+  {
+   "word": "樽酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象重逢对饮，以酒慰离愁"
+  }
+ ]
+}

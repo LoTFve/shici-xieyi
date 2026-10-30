@@ -1,0 +1,204 @@
+{
+ "id": 229,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "空谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "佳人幽居的荒僻山谷，烘托孤寂"
+  },
+  {
+   "word": "草木",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "零落依草木，写佳人沦落与草木为伴"
+  },
+  {
+   "word": "关中",
+   "name": "关中",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指长安一带，昔年丧乱之地"
+  },
+  {
+   "word": "转烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以烛光随风转比喻世态炎凉"
+  },
+  {
+   "word": "新人",
+   "name": "新人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "夫婿新娶的美貌女子"
+  },
+  {
+   "word": "玉",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "美如玉，比喻新人容貌之美"
+  },
+  {
+   "word": "合昏",
+   "name": "合欢",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "合欢树叶朝开夜合，尚知时辰，反衬夫婿无情"
+  },
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸳鸯不独宿，反衬佳人被弃"
+  },
+  {
+   "word": "泉水",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "在山泉水清，出山泉水浊，比喻佳人贞洁自守"
+  },
+  {
+   "word": "侍婢",
+   "name": "婢",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "侍婢卖珠，写佳人生活清贫"
+  },
+  {
+   "word": "珠",
+   "name": "珠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "侍婢卖珠，暗示家道中落"
+  },
+  {
+   "word": "萝",
+   "name": "藤萝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牵萝补茅屋，写佳人清贫自守"
+  },
+  {
+   "word": "茅屋",
+   "name": "茅屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "佳人幽居的简陋房舍"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "摘花不插发，写佳人无心妆饰"
+  },
+  {
+   "word": "柏",
+   "name": "柏",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "采柏动盈掬，柏树常青，象征坚贞"
+  },
+  {
+   "word": "翠袖",
+   "name": "袖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "天寒翠袖薄，写佳人衣衫单薄"
+  },
+  {
+   "word": "日暮",
+   "name": "日暮",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "日暮时分，烘托佳人孤独"
+  },
+  {
+   "word": "修竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "日暮倚修竹，以竹衬佳人高洁"
+  }
+ ]
+}

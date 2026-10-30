@@ -1,0 +1,72 @@
+{
+ "id": 9,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿蚁",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "新酿米酒的浮沫，代指酒本身，营造温暖待客的氛围"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "邀友共饮的核心意象"
+  },
+  {
+   "word": "红泥",
+   "name": "泥",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "小火炉的材质，红色添暖意"
+  },
+  {
+   "word": "小火炉",
+   "name": "火炉",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "冬日室内取暖的火炉，与外面欲雪形成冷暖对比"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "无",
+   "note": "天色，欲雪的天空"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "无",
+   "note": "将下未下的雪，暗示寒意与围炉的惬意"
+  }
+ ]
+}

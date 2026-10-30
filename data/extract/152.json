@@ -1,0 +1,94 @@
+{
+ "id": 152,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "飞鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "友人远去如飞鸟消失于天际"
+  },
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "青山空对，反衬离人之去"
+  },
+  {
+   "word": "长江",
+   "name": "长江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "友人远行的浩渺水路"
+  },
+  {
+   "word": "帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤帆远去，借指友人之舟"
+  },
+  {
+   "word": "落日",
+   "name": "落日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "落日映照五湖春色，点明暮时"
+  },
+  {
+   "word": "五湖",
+   "name": "五湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象友人将游的江南春水"
+  },
+  {
+   "word": "汀洲",
+   "name": "汀洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "送别之地，诗人独立之处"
+  },
+  {
+   "word": "白苹",
+   "name": "白苹",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "汀洲白苹惹起相思之愁"
+  }
+ ]
+}

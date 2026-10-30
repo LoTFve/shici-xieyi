@@ -1,0 +1,138 @@
+{
+ "id": 234,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "井",
+   "name": "井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "清晨汲水漱齿的井"
+  },
+  {
+   "word": "寒齿",
+   "name": "齿",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "井水漱口时的清寒之感"
+  },
+  {
+   "word": "尘服",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拂去尘埃的衣裳"
+  },
+  {
+   "word": "贝叶书",
+   "name": "经书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "手持诵读的佛经"
+  },
+  {
+   "word": "东斋",
+   "name": "斋房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "步出读书的东边斋室"
+  },
+  {
+   "word": "道人",
+   "name": "僧人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指超师院的僧人"
+  },
+  {
+   "word": "庭宇",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "僧人庭院清静"
+  },
+  {
+   "word": "苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "苔色连竹，写庭院幽静"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "深竹与苔色相连，衬庭院清幽"
+  },
+  {
+   "word": "日出",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "晨光初升"
+  },
+  {
+   "word": "雾露",
+   "name": "露",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "日出后雾露未散"
+  },
+  {
+   "word": "青松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "松如膏沐，写雨后清晨的润泽"
+  }
+ ]
+}

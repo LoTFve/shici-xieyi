@@ -1,0 +1,138 @@
+{
+ "id": 240,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "画戟",
+   "name": "戟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "仪仗兵器，显郡斋威严"
+  },
+  {
+   "word": "宴寝",
+   "name": "宴厅",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "设宴的厅堂"
+  },
+  {
+   "word": "清香",
+   "name": "香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "室内焚香，烘托雅集氛围"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "风雨自海上而来"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "海上风雨带来凉意"
+  },
+  {
+   "word": "池阁",
+   "name": "池阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "临池楼阁，雨后清凉"
+  },
+  {
+   "word": "嘉宾",
+   "name": "宾客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "满堂文士，雅集之盛"
+  },
+  {
+   "word": "堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嘉宾满堂的宴集之所"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "俯饮一杯，宴集之乐"
+  },
+  {
+   "word": "金玉章",
+   "name": "诗文",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以金玉喻文士佳作"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "意欲凌风飞翔，写身心轻快"
+  },
+  {
+   "word": "吴中",
+   "name": "吴中",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指苏州一带，文史兴盛之地"
+  }
+ ]
+}

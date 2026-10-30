@@ -1,0 +1,171 @@
+{
+ "id": 170,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凤凰",
+   "name": "凤凰",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以凤凰游台的传说起兴，反衬今日台空"
+  },
+  {
+   "word": "凤凰台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "金陵古迹，登临凭吊的立足点"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江水自流，以自然永恒反衬人事变迁"
+  },
+  {
+   "word": "吴宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "三国吴的宫殿，已成荒径，怀古之叹"
+  },
+  {
+   "word": "花草",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花草埋没幽径，写宫苑荒芜"
+  },
+  {
+   "word": "幽径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "被花草掩埋的小路，渲染荒凉"
+  },
+  {
+   "word": "衣冠",
+   "name": "衣冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指晋代士族人物，如今尽成古丘"
+  },
+  {
+   "word": "古丘",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "晋代衣冠化为荒坟，写兴亡之感"
+  },
+  {
+   "word": "三山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "半落青天之外，写金陵山川形胜"
+  },
+  {
+   "word": "青天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "三山半落青天外，衬出远山高远"
+  },
+  {
+   "word": "二水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江水被白鹭洲中分，写登台所见"
+  },
+  {
+   "word": "白鹭洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "江中沙洲，点名金陵水景"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻奸佞蔽君，为末句愁绪作铺垫"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "以日喻君王，浮云蔽日即君门阻隔"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指朝廷与帝都，望而不见，寄托忧国之情"
+  }
+ ]
+}

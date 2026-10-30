@@ -1,0 +1,94 @@
+{
+ "id": 122,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "闺中与营中共同仰望的月，寄托两地相思"
+  },
+  {
+   "word": "闺",
+   "name": "闺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "代指独守空房的少妇"
+  },
+  {
+   "word": "汉家营",
+   "name": "营",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借汉指唐，指边塞军营"
+  },
+  {
+   "word": "少妇",
+   "name": "少妇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "闺中思念征人的女子"
+  },
+  {
+   "word": "良人",
+   "name": "良人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "少妇对丈夫的称呼，说明两人两地相思"
+  },
+  {
+   "word": "旗鼓",
+   "name": "旗鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "借指军队与战事，表达平定边患的愿望"
+  },
+  {
+   "word": "龙城",
+   "name": "龙城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "汉代匈奴祭天之地，借指敌方要塞"
+  },
+  {
+   "word": "黄龙戍",
+   "name": "黄龙戍",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "边塞戍守之地，是闺中思妇遥想的远方"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 176,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "星辰",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明昨夜欢会的时间背景"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与星辰并置，渲染昨夜的氛围"
+  },
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指欢会所在的华美楼阁"
+  },
+  {
+   "word": "桂堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与画楼对举，点明宴集之所"
+  },
+  {
+   "word": "彩凤",
+   "name": "凤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻自身不能如彩凤双飞"
+  },
+  {
+   "word": "春酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写宴席上送钩时的暖意"
+  },
+  {
+   "word": "蜡灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "写射覆时灯光明亮"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "报时鼓声，催促诗人应官"
+  },
+  {
+   "word": "走马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "写清晨骑马赴任的匆忙"
+  },
+  {
+   "word": "兰台",
+   "name": "兰台",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指秘书省官署"
+  },
+  {
+   "word": "转蓬",
+   "name": "蓬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "比喻身不由己的宦游"
+  }
+ ]
+}

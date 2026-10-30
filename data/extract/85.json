@@ -1,0 +1,105 @@
+{
+ "id": 85,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "终南山",
+   "name": "终南",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗所咏之山，隐逸与雄浑的象征"
+  },
+  {
+   "word": "太乙",
+   "name": "太乙",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "终南山的别称，点明所写山名"
+  },
+  {
+   "word": "天都",
+   "name": "天都",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以天都极言山势之高"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "回望时云雾缭绕，写出山间缥缈"
+  },
+  {
+   "word": "青霭",
+   "name": "霭",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "近看云雾若有若无，显出山的空灵"
+  },
+  {
+   "word": "中峰",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写山峰分野，突出山体广大"
+  },
+  {
+   "word": "众壑",
+   "name": "壑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写山谷阴晴各异，见山势深广"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "隔水问路，点出山中溪涧"
+  },
+  {
+   "word": "樵夫",
+   "name": "樵夫",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山中偶遇的砍柴人，添隐逸气息"
+  }
+ ]
+}

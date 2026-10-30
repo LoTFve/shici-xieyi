@@ -1,0 +1,83 @@
+{
+ "id": 106,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以蝉自况，托物寓怀，写自身高洁而困顿"
+  },
+  {
+   "word": "五更",
+   "name": "五更",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明深夜时分，蝉声稀疏将断"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蝉所栖之树，碧绿无情反衬蝉声凄断"
+  },
+  {
+   "word": "薄宦",
+   "name": "宦",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "自述官职卑微、漂泊如梗"
+  },
+  {
+   "word": "梗",
+   "name": "梗",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以桃梗漂泊喻自身宦游不定"
+  },
+  {
+   "word": "故园",
+   "name": "故园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象中荒芜的家乡田园，寄托归思"
+  },
+  {
+   "word": "芜",
+   "name": "芜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "故园杂草丛生，写久客未归的荒凉"
+  }
+ ]
+}

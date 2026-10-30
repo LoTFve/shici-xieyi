@@ -1,0 +1,50 @@
+{
+ "id": 10,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "北斗七星",
+   "name": "北斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以星夜高悬起兴，烘托边地夜的肃穆"
+  },
+  {
+   "word": "刀",
+   "name": "刀",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "夜带刀写哥舒翰巡边戒备的英武"
+  },
+  {
+   "word": "牧马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "窥牧马借指吐蕃侵扰的骑兵"
+  },
+  {
+   "word": "临洮",
+   "name": "临洮",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞要地，见哥舒翰威名镇边之地"
+  }
+ ]
+}

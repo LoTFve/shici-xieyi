@@ -1,0 +1,127 @@
+{
+ "id": 131,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "卧居山林的背景环境"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明时令，触发惜春之情"
+  },
+  {
+   "word": "轩",
+   "name": "轩",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "开窗览景的窗轩"
+  },
+  {
+   "word": "青鸟",
+   "name": "青鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指传信的使者"
+  },
+  {
+   "word": "赤松",
+   "name": "赤松",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指梅道士，仙家之喻"
+  },
+  {
+   "word": "金灶",
+   "name": "灶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "道士炼丹的炉灶"
+  },
+  {
+   "word": "火",
+   "name": "火",
+   "category": "其他",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "炼丹初起的炉火"
+  },
+  {
+   "word": "仙桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙家之桃，正开花，暗含长生"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "桃花绽放，点染春景"
+  },
+  {
+   "word": "童颜",
+   "name": "童颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "设想驻颜不老，表达羡仙之意"
+  },
+  {
+   "word": "流霞",
+   "name": "流霞",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指仙酒，写宴饮之乐"
+  }
+ ]
+}

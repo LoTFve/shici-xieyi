@@ -1,0 +1,171 @@
+{
+ "id": 184,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "群山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇以群山万壑奔赴荆门，衬托明妃故里的气势"
+  },
+  {
+   "word": "万壑",
+   "name": "壑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与群山并列，写出地势的连绵深曲"
+  },
+  {
+   "word": "荆门",
+   "name": "荆门",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "明妃故乡所在，点明地点"
+  },
+  {
+   "word": "明妃",
+   "name": "明妃",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "全诗咏叹的主体人物王昭君"
+  },
+  {
+   "word": "村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "昭君生长之地至今尚存，引出怀古"
+  },
+  {
+   "word": "紫台",
+   "name": "紫台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指汉宫，写昭君离宫远去"
+  },
+  {
+   "word": "朔漠",
+   "name": "朔漠",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "北方沙漠，写昭君远嫁的荒凉之地"
+  },
+  {
+   "word": "青冢",
+   "name": "青冢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "昭君墓，独对黄昏，寄寓千古悲凉"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "渲染青冢孤寂苍茫的氛围"
+  },
+  {
+   "word": "画图",
+   "name": "画图",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用毛延寿画图事，写昭君被误识的悲剧"
+  },
+  {
+   "word": "春风面",
+   "name": "春风面",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指昭君美丽的容颜"
+  },
+  {
+   "word": "环佩",
+   "name": "环佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "想象昭君魂魄月夜归来，环佩空响"
+  },
+  {
+   "word": "夜月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月夜魂归，烘托幽怨凄清"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "昭君所弹，千载传怨恨之音"
+  },
+  {
+   "word": "胡语",
+   "name": "胡语",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "琵琶作胡地之音，写昭君身陷异域的悲怨"
+  }
+ ]
+}

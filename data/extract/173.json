@@ -1,0 +1,105 @@
+{
+ "id": 173,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春风无力，暗喻爱情受阻、韶华易逝"
+  },
+  {
+   "word": "百花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "百花凋残，烘托离别的感伤"
+  },
+  {
+   "word": "春蚕",
+   "name": "蚕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蚕丝喻相思，至死方休"
+  },
+  {
+   "word": "蜡炬",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "烛泪喻相思泪，燃烧自己直至成灰"
+  },
+  {
+   "word": "晓镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "晨起对镜，愁见容颜憔悴"
+  },
+  {
+   "word": "云鬓",
+   "name": "鬓发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "以鬓发代指青春容颜，愁其改变"
+  },
+  {
+   "word": "月光",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜吟时月光清寒，烘托孤寂心境"
+  },
+  {
+   "word": "蓬山",
+   "name": "蓬山",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指蓬莱仙山，喻对方所在遥远难及"
+  },
+  {
+   "word": "青鸟",
+   "name": "青鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神话中传信使者，盼望它殷勤探看"
+  }
+ ]
+}

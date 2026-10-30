@@ -1,0 +1,149 @@
+{
+ "id": 195,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "点明登楼之地，边城荒远"
+  },
+  {
+   "word": "高楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登临远望的所在，引出茫茫愁思"
+  },
+  {
+   "word": "大荒",
+   "name": "荒原",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极写边地空旷荒远"
+  },
+  {
+   "word": "海",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与天相接，衬托愁思茫茫"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "海天茫茫，境界阔大"
+  },
+  {
+   "word": "惊风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "狂风骤起，暗喻处境险恶"
+  },
+  {
+   "word": "芙蓉",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中荷花被狂风摧折"
+  },
+  {
+   "word": "密雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "斜雨侵墙，渲染凄苦氛围"
+  },
+  {
+   "word": "薜荔",
+   "name": "薜荔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "墙上藤蔓受雨，与芙蓉同为比兴"
+  },
+  {
+   "word": "岭树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "层层遮蔽远望之目，阻隔归途"
+  },
+  {
+   "word": "江流",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "曲折如肠，比愁思之回环"
+  },
+  {
+   "word": "百越",
+   "name": "百越",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指贬谪所至的南方边地"
+  },
+  {
+   "word": "文身地",
+   "name": "文身地",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "极言荒僻，暗含贬谪之悲"
+  }
+ ]
+}

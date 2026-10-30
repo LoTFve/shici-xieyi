@@ -1,0 +1,83 @@
+{
+ "id": 120,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "宫女对镜懒妆，映出失宠之怨"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "暖风送春，反衬宫怨"
+  },
+  {
+   "word": "鸟声",
+   "name": "鸟鸣",
+   "category": "声音",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鸟声细碎，以乐景写哀情"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "无",
+   "note": "日高花影，点出春昼漫长"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "花影重重，烘托深宫寂寥"
+  },
+  {
+   "word": "越溪女",
+   "name": "浣女",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借西施典故，忆民间采莲自由"
+  },
+  {
+   "word": "芙蓉",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "虚写",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中采莲之景，反衬现实幽怨"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 28,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "孤云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "比喻上人孤高飘然的行迹"
+  },
+  {
+   "word": "野鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "比喻上人超脱尘世的自在"
+  },
+  {
+   "word": "人间",
+   "name": "人间",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与方外相对的尘世，点出上人不肯栖居之处"
+  },
+  {
+   "word": "沃洲山",
+   "name": "沃洲",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指僧人隐居名山，劝其莫买已成俗名之地"
+  }
+ ]
+}

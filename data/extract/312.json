@@ -1,0 +1,72 @@
+{
+ "id": 312,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梧桐",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以梧桐共老喻夫妇相守至死"
+  },
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以鸳鸯双死反衬贞女殉夫之志"
+  },
+  {
+   "word": "贞女",
+   "name": "贞女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗所歌颂的守节殉夫女子"
+  },
+  {
+   "word": "波澜",
+   "name": "波澜",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以波平不起喻内心坚贞不动"
+  },
+  {
+   "word": "妾心",
+   "name": "妾",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子自指，表明心志"
+  },
+  {
+   "word": "古井水",
+   "name": "井",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以古井无波喻贞女心静不起波澜"
+  }
+ ]
+}

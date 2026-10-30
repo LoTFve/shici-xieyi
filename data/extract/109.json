@@ -1,0 +1,83 @@
+{
+ "id": 109,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洞庭",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇点出慕名已久的水域，为登楼所见张本"
+  },
+  {
+   "word": "岳阳楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登临之地，全诗立足点"
+  },
+  {
+   "word": "乾坤",
+   "name": "天地",
+   "category": "天象",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以天地日夜浮荡于湖面，极写水势浩渺"
+  },
+  {
+   "word": "孤舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "老病漂泊的自身写照"
+  },
+  {
+   "word": "戎马",
+   "name": "兵马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指北方战事，点出战乱背景"
+  },
+  {
+   "word": "关山",
+   "name": "关山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "战火所在的北方边塞，遥望难归"
+  },
+  {
+   "word": "轩",
+   "name": "轩",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凭栏洒泪之所，收束全诗情态"
+  }
+ ]
+}

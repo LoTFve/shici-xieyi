@@ -1,0 +1,83 @@
+{
+ "id": 57,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "折戟",
+   "name": "戟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "沉沙断戟，点出古战场遗物"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沉戟之沙，赤壁江边的沙地"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指赤壁之战的关键风向，用典非眼前景"
+  },
+  {
+   "word": "周郎",
+   "name": "周瑜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "三国名将周瑜，借以议论史事"
+  },
+  {
+   "word": "铜雀",
+   "name": "铜雀台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象中曹操所建台阁，非眼前景"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "铜雀台春深，点明想象中的节令"
+  },
+  {
+   "word": "二乔",
+   "name": "二乔",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "东吴美女，借指国运与吴国命运"
+  }
+ ]
+}

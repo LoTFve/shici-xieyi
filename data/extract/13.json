@@ -1,0 +1,50 @@
+{
+ "id": 13,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "以绚烂夕照反衬近黄昏的怅惘"
+  },
+  {
+   "word": "古原",
+   "name": "原",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登临之地，苍茫开阔，为夕阳提供背景"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "驱车登原的动作载体，引出登高望晚"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时近暮色，暗喻好景难久的惋惜"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 118,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "无",
+   "note": "暮色中隐约可见的宫墙边的花，点明季节与时间"
+  },
+  {
+   "word": "掖垣",
+   "name": "宫墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "指门下省官署的墙垣，交代地点"
+  },
+  {
+   "word": "栖鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "啾啾鸣叫着归巢的鸟，以动衬静"
+  },
+  {
+   "word": "星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "星光临照万户，显出夜色的壮丽"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月傍九霄，写皇宫夜色的高远"
+  },
+  {
+   "word": "金钥",
+   "name": "钥匙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜里听到开宫门的钥匙声，暗示不寝"
+  },
+  {
+   "word": "玉珂",
+   "name": "马铃",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "风吹马铃的想象，表现心系朝事"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 233,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绝顶",
+   "name": "山顶",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明隐者所居之高远"
+  },
+  {
+   "word": "茅茨",
+   "name": "茅屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "隐者简陋的居所，见其清贫高洁"
+  },
+  {
+   "word": "僮仆",
+   "name": "仆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "叩门无人应答，写访人不遇"
+  },
+  {
+   "word": "案几",
+   "name": "几案",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "窥室所见，室内空无一人"
+  },
+  {
+   "word": "巾柴车",
+   "name": "柴车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "猜想隐者驾柴车出游"
+  },
+  {
+   "word": "钓秋水",
+   "name": "钓鱼",
+   "category": "其他",
+   "parent": "fisher",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "猜想隐者临水垂钓，写其隐逸生活"
+  },
+  {
+   "word": "草色",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "新雨润草，写山中清幽生机"
+  },
+  {
+   "word": "新雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "雨后草色清新，烘托幽绝之境"
+  },
+  {
+   "word": "松声",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "晚窗松涛，写隐者居处的清幽"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "松声入窗，构成幽居画面"
+  },
+  {
+   "word": "西山",
+   "name": "西山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明寻访之地，隐者所居之山"
+  }
+ ]
+}

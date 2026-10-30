@@ -1,0 +1,127 @@
+{
+ "id": 99,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "牛渚",
+   "name": "牛渚",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明地点，引发怀古"
+  },
+  {
+   "word": "西江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与牛渚相连，展示夜景"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明时间"
+  },
+  {
+   "word": "青天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "晴朗夜空的全景"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "强调天空无云，衬托明月"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "诗人所在之处"
+  },
+  {
+   "word": "秋月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "引发怀古的媒介"
+  },
+  {
+   "word": "谢将军",
+   "name": "谢尚",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借古喻今，表达知音难遇"
+  },
+  {
+   "word": "斯人",
+   "name": "斯人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指谢尚，表达追慕与遗憾"
+  },
+  {
+   "word": "帆席",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "虚写明日行程"
+  },
+  {
+   "word": "枫叶",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "渲染秋日离别的萧瑟氛围"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "id": 203,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "太华",
+   "name": "华山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "全诗主景，高峻压城的华山"
+  },
+  {
+   "word": "咸京",
+   "name": "长安",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "华山俯瞰的帝都，点出视野之阔"
+  },
+  {
+   "word": "天外三峰",
+   "name": "山峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极写华山三峰高插入云之势"
+  },
+  {
+   "word": "武帝祠",
+   "name": "祠庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山间古迹，添历史纵深"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "祠前云气将散，写雨后初晴之态"
+  },
+  {
+   "word": "仙人掌",
+   "name": "仙人掌峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "华山峰名，雨霁后更显清峻"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "初晴之雨，交代山中气候变幻"
+  },
+  {
+   "word": "河山",
+   "name": "山河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北枕秦关，写地势之雄"
+  },
+  {
+   "word": "秦关",
+   "name": "关塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北面险要关隘，衬华山形胜"
+  },
+  {
+   "word": "驿树",
+   "name": "驿树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西连汉畤，写平野驿道之景"
+  },
+  {
+   "word": "汉畤",
+   "name": "祭坛",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "汉代祭天遗址，与秦关对举见古今"
+  },
+  {
+   "word": "路傍",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点出行人所在，引出问语"
+  },
+  {
+   "word": "名利客",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借问对象，反衬求道之心"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 288,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "红艳",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以带露牡丹比喻杨贵妃的美艳"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "露珠凝香，突出花之娇艳欲滴"
+  },
+  {
+   "word": "云雨",
+   "name": "云雨",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用巫山神女典故，反衬眼前之美胜过传说"
+  },
+  {
+   "word": "巫山",
+   "name": "巫山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神女故事发生地，作典故背景"
+  },
+  {
+   "word": "汉宫",
+   "name": "汉宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉喻唐，以汉宫美人比拟贵妃"
+  },
+  {
+   "word": "飞燕",
+   "name": "飞燕",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以赵飞燕新妆之美衬托贵妃"
+  }
+ ]
+}

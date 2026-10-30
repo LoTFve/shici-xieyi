@@ -1,0 +1,182 @@
+{
+ "id": 219,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借谢安隐居东山之典，指代隐逸生活"
+  },
+  {
+   "word": "采薇",
+   "name": "薇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "用伯夷叔齐采薇典，指隐居生活"
+  },
+  {
+   "word": "金门",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指朝廷，表达仕途遥远"
+  },
+  {
+   "word": "江淮",
+   "name": "江淮",
+   "category": "地名",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象友人归途所经之地"
+  },
+  {
+   "word": "寒食",
+   "name": "寒食",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明时节，暗含落寞"
+  },
+  {
+   "word": "京洛",
+   "name": "京洛",
+   "category": "地名",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指京都洛阳，代指仕途中心"
+  },
+  {
+   "word": "春衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "缝制春衣，暗示季节更替与乡思"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "置酒饯行，寄托离别之情"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "送别之地，帝都象征"
+  },
+  {
+   "word": "桂棹",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "想象友人乘舟远去"
+  },
+  {
+   "word": "荆扉",
+   "name": "柴门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指代故乡简陋的家门"
+  },
+  {
+   "word": "远树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远景中的树木，衬托行客远去"
+  },
+  {
+   "word": "行客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指远行的友人"
+  },
+  {
+   "word": "孤城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "孤城落日，渲染离别后的寂寥"
+  },
+  {
+   "word": "落晖",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "落日余晖，烘托离愁"
+  },
+  {
+   "word": "知音",
+   "name": "知音",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用伯牙子期典，慰藉友人"
+  }
+ ]
+}

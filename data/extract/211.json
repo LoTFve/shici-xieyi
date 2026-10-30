@@ -1,0 +1,171 @@
+{
+ "id": 211,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "早春宫中生机"
+  },
+  {
+   "word": "上林",
+   "name": "上林",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指宫苑"
+  },
+  {
+   "word": "春城",
+   "name": "春城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明京城春日"
+  },
+  {
+   "word": "紫禁",
+   "name": "紫禁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指皇宫"
+  },
+  {
+   "word": "长乐",
+   "name": "长乐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指宫阙"
+  },
+  {
+   "word": "钟声",
+   "name": "钟声",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "宫钟悠扬"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "钟声穿过花外"
+  },
+  {
+   "word": "龙池",
+   "name": "龙池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫中池水"
+  },
+  {
+   "word": "柳色",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨中柳色深浓"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春雨润柳"
+  },
+  {
+   "word": "阳和",
+   "name": "阳和",
+   "category": "气象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻皇恩温暖"
+  },
+  {
+   "word": "霄汉",
+   "name": "霄汉",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "喻朝廷高位"
+  },
+  {
+   "word": "捧日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "用典表忠君之心"
+  },
+  {
+   "word": "白发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "自伤年老未遇"
+  },
+  {
+   "word": "华簪",
+   "name": "华簪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指贵官裴舍人"
+  }
+ ]
+}

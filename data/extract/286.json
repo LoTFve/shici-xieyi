@@ -1,0 +1,292 @@
+{
+ "id": 286,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "渔舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "渔船沿溪而行，引领诗境"
+  },
+  {
+   "word": "桃花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "夹岸桃花点明春景与桃源意象"
+  },
+  {
+   "word": "古津",
+   "name": "渡口",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "古老渡口衬托幽静"
+  },
+  {
+   "word": "红树",
+   "name": "树",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "红桃树丛，表现春色浓艳"
+  },
+  {
+   "word": "青溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "清澈溪水指引前行"
+  },
+  {
+   "word": "云树",
+   "name": "树",
+   "category": "植物",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云绕树丛，写出远处朦胧"
+  },
+  {
+   "word": "花竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "散落花竹，表现田园清幽"
+  },
+  {
+   "word": "樵客",
+   "name": "樵夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "樵夫传汉姓，暗示外界时代变迁"
+  },
+  {
+   "word": "居人",
+   "name": "居民",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "桃源中居民，保持秦代衣着"
+  },
+  {
+   "word": "武陵源",
+   "name": "武陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指桃花源，寄托隐逸理想"
+  },
+  {
+   "word": "田园",
+   "name": "田园",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "物外田园，展现桃源生活"
+  },
+  {
+   "word": "月明",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月照松间，营造静谧夜景"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "松树映月，象征高洁"
+  },
+  {
+   "word": "房栊",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "房屋窗户，表现居所宁静"
+  },
+  {
+   "word": "日出",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "日出破云，晨景生机"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云中日出，增加层次"
+  },
+  {
+   "word": "鸡犬",
+   "name": "鸡犬",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "鸡犬喧闹，表现田园生活气息"
+  },
+  {
+   "word": "俗客",
+   "name": "俗客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指外来人，与桃源人对比"
+  },
+  {
+   "word": "闾巷",
+   "name": "巷",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "街巷晨扫，生活安宁"
+  },
+  {
+   "word": "渔樵",
+   "name": "渔樵",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "渔人樵夫傍晚归家，生活自在"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "渔樵乘水，点出溪流作用"
+  },
+  {
+   "word": "云山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "遥望云山，表现仙境缥缈"
+  },
+  {
+   "word": "洞",
+   "name": "洞",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "出洞即离桃源，象征分界"
+  },
+  {
+   "word": "峰壑",
+   "name": "峰壑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "峰壑变迁，表示迷途难返"
+  },
+  {
+   "word": "云林",
+   "name": "林",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云中树林，指幽深之处"
+  },
+  {
+   "word": "桃花水",
+   "name": "春水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春来桃花水涨，迷失去路"
+  }
+ ]
+}

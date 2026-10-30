@@ -1,0 +1,160 @@
+{
+ "id": 270,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山寺",
+   "name": "寺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "钟声来源，点明黄昏山间佛寺"
+  },
+  {
+   "word": "钟鸣",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "以钟声报时，引出暮色"
+  },
+  {
+   "word": "渔梁",
+   "name": "渔梁",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "渡口名，人群争渡之地"
+  },
+  {
+   "word": "渡头",
+   "name": "渡口",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "争渡喧闹的场所"
+  },
+  {
+   "word": "沙岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "人随沙岸归村的路径"
+  },
+  {
+   "word": "江村",
+   "name": "江村",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "众人归去的江边村落"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "诗人乘舟归鹿门的交通工具"
+  },
+  {
+   "word": "鹿门",
+   "name": "鹿门",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "归隐的目的地，山名"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月照烟树，点明夜归之景"
+  },
+  {
+   "word": "烟树",
+   "name": "烟树",
+   "category": "植物",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月色下烟雾笼罩的树木"
+  },
+  {
+   "word": "庞公",
+   "name": "庞公",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借庞德公隐居鹿门山典故，表达归隐之志"
+  },
+  {
+   "word": "岩扉",
+   "name": "岩扉",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "山岩为门，写隐居处的幽寂"
+  },
+  {
+   "word": "松径",
+   "name": "松径",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "松间小路，表现隐逸环境的清幽"
+  },
+  {
+   "word": "幽人",
+   "name": "幽人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人自指，或指庞公，点明孤独来去"
+  }
+ ]
+}

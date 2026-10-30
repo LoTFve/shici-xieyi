@@ -1,0 +1,50 @@
+{
+ "id": 67,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "虢国夫人清晨骑马入宫的坐骑"
+  },
+  {
+   "word": "宫门",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明入宫受宠的场景"
+  },
+  {
+   "word": "脂粉",
+   "name": "脂粉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "反衬虢国夫人自恃美色不施妆饰"
+  },
+  {
+   "word": "蛾眉",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以细长蛾眉借指美人容貌，写其淡妆朝君"
+  }
+ ]
+}

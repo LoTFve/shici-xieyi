@@ -1,0 +1,72 @@
+{
+ "id": 15,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "岭外",
+   "name": "岭外",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "贬谪之地，远离家乡"
+  },
+  {
+   "word": "音书",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "与家乡唯一的联络，却已断绝"
+  },
+  {
+   "word": "冬",
+   "name": "冬",
+   "category": "其他",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明离乡时间之久"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "与冬并举，强调岁月流逝"
+  },
+  {
+   "word": "乡",
+   "name": "乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "近乡情怯的对象，全诗情感落点"
+  },
+  {
+   "word": "来人",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "可问讯的过路人，却不敢开口"
+  }
+ ]
+}

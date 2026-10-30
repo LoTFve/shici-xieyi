@@ -1,0 +1,39 @@
+{
+ "id": 163,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "终夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "长夜不寐之苦"
+  },
+  {
+   "word": "开眼",
+   "name": "眼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "终夜不合眼以报亡妻"
+  },
+  {
+   "word": "眉",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以未展眉的愁容借指亡妻平生"
+  }
+ ]
+}

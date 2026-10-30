@@ -1,0 +1,138 @@
+{
+ "id": 172,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凤尾香罗",
+   "name": "罗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "凤尾纹的香罗，写女子衣饰之精"
+  },
+  {
+   "word": "碧文圆顶",
+   "name": "圆顶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "碧纹圆顶帐，夜中缝制"
+  },
+  {
+   "word": "扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "团扇遮面，写羞怯情态"
+  },
+  {
+   "word": "月魄",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以月魄喻扇之圆白"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车走雷声，写车行声响"
+  },
+  {
+   "word": "雷声",
+   "name": "雷",
+   "category": "声音",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雷声喻车声隆隆"
+  },
+  {
+   "word": "金烬",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "金烬暗指灯烛将尽，衬寂寥"
+  },
+  {
+   "word": "石榴",
+   "name": "石榴",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "石榴红时，言消息断绝"
+  },
+  {
+   "word": "斑骓",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "斑骓系岸，写所念之人"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "垂杨岸系马，寓离别相思"
+  },
+  {
+   "word": "西南",
+   "name": "西南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用曹植“愿为西南风”典，盼好风传情"
+  },
+  {
+   "word": "好风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "好风借典，托相思之意"
+  }
+ ]
+}

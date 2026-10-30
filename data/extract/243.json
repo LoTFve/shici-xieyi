@@ -1,0 +1,116 @@
+{
+ "id": 243,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "清溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "清澈溪流映隐居环境"
+  },
+  {
+   "word": "孤云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤云象征隐者高洁孤寂"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "松树掩映月下隐居处"
+  },
+  {
+   "word": "微月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "清光映照怀念友人"
+  },
+  {
+   "word": "茅亭",
+   "name": "茅亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "茅亭静谧映花影"
+  },
+  {
+   "word": "花影",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "花影映茅亭见幽静"
+  },
+  {
+   "word": "药院",
+   "name": "药院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "药院苔纹见隐居久无人"
+  },
+  {
+   "word": "苔纹",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "苔纹滋长显幽居荒寂"
+  },
+  {
+   "word": "西山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西山指归隐之所"
+  },
+  {
+   "word": "鸾鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鸾鹤群典出仙隐，表归隐之志"
+  }
+ ]
+}

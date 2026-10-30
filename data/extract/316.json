@@ -1,0 +1,28 @@
+{
+ "id": 316,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "九江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明主人公家居水边的生活环境"
+  },
+  {
+   "word": "长干",
+   "name": "长干",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "交代两人同为长干里人却不相识的缘分巧合"
+  }
+ ]
+}

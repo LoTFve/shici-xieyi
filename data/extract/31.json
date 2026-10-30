@@ -1,0 +1,61 @@
+{
+ "id": 31,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "少妇",
+   "name": "少妇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗中所咏的闺中女子，是全诗视角的中心"
+  },
+  {
+   "word": "春日",
+   "name": "春日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "欢欣",
+   "note": "点明季节，衬托少妇游春的轻快心情"
+  },
+  {
+   "word": "翠楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "少妇登楼赏春的所在"
+  },
+  {
+   "word": "陌头",
+   "name": "陌",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "路头，是少妇望见杨柳的地方"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "陌上柳色触动少妇离愁，转折全诗情感"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 303,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "边关明月，引发征人思乡"
+  },
+  {
+   "word": "天山",
+   "name": "天山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞名山，点明地点"
+  },
+  {
+   "word": "云海",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "苍茫云海，烘托边塞辽阔"
+  },
+  {
+   "word": "长风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "万里长风，展现边塞苍凉"
+  },
+  {
+   "word": "玉门关",
+   "name": "玉门关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边关要塞，象征征战之地"
+  },
+  {
+   "word": "白登道",
+   "name": "白登",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "汉高祖被围之地，借指征战"
+  },
+  {
+   "word": "青海湾",
+   "name": "青海",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边疆地名，指征战区域"
+  },
+  {
+   "word": "戍客",
+   "name": "戍客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "戍边战士，思归形象"
+  },
+  {
+   "word": "边邑",
+   "name": "边邑",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "边关城镇，征人遥望之所"
+  },
+  {
+   "word": "高楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "闺中高楼，家人思念征人"
+  }
+ ]
+}

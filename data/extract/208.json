@@ -1,0 +1,160 @@
+{
+ "id": 208,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "汀洲",
+   "name": "汀洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "江中沙洲，无浪无烟的寂寥背景"
+  },
+  {
+   "word": "汉口",
+   "name": "汉口",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人所在之地，引出夕阳暮景"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮色斜阳，渲染渡鸟归飞的苍茫"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "斜阳中飞渡的归鸟，衬出旅人飘零"
+  },
+  {
+   "word": "洞庭",
+   "name": "洞庭",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "洞庭湖面秋水远连天际，拓开空间"
+  },
+  {
+   "word": "秋水",
+   "name": "秋水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋水渺远与天相接，写洞庭之阔"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "水天相连，境界辽远"
+  },
+  {
+   "word": "孤城",
+   "name": "孤城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "背岭孤城，戍角声中透出荒寒"
+  },
+  {
+   "word": "角",
+   "name": "角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "寒风中吹起的戍角，添边塞苍凉"
+  },
+  {
+   "word": "独树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "临江独树，与孤城对举，强化孤单"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜泊之江，烘托泊船的环境"
+  },
+  {
+   "word": "夜泊船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜泊江边的孤舟，暗喻谪客漂泊"
+  },
+  {
+   "word": "贾谊",
+   "name": "贾谊",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借贾谊上书遭贬，寄寓对源中丞的同情"
+  },
+  {
+   "word": "长沙",
+   "name": "长沙",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "贾谊谪居之地，古今同怜的贬谪象征"
+  }
+ ]
+}

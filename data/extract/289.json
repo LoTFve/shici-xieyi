@@ -1,0 +1,72 @@
+{
+ "id": 289,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "名花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以牡丹比喻杨贵妃之美"
+  },
+  {
+   "word": "倾国",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指杨贵妃的绝色"
+  },
+  {
+   "word": "君王",
+   "name": "君王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指唐玄宗，点出赏花之人"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "和煦春风，消解愁绪"
+  },
+  {
+   "word": "沉香亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明赏花倚栏的地点"
+  },
+  {
+   "word": "栏杆",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "倚栏赏景，见人物情态"
+  }
+ ]
+}

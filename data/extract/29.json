@@ -1,0 +1,50 @@
+{
+ "id": 29,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "裙带",
+   "name": "裙带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "裙带自解，古人以为夫君将归的吉兆"
+  },
+  {
+   "word": "蟢子",
+   "name": "蟢子",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "蟢子飞也是喜兆，与裙带解相应"
+  },
+  {
+   "word": "铅华",
+   "name": "脂粉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子妆饰，言不可因喜兆而废妆，暗含盼归之心"
+  },
+  {
+   "word": "藁砧",
+   "name": "藁砧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指丈夫，是思妇对归人的期盼"
+  }
+ ]
+}

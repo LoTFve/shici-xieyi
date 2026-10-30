@@ -1,0 +1,127 @@
+{
+ "id": 32,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明春夜，吹开桃花"
+  },
+  {
+   "word": "露井",
+   "name": "井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫苑中带露的井，桃花依井而开"
+  },
+  {
+   "word": "桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春风中盛开的桃花，映衬得宠之喜"
+  },
+  {
+   "word": "未央",
+   "name": "未央宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借汉宫名指唐宫，写宫廷背景"
+  },
+  {
+   "word": "前殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "月轮高悬于殿前的宫殿实景"
+  },
+  {
+   "word": "月轮",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "高悬殿上的圆月，烘托夜深宫禁之静"
+  },
+  {
+   "word": "平阳",
+   "name": "平阳",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉武帝平阳公主家歌者得宠事，暗指新承宠者"
+  },
+  {
+   "word": "歌舞",
+   "name": "歌舞",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "新承宠者的歌舞之姿与欢愉"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫室帘幕，隔出内外与春寒"
+  },
+  {
+   "word": "春寒",
+   "name": "春寒",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "帘外料峭春寒，反衬赐袍之宠"
+  },
+  {
+   "word": "锦袍",
+   "name": "锦袍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "君王所赐华服，见新宠之隆"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 24,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明隐者居所环境，烘托高洁闲适氛围"
+  },
+  {
+   "word": "童子",
+   "name": "童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "作为询问对象，引出隐者行踪"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "隐者采药所在，暗示自然深邃"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云深烘托隐者踪迹难寻，增添神秘感"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": 60,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "老木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "画中故城衰败的老树，村托南朝旧事之凄凉"
+  },
+  {
+   "word": "寒云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "画中笼罩故城的寒云，渲染荒凉氛围"
+  },
+  {
+   "word": "故城",
+   "name": "故城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "画中残破的南朝旧都城，寄托兴亡之感"
+  }
+ ]
+}

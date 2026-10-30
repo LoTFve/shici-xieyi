@@ -1,0 +1,94 @@
+{
+ "id": 55,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "银烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "秋夜室内烛光，点出清冷氛围"
+  },
+  {
+   "word": "秋光",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明时令，渲染寂寥秋意"
+  },
+  {
+   "word": "画屏",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "室内陈设，映着烛光显出冷意"
+  },
+  {
+   "word": "轻罗小扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "宫女手中之物，暗示被弃的命运"
+  },
+  {
+   "word": "流萤",
+   "name": "萤火虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "秋夜飞萤，衬托环境的荒凉冷清"
+  },
+  {
+   "word": "天阶",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "宫中石阶，夜色下更显凄清"
+  },
+  {
+   "word": "夜色",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "凉如水的夜色，烘托寂寞心境"
+  },
+  {
+   "word": "牵牛织女星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "用典",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "借牛郎织女典故，暗喻宫中女子对爱情的向往与幽怨"
+  }
+ ]
+}

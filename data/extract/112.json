@@ -1,0 +1,127 @@
+{
+ "id": 112,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "细草",
+   "name": "草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "岸边微弱细草，衬出孤舟夜的荒凉"
+  },
+  {
+   "word": "微风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "微风吹动细草，写出夜的轻微动态"
+  },
+  {
+   "word": "岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "细草生长的江岸，是近景立足处"
+  },
+  {
+   "word": "危樯",
+   "name": "樯",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "高耸的桅杆，标志夜中孤舟"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "诗人夜泊所乘的孤舟，全诗核心景物"
+  },
+  {
+   "word": "星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "星点低垂于平野，显出天地辽阔"
+  },
+  {
+   "word": "平野",
+   "name": "原野",
+   "category": "其他",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "广阔平坦的原野，与星垂相对"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "月影随大江涌动，写出江月的动势"
+  },
+  {
+   "word": "大江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "浩荡江水奔流，承载月影，气象雄阔"
+  },
+  {
+   "word": "天地",
+   "name": "天地",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以天地之大反衬沙鸥之小"
+  },
+  {
+   "word": "沙鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以飘零沙鸥自比，写身世漂泊"
+  }
+ ]
+}

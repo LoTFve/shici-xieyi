@@ -1,0 +1,83 @@
+{
+ "id": 129,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "湖",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "八月的洞庭湖，水面浩渺，是全诗铺陈的大背景"
+  },
+  {
+   "word": "太清",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "水天相混，写湖面开阔仿佛与天相接"
+  },
+  {
+   "word": "云梦泽",
+   "name": "云梦",
+   "category": "地名",
+   "parent": "mist",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借古泽名写洞庭湖一带水气蒸腾的磅礴气象"
+  },
+  {
+   "word": "岳阳城",
+   "name": "岳阳",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以城被波涛撼动反衬湖水的声势"
+  },
+  {
+   "word": "舟楫",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以无舟渡湖比喻无人引荐，暗含求仕之意"
+  },
+  {
+   "word": "垂钓者",
+   "name": "渔人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借钓鱼人暗指当权者张丞相，寄托希望被起用的心情"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用临渊羡鱼之典，写自己空有出仕之愿而不得其门"
+  }
+ ]
+}

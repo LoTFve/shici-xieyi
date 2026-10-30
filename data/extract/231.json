@@ -1,0 +1,116 @@
+{
+ "id": 231,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山光",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "夏",
+   "time": "暮",
+   "emotion": "无",
+   "note": "夕阳西下时山间的景色，点明时间"
+  },
+  {
+   "word": "池月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "池上升起的月亮，营造清幽氛围"
+  },
+  {
+   "word": "夕",
+   "name": "夕",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "暮",
+   "emotion": "无",
+   "note": "傍晚时分，乘凉的时间背景"
+  },
+  {
+   "word": "轩",
+   "name": "轩",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "打开窗户，表现闲适的生活场景"
+  },
+  {
+   "word": "荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "荷花香气随风飘送，突出夏夜之美"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "夏",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "竹露滴响，以动衬静，表现环境清幽"
+  },
+  {
+   "word": "鸣琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "想弹琴却无知音，引发对友人的思念"
+  },
+  {
+   "word": "知音",
+   "name": "知音",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用伯牙子期典故，指代友人辛大"
+  },
+  {
+   "word": "故人",
+   "name": "故人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "怀念的老友，点明怀人主题"
+  },
+  {
+   "word": "中宵",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "半夜时分，突出思念之深"
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "id": 260,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "胡笳",
+   "name": "笳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蔡女所造之乐器，引发全诗悲情"
+  },
+  {
+   "word": "边草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "胡人落泪沾湿的边地之草"
+  },
+  {
+   "word": "古戍",
+   "name": "戍",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "苍苍古戍，渲染边塞苍凉"
+  },
+  {
+   "word": "烽火",
+   "name": "烽火",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "烽火寒，边塞警报的冷寂"
+  },
+  {
+   "word": "飞雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大荒沉沉，飞雪漫天，边塞苦寒"
+  },
+  {
+   "word": "秋叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "四郊秋叶惊摵摵，形容琴声肃杀"
+  },
+  {
+   "word": "空山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "空山百鸟散还合，写琴声感物"
+  },
+  {
+   "word": "百鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "百鸟闻琴声而聚散"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "万里浮云阴且晴，琴声变幻如云"
+  },
+  {
+   "word": "雏雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "失群夜鸣，喻琴声凄楚"
+  },
+  {
+   "word": "川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "川为静其波，琴声使水静"
+  },
+  {
+   "word": "乌孙",
+   "name": "乌孙",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "乌孙部落家乡远，借指边远异域"
+  },
+  {
+   "word": "逻娑",
+   "name": "逻娑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "逻娑沙尘哀怨生，借指吐蕃边地"
+  },
+  {
+   "word": "长风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "长风吹林雨堕瓦，喻琴声骤变"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨堕瓦，喻琴声急骤"
+  },
+  {
+   "word": "迸泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "cascade",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "迸泉飒飒，喻琴声激越"
+  },
+  {
+   "word": "野鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "野鹿呦呦，喻琴声悠扬"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "长安城连东掖垣，点明弹琴处所"
+  },
+  {
+   "word": "凤凰池",
+   "name": "凤凰池",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "凤凰池对青琐门，借指中书省"
+  },
+  {
+   "word": "青琐门",
+   "name": "青琐门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫门，与凤凰池相对"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "日夕望君抱琴至，期待董大携琴再来"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "id": 187,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "清秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明时节，定下全诗清冷基调"
+  },
+  {
+   "word": "幕府",
+   "name": "幕府",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人独宿的官署，点明所在地点"
+  },
+  {
+   "word": "井梧",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "井边梧桐，以秋寒烘托独宿凄凉"
+  },
+  {
+   "word": "江城",
+   "name": "江城",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指成都，点明客居之地"
+  },
+  {
+   "word": "蜡炬",
+   "name": "蜡烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残烛将尽，暗示长夜难眠"
+  },
+  {
+   "word": "永夜",
+   "name": "长夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "极言夜长，衬托独宿之苦"
+  },
+  {
+   "word": "角声",
+   "name": "号角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "悲凉",
+   "note": "军中号角悲鸣，更添凄凉"
+  },
+  {
+   "word": "中天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "指夜空中央，为月色张本"
+  },
+  {
+   "word": "月色",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月色虽好却无人共看，反衬孤独"
+  },
+  {
+   "word": "风尘",
+   "name": "风尘",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻指战乱漂泊，音书断绝"
+  },
+  {
+   "word": "音书",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "音书断绝，写与亲友隔绝之痛"
+  },
+  {
+   "word": "关塞",
+   "name": "关塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "关塞萧条，写归途艰难"
+  },
+  {
+   "word": "行路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "行路难，暗含归乡与仕途之艰"
+  },
+  {
+   "word": "一枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用鹪鹩一枝典，喻勉强栖息安身"
+  }
+ ]
+}

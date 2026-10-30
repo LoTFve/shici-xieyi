@@ -1,0 +1,72 @@
+{
+ "id": 79,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "碧阑干",
+   "name": "阑干",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "碧色栏杆点出精致富丽的居所环境"
+  },
+  {
+   "word": "绣帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "垂落的绣帘写出室内幽静深闭的氛围"
+  },
+  {
+   "word": "猩血屏风",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "猩红屏风与画中折枝并置，渲染浓艳华美的室内色彩"
+  },
+  {
+   "word": "折枝",
+   "name": "花枝",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "屏风上所画的花枝，既是装饰也暗示春意"
+  },
+  {
+   "word": "龙须",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "龙须草席写卧具之精细，见出居处之华贵"
+  },
+  {
+   "word": "锦褥",
+   "name": "锦褥",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "方锦褥铺陈床榻，衬托初凉时节的安适"
+  }
+ ]
+}

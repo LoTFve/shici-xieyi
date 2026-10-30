@@ -1,0 +1,138 @@
+{
+ "id": 189,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "剑外",
+   "name": "剑外",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人寓居的蜀地，点明消息传来之地"
+  },
+  {
+   "word": "蓟北",
+   "name": "蓟北",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "叛军老巢，被收复之地"
+  },
+  {
+   "word": "衣裳",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "涕泪沾满衣裳，写初闻喜讯的激动"
+  },
+  {
+   "word": "妻子",
+   "name": "妻",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回头看妻儿，愁容尽消"
+  },
+  {
+   "word": "诗书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "胡乱卷起书册，写狂喜之态"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "豪放",
+   "note": "白天放声高歌，须纵酒助兴"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "纵酒放歌，抒发狂喜"
+  },
+  {
+   "word": "青春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指明媚春光，作伴还乡"
+  },
+  {
+   "word": "巴峡",
+   "name": "巴峡",
+   "category": "地名",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象还乡路线，穿峡而下"
+  },
+  {
+   "word": "巫峡",
+   "name": "巫峡",
+   "category": "地名",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象还乡路线中的三峡"
+  },
+  {
+   "word": "襄阳",
+   "name": "襄阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象还乡途中的中转之地"
+  },
+  {
+   "word": "洛阳",
+   "name": "洛阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人故乡，还乡的终点"
+  }
+ ]
+}

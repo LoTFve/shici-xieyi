@@ -1,0 +1,61 @@
+{
+ "id": 294,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "玉阶",
+   "name": "阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "宫中石阶，点出幽居环境与深夜凉意"
+  },
+  {
+   "word": "白露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜露滋生，暗示夜深与寒意侵入"
+  },
+  {
+   "word": "罗袜",
+   "name": "袜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "露水浸湿罗袜，写女子久立之苦"
+  },
+  {
+   "word": "水晶帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "放下帘子，隔开外界又透出月光"
+  },
+  {
+   "word": "秋月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "隔帘凝望的秋月，是全诗情感落点"
+  }
+ ]
+}

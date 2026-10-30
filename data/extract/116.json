@@ -1,0 +1,116 @@
+{
+ "id": 116,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "诗人想象妻子在鄜州独看的明月，寄托两地相思"
+  },
+  {
+   "word": "闺中",
+   "name": "闺",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "想象中妻子独处的内室"
+  },
+  {
+   "word": "小儿女",
+   "name": "儿女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "年幼不解母亲思父之情的孩子"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人被困之地，也是家人忆念的方向"
+  },
+  {
+   "word": "香雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜雾沾湿妻子云鬟，渲染想象中闺中清冷"
+  },
+  {
+   "word": "云鬟",
+   "name": "鬓发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以妻子发髻写其伫立之久与思念之深"
+  },
+  {
+   "word": "清辉",
+   "name": "月光",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月照玉臂生寒，写妻子独守的凄凉"
+  },
+  {
+   "word": "玉臂",
+   "name": "臂",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "借妻子手臂写月夜久立与寒意"
+  },
+  {
+   "word": "虚幌",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "想象将来两人共倚的薄帘，寄托团聚之望"
+  },
+  {
+   "word": "泪痕",
+   "name": "泪",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象重逢时月光照干彼此泪痕，写离乱之苦"
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "id": 165,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绛帻",
+   "name": "头巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "借指报晓的鸡人，点出早朝时辰"
+  },
+  {
+   "word": "鸡人",
+   "name": "鸡人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "宫中报晓的卫士，开启早朝场景"
+  },
+  {
+   "word": "晓筹",
+   "name": "更筹",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "报晓的计时筹，点明清晨"
+  },
+  {
+   "word": "尚衣",
+   "name": "尚衣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "掌御服的官员，写早朝前准备"
+  },
+  {
+   "word": "翠云裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "天子礼服，显早朝之盛"
+  },
+  {
+   "word": "九天",
+   "name": "九天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "比喻皇宫高远如天"
+  },
+  {
+   "word": "阊阖",
+   "name": "天门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指宫门，状宫殿开启之壮"
+  },
+  {
+   "word": "宫殿",
+   "name": "宫殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "早朝所在，巍峨景象"
+  },
+  {
+   "word": "万国",
+   "name": "万国",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指各国使臣，写朝拜之盛"
+  },
+  {
+   "word": "衣冠",
+   "name": "衣冠",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指百官使臣"
+  },
+  {
+   "word": "冕旒",
+   "name": "冕旒",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指天子，写群臣朝拜"
+  },
+  {
+   "word": "日色",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "朝阳初照，点明早朝时刻"
+  },
+  {
+   "word": "仙掌",
+   "name": "仙掌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "承露铜盘，日光初照之景"
+  },
+  {
+   "word": "香烟",
+   "name": "香烟",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "御香缭绕，烘托朝堂气象"
+  },
+  {
+   "word": "衮龙",
+   "name": "龙袍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指天子，写香烟傍身之景"
+  },
+  {
+   "word": "五色诏",
+   "name": "诏书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "代拟的诏书，点舍人职责"
+  },
+  {
+   "word": "佩声",
+   "name": "佩声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "朝罢环佩声响，写归途情致"
+  },
+  {
+   "word": "凤池",
+   "name": "凤池",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指中书省，点明归宿"
+  }
+ ]
+}

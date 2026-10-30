@@ -1,0 +1,72 @@
+{
+ "id": 224,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "燕草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "燕地春草如丝，引发对远人的思念"
+  },
+  {
+   "word": "碧丝",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻春草细嫩如丝"
+  },
+  {
+   "word": "秦桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "秦地桑树低垂绿枝，暗喻思妇青春"
+  },
+  {
+   "word": "绿枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "桑树低垂的绿枝"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风撩动罗帏，反衬思妇的孤寂"
+  },
+  {
+   "word": "罗帏",
+   "name": "帷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "丝织帐幕，暗示闺中独处"
+  }
+ ]
+}

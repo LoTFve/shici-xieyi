@@ -1,0 +1,94 @@
+{
+ "id": 80,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "长乐宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明宫廷地点，与上苑春色相连"
+  },
+  {
+   "word": "上苑",
+   "name": "苑",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "皇家园林，与长乐宫相连展现春景"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "点明季节，渲染宫苑春色"
+  },
+  {
+   "word": "玉楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "华美的楼阁，表现宫廷富丽"
+  },
+  {
+   "word": "金殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "金碧辉煌的宫殿，与玉楼并列写宫廷气象"
+  },
+  {
+   "word": "艳歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "新艳的歌声，写宫中宴乐"
+  },
+  {
+   "word": "君门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借指宫门，一入便无由出，写幽闭之苦"
+  },
+  {
+   "word": "宫莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "宫中黄莺是唯一能见到人的生灵，反衬宫女幽闭"
+  }
+ ]
+}

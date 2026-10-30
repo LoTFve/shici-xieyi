@@ -1,0 +1,94 @@
+{
+ "id": 47,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "嵩云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以嵩山云远望友人所在，寄托两地相思"
+  },
+  {
+   "word": "秦树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "秦地之树，与嵩云对举，写两地相隔"
+  },
+  {
+   "word": "双鲤",
+   "name": "鲤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指远方来书，点出令狐绹的问候"
+  },
+  {
+   "word": "纸书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "远方寄来的书信，是全诗起因"
+  },
+  {
+   "word": "梁园",
+   "name": "梁园",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用司马相如游梁典，自比旧日幕客"
+  },
+  {
+   "word": "茂陵",
+   "name": "茂陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "司马相如病居之地，借以自况"
+  },
+  {
+   "word": "秋雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋雨萧瑟，烘托卧病孤寂的心境"
+  },
+  {
+   "word": "相如",
+   "name": "相如",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以司马相如自比，写多病闲居之况"
+  }
+ ]
+}

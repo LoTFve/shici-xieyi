@@ -1,0 +1,160 @@
+{
+ "id": 210,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云开雾散，引出远望之景"
+  },
+  {
+   "word": "汉阳城",
+   "name": "汉阳",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "远处目的地，寄托归程之望"
+  },
+  {
+   "word": "孤帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指代自己所乘孤舟，行程尚远"
+  },
+  {
+   "word": "估客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "同船商人，昼眠衬托浪静"
+  },
+  {
+   "word": "舟人",
+   "name": "舟人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "船夫夜语，点出潮生"
+  },
+  {
+   "word": "浪",
+   "name": "浪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "浪静反衬客心不静"
+  },
+  {
+   "word": "潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜潮暗生，暗示行程推进"
+  },
+  {
+   "word": "三湘",
+   "name": "三湘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指南方漂泊之地，牵动愁鬓"
+  },
+  {
+   "word": "秋色",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋景添愁，映照鬓发斑白"
+  },
+  {
+   "word": "月明",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "对月思归，万里归心"
+  },
+  {
+   "word": "旧业",
+   "name": "旧业",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "回忆中已毁的家业"
+  },
+  {
+   "word": "征战",
+   "name": "征战",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "战乱背景，家业荡尽之因"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "舟行江上，承载鼓鼙之声"
+  },
+  {
+   "word": "鼓鼙",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "江上战鼓声，烘托乱世悲凉"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 34,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "葡萄美酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "宴饮的珍美酒浆，点出边塞军中宴饮场景"
+  },
+  {
+   "word": "夜光杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "豪放",
+   "note": "盛美酒的宝杯，与美酒相映，衬出宴饮之盛"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "马上弹奏的乐器，催人饮、催人行，添边塞苍凉"
+  },
+  {
+   "word": "马上",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指马背之上，点出军旅征战的环境"
+  },
+  {
+   "word": "沙场",
+   "name": "沙场",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指战场，是醉卧之所，也是征战之地"
+  }
+ ]
+}

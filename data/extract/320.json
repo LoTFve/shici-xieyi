@@ -1,0 +1,72 @@
+{
+ "id": 320,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "野幕",
+   "name": "帐",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "野外设帐摆宴庆功的场景"
+  },
+  {
+   "word": "琼筵",
+   "name": "筵",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "丰盛华美的庆功宴席"
+  },
+  {
+   "word": "羌戎",
+   "name": "羌",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指来祝贺的边地部族"
+  },
+  {
+   "word": "金甲",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "将士醉中起舞仍身着铠甲"
+  },
+  {
+   "word": "雷鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鼓声如雷，烘托庆功的声势"
+  },
+  {
+   "word": "山川",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鼓声震动山川，写边塞气象"
+  }
+ ]
+}

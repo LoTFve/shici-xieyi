@@ -1,0 +1,94 @@
+{
+ "id": 22,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "终南",
+   "name": "终南",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明所望之山，为全诗取景之地"
+  },
+  {
+   "word": "阴岭",
+   "name": "山岭",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山北背阴之岭，积雪所在"
+  },
+  {
+   "word": "积雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "写出岭上余雪未消之景"
+  },
+  {
+   "word": "云端",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪浮云上，衬出山高雪远"
+  },
+  {
+   "word": "林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "山林树梢映出晴光"
+  },
+  {
+   "word": "霁色",
+   "name": "晴光",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "无",
+   "note": "雨雪初晴的天色，照在林表"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "无",
+   "note": "长安城中，暮寒由此而生"
+  },
+  {
+   "word": "暮",
+   "name": "暮",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明时近黄昏"
+  }
+ ]
+}

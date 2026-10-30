@@ -1,0 +1,160 @@
+{
+ "id": 178,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "猿",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以猿鸟畏惧烘托诸葛亮军令威严"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与猿并举，写驿边景象，暗含敬畏"
+  },
+  {
+   "word": "风云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "风云守护旧营垒，渲染诸葛亮的余威"
+  },
+  {
+   "word": "简书",
+   "name": "简书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指军令文书，突出治军严明"
+  },
+  {
+   "word": "储胥",
+   "name": "营垒",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指旧日军营栅栏，点出筹笔驿遗迹"
+  },
+  {
+   "word": "上将",
+   "name": "上将",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指诸葛亮，表达对其才能的推崇"
+  },
+  {
+   "word": "神笔",
+   "name": "笔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指诸葛亮的军事谋略与文才"
+  },
+  {
+   "word": "降王",
+   "name": "降王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指蜀汉后主刘禅出降，暗含亡国之叹"
+  },
+  {
+   "word": "传车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "降王乘坐的驿车，象征蜀汉覆亡"
+  },
+  {
+   "word": "管乐",
+   "name": "管仲",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以管仲乐毅比诸葛亮，赞其才略"
+  },
+  {
+   "word": "关张",
+   "name": "关羽",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "关羽张飞早逝，叹诸葛亮失去臂膀"
+  },
+  {
+   "word": "锦里",
+   "name": "锦里",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "成都锦里，指武侯祠所在，寄寓追思"
+  },
+  {
+   "word": "祠庙",
+   "name": "祠庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "武侯祠庙，作为凭吊诸葛亮的场所"
+  },
+  {
+   "word": "梁父吟",
+   "name": "梁父吟",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "诸葛亮躬耕时爱吟的歌，寄托壮志难酬之恨"
+  }
+ ]
+}

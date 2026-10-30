@@ -1,0 +1,116 @@
+{
+ "id": 214,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山林",
+   "name": "山林",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "回忆过去太平岁月隐居的山林生活"
+  },
+  {
+   "word": "泉源",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "描绘庭院中的泉水，表现昔日生活的宁静"
+  },
+  {
+   "word": "洞壑",
+   "name": "洞壑",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "门前山谷洞穴，表现隐居环境的幽静"
+  },
+  {
+   "word": "戎旃",
+   "name": "戎旃",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指军旅生活，指代战乱中的征战"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指州城，说明城小得以保全"
+  },
+  {
+   "word": "符节",
+   "name": "符节",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指官职，表达诗人想弃官归隐"
+  },
+  {
+   "word": "竿",
+   "name": "竿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "撑船的竹竿，表现归隐江湖的意愿"
+  },
+  {
+   "word": "船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "想象中归隐所用的船"
+  },
+  {
+   "word": "鱼麦",
+   "name": "鱼麦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指简朴的田园生活"
+  },
+  {
+   "word": "江湖",
+   "name": "江湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指远离官场的隐居之地"
+  }
+ ]
+}

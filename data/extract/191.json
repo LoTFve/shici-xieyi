@@ -1,0 +1,160 @@
+{
+ "id": 191,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "高楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人登临远望之所，也是全诗题眼"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "近楼春花反衬客愁，以乐景写哀"
+  },
+  {
+   "word": "锦江",
+   "name": "锦江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "春色随江水铺天盖地而来"
+  },
+  {
+   "word": "春色",
+   "name": "春色",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写锦江一带春意充盈天地"
+  },
+  {
+   "word": "天地",
+   "name": "天地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极言春色之广远，气象宏阔"
+  },
+  {
+   "word": "玉垒",
+   "name": "玉垒",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "蜀中山名，与浮云共写古今之变"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以云之变幻喻世事古今沧桑"
+  },
+  {
+   "word": "北极",
+   "name": "北极",
+   "category": "天象",
+   "parent": "star",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "借指朝廷，喻唐室如北极星不可移"
+  },
+  {
+   "word": "西山",
+   "name": "西山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指蜀西群山，为寇盗出没之处"
+  },
+  {
+   "word": "寇盗",
+   "name": "寇盗",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指吐蕃入侵者，诗人斥其莫相侵扰"
+  },
+  {
+   "word": "后主",
+   "name": "后主",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借蜀汉刘禅祠庙讽喻时政"
+  },
+  {
+   "word": "祠庙",
+   "name": "祠庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "后主祠庙尚存，引发兴亡之叹"
+  },
+  {
+   "word": "日暮",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明登楼时分，烘托苍茫日暮之悲"
+  },
+  {
+   "word": "梁甫吟",
+   "name": "梁甫吟",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "借诸葛亮好为梁父吟，寄托济世无门之慨"
+  }
+ ]
+}
