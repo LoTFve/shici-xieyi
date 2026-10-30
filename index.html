@@ -22,6 +22,7 @@ button.main{background:#7a3b2e;color:#fff;border-color:#7a3b2e}
 h2{font-size:14px;margin:12px 0 4px;letter-spacing:.15em;color:#7a3b2e}
 h2 small{color:#888;letter-spacing:0;font-weight:normal}
 .chip{display:inline-block;padding:1px 8px;margin:2px 4px 2px 0;border-radius:10px;background:#efe6d6;font-size:13px;cursor:help}
+#images .chip{cursor:pointer}
 .chip.off{text-decoration:line-through;opacity:.55}
 .kv{margin:3px 0}.kv b{display:inline-block;width:3em;color:#555}
 .why{color:#8a8a8a;font-size:12px}
@@ -39,7 +40,7 @@ label{font-size:13px;color:#555;cursor:pointer}
   <h1>诗词写意</h1>
   <textarea id="input" placeholder="第一行标题，第二行作者，后面是正文"></textarea>
   <div class="row" id="presets"></div>
-  <div class="row"><button class="main" id="go">入境（Ctrl+Enter）</button><button id="hide">收起面板</button><label><input type="checkbox" id="llm" checked> 大模型</label></div>
+  <div class="row"><button class="main" id="go">入境（Ctrl+Enter）</button><button id="hide">收起面板</button><button id="onto">本体</button><label><input type="checkbox" id="llm" checked> 大模型</label></div>
   <div class="why" id="ai"></div>
   <div class="why">底色：<span class="chip">规则</span><span class="chip llm">模型</span><span class="chip onto">本体推断</span><span class="chip diff">与规则不同</span></div>
   <h2>意象 <small>诗里写到的具体景物，决定画什么</small></h2>
@@ -49,6 +50,8 @@ label{font-size:13px;color:#555;cursor:pointer}
 </div>
 <button id="show">展开面板</button>
 <script src="ontology.js"></script>
+<script src="ontology/images.js"></script>
+<script src="onto-view.js"></script>
 <script>
 const PRESETS={
   '江雪':'江雪\n柳宗元\n千山鸟飞绝，万径人踪灭。\n孤舟蓑笠翁，独钓寒江雪。',
@@ -446,6 +449,11 @@ function go(){const raw=$('#input').value.trim();if(!raw)return;S=analyze(raw);b
     setAI(`已融合 ${M.model||'模型'} 的判断`+(n?`，${n} 处与规则不同（红框）`:'，与规则一致'))})
   .catch(e=>{if(S===R)setAI('模型不可用，只用规则：'+e.message)})}
 $('#llm').onchange=go;
+// 本体浏览：按钮打开；点意象标签，跳到对应概念
+$('#onto').onclick=()=>window.OntoView&&OntoView.open();
+$('#images').addEventListener('click',e=>{const c=e.target.closest('.chip');if(!c||!window.OntoView)return;
+  const m=S.imgs[[...$('#images').querySelectorAll('.chip')].indexOf(c)];if(m)OntoView.open(OntoView.find(m.name)||OntoView.find(m.ev[0]))});
+if(!window.OntoView)$('#onto').style.display='none';
 for(const k in PRESETS){const b=document.createElement('button');b.textContent=k;b.onclick=()=>{$('#input').value=PRESETS[k];go()};$('#presets').append(b)}
 $('#go').onclick=go;
 $('#input').addEventListener('keydown',e=>{if(e.key==='Enter'&&(e.ctrlKey||e.metaKey))go()});
@@ -453,6 +461,8 @@ $('#hide').onclick=()=>{$('#panel').style.display='none';$('#show').style.displa
 $('#show').onclick=()=>{$('#panel').style.display='';$('#show').style.display='none'};
 addEventListener('resize',resize);
 const start=decodeURIComponent(location.hash.slice(1));resize();$('#input').value=PRESETS[start]||PRESETS['江雪'];go();requestAnimationFrame(frame);
+// #本体 或 #本体:雁 直接打开本体浏览
+if(start.startsWith('本体')&&window.OntoView)OntoView.open(start.split(':')[1]);
 </script>
 </body>
 </html>
