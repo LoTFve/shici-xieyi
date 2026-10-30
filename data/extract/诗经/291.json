@@ -1,0 +1,171 @@
+{
+ "id": 291,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "良耜",
+   "name": "耜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "农具，代表耕作"
+  },
+  {
+   "word": "南亩",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "农田的泛称"
+  },
+  {
+   "word": "百谷",
+   "name": "谷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "各种谷物"
+  },
+  {
+   "word": "筐",
+   "name": "筐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛饭的竹器"
+  },
+  {
+   "word": "莒",
+   "name": "莒",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "圆形的竹器"
+  },
+  {
+   "word": "黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "黍子，做的饭"
+  },
+  {
+   "word": "笠",
+   "name": "笠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "斗笠"
+  },
+  {
+   "word": "镈",
+   "name": "镈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "锄头"
+  },
+  {
+   "word": "荼蓼",
+   "name": "杂草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "杂草"
+  },
+  {
+   "word": "黍稷",
+   "name": "黍稷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "庄稼"
+  },
+  {
+   "word": "墉",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "谷堆像墙一样高"
+  },
+  {
+   "word": "栉",
+   "name": "栉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "梳篦，形容谷堆密"
+  },
+  {
+   "word": "室",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "装满粮食的房屋"
+  },
+  {
+   "word": "妇子",
+   "name": "妇子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "妇女和孩子"
+  },
+  {
+   "word": "犉牡",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀用的公牛"
+  }
+ ]
+}

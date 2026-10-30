@@ -1,0 +1,94 @@
+{
+ "id": 86,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "衮衣",
+   "name": "衮衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "殿上华贵的帝王礼服，映日生辉，衬托殿试的隆盛气象"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以日月光明比喻衮衣的辉煌，是称颂之辞"
+  },
+  {
+   "word": "砚",
+   "name": "砚",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "案头之砚，以砚水映出旗影，见书写气象"
+  },
+  {
+   "word": "旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "砚中墨影如旗，龙蛇游动，写出笔势的飞扬"
+  },
+  {
+   "word": "龙蛇",
+   "name": "龙蛇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "比喻字迹笔势如龙蛇盘舞，形容书法雄健"
+  },
+  {
+   "word": "礼乐",
+   "name": "礼乐",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "代指文章典章，写应试策论的宏富"
+  },
+  {
+   "word": "丹墀",
+   "name": "丹墀",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "宫殿前的红色台阶，点出殿试场所的庄严"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "日未斜写时间尚早，见从容奏对之久"
+  }
+ ]
+}

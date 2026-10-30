@@ -1,0 +1,72 @@
+{
+ "id": 107,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "葛屦",
+   "name": "屦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以草鞋起兴，写贫女劳苦"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "点出寒冷时节与贫女艰辛"
+  },
+  {
+   "word": "女手",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "特写缝衣女子的纤手"
+  },
+  {
+   "word": "裳",
+   "name": "裳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所缝制的下衣，见其劳作"
+  },
+  {
+   "word": "好人",
+   "name": "贵人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指贵族女子，与缝衣女相对"
+  },
+  {
+   "word": "象揥",
+   "name": "象揥",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "贵人发饰，见其华贵"
+  }
+ ]
+}

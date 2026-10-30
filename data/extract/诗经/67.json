@@ -1,0 +1,50 @@
+{
+ "id": 67,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "簧",
+   "name": "簧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "君子左手所执的笙簧乐器，示宴乐之欢"
+  },
+  {
+   "word": "房",
+   "name": "房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "君子招我入房中共乐，指居所"
+  },
+  {
+   "word": "翿",
+   "name": "翿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "君子左手所执的羽舞道具，示舞蹈之乐"
+  },
+  {
+   "word": "敖",
+   "name": "敖",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "君子招我往敖地游玩，指游乐之所"
+  }
+ ]
+}

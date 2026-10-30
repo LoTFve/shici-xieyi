@@ -1,0 +1,237 @@
+{
+ "id": 216,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凤尾",
+   "name": "凤尾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "琵琶槽上凤尾状的装饰，暗示乐器精美"
+  },
+  {
+   "word": "龙香拨",
+   "name": "拨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "龙香木制成的拨子，点明琵琶演奏"
+  },
+  {
+   "word": "开元",
+   "name": "开元",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "唐玄宗年号，借指盛世"
+  },
+  {
+   "word": "霓裳曲",
+   "name": "霓裳",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "唐代名曲，象征往昔繁华"
+  },
+  {
+   "word": "风月",
+   "name": "风月",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "清风明月，代指岁月变迁"
+  },
+  {
+   "word": "浔阳江",
+   "name": "浔阳",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "白居易谪居地，借指迁客之悲"
+  },
+  {
+   "word": "画舸",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "彩绘船只，等待出发"
+  },
+  {
+   "word": "出塞",
+   "name": "出塞",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "王昭君出塞和亲事，喻离愁"
+  },
+  {
+   "word": "黄云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "塞外黄沙如云，渲染苍茫"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄云堆雪，比喻黄沙似雪"
+  },
+  {
+   "word": "昭阳",
+   "name": "昭阳",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "汉宫名，代指故国宫殿"
+  },
+  {
+   "word": "孤鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤雁没入天际，喻离人孤寂"
+  },
+  {
+   "word": "辽阳",
+   "name": "辽阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "征人戍边之地，音信断绝"
+  },
+  {
+   "word": "驿使",
+   "name": "驿使",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "传递书信的使者，音尘绝"
+  },
+  {
+   "word": "琐窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雕花窗，寒夜弹琴的处所"
+  },
+  {
+   "word": "泪珠",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泪珠盈睫，极写弹者之悲"
+  },
+  {
+   "word": "梁州",
+   "name": "梁州",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "《梁州》曲调哀彻，借指悲歌"
+  },
+  {
+   "word": "云飞烟灭",
+   "name": "云烟",
+   "category": "天象",
+   "parent": "mist",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻千古往事消散"
+  },
+  {
+   "word": "贺老",
+   "name": "贺老",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "唐代乐师贺怀智，代指知音"
+  },
+  {
+   "word": "沉香亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "唐宫亭名，象征盛世繁华"
+  },
+  {
+   "word": "呜咽",
+   "name": "呜咽",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "琵琶声如泣如诉，收束全词"
+  }
+ ]
+}

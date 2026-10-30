@@ -1,0 +1,94 @@
+{
+ "id": 253,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "层绿",
+   "name": "绿",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "摹写层叠的绿叶"
+  },
+  {
+   "word": "纤琼",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以琼玉喻洁白的花瓣"
+  },
+  {
+   "word": "波痕",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "花影倒压水面的清浅波纹"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "追忆昔日唤酒寻芳之乐"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "夜深归辇时的明月，寄寓怀旧与孤寂"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "东风催春，却恨人似天远"
+  },
+  {
+   "word": "残花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "残花洒落征衣，寄寓迟暮飘零之恨"
+  },
+  {
+   "word": "征衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "征衣沾泪，写漂泊离别之苦"
+  }
+ ]
+}

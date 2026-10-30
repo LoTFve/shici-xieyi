@@ -1,0 +1,61 @@
+{
+ "id": 75,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "点出春日晴和的天色"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写春风轻拂的惬意"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春日近旁盛开的繁花"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "随行所傍的垂柳，衬出春色"
+  },
+  {
+   "word": "川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "前川流水，诗人漫步所经之处"
+  }
+ ]
+}

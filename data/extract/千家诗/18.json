@@ -1,0 +1,61 @@
+{
+ "id": 18,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明怀人的时节与背景"
+  },
+  {
+   "word": "凉天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "写秋夜的清冷天色"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "空山是诗人散步的环境"
+  },
+  {
+   "word": "松子",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "松子落地反衬山空人静"
+  },
+  {
+   "word": "幽人",
+   "name": "隐者",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指丘员外，遥想其未眠"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 28,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "燕燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以燕子差池其羽、颉颃上下，反衬离别之悲"
+  },
+  {
+   "word": "野",
+   "name": "野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远送于野，点出送别之地的空旷荒远"
+  },
+  {
+   "word": "南",
+   "name": "南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "远送于南，指示送别方向，暗含远去难归"
+  },
+  {
+   "word": "泣",
+   "name": "泣",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "伫立以泣，直写送别者悲不自胜"
+  }
+ ]
+}

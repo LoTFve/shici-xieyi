@@ -1,0 +1,149 @@
+{
+ "id": 208,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "点明送别时节与清冷氛围"
+  },
+  {
+   "word": "芝城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "交代送别地点"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "柳影稀疏，暗含送别依依之情"
+  },
+  {
+   "word": "客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指天师，被送别之人"
+  },
+  {
+   "word": "鄱湖",
+   "name": "鄱阳湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "送别发生于鄱阳湖畔"
+  },
+  {
+   "word": "黄金甲",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以金甲借指天师的法衣道装"
+  },
+  {
+   "word": "雷霆印",
+   "name": "印",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "道教法印，象征天师法力"
+  },
+  {
+   "word": "红锦韬",
+   "name": "锦囊",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色锦囊，盛放符箓"
+  },
+  {
+   "word": "日月符",
+   "name": "符",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绘有日月图案的道符，显天师道法"
+  },
+  {
+   "word": "鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "想象天师清晨骑鹤飞天"
+  },
+  {
+   "word": "双凫",
+   "name": "凫",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "用王乔双凫典，写天师夜间解履歇息"
+  },
+  {
+   "word": "神仙府",
+   "name": "仙府",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象中天师归宿的仙家居所"
+  },
+  {
+   "word": "蟠桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西王母蟠桃典，问仙桃熟否以寄仙趣"
+  }
+ ]
+}

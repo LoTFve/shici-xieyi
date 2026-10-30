@@ -1,0 +1,149 @@
+{
+ "id": 218,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春幡",
+   "name": "幡",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "立春时美人头戴的装饰，点明节令"
+  },
+  {
+   "word": "风雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "无端风雨，增添春寒料峭之感"
+  },
+  {
+   "word": "燕子",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "年时燕子，想象其梦中回到西园，寄托怀旧之情"
+  },
+  {
+   "word": "西园",
+   "name": "西园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "燕子梦中的旧园，暗指故园"
+  },
+  {
+   "word": "黄柑",
+   "name": "柑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "立春荐酒之物，表现节令习俗"
+  },
+  {
+   "word": "青韭",
+   "name": "韭",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "立春堆盘之物，表现节令习俗"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风，吹醒梅柳"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "东风薰梅，梅为冬末春初之物"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "东风染柳，柳色新绿，牵动离愁"
+  },
+  {
+   "word": "镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "镜中朱颜转变，感叹年华老去"
+  },
+  {
+   "word": "朱颜",
+   "name": "朱颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "青春容颜，暗喻时光流逝"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花开花落，象征春去春来、人生无常"
+  },
+  {
+   "word": "塞雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "思乡",
+   "note": "塞北归雁，先春而还，触动乡思"
+  }
+ ]
+}

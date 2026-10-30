@@ -1,0 +1,105 @@
+{
+ "id": 164,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "棠棣",
+   "name": "棠棣",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以棠棣之花起兴，引出兄弟情深"
+  },
+  {
+   "word": "原隰",
+   "name": "原隰",
+   "category": "其他",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "描述原野低湿之地，兄弟于此相寻"
+  },
+  {
+   "word": "脊令",
+   "name": "脊令",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以脊令在原比喻兄弟急难相救"
+  },
+  {
+   "word": "墙",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "兄弟阋于墙，指内部争斗"
+  },
+  {
+   "word": "笾豆",
+   "name": "笾豆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮时的礼器，体现兄弟和乐"
+  },
+  {
+   "word": "饮酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮之乐，表现兄弟团聚的欢愉"
+  },
+  {
+   "word": "瑟琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以琴瑟和鸣比喻夫妻和睦"
+  },
+  {
+   "word": "妻子",
+   "name": "妻",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指妻子儿女，家庭和乐"
+  },
+  {
+   "word": "室家",
+   "name": "家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指家庭，强调家庭和睦"
+  }
+ ]
+}

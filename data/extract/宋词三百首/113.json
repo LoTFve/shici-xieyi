@@ -1,0 +1,116 @@
+{
+ "id": 113,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "榴花",
+   "name": "榴",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以榴花红艳反衬舞裙不再，暗含今昔之慨"
+  },
+  {
+   "word": "舞裙",
+   "name": "裙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借舞裙之红比喻榴花之色，引出对往昔的追忆"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "歌罢风吹帘动，烘托无人知意的落寞"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "满帘风起，既写实景又添萧索气氛"
+  },
+  {
+   "word": "戌葵",
+   "name": "葵",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "墙东葵花凝笑，以物之无情反衬人之伤感"
+  },
+  {
+   "word": "墙",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "墙东为葵花所处，勾勒庭院一角的寂寥"
+  },
+  {
+   "word": "酒杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "酒杯深浅如昨，物是人非的感慨"
+  },
+  {
+   "word": "桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "桥下水为浇酒处，寄托对湘中屈原的追念"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "桥下流水可通湘中，借水寄情，遥奠屈原"
+  },
+  {
+   "word": "湘中",
+   "name": "湘中",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指屈原沉江之地，借端午凭吊古人，暗含身世之悲"
+  }
+ ]
+}

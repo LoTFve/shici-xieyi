@@ -1,0 +1,160 @@
+{
+ "id": 58,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "布",
+   "name": "布",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "男子用来交易丝线的实物"
+  },
+  {
+   "word": "丝",
+   "name": "丝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子所缫之丝，贸易媒介"
+  },
+  {
+   "word": "淇",
+   "name": "淇水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "见证爱情与婚变的河流"
+  },
+  {
+   "word": "顿丘",
+   "name": "顿丘",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "送别地点，象征离别"
+  },
+  {
+   "word": "垝垣",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "女子登高望恋人的残墙"
+  },
+  {
+   "word": "复关",
+   "name": "复关",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "男子所居之地，借指恋人"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "迎娶女子的婚车"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以桑叶荣枯喻女子容颜与爱情变化"
+  },
+  {
+   "word": "鸠",
+   "name": "鸠",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鸠食桑葚喻女子沉溺爱情"
+  },
+  {
+   "word": "桑葚",
+   "name": "桑葚",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸠所食之实，喻甜蜜诱惑"
+  },
+  {
+   "word": "淇水",
+   "name": "淇水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "汤汤淇水，烘托被弃后的悲凉"
+  },
+  {
+   "word": "帷裳",
+   "name": "车帷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "女子车上的布帷，被水浸湿"
+  },
+  {
+   "word": "隰",
+   "name": "隰",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地，与淇水对举"
+  },
+  {
+   "word": "总角",
+   "name": "总角",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指童年时代，回忆往昔欢乐"
+  }
+ ]
+}

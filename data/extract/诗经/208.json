@@ -1,0 +1,105 @@
+{
+ "id": 208,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鼓钟",
+   "name": "钟",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "开篇奏乐，以钟声起兴，反衬忧思"
+  },
+  {
+   "word": "淮水",
+   "name": "淮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "汤汤流水与钟声相和，烘托忧伤"
+  },
+  {
+   "word": "三洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "淮水中的小洲，点出眼前实景"
+  },
+  {
+   "word": "鼛",
+   "name": "鼛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "大鼓，与钟并奏，见乐舞之盛"
+  },
+  {
+   "word": "瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "弹瑟与钟鼓相应，写乐器和鸣"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "琴瑟并奏，寄寓德音之和"
+  },
+  {
+   "word": "笙",
+   "name": "笙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "笙与磬同音，写众乐谐和"
+  },
+  {
+   "word": "磬",
+   "name": "磬",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "石磬与笙同鸣，渲染雅乐"
+  },
+  {
+   "word": "龠",
+   "name": "龠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "排箫之类，与雅南之乐相配"
+  }
+ ]
+}

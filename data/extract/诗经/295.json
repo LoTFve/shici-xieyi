@@ -1,0 +1,28 @@
+{
+ "id": 295,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "周",
+   "name": "周",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指周朝天命，非眼前实景"
+  },
+  {
+   "word": "文王",
+   "name": "文王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "称颂先王功业，非眼前人物"
+  }
+ ]
+}

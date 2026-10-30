@@ -1,0 +1,61 @@
+{
+ "id": 22,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "北风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "起句写秋风骤起，吹动白云，点出惊秋之意"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "随风飘飞，衬托诗人漂泊万里的身世"
+  },
+  {
+   "word": "河汾",
+   "name": "汾河",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "汾河，诗人渡河之地，寄托羁旅之情"
+  },
+  {
+   "word": "摇落",
+   "name": "落叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "草木摇落，借指秋气摧折的草木，触发心绪"
+  },
+  {
+   "word": "秋声",
+   "name": "秋声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风落叶之声，令诗人心绪难平，不忍卒闻"
+  }
+ ]
+}

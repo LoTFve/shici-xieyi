@@ -1,0 +1,50 @@
+{
+ "id": 140,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东门",
+   "name": "东门",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "约会所在的城门，点明地点"
+  },
+  {
+   "word": "杨",
+   "name": "杨",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "东门旁的杨树，叶茂是约会的背景"
+  },
+  {
+   "word": "昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "约定相会的时间"
+  },
+  {
+   "word": "明星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "黄昏后升起的亮星，暗示等待之久"
+  }
+ ]
+}

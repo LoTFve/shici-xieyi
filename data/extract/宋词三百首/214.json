@@ -1,0 +1,149 @@
+{
+ "id": 214,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "宝钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "分钗赠别，象征离别"
+  },
+  {
+   "word": "桃叶渡",
+   "name": "渡口",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借王献之送别典故点明离别之地"
+  },
+  {
+   "word": "烟柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟雾笼罩的柳树，渲染南浦送别的凄迷"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "水边送别之地的典故"
+  },
+  {
+   "word": "层楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登高望远之处，怕上层楼见春归"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "十日九风雨，烘托春去之愁"
+  },
+  {
+   "word": "飞红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "片片落花无人管，写春残的断肠"
+  },
+  {
+   "word": "流莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "莺声本悦耳，此处却愿其声住，反衬愁绪"
+  },
+  {
+   "word": "鬓边",
+   "name": "鬓",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鬓边簪花，写女子对镜自伤"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以花卜算心上人的归期"
+  },
+  {
+   "word": "罗帐",
+   "name": "帐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "罗帐之内，写独宿的凄凉"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "灯火昏暗，映梦中呜咽的愁情"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春拟人化，带愁而来却不解将愁归去"
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "id": 137,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "苔枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梅枝上缀着苔痕，写梅的幽冷姿态"
+  },
+  {
+   "word": "玉",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以玉喻梅花，点出梅花洁白晶莹"
+  },
+  {
+   "word": "翠禽",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "枝头小鸟同宿，反衬梅的幽独"
+  },
+  {
+   "word": "篱角",
+   "name": "篱",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "梅生于篱边角落，写其地位冷落"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏时分更添梅的寂寞氛围"
+  },
+  {
+   "word": "修竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梅倚修竹，以竹衬梅的清高"
+  },
+  {
+   "word": "昭君",
+   "name": "昭君",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借昭君出塞典故写梅的孤寂身世"
+  },
+  {
+   "word": "胡沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指北方沙漠，写昭君远嫁之苦"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "昭君暗忆江南，寄托对故土的思念"
+  },
+  {
+   "word": "佩环",
+   "name": "佩环",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象昭君魂归，环佩叮咚"
+  },
+  {
+   "word": "月夜",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月夜魂归，梅的幽独与月色相映"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指梅花，全词核心意象"
+  },
+  {
+   "word": "深宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用寿阳公主梅花妆典故"
+  },
+  {
+   "word": "蛾绿",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指女子眉间，写梅花落于眉上"
+  },
+  {
+   "word": "春风",
+   "name": "春风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "劝春风莫要无情吹落梅花"
+  },
+  {
+   "word": "金屋",
+   "name": "金屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用金屋藏娇典，愿护惜梅花"
+  },
+  {
+   "word": "波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "梅花随波飘去，写凋零之悲"
+  },
+  {
+   "word": "玉龙",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "玉龙指笛，笛曲哀怨写落梅之恨"
+  },
+  {
+   "word": "小窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梅花幽香已入小窗画幅，收束全词"
+  }
+ ]
+}

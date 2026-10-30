@@ -1,0 +1,215 @@
+{
+ "id": 9,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "九河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指黄河下游诸多支流，展现河伯游历的广阔水域"
+  },
+  {
+   "word": "冲风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "描绘河面上狂风骤起、水波扬动的景象"
+  },
+  {
+   "word": "水车",
+   "name": "车",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "河伯以水为车，想象其巡游水上的驾乘"
+  },
+  {
+   "word": "荷盖",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "虚写",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以荷叶为车盖，展现河伯出行的神奇与高洁"
+  },
+  {
+   "word": "两龙",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾龙为马，显示河伯的神异威仪"
+  },
+  {
+   "word": "螭",
+   "name": "螭",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "无角之龙，作为骖驾，更添神异色彩"
+  },
+  {
+   "word": "昆仑",
+   "name": "昆仑",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "神话中的神山，河伯登临四望，极目天地"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "日暮时分，点明时间并触发怅惘之情"
+  },
+  {
+   "word": "鱼鳞",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼鳞状的屋瓦，以鱼鳞为饰，体现水宫特色"
+  },
+  {
+   "word": "龙堂",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "龙形装饰的殿堂，指河伯所居的华美建筑"
+  },
+  {
+   "word": "紫贝阙",
+   "name": "阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以紫贝为饰的宫阙，形容河伯居所的瑰丽"
+  },
+  {
+   "word": "珠宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以珍珠为饰的宫殿，极言水宫之奢华"
+  },
+  {
+   "word": "白鼋",
+   "name": "鼋",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白色的巨龟，河伯驾乘的神物"
+  },
+  {
+   "word": "文鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "有花纹的鱼，伴随河伯巡游"
+  },
+  {
+   "word": "河之渚",
+   "name": "渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "黄河中的小洲，游宴之地"
+  },
+  {
+   "word": "流澌",
+   "name": "流冰",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "解冻时流动的冰块，纷至沓来，烘托氛围"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地的代称，此处指送别美人的水滨"
+  },
+  {
+   "word": "波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "波涛滔滔，迎接河伯，渲染水势"
+  },
+  {
+   "word": "鱼鳞鳞",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼群密集如鳞，作为扈从伴随河伯"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": 93,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中人出城所见之地，引出如云女子"
+  },
+  {
+   "word": "女",
+   "name": "女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "东门之外众多出游的女子"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以云喻女子之多而美"
+  },
+  {
+   "word": "缟衣",
+   "name": "素衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "所思念女子朴素的白色衣裳"
+  },
+  {
+   "word": "綦巾",
+   "name": "头巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "女子所佩青黑色佩巾，见其素朴"
+  },
+  {
+   "word": "𬮱阇",
+   "name": "城门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "外城门，与东门呼应，写游人聚集之处"
+  },
+  {
+   "word": "荼",
+   "name": "茅花",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以白茅花喻女子众多而洁白"
+  },
+  {
+   "word": "茹藘",
+   "name": "茜草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绛红色染料，代指女子所佩红色佩巾"
+  }
+ ]
+}

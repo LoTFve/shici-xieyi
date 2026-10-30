@@ -1,0 +1,83 @@
+{
+ "id": 93,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鹅湖山",
+   "name": "鹅湖",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明春社所在的山水环境"
+  },
+  {
+   "word": "稻粱",
+   "name": "稻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写丰收在望的庄稼，衬托年成好"
+  },
+  {
+   "word": "豚栅",
+   "name": "猪圈",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写农家猪圈，见乡村富足安宁"
+  },
+  {
+   "word": "鸡栖",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鸡已归窝，写黄昏农家景象"
+  },
+  {
+   "word": "扉",
+   "name": "门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "柴门半掩，写村中安闲"
+  },
+  {
+   "word": "桑柘",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "桑柘影斜，点出春社散时的暮色"
+  },
+  {
+   "word": "醉人",
+   "name": "醉人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "欢欣",
+   "note": "社日饮罢被扶归的村民，见节日欢乐"
+  }
+ ]
+}

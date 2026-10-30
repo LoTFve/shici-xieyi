@@ -1,0 +1,182 @@
+{
+ "id": 106,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莺声",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "以莺声惊醒愁梦，反衬烦乱"
+  },
+  {
+   "word": "花气",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花气入帘，触动伤春之情"
+  },
+  {
+   "word": "泪竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用湘妃泪竹典故写悲愁"
+  },
+  {
+   "word": "佩兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "兰香老去，写时光流逝"
+  },
+  {
+   "word": "湘天",
+   "name": "湘天",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明湘地浓暖的暮春环境"
+  },
+  {
+   "word": "小江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中与游伴相约之地"
+  },
+  {
+   "word": "风月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "回忆往昔佳时风月"
+  },
+  {
+   "word": "鸾弦",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以鸾弦易断喻情缘断绝"
+  },
+  {
+   "word": "云和",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "云和再鼓而人远，写知音难再"
+  },
+  {
+   "word": "罗袜",
+   "name": "罗袜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指所思念的女子"
+  },
+  {
+   "word": "青翰",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "青翰棹舣，写孤舟停泊"
+  },
+  {
+   "word": "白苹",
+   "name": "苹",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "白苹洲畔，点染水边清冷"
+  },
+  {
+   "word": "洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白苹洲畔，水边陆地"
+  },
+  {
+   "word": "木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "临皋飞观旁的树木"
+  },
+  {
+   "word": "飞观",
+   "name": "楼阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "临皋高观，登临望远"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "幸有双燕归来，反衬音书难寄"
+  }
+ ]
+}

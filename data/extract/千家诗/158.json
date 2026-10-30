@@ -1,0 +1,61 @@
+{
+ "id": 158,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "与雪争春的主角，象征高洁与清香"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "与梅对比白与香的另一端"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "梅雪相争所争的时节背景"
+  },
+  {
+   "word": "骚人",
+   "name": "诗人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "评章梅雪高下的旁观者"
+  },
+  {
+   "word": "笔",
+   "name": "笔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "阁笔的动作写出评判之难"
+  }
+ ]
+}

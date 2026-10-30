@@ -1,0 +1,193 @@
+{
+ "id": 202,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "冬至",
+   "name": "冬至",
+   "category": "其他",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明节令，阴极阳生的时节背景"
+  },
+  {
+   "word": "阳生",
+   "name": "阳气",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "冬至一阳初生的时令象征"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "预示冬至后春回，寄托期盼"
+  },
+  {
+   "word": "刺绣",
+   "name": "刺绣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "冬至后女工添线，写闺中时序"
+  },
+  {
+   "word": "弱线",
+   "name": "线",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "刺绣添线，暗合冬至日晷渐长"
+  },
+  {
+   "word": "葭",
+   "name": "葭",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "候气之灰，写冬至占候古俗"
+  },
+  {
+   "word": "六管",
+   "name": "律管",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "六律玉管，写冬至葭灰飞动的占候"
+  },
+  {
+   "word": "飞灰",
+   "name": "灰",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "葭灰飞动，写节候之变"
+  },
+  {
+   "word": "岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "河岸待腊，写水边冬景"
+  },
+  {
+   "word": "腊",
+   "name": "腊",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "腊月时令，岸柳将舒的背景"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "岸柳将舒，写冬至后春意将至"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山意冲寒，写寒山欲放梅的生机"
+  },
+  {
+   "word": "寒",
+   "name": "寒气",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "寒山冲寒，点出冬至严寒"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "山梅欲放，写冬至后阳气萌动"
+  },
+  {
+   "word": "云物",
+   "name": "云物",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "云物不殊而乡国异，触发生乡思"
+  },
+  {
+   "word": "乡国",
+   "name": "乡国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "故园之思，写客中冬至的乡愁"
+  },
+  {
+   "word": "掌中杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "教儿覆杯，写冬至饮酒自遣"
+  }
+ ]
+}

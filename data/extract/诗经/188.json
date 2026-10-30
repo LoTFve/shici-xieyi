@@ -1,0 +1,61 @@
+{
+ "id": 188,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "野",
+   "name": "野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "弃妇独行其间的荒郊，全诗起兴与行踪所在"
+  },
+  {
+   "word": "樗",
+   "name": "樗",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以恶木起兴，反衬所托非人"
+  },
+  {
+   "word": "蓫",
+   "name": "蓫",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "采摘野菜，暗喻婚姻生活的辛劳与失落"
+  },
+  {
+   "word": "葍",
+   "name": "葍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蔓生野菜起兴，引出对旧姻的感叹"
+  },
+  {
+   "word": "邦家",
+   "name": "家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "被弃后想要归返的故国家园"
+  }
+ ]
+}

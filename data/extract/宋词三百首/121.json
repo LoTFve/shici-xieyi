@@ -1,0 +1,160 @@
+{
+ "id": 121,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "芦叶",
+   "name": "芦苇",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "渲染秋日萧条，漂泊之感"
+  },
+  {
+   "word": "汀洲",
+   "name": "汀洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "水中陆地，芦叶所生之处"
+  },
+  {
+   "word": "塞沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "边塞沙地，浅流所经"
+  },
+  {
+   "word": "浅流",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "浅水河流，景中实笔"
+  },
+  {
+   "word": "南楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "重游之地，引发今昔之叹"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "柳下系舟，暗含离别与漂泊"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "系舟未稳，喻行踪匆匆"
+  },
+  {
+   "word": "中秋",
+   "name": "中秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "点明时令，团圆之节反衬漂泊"
+  },
+  {
+   "word": "黄鹤",
+   "name": "黄鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借黄鹤矶典故，暗含物是人非"
+  },
+  {
+   "word": "矶头",
+   "name": "矶",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边石滩，黄鹤矶所在"
+  },
+  {
+   "word": "故人",
+   "name": "故人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "旧友不在，添孤独之感"
+  },
+  {
+   "word": "江山",
+   "name": "江山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "旧日江山，引发新愁"
+  },
+  {
+   "word": "桂花",
+   "name": "桂花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "欲买桂花载酒，却无少年心绪"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "载酒之愿，反衬今昔之异"
+  }
+ ]
+}

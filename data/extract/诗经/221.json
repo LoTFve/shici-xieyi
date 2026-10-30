@@ -1,0 +1,61 @@
+{
+ "id": 221,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "水中游鱼，起兴并象征宴乐"
+  },
+  {
+   "word": "藻",
+   "name": "藻",
+   "category": "植物",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水藻，鱼所依之处"
+  },
+  {
+   "word": "镐",
+   "name": "镐",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "西周都城，指代王朝所在"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮之乐"
+  },
+  {
+   "word": "蒲",
+   "name": "蒲",
+   "category": "植物",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水草，鱼所依傍"
+  }
+ ]
+}

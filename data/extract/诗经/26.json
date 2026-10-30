@@ -1,0 +1,138 @@
+{
+ "id": 26,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "柏舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以柏木舟泛流比喻漂泊无依的心境"
+  },
+  {
+   "word": "流",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "舟随水流，烘托漂泊之感"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒消愁而不得，反衬隐忧之深"
+  },
+  {
+   "word": "鉴",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以镜不能择物比喻心不能含容"
+  },
+  {
+   "word": "兄弟",
+   "name": "兄弟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "兄弟不可依靠，写孤立无援"
+  },
+  {
+   "word": "石",
+   "name": "石",
+   "category": "山石",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以石可转反衬心不可转"
+  },
+  {
+   "word": "席",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以席可卷反衬心不可卷"
+  },
+  {
+   "word": "群小",
+   "name": "小人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指构陷诗人的众小人，写其受辱之由"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "呼日而问，怨其隐微失明"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与日并提，喻君之明暗更迭"
+  },
+  {
+   "word": "衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以衣垢不洗比喻心中忧苦难除"
+  },
+  {
+   "word": "飞",
+   "name": "飞",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想奋飞而不能，写忧思无由解脱"
+  }
+ ]
+}

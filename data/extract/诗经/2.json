@@ -1,0 +1,105 @@
+{
+ "id": 2,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "葛",
+   "name": "葛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "全诗以葛藤起兴，象征女子劳作"
+  },
+  {
+   "word": "中谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "葛藤生长的山谷环境"
+  },
+  {
+   "word": "黄鸟",
+   "name": "黄鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "黄鸟飞鸣，烘托春日生机"
+  },
+  {
+   "word": "灌木",
+   "name": "灌木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟停集之处"
+  },
+  {
+   "word": "𫄨",
+   "name": "𫄨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "细葛布，指代织成的衣物"
+  },
+  {
+   "word": "绤",
+   "name": "绤",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "粗葛布，与𫄨对举"
+  },
+  {
+   "word": "衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洗净的衣服，准备归宁"
+  },
+  {
+   "word": "师氏",
+   "name": "师氏",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女师，女子告假归宁的对象"
+  },
+  {
+   "word": "父母",
+   "name": "父母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "归宁探望的对象，点明全诗归家主题"
+  }
+ ]
+}

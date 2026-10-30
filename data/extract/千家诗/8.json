@@ -1,0 +1,39 @@
+{
+ "id": 8,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "别业周围可供游赏的树林"
+  },
+  {
+   "word": "泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "林间清泉，点明园林之胜"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "诗人自信囊中有钱可买酒共饮"
+  }
+ ]
+}

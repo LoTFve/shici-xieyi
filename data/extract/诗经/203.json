@@ -1,0 +1,237 @@
+{
+ "id": 203,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "簋",
+   "name": "簋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛满食物的食器，象征周人饱食"
+  },
+  {
+   "word": "棘匕",
+   "name": "匕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "酸枣木做的勺，与簋飧形成对照"
+  },
+  {
+   "word": "周道",
+   "name": "道路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "平坦如磨刀石的大道，象征周朝政道"
+  },
+  {
+   "word": "涕",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "涕泪交流，表达对周道衰败的悲伤"
+  },
+  {
+   "word": "葛屦",
+   "name": "葛鞋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "葛草编的鞋，与霜地形成反差"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "履霜而行，暗示寒苦"
+  },
+  {
+   "word": "氿泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "侧出的泉水，不要浸湿柴薪"
+  },
+  {
+   "word": "薪",
+   "name": "柴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "砍伐的柴木，比喻劳苦民众"
+  },
+  {
+   "word": "舟人",
+   "name": "船夫",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "船夫的儿子穿着熊皮裘，与东人对比"
+  },
+  {
+   "word": "熊罴",
+   "name": "熊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "熊和罴的皮做裘，显示西人富有"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "西人喝美酒，东人只能喝浆"
+  },
+  {
+   "word": "浆",
+   "name": "浆",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "薄浆，与美酒对比"
+  },
+  {
+   "word": "佩璲",
+   "name": "玉佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "佩戴的瑞玉，指西人服饰华美"
+  },
+  {
+   "word": "汉",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "银河有光，但无实用"
+  },
+  {
+   "word": "织女",
+   "name": "织女",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "织女星终日移动却织不成布，喻劳而无功"
+  },
+  {
+   "word": "牵牛",
+   "name": "牵牛",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "牵牛星明亮却不能拉车，有名无实"
+  },
+  {
+   "word": "启明",
+   "name": "金星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "启明星在东，与长庚对应"
+  },
+  {
+   "word": "长庚",
+   "name": "金星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "长庚星在西，与启明对应"
+  },
+  {
+   "word": "天毕",
+   "name": "毕",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "毕星，形似捕兔网，却无法使用"
+  },
+  {
+   "word": "箕",
+   "name": "箕",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "箕星，不能簸扬，象征徒有虚名"
+  },
+  {
+   "word": "斗",
+   "name": "斗",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "斗星，不能舀酒浆，讽刺周室无能"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 155,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "征雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "南飞雁点明秋令，牵动羁旅之思"
+  },
+  {
+   "word": "蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "无",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蝉声消歇写秋气已深"
+  },
+  {
+   "word": "楼台",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "百尺高楼为观月赏霜之处，衬出清冷孤高"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "水天相接，拓展楼前空阔境界"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "水接天写视野浩渺，为霜月铺背景"
+  },
+  {
+   "word": "青女",
+   "name": "青女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "霜神，与素娥并置，写霜之寒威"
+  },
+  {
+   "word": "素娥",
+   "name": "嫦娥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月神，代指月中嫦娥，与青女竞美"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "全诗核心意象，月中霜里相斗清辉"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "与月并写，见秋夜清寒高洁"
+  }
+ ]
+}

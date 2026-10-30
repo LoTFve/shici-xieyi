@@ -1,0 +1,83 @@
+{
+ "id": 68,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "扬之水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "激扬的流水，反衬束薪不流，起兴戍役之叹"
+  },
+  {
+   "word": "束薪",
+   "name": "薪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捆扎的柴薪，流水冲不走，喻心中牵挂难移"
+  },
+  {
+   "word": "束楚",
+   "name": "楚",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捆扎的荆条，与束薪同作起兴之物"
+  },
+  {
+   "word": "束蒲",
+   "name": "蒲",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捆扎的蒲草，三章递换起兴，见戍役之久"
+  },
+  {
+   "word": "申",
+   "name": "申",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "戍守的国邑，点明役夫远离家乡之地"
+  },
+  {
+   "word": "甫",
+   "name": "甫",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "戍守之地，与申、许并见役夫转戍之苦"
+  },
+  {
+   "word": "许",
+   "name": "许",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "戍守之地，三地轮换，愈见归期无望"
+  }
+ ]
+}

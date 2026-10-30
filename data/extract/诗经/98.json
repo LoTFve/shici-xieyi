@@ -1,0 +1,94 @@
+{
+ "id": 98,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "着",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "迎亲时等候的门屏之处"
+  },
+  {
+   "word": "庭",
+   "name": "庭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "迎亲时等候的庭院"
+  },
+  {
+   "word": "堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "迎亲时等候的厅堂"
+  },
+  {
+   "word": "充耳",
+   "name": "充耳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "新郎冠冕两侧的垂饰"
+  },
+  {
+   "word": "素",
+   "name": "素",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "充耳所用的白色丝线"
+  },
+  {
+   "word": "琼华",
+   "name": "琼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "充耳上缀的美玉"
+  },
+  {
+   "word": "琼莹",
+   "name": "琼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "充耳上缀的美玉"
+  },
+  {
+   "word": "琼英",
+   "name": "琼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "充耳上缀的美玉"
+  }
+ ]
+}

@@ -1,0 +1,226 @@
+{
+ "id": 132,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莲",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "芳莲坠粉，写庭院池中莲花凋落之景"
+  },
+  {
+   "word": "桐",
+   "name": "桐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "疏桐吹绿，梧桐在雨中摇动，点秋意"
+  },
+  {
+   "word": "庭院",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "暗雨乍歇的庭院，全词起景所在"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暗雨乍歇，渲染凄清氛围"
+  },
+  {
+   "word": "墙",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "筱墙边萤火暗明，庭院一角"
+  },
+  {
+   "word": "萤",
+   "name": "萤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "萤暗，以微光衬庭院幽暗"
+  },
+  {
+   "word": "藓阶",
+   "name": "苔阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "长满苔藓的台阶，写久无人迹"
+  },
+  {
+   "word": "蛩",
+   "name": "蟋蟀",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "蛩切，蟋蟀悲切鸣声，添秋夜愁绪"
+  },
+  {
+   "word": "水面",
+   "name": "水面",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "问水面琵琶谁拨，引出送别江上之境"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暗用白居易浔阳江头琵琶典，写别情"
+  },
+  {
+   "word": "江山",
+   "name": "江山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "一片江山付与啼鸟，抒山河之感"
+  },
+  {
+   "word": "西风",
+   "name": "西风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "对西风离别，秋风催别，倍增凄凉"
+  },
+  {
+   "word": "渚",
+   "name": "沙洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "渚寒烟淡，水边寒洲笼烟"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟淡，江上雾气迷蒙，衬舟去人远"
+  },
+  {
+   "word": "行舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "缥缈行舟如叶，远行之舟小如片叶"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "倚竹愁生，想象对方倚竹凝望之态"
+  },
+  {
+   "word": "罗袜",
+   "name": "罗袜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "步罗袜，写女子步态，承文君望久之意"
+  },
+  {
+   "word": "翠尊",
+   "name": "酒尊",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "归来后翠尊双饮，设想重逢对饮"
+  },
+  {
+   "word": "珠帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "下了珠帘，设想归家后放下帘幕"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "玲珑闲看月，想象重聚后闲看明月"
+  }
+ ]
+}

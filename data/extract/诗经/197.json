@@ -1,0 +1,226 @@
+{
+ "id": 197,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸴斯",
+   "name": "鸴",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之鸟，反衬归飞有依"
+  },
+  {
+   "word": "周道",
+   "name": "道路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "平坦大道荒芜，喻处境困顿"
+  },
+  {
+   "word": "茂草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "大道上杂草丛生，写荒凉"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "桑梓代指父母故乡，起敬"
+  },
+  {
+   "word": "梓",
+   "name": "梓",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "与桑并称，代指父母"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "茂盛柳树兴起下文蝉鸣"
+  },
+  {
+   "word": "蜩",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝉鸣嘒嘒，以声衬忧"
+  },
+  {
+   "word": "渊",
+   "name": "渊",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "深水潭，与芦苇共写景象"
+  },
+  {
+   "word": "萑苇",
+   "name": "芦苇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边芦苇茂盛，写景"
+  },
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "自比漂流之舟，不知所止"
+  },
+  {
+   "word": "鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹿奔求群，反衬孤独"
+  },
+  {
+   "word": "雉",
+   "name": "雉",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "晨鸣求雌，反衬失所"
+  },
+  {
+   "word": "坏木",
+   "name": "枯木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "自比病木无枝"
+  },
+  {
+   "word": "投兔",
+   "name": "兔",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被投之兔尚有人怜，反衬"
+  },
+  {
+   "word": "死人",
+   "name": "死人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "路上死人尚有人埋，对比君子之忍"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以山高泉深喻言不可轻"
+  },
+  {
+   "word": "泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与山对举，喻深不可测"
+  },
+  {
+   "word": "垣",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "耳属于垣，喻有人偷听"
+  },
+  {
+   "word": "梁",
+   "name": "鱼梁",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕鱼石堰，嘱人勿动"
+  },
+  {
+   "word": "笱",
+   "name": "鱼笱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕鱼竹笼，与梁并写"
+  }
+ ]
+}

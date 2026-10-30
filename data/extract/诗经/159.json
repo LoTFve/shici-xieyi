@@ -1,0 +1,72 @@
+{
+ "id": 159,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鳟",
+   "name": "鳟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "细网所捕之鱼，起兴引出所见之子"
+  },
+  {
+   "word": "鲂",
+   "name": "鲂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "细网所捕之鱼，与鳟并举以起兴"
+  },
+  {
+   "word": "衮衣",
+   "name": "衮衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绣有龙纹的礼服，指代所遇贵公"
+  },
+  {
+   "word": "绣裳",
+   "name": "绣裳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "锦绣下裳，与衮衣同写贵公之服"
+  },
+  {
+   "word": "鸿",
+   "name": "鸿",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "鸿雁飞落洲渚，兴起公归无所之叹"
+  },
+  {
+   "word": "渚",
+   "name": "渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸿雁栖止的水中小洲"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 201,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晴窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "冬",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "清晨透入阳光的窗，点出冬晨室内暖意"
+  },
+  {
+   "word": "朝曦",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "清晨阳光照入窗中，是全诗起兴的暖色光源"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "窗外竹丛，秋声由此而起"
+  },
+  {
+   "word": "秋声",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "竹外风声渐劲，写出冬初寒意来袭"
+  },
+  {
+   "word": "暖阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "仆人安排取暖的内阁，见冬日居处之适"
+  },
+  {
+   "word": "寒衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "童子熨贴旧冬衣，写御寒准备"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "嫩绿新酒初熟，为冬日宴饮添兴"
+  },
+  {
+   "word": "橙",
+   "name": "橙",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "切开的香黄橙子，是冬令果品"
+  },
+  {
+   "word": "蟹",
+   "name": "蟹",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "蟹正肥美，写冬日口腹之乐"
+  },
+  {
+   "word": "蓉菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "满园芙蓉与菊花可赏，点出冬景中的花事"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 268,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "典",
+   "name": "典",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指文王留下的典章法度"
+  },
+  {
+   "word": "禋",
+   "name": "禋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指祭祀上天的一种典礼"
+  },
+  {
+   "word": "周",
+   "name": "周",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指周朝或周室"
+  },
+  {
+   "word": "祯",
+   "name": "祯",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻周室受天所赐的吉祥福瑞"
+  }
+ ]
+}

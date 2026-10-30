@@ -1,0 +1,226 @@
+{
+ "id": 188,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "琼管",
+   "name": "管",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指玉管，古代用来预测节气的乐器，象征春讯"
+  },
+  {
+   "word": "风日",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春风和煦，阳光微薄"
+  },
+  {
+   "word": "啼鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸟儿啼叫，声音杂乱，衬托春意"
+  },
+  {
+   "word": "江城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "临江的城市，泛指眼前景象"
+  },
+  {
+   "word": "笙歌",
+   "name": "笙",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "音乐歌声，表现热闹场景"
+  },
+  {
+   "word": "绮罗",
+   "name": "罗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指穿着华美丝绸的人们"
+  },
+  {
+   "word": "涧渌",
+   "name": "涧",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山涧清澈的水，冰已融化"
+  },
+  {
+   "word": "冰泮",
+   "name": "冰",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "冰融化，表示春天气息"
+  },
+  {
+   "word": "黛眉",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指女子，眉头紧锁"
+  },
+  {
+   "word": "隋堤",
+   "name": "堤",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "隋堤柳，常指送别之地，此处借指思念"
+  },
+  {
+   "word": "梁苑",
+   "name": "梁苑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梁园，借指游赏之地，此处表思念"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雁传书信，但音讯阔绝"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云中雁影，指音信"
+  },
+  {
+   "word": "鸾",
+   "name": "鸾",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "鸾镜分影，比喻夫妻分离"
+  },
+  {
+   "word": "槛",
+   "name": "槛",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "栏杆，此处指窗前"
+  },
+  {
+   "word": "细雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春雨细密，增添愁绪"
+  },
+  {
+   "word": "澹月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "淡月笼罩愁绪"
+  },
+  {
+   "word": "庭院",
+   "name": "院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "庭院景象，引发离愁"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "芳草连天，象征离愁绵延"
+  },
+  {
+   "word": "飞梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "梅花飘落，晚景萧瑟"
+  }
+ ]
+}

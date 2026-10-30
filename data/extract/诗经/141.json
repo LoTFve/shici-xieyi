@@ -1,0 +1,72 @@
+{
+ "id": 141,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "墓门",
+   "name": "墓门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "起兴的场所，通往墓地的门，营造阴森氛围"
+  },
+  {
+   "word": "棘",
+   "name": "棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "墓门前的酸枣丛，喻指恶人当道"
+  },
+  {
+   "word": "斧",
+   "name": "斧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用来劈除荆棘的工具，象征铲除祸害"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "墓门旁的梅树，与恶鸟相对，暗喻环境反常"
+  },
+  {
+   "word": "鸮",
+   "name": "鸮",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "停在梅树上的猫头鹰，古人视为恶鸟，象征不祥"
+  },
+  {
+   "word": "歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以歌谣讽谏，表达对不良之人的斥责"
+  }
+ ]
+}

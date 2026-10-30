@@ -1,0 +1,215 @@
+{
+ "id": 259,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "玉关",
+   "name": "关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指边塞旧游之地，带出踏雪清游的回忆"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写边塞踏雪清游的寒气与行迹"
+  },
+  {
+   "word": "貂裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以貂裘被寒气冻脆写边地严寒"
+  },
+  {
+   "word": "枯林",
+   "name": "枯林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "古道旁萧瑟的枯树林，渲染荒寒"
+  },
+  {
+   "word": "古道",
+   "name": "古道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒凉古路，映衬羁旅身影"
+  },
+  {
+   "word": "长河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边地长河，写饮马的苍茫背景"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "长河饮马，写旅途行役的动作"
+  },
+  {
+   "word": "江表",
+   "name": "江表",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梦回江南，寄托故国之思"
+  },
+  {
+   "word": "西州",
+   "name": "西州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用羊昙哭西州典，写故人零落之悲"
+  },
+  {
+   "word": "落叶",
+   "name": "落叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落叶题愁，化用红叶题诗而无可题处"
+  },
+  {
+   "word": "白云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "载云归去，写隐逸飘然之想"
+  },
+  {
+   "word": "楚佩",
+   "name": "佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用湘君遗佩典，写故人难留"
+  },
+  {
+   "word": "中洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "水中沙洲，弄影之处，空灵寂寥"
+  },
+  {
+   "word": "芦花",
+   "name": "芦花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "折芦花赠远，点出一身秋意"
+  },
+  {
+   "word": "野桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "寻常野桥，写归隐处所的平淡"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "桥下流水，映衬幽居清境"
+  },
+  {
+   "word": "沙鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "旧沙鸥难招，叹物是人非"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "斜阳登楼，触发起故国之悲"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "登楼望远，却怕触景伤情"
+  }
+ ]
+}

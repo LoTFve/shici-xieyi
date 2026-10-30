@@ -1,0 +1,204 @@
+{
+ "id": 13,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "弱柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以弱柳千缕起兴，渲染春景与离愁"
+  },
+  {
+   "word": "鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "鸦啼点缀春景，暗含孤寂"
+  },
+  {
+   "word": "罗衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春寒透衣，写体感以衬心境"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "一番风雨增添春寒与愁绪"
+  },
+  {
+   "word": "燕子",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "问燕传情，寄托对故人的思念"
+  },
+  {
+   "word": "绿水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "绿水桥边，点明送别地点"
+  },
+  {
+   "word": "桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "桥边路是记忆中相会之处"
+  },
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "曾见伊人的画楼，如今空寂"
+  },
+  {
+   "word": "云窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "想象对方静掩云窗，孤寂独处"
+  },
+  {
+   "word": "哀弦",
+   "name": "弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "尘满琴弦，暗示人去楼空"
+  },
+  {
+   "word": "危柱",
+   "name": "柱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "琴柱蒙尘，与哀弦同写无心弹奏"
+  },
+  {
+   "word": "庾信",
+   "name": "庾信",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以庾信愁苦自比，深化乡愁"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "独立东风，写春风吹拂中的孤影"
+  },
+  {
+   "word": "泪眼",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "弹泪眼直写悲伤"
+  },
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寄泪于东去烟波，愁思随水远"
+  },
+  {
+   "word": "黄鹂",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "百啭黄鹂惊醒春睡，反衬无聊"
+  },
+  {
+   "word": "残照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "残照花坞，以暮色收束全词"
+  },
+  {
+   "word": "花坞",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "花坞为残照所映，点明春景"
+  }
+ ]
+}

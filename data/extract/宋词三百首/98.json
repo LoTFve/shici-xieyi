@@ -1,0 +1,270 @@
+{
+ "id": 98,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "旌旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "描绘野外行军或仪仗的壮观场面"
+  },
+  {
+   "word": "车马",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "表现朝见或出行的盛大车马队伍"
+  },
+  {
+   "word": "平沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "展现广阔无垠的沙地景象"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "凸显天空低垂的辽阔感"
+  },
+  {
+   "word": "宝带",
+   "name": "带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指官员的华贵服饰"
+  },
+  {
+   "word": "金章",
+   "name": "章",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指官印，象征身份地位"
+  },
+  {
+   "word": "尊",
+   "name": "尊",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指酒杯，用于宴饮场景"
+  },
+  {
+   "word": "茸帽",
+   "name": "帽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "冬季所戴的皮帽，点明季节"
+  },
+  {
+   "word": "秦关",
+   "name": "关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "泛指北方关隘，勾起行旅之思"
+  },
+  {
+   "word": "汴水",
+   "name": "汴水",
+   "category": "地名",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "代表中原河流，寄托故国之思"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "叠鼓声声，渲染豪迈气氛"
+  },
+  {
+   "word": "笳",
+   "name": "笳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清笳悲凉，增添边塞风情"
+  },
+  {
+   "word": "骏马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "英游中的坐骑，表现豪放气概"
+  },
+  {
+   "word": "名姬",
+   "name": "姬",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴游中的歌姬，衬托欢乐场景"
+  },
+  {
+   "word": "燕山雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "燕山积雪，展现北国严寒"
+  },
+  {
+   "word": "冰河",
+   "name": "冰",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "冰封的河流，暗示寒冷与孤寂"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "月照冰河，烘托思乡之情"
+  },
+  {
+   "word": "晓陇",
+   "name": "陇",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "拂晓的山陇，渲染清晨寂寥"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "陇上飞云，增添飘泊之感"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "春风又绿，反衬人未归"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "江南胜地，寄托故园之思"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "西湖柳绿，象征春色与离别"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雁归而人未归，加深乡愁"
+  },
+  {
+   "word": "梅花",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "折梅寄相思，表达深切怀念"
+  }
+ ]
+}

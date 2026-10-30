@@ -1,0 +1,28 @@
+{
+ "id": 13,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "罢相后借酒自遣，衔杯独饮"
+  },
+  {
+   "word": "门前客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指往日趋附门下的宾客，今已星散"
+  }
+ ]
+}

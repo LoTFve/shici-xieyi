@@ -1,0 +1,293 @@
+{
+ "id": 53,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "石岩",
+   "name": "岩石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人倚靠流泪的实景山石"
+  },
+  {
+   "word": "巑岏",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登高远望的高峻山峰"
+  },
+  {
+   "word": "南郢",
+   "name": "郢",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人眺望的故国都城"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "修远辽辽，阻隔归途"
+  },
+  {
+   "word": "涂",
+   "name": "道路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "漫漫无时的南行之路"
+  },
+  {
+   "word": "玄鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "高冈晨鸣，以声衬寂"
+  },
+  {
+   "word": "高冈",
+   "name": "山冈",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "玄鹤鸣叫的峨峨高处"
+  },
+  {
+   "word": "江洲",
+   "name": "江洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人翔游安歌的水中陆地"
+  },
+  {
+   "word": "三鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "自南飞北，欲托寄言的飞鸟"
+  },
+  {
+   "word": "簧",
+   "name": "笙簧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想借乐器舒忧而难释"
+  },
+  {
+   "word": "明珠",
+   "name": "明珠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻贤才被弃如珠赴泥"
+  },
+  {
+   "word": "鱼眼",
+   "name": "鱼眼",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻鱼目混珠、贤愚颠倒"
+  },
+  {
+   "word": "葛藟",
+   "name": "葛藟",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蔓生缠绕桂树，喻小人得势"
+  },
+  {
+   "word": "桂树",
+   "name": "桂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "被葛藟缠绕，喻贤者受困"
+  },
+  {
+   "word": "鸱鸮",
+   "name": "鸱鸮",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "集于木兰，喻恶人占据高位"
+  },
+  {
+   "word": "木兰",
+   "name": "木兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸱鸮所集的香木，喻贤位被占"
+  },
+  {
+   "word": "廊庙",
+   "name": "廊庙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指朝廷，偓促之人得志之处"
+  },
+  {
+   "word": "周鼎",
+   "name": "鼎",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "沉于江淮，喻国宝贤才被弃"
+  },
+  {
+   "word": "江淮",
+   "name": "江淮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "周鼎沉没之处"
+  },
+  {
+   "word": "爨土鬵",
+   "name": "土鬵",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "贱器置于中宇，喻贤愚倒置"
+  },
+  {
+   "word": "征夫",
+   "name": "征夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "宵行南道的远行人，亦是自况"
+  },
+  {
+   "word": "郢路",
+   "name": "郢",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指回不去的故国都城，表达思念"
+  },
+  {
+   "word": "涕",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "涕泪交流，渲染悲苦"
+  },
+  {
+   "word": "青青",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "茂盛的青草，反衬悲情"
+  },
+  {
+   "word": "北",
+   "name": "北",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "向北回望，暗示对故国的眷恋"
+  },
+  {
+   "word": "仆夫",
+   "name": "仆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "仆从慌乱憔悴，衬托主人公的悲苦"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 16,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "甘棠",
+   "name": "棠",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全诗反复吟咏的核心意象，召伯曾在此树下休息，人们因怀念他而不忍砍伐"
+  },
+  {
+   "word": "召伯",
+   "name": "召伯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中追念的古代贤臣，是甘棠受保护的原因"
+  },
+  {
+   "word": "茇",
+   "name": "草舍",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指召伯曾在此搭舍暂住，点出甘棠与贤者的联系"
+  },
+  {
+   "word": "憩",
+   "name": "憩",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "召伯在甘棠下休息，强化对树的珍视之情"
+  }
+ ]
+}

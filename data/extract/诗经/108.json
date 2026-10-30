@@ -1,0 +1,116 @@
+{
+ "id": 108,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "汾",
+   "name": "汾水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中的核心地点，人物在汾水边采摘"
+  },
+  {
+   "word": "沮洳",
+   "name": "湿地",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "汾水边的低湿之地"
+  },
+  {
+   "word": "莫",
+   "name": "酸模",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "在汾水边采摘的野菜"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "在汾水旁采摘的桑叶，暗示春时"
+  },
+  {
+   "word": "藚",
+   "name": "泽泻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "在汾水弯处采摘的水草"
+  },
+  {
+   "word": "英",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以花朵比喻人物之美"
+  },
+  {
+   "word": "玉",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以美玉比喻人物品性美好"
+  },
+  {
+   "word": "公路",
+   "name": "公路",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指掌管路车的官，与理想之人对比"
+  },
+  {
+   "word": "公行",
+   "name": "公行",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指掌管兵车的官，与理想之人对比"
+  },
+  {
+   "word": "公族",
+   "name": "公族",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指公族大夫，与理想之人对比"
+  }
+ ]
+}

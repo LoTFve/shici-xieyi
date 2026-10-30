@@ -1,0 +1,193 @@
+{
+ "id": 32,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿阴",
+   "name": "树荫",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "无",
+   "note": "点明春末景象"
+  },
+  {
+   "word": "飞絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "渲染春末氛围"
+  },
+  {
+   "word": "香阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子居所"
+  },
+  {
+   "word": "翠眉",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "描绘女子妆容"
+  },
+  {
+   "word": "远山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻眉形"
+  },
+  {
+   "word": "横波",
+   "name": "眼波",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指女子眼神"
+  },
+  {
+   "word": "画帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "室内陈设"
+  },
+  {
+   "word": "曲",
+   "name": "曲",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "新谱的乐曲"
+  },
+  {
+   "word": "书",
+   "name": "信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指书信"
+  },
+  {
+   "word": "回纹",
+   "name": "回文",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用窦滔妻苏氏织锦回文典，指情诗"
+  },
+  {
+   "word": "诗",
+   "name": "诗",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指所写的诗"
+  },
+  {
+   "word": "笙歌",
+   "name": "笙歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴乐歌舞"
+  },
+  {
+   "word": "红蜡",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "红烛照明"
+  },
+  {
+   "word": "闲云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "云归暗示时间流逝"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月下庭院，烘托孤寂"
+  },
+  {
+   "word": "庭花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "庭院中的花"
+  },
+  {
+   "word": "阑角",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "庭院栏杆角落"
+  }
+ ]
+}

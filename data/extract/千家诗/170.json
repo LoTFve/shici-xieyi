@@ -1,0 +1,127 @@
+{
+ "id": 170,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "起句以春风不到极写山城荒寒"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借指遥远的贬所夷陵"
+  },
+  {
+   "word": "山城",
+   "name": "山城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指贬所夷陵，点出荒僻环境"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "无",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "二月未见花，反衬山城春迟"
+  },
+  {
+   "word": "残雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "早春余寒未消之景"
+  },
+  {
+   "word": "枝",
+   "name": "枝",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪压枝条，衬托橘的生机"
+  },
+  {
+   "word": "橘",
+   "name": "橘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "残雪中犹存之橘，见山城物产"
+  },
+  {
+   "word": "笋",
+   "name": "笋",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "冻雷惊笋，写早春萌动生意"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "夜闻雁啼触动乡思"
+  },
+  {
+   "word": "洛阳",
+   "name": "洛阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆昔年赏花旧游之地"
+  },
+  {
+   "word": "野芳",
+   "name": "野花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "虽晚亦开，自慰不必嗟叹"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 51,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蝃𬟽",
+   "name": "虹",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以彩虹起兴，引出女子出嫁远行"
+  },
+  {
+   "word": "东",
+   "name": "东",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明彩虹出现的方向"
+  },
+  {
+   "word": "朝",
+   "name": "朝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明清晨时分云气升腾"
+  },
+  {
+   "word": "西",
+   "name": "西",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与东相对，写云气方位"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写清晨云气带来的降雨"
+  }
+ ]
+}

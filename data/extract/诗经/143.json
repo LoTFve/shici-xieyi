@@ -1,0 +1,28 @@
+{
+ "id": 143,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "起兴之景，以皎洁月色引出对美人的思念与劳心"
+  },
+  {
+   "word": "人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "佼人，诗人思慕的美好女子，诗中的抒情对象"
+  }
+ ]
+}

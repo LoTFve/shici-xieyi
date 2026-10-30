@@ -1,0 +1,182 @@
+{
+ "id": 60,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "双阙",
+   "name": "阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "描绘京城宫阙高耸入云的盛景"
+  },
+  {
+   "word": "凤楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "指华美的宫楼，点出元夜繁华"
+  },
+  {
+   "word": "玉殿",
+   "name": "殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "写宫殿华美，映衬昔日盛况"
+  },
+  {
+   "word": "珠帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "珠帘尽卷，写出宫廷宴乐的排场"
+  },
+  {
+   "word": "群仙",
+   "name": "仙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以群仙比喻宴游的侍从百官"
+  },
+  {
+   "word": "蓬壶",
+   "name": "蓬壶",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指仙境般的宫苑"
+  },
+  {
+   "word": "阆苑",
+   "name": "阆苑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与蓬壶并举，写宫苑如仙境"
+  },
+  {
+   "word": "五云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "五彩祥云，烘托帝王气象"
+  },
+  {
+   "word": "烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "万烛光中见元夜灯火辉煌"
+  },
+  {
+   "word": "丝管",
+   "name": "丝管",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "揭天丝管写宴乐之盛"
+  },
+  {
+   "word": "星霜",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "星霜换喻岁月流逝"
+  },
+  {
+   "word": "孤臣",
+   "name": "臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "自指贬谪孤寂之身"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指故都朝堂，回首生远念"
+  },
+  {
+   "word": "华胥梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用黄帝梦游华胥典，喻往事如梦"
+  },
+  {
+   "word": "寒灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "数点寒灯映照当下孤寂处境"
+  },
+  {
+   "word": "归雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "几声归雁以动衬静，添思归之意"
+  }
+ ]
+}

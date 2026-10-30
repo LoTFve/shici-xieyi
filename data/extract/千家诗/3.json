@@ -1,0 +1,61 @@
+{
+ "id": 3,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "大道",
+   "name": "道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "洛阳大道笔直如发，展现都市气象"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "点明时令，春意盎然"
+  },
+  {
+   "word": "五陵",
+   "name": "五陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指贵族聚居之地，暗示贵公子身份"
+  },
+  {
+   "word": "贵公子",
+   "name": "公子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中的主角，骑马路过的贵族子弟"
+  },
+  {
+   "word": "玉珂",
+   "name": "玉珂",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "马勒上的玉饰，呜响表现公子出行之声"
+  }
+ ]
+}

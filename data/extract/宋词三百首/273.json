@@ -1,0 +1,116 @@
+{
+ "id": 273,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "残红",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残灯将尽，点明深夜孤寂氛围"
+  },
+  {
+   "word": "秋气",
+   "name": "秋",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋凉弥漫屏帏，渲染凄清"
+  },
+  {
+   "word": "屏帏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "室内陈设，秋气透入，衬出孤寂"
+  },
+  {
+   "word": "梧桐",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "雨打梧桐，声声别离，经典愁苦意象"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "三更冷雨，强化别离之悲"
+  },
+  {
+   "word": "宝瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中同调宝瑟，反衬如今孤寂"
+  },
+  {
+   "word": "金猊",
+   "name": "香炉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "拨弄金猊香炉，昔日温馨场景"
+  },
+  {
+   "word": "鹧鸪词",
+   "name": "鹧鸪",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鹧鸪词曲调哀婉，借以表达离愁"
+  },
+  {
+   "word": "风雨",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "如今风雨交加，更添凄凉"
+  },
+  {
+   "word": "西楼",
+   "name": "楼阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "风雨西楼，孤身独处之地"
+  }
+ ]
+}

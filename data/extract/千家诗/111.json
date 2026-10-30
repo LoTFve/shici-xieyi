@@ -1,0 +1,61 @@
+{
+ "id": 111,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以梅落写春暮之始"
+  },
+  {
+   "word": "海棠",
+   "name": "海棠",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "新红盛开，代表春末花事"
+  },
+  {
+   "word": "荼蘼",
+   "name": "荼蘼",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "荼蘼开尽意味花事终了"
+  },
+  {
+   "word": "夭棘",
+   "name": "夭棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "细枝柔条伸出莓墙，添野趣"
+  },
+  {
+   "word": "莓墙",
+   "name": "莓墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "苔莓覆盖的园墙，为花枝背景"
+  }
+ ]
+}

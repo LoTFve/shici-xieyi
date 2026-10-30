@@ -1,0 +1,116 @@
+{
+ "id": 84,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "起兴之景，山上树木的依托"
+  },
+  {
+   "word": "扶苏",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上的茂盛树木，与下句荷花对举起兴"
+  },
+  {
+   "word": "隰",
+   "name": "洼地",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地，荷花所生之处"
+  },
+  {
+   "word": "荷华",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿处的荷花，与山上树木相对起兴"
+  },
+  {
+   "word": "子都",
+   "name": "子都",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借古美男子之名指心中所期的良人"
+  },
+  {
+   "word": "狂且",
+   "name": "狂人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "戏谑指所见的轻狂之人"
+  },
+  {
+   "word": "乔松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上高大的松树，再次起兴"
+  },
+  {
+   "word": "游龙",
+   "name": "红蓼",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿处的红蓼草，与乔松对举起兴"
+  },
+  {
+   "word": "子充",
+   "name": "子充",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借美男子之名指心中所期的良人"
+  },
+  {
+   "word": "狡童",
+   "name": "狡童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "戏谑指所见的狡黠少年"
+  }
+ ]
+}

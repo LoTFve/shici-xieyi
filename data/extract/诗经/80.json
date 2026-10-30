@@ -1,0 +1,39 @@
+{
+ "id": 80,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "羔裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以羔羊皮袄起兴，借服饰之美写官员之德"
+  },
+  {
+   "word": "豹饰",
+   "name": "豹饰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "羔裘袖口豹皮装饰，衬托官员威武"
+  },
+  {
+   "word": "三英",
+   "name": "三英",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "羔裘上的三处装饰，显其华美粲然"
+  }
+ ]
+}

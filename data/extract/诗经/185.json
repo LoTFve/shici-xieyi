@@ -1,0 +1,50 @@
+{
+ "id": 185,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "祈父",
+   "name": "祈父",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "诗中被反复呼告的司马官职，是士兵怨愤的对象"
+  },
+  {
+   "word": "爪牙",
+   "name": "爪牙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻王之勇士，自陈身份"
+  },
+  {
+   "word": "爪士",
+   "name": "爪士",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与爪牙同义，喻武士"
+  },
+  {
+   "word": "母",
+   "name": "母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "家中无人奉养的母亲，牵动归思"
+  }
+ ]
+}

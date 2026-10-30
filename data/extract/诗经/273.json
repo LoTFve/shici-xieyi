@@ -1,0 +1,61 @@
+{
+ "id": 273,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以苍天为周王之父，彰显天命所归"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与高山并称，代指地祇，见巡狩怀柔之广"
+  },
+  {
+   "word": "乔岳",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高山大岳，与河一同受祭，象征四方安定"
+  },
+  {
+   "word": "干戈",
+   "name": "戈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指兵器与战事，戢藏干戈以示止武"
+  },
+  {
+   "word": "弓矢",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "弓与箭，橐藏不用，与干戈同表偃武修文"
+  }
+ ]
+}

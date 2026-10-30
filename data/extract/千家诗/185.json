@@ -1,0 +1,94 @@
+{
+ "id": 185,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "新竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全诗咏写的中心，新栽成林的翠竹"
+  },
+  {
+   "word": "棘",
+   "name": "荆棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "编篱护竹所用的枝条"
+  },
+  {
+   "word": "篱",
+   "name": "篱",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "插棘编成的护竹围栏"
+  },
+  {
+   "word": "涟漪",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹影倒映的微波水面"
+  },
+  {
+   "word": "清风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "掠地而来的凉风，先报秋意"
+  },
+  {
+   "word": "赤日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "夏",
+   "time": "昼",
+   "emotion": "无",
+   "note": "行天的烈日，反衬竹林清凉"
+  },
+  {
+   "word": "箨",
+   "name": "笋壳",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "竹笋脱落的皮壳，簌簌作响"
+  },
+  {
+   "word": "簟",
+   "name": "竹席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "随身携带的枕席，写归闲之愿"
+  }
+ ]
+}

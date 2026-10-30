@@ -1,0 +1,160 @@
+{
+ "id": 57,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "河水",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以黄河水势衬托庄姜出嫁的盛大"
+  },
+  {
+   "word": "葭菼",
+   "name": "芦苇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边芦苇茂盛，点出农郊水乡环境"
+  },
+  {
+   "word": "鳣鲔",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "网中鱼跃，写捕鱼丰收之景"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹雄马驾车，显出嫁车仪之盛"
+  },
+  {
+   "word": "翟茀",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雉羽装饰的车帘，指庄姜所乘之车"
+  },
+  {
+   "word": "罛",
+   "name": "渔网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "撒网入水之声，写水边渔事"
+  },
+  {
+   "word": "螓首",
+   "name": "额",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以螓虫方正之额比喻美人额头"
+  },
+  {
+   "word": "蛾眉",
+   "name": "眉",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蚕蛾触须比喻美人细长眉毛"
+  },
+  {
+   "word": "柔荑",
+   "name": "手",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以茅草嫩芽比喻美人手指纤柔"
+  },
+  {
+   "word": "凝脂",
+   "name": "肤",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以凝固油脂比喻美人肌肤白润"
+  },
+  {
+   "word": "蝤蛴",
+   "name": "颈",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以天牛幼虫比喻美人颈项白皙"
+  },
+  {
+   "word": "瓠犀",
+   "name": "齿",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以瓠瓜籽比喻美人牙齿洁白整齐"
+  },
+  {
+   "word": "东宫",
+   "name": "东宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指齐国太子，说明庄姜出身"
+  },
+  {
+   "word": "农郊",
+   "name": "郊野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "庄姜停车休息的近郊田野"
+  }
+ ]
+}

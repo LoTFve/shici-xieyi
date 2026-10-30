@@ -1,0 +1,83 @@
+{
+ "id": 276,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "臣工",
+   "name": "臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指众臣百官，诗中劝诫的对象"
+  },
+  {
+   "word": "保介",
+   "name": "农官",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指田畯农官，诗中受命劝农者"
+  },
+  {
+   "word": "来牟",
+   "name": "麦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指小麦大麦，象征丰收在望"
+  },
+  {
+   "word": "新畲",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指新垦田与熟田，问农事耕作"
+  },
+  {
+   "word": "钱镈",
+   "name": "锄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指农具，命众人收藏备用"
+  },
+  {
+   "word": "铚艾",
+   "name": "镰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指收割工具，期待收获"
+  },
+  {
+   "word": "上帝",
+   "name": "上帝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指上天神明，诗中颂其赐丰年"
+  }
+ ]
+}

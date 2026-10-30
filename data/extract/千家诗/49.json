@@ -1,0 +1,127 @@
+{
+ "id": 49,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "祖帐",
+   "name": "帐",
+   "category": "器物",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "饯行时连延到河边的营帐，写送别场面之盛"
+  },
+  {
+   "word": "河阙",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "饯行帐幕一直连到河边城阙"
+  },
+  {
+   "word": "军麾",
+   "name": "军旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "军中大旗挥动，震动洛城，写军容之盛"
+  },
+  {
+   "word": "洛城",
+   "name": "洛阳",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "送别与出师所在地，点明地点"
+  },
+  {
+   "word": "旌旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "旌旗迎着北方寒气，写边地行军之景"
+  },
+  {
+   "word": "朔气",
+   "name": "朔气",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方寒气，渲染征途的凛冽"
+  },
+  {
+   "word": "笳",
+   "name": "笳",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "笳声夜起，点出边塞之音与征人的乡思"
+  },
+  {
+   "word": "边声",
+   "name": "边声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "边地特有的声响，烘托从军的氛围"
+  },
+  {
+   "word": "烟尘",
+   "name": "烟尘",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指战事，坐觉烟尘少是说边患可平"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋风起于古北平，点出时节与边地苍茫"
+  },
+  {
+   "word": "北平",
+   "name": "北平",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "古北平郡，借指边塞征战之地"
+  }
+ ]
+}

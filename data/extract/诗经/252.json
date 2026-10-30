@@ -1,0 +1,127 @@
+{
+ "id": 252,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "飘风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "从南吹来的旋风，起兴游赏之景"
+  },
+  {
+   "word": "阿",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "曲折的大丘陵，点明游歌之地"
+  },
+  {
+   "word": "凤凰",
+   "name": "凤凰",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "祥瑞之鸟飞翔，喻贤才济济"
+  },
+  {
+   "word": "羽",
+   "name": "羽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "凤凰振翅之声形，显祥瑞气象"
+  },
+  {
+   "word": "高冈",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "凤凰鸣叫的高处山脊"
+  },
+  {
+   "word": "梧桐",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "凤凰所栖之树，祥瑞与高洁的象征"
+  },
+  {
+   "word": "朝阳",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "梧桐生长之处的晨光，生机盎然"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "君子众多车驾，显盛况"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "君子之马娴熟奔驰，显威仪"
+  },
+  {
+   "word": "圭",
+   "name": "圭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以玉圭喻君子品性纯美"
+  },
+  {
+   "word": "璋",
+   "name": "璋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以玉璋喻君子德容尊贵"
+  }
+ ]
+}

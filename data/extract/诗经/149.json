@@ -1,0 +1,83 @@
+{
+ "id": 149,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以疾风起兴，烘托心绪不宁"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "疾驰的车马，与风并起作比兴"
+  },
+  {
+   "word": "周道",
+   "name": "大道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回望通往故国的大路，触发伤怀"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以烹鱼起兴，引出下文寄音之愿"
+  },
+  {
+   "word": "釜",
+   "name": "釜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "烹鱼的锅，与鬵并列举炊具"
+  },
+  {
+   "word": "鬵",
+   "name": "鬵",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "大釜，烹鱼时涤洗的炊具"
+  },
+  {
+   "word": "西归",
+   "name": "归途",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "设想西归之人，托其捎去平安音信"
+  }
+ ]
+}

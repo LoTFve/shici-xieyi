@@ -1,0 +1,138 @@
+{
+ "id": 130,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "终南",
+   "name": "终南",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明君子所至之山，以山起兴"
+  },
+  {
+   "word": "条",
+   "name": "条",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上实有之木，与梅并举见物产"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上实有之树，与条相对"
+  },
+  {
+   "word": "锦衣",
+   "name": "锦衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "写君子华贵服饰"
+  },
+  {
+   "word": "狐裘",
+   "name": "狐裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "冬衣，显其尊贵"
+  },
+  {
+   "word": "颜如渥丹",
+   "name": "容颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以涂丹喻面色红润，赞君子"
+  },
+  {
+   "word": "纪",
+   "name": "纪",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山之基，与堂并举"
+  },
+  {
+   "word": "堂",
+   "name": "堂",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山之堂，与纪并举"
+  },
+  {
+   "word": "黻衣",
+   "name": "黻衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "有文饰之礼服，写君子威仪"
+  },
+  {
+   "word": "绣裳",
+   "name": "绣裳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "刺绣之下裳，与黻衣相配"
+  },
+  {
+   "word": "佩玉",
+   "name": "佩玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "君子佩饰，见其从容有节"
+  },
+  {
+   "word": "将将",
+   "name": "玉佩声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "摹佩玉之声，以声衬仪态"
+  }
+ ]
+}

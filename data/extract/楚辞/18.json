@@ -1,0 +1,194 @@
+{
+ "id": 18,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "孟夏",
+   "name": "夏",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明时节，草木繁茂的背景"
+  },
+  {
+   "word": "草木",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "夏日草木莽莽，反衬诗人哀伤"
+  },
+  {
+   "word": "南土",
+   "name": "南土",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "流放南行的方向"
+  },
+  {
+   "word": "凤皇",
+   "name": "凤凰",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以凤凰被囚喻贤者受困"
+  },
+  {
+   "word": "鸡鹜",
+   "name": "鸡鹜",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻庸碌小人得志翔舞"
+  },
+  {
+   "word": "玉石",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以玉石混杂喻贤愚不分"
+  },
+  {
+   "word": "邑犬",
+   "name": "犬",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "群犬吠怪，喻俗人非难俊杰"
+  },
+  {
+   "word": "瑾",
+   "name": "瑾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "怀瑾握瑜，喻自身美德"
+  },
+  {
+   "word": "瑜",
+   "name": "瑜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与瑾并举，喻内美之德"
+  },
+  {
+   "word": "重华",
+   "name": "重华",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借舜帝寄托知音难遇之叹"
+  },
+  {
+   "word": "汤禹",
+   "name": "禹",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "古圣王久远难慕，叹世无明主"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "日昧昧将暮，象征前途昏暗"
+  },
+  {
+   "word": "沅湘",
+   "name": "湘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "浩浩沅湘分流，映衬诗人孤独"
+  },
+  {
+   "word": "修路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "幽蔽道远，喻理想之路艰难"
+  },
+  {
+   "word": "伯乐",
+   "name": "伯乐",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以相马善者喻识才之人，叹知音已逝"
+  },
+  {
+   "word": "骥",
+   "name": "骥",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "良马自喻，喻贤才无人赏识"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "对后世有德者的告语，表明以之为同类"
+  }
+ ]
+}

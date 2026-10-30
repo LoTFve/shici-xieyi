@@ -1,0 +1,237 @@
+{
+ "id": 91,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月影",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "渲染春夜游乐的氛围"
+  },
+  {
+   "word": "竿旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "描绘市井热闹场景"
+  },
+  {
+   "word": "楼台",
+   "name": "楼台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "表现都市繁华"
+  },
+  {
+   "word": "香尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "暗示游人如织"
+  },
+  {
+   "word": "莲步",
+   "name": "莲步",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指女子轻盈步态"
+  },
+  {
+   "word": "箫声",
+   "name": "箫",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "增添游乐的听觉意象"
+  },
+  {
+   "word": "辇路",
+   "name": "辇路",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指京城御道，象征皇家气派"
+  },
+  {
+   "word": "念奴",
+   "name": "念奴",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借唐代名歌手喻指歌女"
+  },
+  {
+   "word": "铜仙",
+   "name": "铜仙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用汉武帝铜人泣泪典，寓亡国之痛"
+  },
+  {
+   "word": "沙河",
+   "name": "沙河",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指杭州沙河，表现都市繁华"
+  },
+  {
+   "word": "邸第",
+   "name": "邸第",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指权贵宅第"
+  },
+  {
+   "word": "帘影",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "描绘宅第光影"
+  },
+  {
+   "word": "红光",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "指灯火映照"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月浸葡萄，写景如画"
+  },
+  {
+   "word": "葡萄",
+   "name": "葡萄",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "可能指葡萄色美酒或葡萄架"
+  },
+  {
+   "word": "神仙",
+   "name": "神仙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻风流才子"
+  },
+  {
+   "word": "菱花",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "菱花镜，借指镜子"
+  },
+  {
+   "word": "竹马",
+   "name": "竹马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "儿童玩具，此处指年幼一代"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "灯前拥髻，写孤寂情景"
+  },
+  {
+   "word": "鲛珠",
+   "name": "珠",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鲛人泪珠，比喻眼泪"
+  },
+  {
+   "word": "霓裳",
+   "name": "霓裳",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指《霓裳羽衣曲》，象征盛世歌舞"
+  }
+ ]
+}

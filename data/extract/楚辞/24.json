@@ -1,0 +1,138 @@
+{
+ "id": 24,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "策",
+   "name": "策",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占卜用的蓍草，郑詹尹端策拂龟以决疑"
+  },
+  {
+   "word": "龟",
+   "name": "龟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占卜用的龟甲，与策同为卜具"
+  },
+  {
+   "word": "草茅",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "田间杂草，代指力耕隐居的生活"
+  },
+  {
+   "word": "千里之驹",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "比喻昂昂自立的贤才"
+  },
+  {
+   "word": "凫",
+   "name": "凫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中野鸭，比喻随波逐流、苟全性命之人"
+  },
+  {
+   "word": "骐骥",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "良马，比喻与贤才并驾齐驱"
+  },
+  {
+   "word": "驽马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "劣马，比喻追随庸碌之辈"
+  },
+  {
+   "word": "黄鹄",
+   "name": "鹄",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天鹅，比喻高远之志"
+  },
+  {
+   "word": "鸡鹜",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸡鸭，比喻与庸俗小人争食"
+  },
+  {
+   "word": "蝉翼",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "蝉的翅膀，比喻极轻之物，反被看作重"
+  },
+  {
+   "word": "黄钟",
+   "name": "钟",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "贵重乐器，比喻贤才被毁弃"
+  },
+  {
+   "word": "瓦釜",
+   "name": "釜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "陶制锅，比喻庸才反得雷鸣般声名"
+  }
+ ]
+}

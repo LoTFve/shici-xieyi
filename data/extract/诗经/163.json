@@ -1,0 +1,116 @@
+{
+ "id": 163,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以盛开的花起兴，映衬使臣出行的光彩"
+  },
+  {
+   "word": "原隰",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "交代征途所在的广袤平原与低湿之地"
+  },
+  {
+   "word": "征夫",
+   "name": "征夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指奔波在外的使臣随从"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "驾车出行的坐骑，反复出现以写奔波"
+  },
+  {
+   "word": "驹",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指少壮之马，状车马之盛"
+  },
+  {
+   "word": "骐",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青色纹马，写驾车之马毛色"
+  },
+  {
+   "word": "骆",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白身黑鬃马，写驾车之马毛色"
+  },
+  {
+   "word": "骃",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "浅黑带白之马，写驾车之马毛色"
+  },
+  {
+   "word": "辔",
+   "name": "辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "马缰绳，反复描摹其润泽如濡如丝"
+  },
+  {
+   "word": "六辔",
+   "name": "辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "四马六缰，写使臣车驾的规制"
+  }
+ ]
+}

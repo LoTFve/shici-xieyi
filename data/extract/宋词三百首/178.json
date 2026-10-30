@@ -1,0 +1,160 @@
+{
+ "id": 178,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指代春日繁花，烘托游乐氛围"
+  },
+  {
+   "word": "玉骢",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指代坐骑，表现游春的潇洒"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明游春地点，西湖春色"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "沽酒处，表现买醉行乐"
+  },
+  {
+   "word": "红杏",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春日红杏，与箫鼓相映"
+  },
+  {
+   "word": "箫鼓",
+   "name": "箫鼓",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "音乐声，渲染热闹气氛"
+  },
+  {
+   "word": "绿杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿柳成荫，与秋千相衬"
+  },
+  {
+   "word": "秋千",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "女子春游嬉戏的秋千"
+  },
+  {
+   "word": "暖风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春风和暖，烘托丽人天"
+  },
+  {
+   "word": "丽人",
+   "name": "丽人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "游春的美人"
+  },
+  {
+   "word": "画船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "载春归去的游船"
+  },
+  {
+   "word": "湖水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "西湖湖水，承载余情"
+  },
+  {
+   "word": "湖烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "湖面雾气，增添朦胧意境"
+  },
+  {
+   "word": "花钿",
+   "name": "花钿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "女子首饰，遗落陌上，寻春余兴"
+  }
+ ]
+}

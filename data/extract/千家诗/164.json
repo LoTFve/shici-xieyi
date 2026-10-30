@@ -1,0 +1,138 @@
+{
+ "id": 164,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "漏声",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "五更漏声报时，催动清晨到来"
+  },
+  {
+   "word": "晓箭",
+   "name": "漏箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "漏壶刻箭指向拂晓，点明早朝时辰"
+  },
+  {
+   "word": "九重",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以九重深宫代指天子居所，气象庄严"
+  },
+  {
+   "word": "仙桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春色浓如醉染仙桃，写宫苑春意"
+  },
+  {
+   "word": "旌旗",
+   "name": "旌旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "晨光下旌旗如龙蛇翻动，写朝仪之盛"
+  },
+  {
+   "word": "宫殿",
+   "name": "宫殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "微风中燕雀高飞，衬宫殿巍峨"
+  },
+  {
+   "word": "燕雀",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "欢欣",
+   "note": "宫殿风微，燕雀高飞，添早朝生气"
+  },
+  {
+   "word": "香烟",
+   "name": "香烟",
+   "category": "器物",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "朝罢御香满袖，写退朝余韵"
+  },
+  {
+   "word": "珠玉",
+   "name": "珠玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻诗成字句精美如珠玉"
+  },
+  {
+   "word": "挥毫",
+   "name": "笔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "提笔赋诗，见舍人才思"
+  },
+  {
+   "word": "丝纶",
+   "name": "丝纶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "代指皇帝诏书，赞贾氏世掌制诰"
+  },
+  {
+   "word": "凤毛",
+   "name": "凤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用凤毛典赞贾舍人承继家学、才俊出众"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 190,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春深柳色浓，点明时令"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "花明烂漫，衬春光正好"
+  },
+  {
+   "word": "小阑",
+   "name": "阑",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "园中小栏杆，点出庭院场景"
+  },
+  {
+   "word": "红芍药",
+   "name": "芍药",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "芍药含苞如簪，写春末花事"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后风软，引出鸣禽"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "软风轻拂，写雨后和煦"
+  },
+  {
+   "word": "鸣禽",
+   "name": "禽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鸟鸣细碎，添春园生机"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "春日迟迟，写白昼悠长"
+  },
+  {
+   "word": "阴",
+   "name": "阴",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "日带一分阴，写天色微阴"
+  }
+ ]
+}

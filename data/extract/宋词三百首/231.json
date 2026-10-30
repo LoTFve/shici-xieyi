@@ -1,0 +1,248 @@
+{
+ "id": 231,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以风写莺雏渐老，点出时序推移"
+  },
+  {
+   "word": "莺雏",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春风中幼莺渐长，写出初夏将至的生机"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "梅雨催肥梅子，点出江南梅雨时节"
+  },
+  {
+   "word": "梅子",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后梅子饱满，是初夏的物候标志"
+  },
+  {
+   "word": "午阴",
+   "name": "树阴",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "正午树影清圆，写庭院幽静清凉"
+  },
+  {
+   "word": "嘉树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "嘉树清圆，衬托午后的静谧"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "地卑山近，写所处之地低湿近山"
+  },
+  {
+   "word": "垆烟",
+   "name": "炉烟",
+   "category": "器物",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "衣润需熏炉去潮，写地卑湿的气候"
+  },
+  {
+   "word": "乌鸢",
+   "name": "乌鸢",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "人静时乌鸢自得其乐，反衬人的漂泊"
+  },
+  {
+   "word": "小桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "小桥流水，是江南水乡的清幽小景"
+  },
+  {
+   "word": "新绿",
+   "name": "绿水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "新绿溅溅，写桥下春水流动之声色"
+  },
+  {
+   "word": "黄芦",
+   "name": "芦苇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "黄芦苦竹，写贬谪之地的荒凉苦况"
+  },
+  {
+   "word": "苦竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与黄芦并举，烘托江边荒僻凄苦"
+  },
+  {
+   "word": "九江船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借白居易《琵琶行》九江之典，写漂泊之思"
+  },
+  {
+   "word": "社燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "自比社燕，年年漂泊如候鸟寄居人檐下"
+  },
+  {
+   "word": "瀚海",
+   "name": "沙漠",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以瀚海喻漂泊之广远，极写流离之苦"
+  },
+  {
+   "word": "修椽",
+   "name": "屋椽",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "燕子寄身修椽，暗喻客居依托之所"
+  },
+  {
+   "word": "尊",
+   "name": "酒尊",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "且近尊前，借酒遣愁，暂忘身外之事"
+  },
+  {
+   "word": "江南倦客",
+   "name": "倦客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "词人自指，漂泊江南而身心疲惫"
+  },
+  {
+   "word": "急管繁弦",
+   "name": "管弦",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "乐声愈急愈繁，反令倦客不堪听闻"
+  },
+  {
+   "word": "歌筵",
+   "name": "筵席",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宴席歌乐之场，衬出词人的落寞"
+  },
+  {
+   "word": "簟枕",
+   "name": "枕席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "先安枕席，写醉眠之意，见厌倦与自放"
+  }
+ ]
+}

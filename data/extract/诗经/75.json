@@ -1,0 +1,39 @@
+{
+ "id": 75,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "缁衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黑色朝服，象征对贤者的关怀与礼遇"
+  },
+  {
+   "word": "馆",
+   "name": "馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "贤者所居的客舍，指代其居所"
+  },
+  {
+   "word": "粲",
+   "name": "粲",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "精米，指赠送的饭食"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "id": 264,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼告苍天，表达怨愤"
+  },
+  {
+   "word": "蟊贼",
+   "name": "害虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻祸国害民之人"
+  },
+  {
+   "word": "蟊疾",
+   "name": "虫害",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻国家祸患"
+  },
+  {
+   "word": "罪罟",
+   "name": "罗网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻刑罪之网"
+  },
+  {
+   "word": "土田",
+   "name": "田地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指土地田产"
+  },
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "比喻国家屏障"
+  },
+  {
+   "word": "枭",
+   "name": "猫头鹰",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻恶妇"
+  },
+  {
+   "word": "鸱",
+   "name": "鹞鹰",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻恶妇"
+  },
+  {
+   "word": "长舌",
+   "name": "长舌",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指进谗言的女人"
+  },
+  {
+   "word": "贾",
+   "name": "商人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以商贾牟利比喻妇人干政"
+  },
+  {
+   "word": "蚕织",
+   "name": "蚕织",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "指妇女本业"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指上天、天命"
+  },
+  {
+   "word": "神",
+   "name": "神",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指神灵"
+  },
+  {
+   "word": "介狄",
+   "name": "戎狄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指外患"
+  },
+  {
+   "word": "罔",
+   "name": "罗网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻天降灾祸"
+  },
+  {
+   "word": "槛泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以涌泉比喻忧思深长"
+  },
+  {
+   "word": "皇祖",
+   "name": "祖先",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指先王祖先"
+  }
+ ]
+}

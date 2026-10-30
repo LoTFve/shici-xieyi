@@ -1,0 +1,83 @@
+{
+ "id": 202,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莪",
+   "name": "莪",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以莪蒿起兴，反衬父母生养之劳"
+  },
+  {
+   "word": "蒿",
+   "name": "蒿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与莪对照，喻己不成材"
+  },
+  {
+   "word": "蔚",
+   "name": "蔚",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与莪对照，喻己非佳物"
+  },
+  {
+   "word": "瓶",
+   "name": "瓶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "瓶罄喻父母已亡、家道匮乏"
+  },
+  {
+   "word": "罍",
+   "name": "罍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "罍耻喻子未能尽养之愧"
+  },
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以终南山之高峻起兴，衬孤苦"
+  },
+  {
+   "word": "飘风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "疾风呼啸，烘托悲凉"
+  }
+ ]
+}

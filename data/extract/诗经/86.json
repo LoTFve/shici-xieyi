@@ -1,0 +1,17 @@
+{
+ "id": 86,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "狡童",
+   "name": "少年",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子所怨慕的俊美男子，全诗围绕他而歌"
+  }
+ ]
+}

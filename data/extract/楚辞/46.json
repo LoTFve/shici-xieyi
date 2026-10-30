@@ -1,0 +1,215 @@
+{
+ "id": 46,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "八龙",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "驾车升天时想象的神兽"
+  },
+  {
+   "word": "虹旌",
+   "name": "旌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以彩虹为旗的仪仗"
+  },
+  {
+   "word": "溺水",
+   "name": "弱水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神话中的水域，远游所经"
+  },
+  {
+   "word": "京沶",
+   "name": "京沶",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "徘徊停留的水边"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "屯驻神车以寻友"
+  },
+  {
+   "word": "皇公",
+   "name": "皇公",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拜见的仙人，用以问道"
+  },
+  {
+   "word": "九疑",
+   "name": "九疑",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "南行所经的神山，路幽远"
+  },
+  {
+   "word": "炎火",
+   "name": "炎火",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "远游所越的火山险阻"
+  },
+  {
+   "word": "万首",
+   "name": "万首",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高峻的山峰，行途所过"
+  },
+  {
+   "word": "江海",
+   "name": "江海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "济渡后如蝉蜕的超脱之境"
+  },
+  {
+   "word": "北梁",
+   "name": "北梁",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "永辞之地，喻诀别尘世"
+  },
+  {
+   "word": "浮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "哀愁",
+   "note": "郁结蔽日，使白昼昏暗"
+  },
+  {
+   "word": "霾土",
+   "name": "尘霾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "尘土飞扬昏暗，写世道混浊"
+  },
+  {
+   "word": "阳城",
+   "name": "阳城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神话中的城邑，休憩之所"
+  },
+  {
+   "word": "广夏",
+   "name": "大厦",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高大屋宇，休止之处"
+  },
+  {
+   "word": "尧舜",
+   "name": "尧舜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "追思的圣明君主"
+  },
+  {
+   "word": "咎繇",
+   "name": "皋陶",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "贤臣典范，幸得其谋"
+  },
+  {
+   "word": "九州",
+   "name": "九州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "天下无君，悲叹世乱"
+  },
+  {
+   "word": "轼",
+   "name": "轼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凭轼叹息而作诗"
+  }
+ ]
+}

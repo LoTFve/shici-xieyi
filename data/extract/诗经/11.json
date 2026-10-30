@@ -1,0 +1,50 @@
+{
+ "id": 11,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "麟",
+   "name": "麒麟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以麒麟比喻仁厚有德的公子"
+  },
+  {
+   "word": "趾",
+   "name": "蹄",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借麒麟之蹄赞颂公子的仁厚"
+  },
+  {
+   "word": "定",
+   "name": "额",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借麒麟之额赞颂公族的仁厚"
+  },
+  {
+   "word": "角",
+   "name": "角",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借麒麟之角赞颂公族的仁厚"
+  }
+ ]
+}

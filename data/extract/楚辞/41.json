@@ -1,0 +1,171 @@
+{
+ "id": 41,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸣蜩",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以蝉鸣反衬林不容人的处境"
+  },
+  {
+   "word": "中州",
+   "name": "中州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指诗人滞留的中原之地"
+  },
+  {
+   "word": "嘉月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "点明出游的良辰"
+  },
+  {
+   "word": "玉英",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "采摘玉花以自修洁"
+  },
+  {
+   "word": "荣茝",
+   "name": "茝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "结香草为饰，象征高洁"
+  },
+  {
+   "word": "岱土",
+   "name": "岱山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "远游所经的泰山之地"
+  },
+  {
+   "word": "魏阙",
+   "name": "魏阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指朝廷宫阙"
+  },
+  {
+   "word": "九曲",
+   "name": "黄河",
+   "category": "水域",
+   "parent": "yellow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指黄河九曲，极言路途遥远"
+  },
+  {
+   "word": "牵牛",
+   "name": "牵牛",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以星宿写远游天际"
+  },
+  {
+   "word": "白日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "晞白日写天明路远"
+  },
+  {
+   "word": "列孛",
+   "name": "孛星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "回望缥缈的彗星"
+  },
+  {
+   "word": "幽云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "观幽云浮陈于天际"
+  },
+  {
+   "word": "雉",
+   "name": "雉",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雉鸣相求，反衬诗人孤独"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "步马于飞柱，写行游之态"
+  },
+  {
+   "word": "飞柱",
+   "name": "飞柱",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象中高耸的仙山石柱"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": 162,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "茅草",
+   "name": "茅草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻骤然腾起又瞬间熄灭的虚浮声势"
+  },
+  {
+   "word": "炉",
+   "name": "炉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与茅草相对，象征持久的温暖"
+  },
+  {
+   "word": "榾柮",
+   "name": "木柴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "炉中久燃的木柴，比喻持久踏实的事物"
+  }
+ ]
+}

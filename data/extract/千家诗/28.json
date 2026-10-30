@@ -1,0 +1,61 @@
+{
+ "id": 28,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花枝",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以建章宫春花之盛反衬失宠之怨"
+  },
+  {
+   "word": "建章",
+   "name": "建章",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉代建章宫指代得宠者所居之宫"
+  },
+  {
+   "word": "凤管",
+   "name": "箫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以凤箫之声写昭阳宫得宠者的欢宴"
+  },
+  {
+   "word": "昭阳",
+   "name": "昭阳",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借汉代昭阳殿指代受宠者居处"
+  },
+  {
+   "word": "双蛾",
+   "name": "蛾眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以细长蛾眉代指承恩美人，暗含怨意"
+  }
+ ]
+}

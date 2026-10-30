@@ -1,0 +1,215 @@
+{
+ "id": 46,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "清冷月色，奠定全词清寂基调"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以霜喻月之白，写清冷之感"
+  },
+  {
+   "word": "好风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写微风如水般清凉柔和"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "曲港跳鱼，以动衬静"
+  },
+  {
+   "word": "圆荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "荷叶泻露，写小园清幽之景"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "圆荷泻露，点缀夜色清冷"
+  },
+  {
+   "word": "三鼓",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "三更鼓声，点明夜深时分"
+  },
+  {
+   "word": "一叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "落叶铿然，惊断梦境，写秋夜寂静"
+  },
+  {
+   "word": "梦云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "用巫山云雨典，指梦中美景被惊断"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜茫茫，写梦醒后寻觅无处的怅惘"
+  },
+  {
+   "word": "小园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "梦醒后行遍小园，写寻觅之态"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "天涯倦客，写漂泊之远"
+  },
+  {
+   "word": "山中",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "山中归路，指故乡归途"
+  },
+  {
+   "word": "故园",
+   "name": "故园",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "望断故园心眼，直写思乡之切"
+  },
+  {
+   "word": "燕子楼",
+   "name": "燕子楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用关盼盼典，写人去楼空"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指盼盼，写佳人已逝的怅惘"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "空锁楼中燕，写楼空人去的寂寥"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "楼中燕空锁，以燕衬人去楼空"
+  },
+  {
+   "word": "黄楼",
+   "name": "黄楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "想象后人面对黄楼夜景，为自己浩叹"
+  }
+ ]
+}

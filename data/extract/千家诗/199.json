@@ -1,0 +1,182 @@
+{
+ "id": 199,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "锦里",
+   "name": "锦里",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明朱山人所在的成都居处"
+  },
+  {
+   "word": "乌角巾",
+   "name": "头巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写朱山人的隐士装束"
+  },
+  {
+   "word": "园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写山人田园自足的生活"
+  },
+  {
+   "word": "芋栗",
+   "name": "芋栗",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "园中所收，见其清贫自给"
+  },
+  {
+   "word": "宾客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写山人常与宾客往来的随和"
+  },
+  {
+   "word": "儿童",
+   "name": "儿童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "儿童见客而喜，见山人家常气氛"
+  },
+  {
+   "word": "阶除",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鸟雀下阶觅食之处"
+  },
+  {
+   "word": "鸟雀",
+   "name": "鸟雀",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鸟雀驯服，写环境幽静亲和"
+  },
+  {
+   "word": "秋水",
+   "name": "秋水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写江村水浅，点明时节"
+  },
+  {
+   "word": "野航",
+   "name": "小舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "乡野小舟，恰容两三人"
+  },
+  {
+   "word": "白沙",
+   "name": "沙",
+   "category": "水域",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "江边白沙，构成江村暮色"
+  },
+  {
+   "word": "翠竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与白沙相映，写江村清幽"
+  },
+  {
+   "word": "江村",
+   "name": "江村",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "点明所居环境与送别之地"
+  },
+  {
+   "word": "暮",
+   "name": "暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明送别的时分"
+  },
+  {
+   "word": "柴门",
+   "name": "柴门",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "送客处，见山人居所朴素"
+  },
+  {
+   "word": "月色",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "送别时新月已上，收束全诗"
+  }
+ ]
+}

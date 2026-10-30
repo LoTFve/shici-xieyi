@@ -1,0 +1,204 @@
+{
+ "id": 126,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "亭皋",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人登临远望的起点，望极而生愁"
+  },
+  {
+   "word": "江莲",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "江上莲花零落，暗喻飘零身世与归期渺茫"
+  },
+  {
+   "word": "纨扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋来扇被疏远，借指恩情渐薄、自身被弃"
+  },
+  {
+   "word": "罗衣",
+   "name": "罗衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "初换秋衣，点明节候推移与身体多病"
+  },
+  {
+   "word": "流光",
+   "name": "流光",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以光影飞逝喻年华迅疾，叹老伤时"
+  },
+  {
+   "word": "杏梁",
+   "name": "梁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "燕栖之梁，反衬人之漂泊无依"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "双燕如客，反衬自身久客不归的惆怅"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "一帘淡月透过帘幕，营造幽寂氛围"
+  },
+  {
+   "word": "淡月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "月下仿佛见到伊人颜色，是全词怀人的核心意象"
+  },
+  {
+   "word": "蛩",
+   "name": "蛩",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "乱蛩吟壁，以秋虫哀鸣衬托幽寂与清愁"
+  },
+  {
+   "word": "庾信",
+   "name": "庾信",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借庾信《愁赋》典故，写自身清愁如织"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "笛声勾起年少浪迹的回忆，笛里关山寄寓漂泊之悲"
+  },
+  {
+   "word": "关山",
+   "name": "关山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "笛曲《关山月》的固定意象，借指远戍漂泊与乡思"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "柳下坊陌是年少游冶之地，柳亦暗含离别之情"
+  },
+  {
+   "word": "坊陌",
+   "name": "坊陌",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中少年时游冶的街巷，点出旧日风流"
+  },
+  {
+   "word": "坠红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "坠红无信息，以落花喻伊人音讯杳然"
+  },
+  {
+   "word": "暗水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暗水涓涓溜碧，以流水暗逝写时光与身世之悲"
+  },
+  {
+   "word": "酒垆",
+   "name": "酒垆",
+   "category": "建筑",
+   "parent": "wine",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用卓文君当垆典故，写漂泊久后醉卧酒垆的颓放"
+  }
+ ]
+}

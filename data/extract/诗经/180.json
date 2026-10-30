@@ -1,0 +1,171 @@
+{
+ "id": 180,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "吉日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "点明狩猎的吉日，作为时间背景"
+  },
+  {
+   "word": "田车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "狩猎用的战车，体现准备就绪"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹雄壮的公马，衬托狩猎气势"
+  },
+  {
+   "word": "大阜",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高大的土山，登高望远驱赶兽群"
+  },
+  {
+   "word": "群丑",
+   "name": "兽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指成群的野兽，狩猎的对象"
+  },
+  {
+   "word": "漆沮",
+   "name": "漆沮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "两条河流名，交代狩猎地点"
+  },
+  {
+   "word": "中原",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "广阔的原野，展示猎物繁多"
+  },
+  {
+   "word": "麀鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "母鹿群聚，形容猎物众多"
+  },
+  {
+   "word": "小豝",
+   "name": "猪",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小野猪，狩猎的小型猎物"
+  },
+  {
+   "word": "大兕",
+   "name": "兕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大野牛，彰显狩猎的勇武"
+  },
+  {
+   "word": "弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "张弓射猎的武器"
+  },
+  {
+   "word": "矢",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "搭在弓上的箭"
+  },
+  {
+   "word": "醴",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "甜酒，用于宴享宾客"
+  },
+  {
+   "word": "天子",
+   "name": "天子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "周天子，狩猎活动的主角"
+  },
+  {
+   "word": "宾客",
+   "name": "宾客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "参加宴饮的宾客"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 34,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "子胥",
+   "name": "伍子胥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以忠谏被杀的伍子胥喻贤士不容于世"
+  },
+  {
+   "word": "比干",
+   "name": "比干",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以忠谏剖心的比干衬贤士之怨"
+  },
+  {
+   "word": "子推",
+   "name": "介子推",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以割股事君终被忘的介子推写德忘怨深"
+  },
+  {
+   "word": "荆棘",
+   "name": "荆棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻谗谀小人聚集成势，遮蔽贤路"
+  },
+  {
+   "word": "江离",
+   "name": "江离",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草被弃穷巷，喻贤者被弃而埋没"
+  },
+  {
+   "word": "蒺藜",
+   "name": "蒺藜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "恶草蔓生东厢，喻小人当道、贤路芜塞"
+  },
+  {
+   "word": "枭鸮",
+   "name": "枭鸮",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "恶鸟并进俱鸣，喻谗谀之徒得势鼓噪"
+  },
+  {
+   "word": "凤皇",
+   "name": "凤凰",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "凤凰高飞远翔，喻贤者被斥而离去"
+  },
+  {
+   "word": "东厢",
+   "name": "东厢",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蒺藜蔓生的东厢，指贤者所居之地被恶草侵占"
+  }
+ ]
+}

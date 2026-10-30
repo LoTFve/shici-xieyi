@@ -1,0 +1,149 @@
+{
+ "id": 263,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以雷霆喻王师威势震骇徐方"
+  },
+  {
+   "word": "霆",
+   "name": "霆",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与雷连用，强化军威如天怒"
+  },
+  {
+   "word": "虎",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "以咆哮猛虎比喻勇武之臣"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "形容王师如江汉般浩荡"
+  },
+  {
+   "word": "汉",
+   "name": "汉水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与江并举，喻军阵盛大"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "喻王师稳固如群山环抱"
+  },
+  {
+   "word": "川",
+   "name": "川",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "喻军队行进如川流不息"
+  },
+  {
+   "word": "淮浦",
+   "name": "淮浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明王师进抵的淮水之滨"
+  },
+  {
+   "word": "徐土",
+   "name": "徐土",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "征伐所向的徐国之地"
+  },
+  {
+   "word": "徐方",
+   "name": "徐方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "反复出现，指徐国一方"
+  },
+  {
+   "word": "徐国",
+   "name": "徐国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "征伐的最终目标"
+  },
+  {
+   "word": "南国",
+   "name": "南国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指南方诸国，王师惠泽所及"
+  },
+  {
+   "word": "六师",
+   "name": "六师",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指周王室的全部军队"
+  }
+ ]
+}

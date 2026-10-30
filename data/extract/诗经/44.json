@@ -1,0 +1,28 @@
+{
+ "id": 44,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "二子所乘之船，泛泛漂流，寄托送别者的牵挂"
+  },
+  {
+   "word": "景",
+   "name": "影",
+   "category": "其他",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "船影倒映水面，随波浮动，写送别时目送之景"
+  }
+ ]
+}

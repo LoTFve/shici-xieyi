@@ -1,0 +1,160 @@
+{
+ "id": 182,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "清江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "环绕村庄的清澈江水，点出江村环境"
+  },
+  {
+   "word": "村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人所居的江边村落"
+  },
+  {
+   "word": "长夏",
+   "name": "夏",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明时令，渲染悠长夏日氛围"
+  },
+  {
+   "word": "梁",
+   "name": "梁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕子栖息的屋梁，衬托村居日常"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "梁上自来自去的燕子，写村居自在"
+  },
+  {
+   "word": "水中",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鸥鸟相近嬉戏的江面"
+  },
+  {
+   "word": "鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水中相亲相近的鸥鸟，写物情之亲"
+  },
+  {
+   "word": "老妻",
+   "name": "妻",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "画纸为棋局的老伴，写家庭乐趣"
+  },
+  {
+   "word": "纸",
+   "name": "纸",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "老妻画作棋盘的纸张"
+  },
+  {
+   "word": "棋局",
+   "name": "棋局",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "纸上画出的棋盘，写村居消遣"
+  },
+  {
+   "word": "稚子",
+   "name": "稚子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "敲针做钓钩的幼子，写天伦之乐"
+  },
+  {
+   "word": "针",
+   "name": "针",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "稚子敲弯作钓钩的针"
+  },
+  {
+   "word": "钓钩",
+   "name": "钓钩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "稚子自制的渔具，见村居野趣"
+  },
+  {
+   "word": "药物",
+   "name": "药",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "诗人多病所需之物，透露衰病之身"
+  }
+ ]
+}

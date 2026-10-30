@@ -1,0 +1,193 @@
+{
+ "id": 154,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "扁舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "词人漂泊所乘之船"
+  },
+  {
+   "word": "轻帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "舟上卷起的帆，点出行旅"
+  },
+  {
+   "word": "楚江",
+   "name": "楚江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "泊舟所在的南方江面"
+  },
+  {
+   "word": "孤城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "南岸荒僻的孤城"
+  },
+  {
+   "word": "暮角",
+   "name": "角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏城头号角，添羁旅之悲"
+  },
+  {
+   "word": "胡笳",
+   "name": "笳",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "胡笳怨声，渲染异乡凄凉"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "茫茫江水，烘托茫然心境"
+  },
+  {
+   "word": "平沙",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "平旷沙洲，雁群栖散之地"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "惊散的沙雁，暗喻飘零"
+  },
+  {
+   "word": "寒林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "萧索",
+   "note": "烟敛后的寒林如画屏"
+  },
+  {
+   "word": "遥山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "天际远山如黛眉，写远景"
+  },
+  {
+   "word": "帝城",
+   "name": "帝城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指京城，遥不可及"
+  },
+  {
+   "word": "秦楼",
+   "name": "秦楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指佳人所在，阻隔难见"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "连空芳草，牵动离思"
+  },
+  {
+   "word": "残照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "落日余晖，满目苍凉"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "所思念之人，音信全无"
+  },
+  {
+   "word": "断云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "断云远去，喻佳人音讯渺茫"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 169,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "杕杜",
+   "name": "杜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤生的杜梨，起兴孤独与思念"
+  },
+  {
+   "word": "其实",
+   "name": "果",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "杜梨结实，岁晚之象"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "时光流逝，岁末阳至"
+  },
+  {
+   "word": "卉木",
+   "name": "草木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "草木萋萋，与孤杜相映"
+  },
+  {
+   "word": "北山",
+   "name": "北山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "征人登高采杞的所在"
+  },
+  {
+   "word": "杞",
+   "name": "杞",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "登山所采的枸杞，役事之苦"
+  },
+  {
+   "word": "檀车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "役车破敝，征途劳顿"
+  },
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "驾车的四匹公马疲病，暗示征人劳苦"
+  },
+  {
+   "word": "卜筮",
+   "name": "卜筮",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占卜问归期，见思妇忧切"
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "id": 142,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "陇首",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "开篇高处的山首，衬出登临远望的孤寂"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云飞与山首并写，引出苍茫远望"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "江边日暮，水天相接的凭阑背景"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "江边日晚，落日便全词笼罩迟暮之感"
+  },
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "满目烟波写水气迷蒙，映出凭阑久望的心绪"
+  },
+  {
+   "word": "阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "凭阑久立，是词人凭倚远眺的实处"
+  },
+  {
+   "word": "关河",
+   "name": "关河",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "关河萧索总写千里清秋的辽阔荒凉"
+  },
+  {
+   "word": "清秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明时令，为全词定下萧瑟底色"
+  },
+  {
+   "word": "神京",
+   "name": "京城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "杳杳神京遥指所思之人所在"
+  },
+  {
+   "word": "仙子",
+   "name": "女子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盈盈仙子借指心中所念的佳人"
+  },
+  {
+   "word": "锦字",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用窦滔妻织锦回文典，写别后音书难通"
+  },
+  {
+   "word": "断雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "断雁无凭，借孤雁传书无据写相思落空"
+  },
+  {
+   "word": "汀洲",
+   "name": "汀洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雁飞下汀洲，以水边沙洲收束远望之景"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雨恨云愁以雨云喻聚散难期的愁恨"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登山临水触发平生心事"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "临水与登山并举，写触景生愁之处"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "却下层楼，以动作收束全词的空寂"
+  }
+ ]
+}

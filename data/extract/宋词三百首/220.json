@@ -1,0 +1,303 @@
+{
+ "id": 220,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "女子所居的华美楼阁"
+  },
+  {
+   "word": "珠箔",
+   "name": "帘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "楼阁上垂挂的珠帘"
+  },
+  {
+   "word": "津",
+   "name": "渡口",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "临水的渡口，点明送别地点"
+  },
+  {
+   "word": "微风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "托微风传送箫声"
+  },
+  {
+   "word": "彩箫",
+   "name": "箫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "吹奏出哀怨的箫声"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "马上曾闻箫声，指行者"
+  },
+  {
+   "word": "燕堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮的厅堂，燕来暗示春"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "调琴寄托情思"
+  },
+  {
+   "word": "麝蜡",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "浓烟弥漫的香烛"
+  },
+  {
+   "word": "玉莲漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "玉莲漏计时，指夜深"
+  },
+  {
+   "word": "绣屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "掩映床榻的屏风"
+  },
+  {
+   "word": "枕鸳",
+   "name": "鸳",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "绣有鸳鸯的枕头，借指欢会"
+  },
+  {
+   "word": "回廊",
+   "name": "廊",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回廊影下，烘托氛围"
+  },
+  {
+   "word": "疏钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "稀疏的钟声，增添夜寂"
+  },
+  {
+   "word": "淡月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "淡月映照，销魂时刻"
+  },
+  {
+   "word": "翠钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "分钗赠别，象征分离"
+  },
+  {
+   "word": "银笺",
+   "name": "笺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "银笺封泪，写离别之悲"
+  },
+  {
+   "word": "舞鞋",
+   "name": "鞋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "舞鞋生尘，表示不再歌舞"
+  },
+  {
+   "word": "兰舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "载离恨的兰舟"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地的代称"
+  },
+  {
+   "word": "西曛",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "背对夕阳，渲染离别"
+  },
+  {
+   "word": "蔷薇",
+   "name": "蔷薇",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "蔷薇谢后约佳期"
+  },
+  {
+   "word": "行云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻行踪无定的情人"
+  },
+  {
+   "word": "凤城",
+   "name": "京城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指京城，遥远而思念"
+  },
+  {
+   "word": "楚梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "南方楚地梅花，寄春意"
+  },
+  {
+   "word": "青门",
+   "name": "青门",
+   "category": "地名",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "长安城门，借指送别处"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "芳草萋萋，借以寻访郎君"
+  }
+ ]
+}

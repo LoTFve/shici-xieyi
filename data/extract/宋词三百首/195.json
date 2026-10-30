@@ -1,0 +1,127 @@
+{
+ "id": 195,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "愁云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以云喻愁，开篇点出心境"
+  },
+  {
+   "word": "素娥",
+   "name": "嫦娥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "借指月亮，写月夜清辉"
+  },
+  {
+   "word": "暗尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "写雨后或夜露让尘土不起"
+  },
+  {
+   "word": "酥润",
+   "name": "露",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "形容地面湿润如酥"
+  },
+  {
+   "word": "凌波地",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以凌波形容湿润地面"
+  },
+  {
+   "word": "辇路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明帝王或繁华街道，引出重来旧地"
+  },
+  {
+   "word": "灯",
+   "name": "灯火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "灯前旧事，唤起回忆"
+  },
+  {
+   "word": "小楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "写独处小楼的情景"
+  },
+  {
+   "word": "熏被",
+   "name": "被",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "熏被独眠，写孤寂处境"
+  },
+  {
+   "word": "春梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "梦境中笙歌欢乐，与现实对照"
+  },
+  {
+   "word": "笙歌",
+   "name": "笙",
+   "category": "声音",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "回忆或梦中的欢乐乐声"
+  }
+ ]
+}

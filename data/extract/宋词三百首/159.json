@@ -1,0 +1,105 @@
+{
+ "id": 159,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "乍暖还轻冷时的晚来风雨，渲染凄清"
+  },
+  {
+   "word": "庭轩",
+   "name": "庭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "庭轩寂寞，点出独处之境"
+  },
+  {
+   "word": "残花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清明将近，残花与病酒相映"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "中酒即病酒，借酒浇愁"
+  },
+  {
+   "word": "楼头",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "楼头画角声起处，营造空旷凄清"
+  },
+  {
+   "word": "画角",
+   "name": "角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "画角声被风吹醒，惊破愁眠"
+  },
+  {
+   "word": "重门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "入夜重门深静，强化幽闭孤独"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "明月隔墙送影，惹动怀人之情"
+  },
+  {
+   "word": "秋千影",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "隔墙送过的秋千影，以影写人，更添怅惘"
+  }
+ ]
+}

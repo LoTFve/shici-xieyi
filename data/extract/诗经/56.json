@@ -1,0 +1,39 @@
+{
+ "id": 56,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "涧",
+   "name": "涧",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "隐居之地的山间溪流"
+  },
+  {
+   "word": "阿",
+   "name": "阿",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "隐居的山陵曲处"
+  },
+  {
+   "word": "槃",
+   "name": "盘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "敲击成曲的盘器，点出隐者自乐"
+  }
+ ]
+}

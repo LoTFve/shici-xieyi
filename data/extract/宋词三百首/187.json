@@ -1,0 +1,171 @@
+{
+ "id": 187,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江水",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇苍茫江水，奠定秋日阔大而苍凉的基调"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "倦柳残姿，以柳写秋衰，暗含羁旅之愁"
+  },
+  {
+   "word": "荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "愁荷与倦柳并置，强化秋色共感"
+  },
+  {
+   "word": "废阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "荒废楼阁先透凉意，写秋日萧瑟"
+  },
+  {
+   "word": "古帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "古旧帘幕空对暮色，渲染冷落氛围"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雁程嫌风，借雁南归反衬未归之客"
+  },
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "故园南山入眼碧绿，寄托归隐之思"
+  },
+  {
+   "word": "鲈",
+   "name": "鲈",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用张翰莼鲈之典，写江汉未归客的乡愁"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "秋露寒凉，与蛩声共写夜之凄清"
+  },
+  {
+   "word": "蛩",
+   "name": "蛩",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "露蛩悲鸣，以虫声烘托岑寂"
+  },
+  {
+   "word": "清灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "清灯照冷屋，写客舍孤夜"
+  },
+  {
+   "word": "屋",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "冷屋与清灯相映，强化独处之寒"
+  },
+  {
+   "word": "秋声",
+   "name": "秋声",
+   "category": "声音",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜闻秋声，风声叶响吹动岑寂"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "采香南浦用送别典，暗写离情"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "翦梅烟驿是想象之景，以梅寄远"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": 62,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东皋",
+   "name": "东皋",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "诗人登高远望的居处，点明地点"
+  },
+  {
+   "word": "薄暮",
+   "name": "暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时间，渲染苍茫暮色"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "树树秋色，铺满视野的秋意"
+  },
+  {
+   "word": "秋色",
+   "name": "秋色",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "满树秋色，写尽萧瑟"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "层叠远山，与落晖相映"
+  },
+  {
+   "word": "落晖",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "山山唯落晖，渲染暮色苍茫"
+  },
+  {
+   "word": "牧人",
+   "name": "牧人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "驱犊归家，显出田园晚归之景"
+  },
+  {
+   "word": "犊",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "驱犊返，牧归的牛犊"
+  },
+  {
+   "word": "猎马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "豪放",
+   "note": "猎马带禽归，写猎人暮归"
+  },
+  {
+   "word": "禽",
+   "name": "禽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "猎获的飞禽，与猎马同归"
+  },
+  {
+   "word": "长歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "长歌抒怀，透露无人相知的孤独"
+  },
+  {
+   "word": "采薇",
+   "name": "采薇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用伯夷叔齐采薇典，寄托隐居避世之意"
+  }
+ ]
+}

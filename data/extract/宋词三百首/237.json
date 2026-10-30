@@ -1,0 +1,138 @@
+{
+ "id": 237,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春归后凋落之花，引发惜春之情"
+  },
+  {
+   "word": "风雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜来风雨葬花，摧残春色"
+  },
+  {
+   "word": "桃蹊",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "落花乱点之处，点明春景"
+  },
+  {
+   "word": "柳陌",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "落花轻翻之径，柳色含春"
+  },
+  {
+   "word": "窗隔",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "蜂蝶叩窗，写客中寂寥"
+  },
+  {
+   "word": "东园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "花落之后的园林，岑寂暗碧"
+  },
+  {
+   "word": "长条",
+   "name": "柳条",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "柳条牵衣待人，似诉别情"
+  },
+  {
+   "word": "残英",
+   "name": "残花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "强簪巾帻的残花，衬人之憔悴"
+  },
+  {
+   "word": "钗头",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以钗头颤袅之花喻残英娇态"
+  },
+  {
+   "word": "潮汐",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "嘱落花莫随潮去，寄相思之望"
+  },
+  {
+   "word": "断红",
+   "name": "红叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用红叶题诗典，恐落花上相思字难见"
+  },
+  {
+   "word": "蜂媒蝶使",
+   "name": "蜂蝶",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "蜂蝶叩窗，为花追惜的多情者"
+  }
+ ]
+}

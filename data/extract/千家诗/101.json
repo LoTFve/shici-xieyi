@@ -1,0 +1,61 @@
+{
+ "id": 101,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "桃花",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "全庵春景，也是桃源典故的落点"
+  },
+  {
+   "word": "桃源",
+   "name": "桃源",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借桃花源典指避世隐居之地"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "落花纷飞，引出下句的担忧"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "恐落花随流漂出，泄露桃花源"
+  },
+  {
+   "word": "渔郎",
+   "name": "渔人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指桃源故事中循花问津的渔人"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 17,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莺儿",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以莺啼挽留春光，点出春去之无奈"
+  },
+  {
+   "word": "残红",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "满地落花如宫锦被污，写春残之景"
+  },
+  {
+   "word": "南园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明风雨摧花的地点，园林背景"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "昨夜风雨是残红满地的缘由"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "小怜弹琵琶，以乐声寄春愁"
+  },
+  {
+   "word": "晓",
+   "name": "晓",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明时间由夜转晨，愁思随之远绕"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "思绕天涯，写春愁绵邈无边"
+  },
+  {
+   "word": "画堂",
+   "name": "画堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美厅堂，与自在杨花形成对照"
+  },
+  {
+   "word": "朱户",
+   "name": "朱门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指富贵人家，反衬杨花不慕繁华"
+  },
+  {
+   "word": "春风",
+   "name": "春风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春风中杨花自在飘飞，寄超脱之意"
+  },
+  {
+   "word": "杨花",
+   "name": "杨花",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "不肯入画堂朱户，象征自在不羁"
+  }
+ ]
+}

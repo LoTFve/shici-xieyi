@@ -1,0 +1,138 @@
+{
+ "id": 191,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "玉露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "秋露凋伤枫林，点明深秋萧瑟"
+  },
+  {
+   "word": "枫树林",
+   "name": "枫",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枫林被秋露摧残，渲染凋零"
+  },
+  {
+   "word": "巫山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "巫山高耸，与巫峡共同构成萧森气象"
+  },
+  {
+   "word": "巫峡",
+   "name": "峡",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "巫峡险峻，江波接天"
+  },
+  {
+   "word": "江间波浪",
+   "name": "浪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "波浪兼天，写江涛汹涌"
+  },
+  {
+   "word": "塞上风云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "风云接地，写边塞阴霾"
+  },
+  {
+   "word": "丛菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "菊开两度，暗含漂泊之久"
+  },
+  {
+   "word": "孤舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤舟系岸，寄寓故园之思"
+  },
+  {
+   "word": "寒衣",
+   "name": "寒衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "处处催制寒衣，写秋深人思"
+  },
+  {
+   "word": "刀尺",
+   "name": "刀尺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "刀尺裁衣声，烘托暮秋凄清"
+  },
+  {
+   "word": "白帝城",
+   "name": "白帝城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "城高砧急，写客中暮景"
+  },
+  {
+   "word": "暮砧",
+   "name": "砧",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮砧急响，添羁旅之愁"
+  }
+ ]
+}

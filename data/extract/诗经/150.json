@@ -1,0 +1,83 @@
+{
+ "id": 150,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蜉蝣",
+   "name": "蜉蝣",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蜉蝣羽翼起兴，喻人生短促"
+  },
+  {
+   "word": "羽",
+   "name": "羽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蜉蝣的翅膀，喻衣裳之美"
+  },
+  {
+   "word": "衣裳",
+   "name": "衣裳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蜉蝣羽翼比作华美衣裳"
+  },
+  {
+   "word": "翼",
+   "name": "翼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蜉蝣的翅膀，与首章羽呼应"
+  },
+  {
+   "word": "衣服",
+   "name": "衣服",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蜉蝣羽翼比作鲜亮衣服"
+  },
+  {
+   "word": "麻衣",
+   "name": "麻衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蜉蝣羽翼比作雪白麻衣"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "形容麻衣洁白如雪"
+  }
+ ]
+}

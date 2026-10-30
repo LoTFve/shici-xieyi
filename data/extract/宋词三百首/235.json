@@ -1,0 +1,259 @@
+{
+ "id": 235,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "宿雾消散，点明清晨景象"
+  },
+  {
+   "word": "春禽",
+   "name": "禽",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "春鸟寂静，反衬环境清幽"
+  },
+  {
+   "word": "飞雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "急雨敲屋，烘托羁旅愁绪"
+  },
+  {
+   "word": "高屋",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨打高屋，写邮亭环境"
+  },
+  {
+   "word": "墙头",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "墙头嫩竹如青玉旆"
+  },
+  {
+   "word": "青玉旆",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以青玉旆喻新竹，写春竹生机"
+  },
+  {
+   "word": "嫩梢",
+   "name": "梢",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "嫩竹梢相触，写竹的动态"
+  },
+  {
+   "word": "琴丝",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "湿润侵琴，写环境潮湿"
+  },
+  {
+   "word": "枕障",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "寒气侵枕，写孤眠之感"
+  },
+  {
+   "word": "虫网",
+   "name": "蛛网",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "蛛网沾帘，写邮亭荒凉"
+  },
+  {
+   "word": "帘竹",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "竹帘被风吹动，写孤寂环境"
+  },
+  {
+   "word": "邮亭",
+   "name": "邮亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "点明羁旅之所，渲染孤寂"
+  },
+  {
+   "word": "檐声",
+   "name": "檐雨",
+   "category": "声音",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "檐下雨声不断，烘托愁绪"
+  },
+  {
+   "word": "车毂",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "行人念流潦阻碍车行，写归思"
+  },
+  {
+   "word": "兰成",
+   "name": "庾信",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以庾信自比，写羁旅憔悴"
+  },
+  {
+   "word": "卫",
+   "name": "卫玠",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以卫玠清羸自比，写身心憔悴"
+  },
+  {
+   "word": "平阳客",
+   "name": "平阳客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借马融典故写闻笛落泪"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "笛中哀曲，触动愁绪"
+  },
+  {
+   "word": "青芜国",
+   "name": "青草",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "萧索",
+   "note": "青草荒芜，写萧索景象"
+  },
+  {
+   "word": "红糁",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花铺地，写春残景象"
+  },
+  {
+   "word": "荆桃",
+   "name": "樱桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "门外樱桃如豆，点明春深"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜游无伴，写孤独"
+  },
+  {
+   "word": "烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "秉烛夜游，反衬无人共游"
+  }
+ ]
+}

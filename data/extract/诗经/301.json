@@ -1,0 +1,149 @@
+{
+ "id": 301,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鞉鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "祭祀中敲击的摇鼓，领起乐舞"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "奏鼓简简，渲染祭典的隆重"
+  },
+  {
+   "word": "管",
+   "name": "管",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "嘒嘒管声，与鼓磬相和的管乐"
+  },
+  {
+   "word": "磬",
+   "name": "磬",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "依我磬声，祭祀中清越的磬乐"
+  },
+  {
+   "word": "庸鼓",
+   "name": "庸鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "庸鼓有斁，大钟大鼓齐鸣的盛况"
+  },
+  {
+   "word": "万舞",
+   "name": "舞",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "万舞有奕，祭祀时盛大整齐的群舞"
+  },
+  {
+   "word": "嘉客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "我有嘉客，助祭的宾客"
+  },
+  {
+   "word": "汤孙",
+   "name": "汤孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "主祭的商汤子孙，全诗颂美的主体"
+  },
+  {
+   "word": "烈祖",
+   "name": "烈祖",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "衎我烈祖，所祭的有功先祖"
+  },
+  {
+   "word": "先民",
+   "name": "先民",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "自古在昔的先人，追述祭祀传统"
+  },
+  {
+   "word": "烝尝",
+   "name": "烝尝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "顾予烝尝，冬祭与秋祭的代称"
+  },
+  {
+   "word": "管声",
+   "name": "管声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "嘒嘒管声，以听觉写乐舞之和"
+  },
+  {
+   "word": "鼓声",
+   "name": "鼓声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鞉鼓渊渊，鼓声深沉，烘托祭典气氛"
+  }
+ ]
+}

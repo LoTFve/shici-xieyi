@@ -1,0 +1,226 @@
+{
+ "id": 117,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "青楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "女子所居之处，点明春晚寂寥的环境"
+  },
+  {
+   "word": "鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸦啼声勾起新愁"
+  },
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "与鸦啼并举，春景反衬愁绪"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中花间初见与花月携手之景"
+  },
+  {
+   "word": "雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隔雾遥见，写初见朦胧之美"
+  },
+  {
+   "word": "角枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中共题诗于枕的亲密情景"
+  },
+  {
+   "word": "宝钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "典当宝钗换酒，写昔日共醉情深"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "共醉深院，回忆中的欢会"
+  },
+  {
+   "word": "青苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "深院青苔，点出幽静人稀"
+  },
+  {
+   "word": "回廊",
+   "name": "廊",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中携手之处"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "花明月满，昔日欢会之景"
+  },
+  {
+   "word": "暮雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "如今只见暮雨，今昔对比之景"
+  },
+  {
+   "word": "蜂",
+   "name": "蜂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蜂愁蝶恨，以物拟人写愁"
+  },
+  {
+   "word": "蝶",
+   "name": "蝶",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与蜂并举，寄托离愁"
+  },
+  {
+   "word": "小窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "闲对芭蕉的视点所在"
+  },
+  {
+   "word": "芭蕉",
+   "name": "蕉",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "闲对小窗展蕉，衬愁绪"
+  },
+  {
+   "word": "秦筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "无言闲品筝，写孤寂无聊"
+  },
+  {
+   "word": "参差雁",
+   "name": "筝柱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "筝柱排列如雁行，泪满其上"
+  },
+  {
+   "word": "腰支",
+   "name": "腰",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "腰肢渐小，写因愁消瘦"
+  },
+  {
+   "word": "杨花",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "心与杨花共远，喻心随远方飘荡"
+  }
+ ]
+}

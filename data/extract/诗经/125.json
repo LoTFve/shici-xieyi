@@ -1,0 +1,61 @@
+{
+ "id": 125,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "苓",
+   "name": "苓",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之物，采苓于首阳山顶，引出对谗言的告诫"
+  },
+  {
+   "word": "首阳",
+   "name": "首阳",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "采药所在之山，反复出现构成三章的空间框架"
+  },
+  {
+   "word": "巅",
+   "name": "山顶",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明采苓的高处位置"
+  },
+  {
+   "word": "苦",
+   "name": "苦菜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "第二章起兴之物，采苦于首阳山下"
+  },
+  {
+   "word": "葑",
+   "name": "葑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "第三章起兴之物，采葑于首阳山东"
+  }
+ ]
+}

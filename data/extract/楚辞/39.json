@@ -1,0 +1,160 @@
+{
+ "id": 39,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "乘日月上征，想象中升天的依托"
+  },
+  {
+   "word": "九隅",
+   "name": "九隅",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "遍览天下九方，表现神游之广"
+  },
+  {
+   "word": "兰宫",
+   "name": "兰宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "芳洁的宫室，想象中仙境般的居所"
+  },
+  {
+   "word": "芷闾",
+   "name": "芷",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以香草为门闾，烘托高洁环境"
+  },
+  {
+   "word": "药房",
+   "name": "药房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香药之房，与兰宫芷闾共构芳洁之境"
+  },
+  {
+   "word": "众芳",
+   "name": "众芳",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "众花摇动，写香草繁盛之态"
+  },
+  {
+   "word": "菌阁",
+   "name": "菌阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "菌形香木之阁，仙境楼观之一"
+  },
+  {
+   "word": "蕙楼",
+   "name": "蕙楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蕙草装饰的楼，与菌阁并写居处芳洁"
+  },
+  {
+   "word": "宝金",
+   "name": "金",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "堆积的黄金，写宫室富丽"
+  },
+  {
+   "word": "美玉",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盈堂的美玉，与宝金共写富贵"
+  },
+  {
+   "word": "桂水",
+   "name": "桂水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "潺湲流淌的芳水，写仙境水声"
+  },
+  {
+   "word": "蓍蔡",
+   "name": "蓍龟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蓍草与龟甲（蔡即龟），踊跃之态写灵物欢动"
+  },
+  {
+   "word": "孔鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "孔雀与鹤回翔，写仙境禽鸟飞舞"
+  },
+  {
+   "word": "槛",
+   "name": "槛",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "抚栏远望，由仙境折回现实，引出思君之情"
+  }
+ ]
+}

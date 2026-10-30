@@ -1,0 +1,72 @@
+{
+ "id": 29,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "比喻",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "以日月照临起兴，喻丈夫本应如日普照"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与日并举，喻丈夫的照临与变化"
+  },
+  {
+   "word": "东方",
+   "name": "东",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "日月升起之处，暗喻丈夫初时的光耀"
+  },
+  {
+   "word": "下土",
+   "name": "大地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "日月所照之处，指人间世间"
+  },
+  {
+   "word": "父",
+   "name": "父",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "呼父倾诉，怨其养育不能终"
+  },
+  {
+   "word": "母",
+   "name": "母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与父并称，诉说不被终养之苦"
+  }
+ ]
+}

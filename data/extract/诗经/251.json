@@ -1,0 +1,50 @@
+{
+ "id": 251,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "行潦",
+   "name": "潦",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "路边积水，取水祭祀的源头"
+  },
+  {
+   "word": "餴饎",
+   "name": "饎",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蒸煮的饭食，祭祀所用"
+  },
+  {
+   "word": "罍",
+   "name": "罍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛酒礼器，洗涤以奉祭祀"
+  },
+  {
+   "word": "濯溉",
+   "name": "溉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洗涤用的器具"
+  }
+ ]
+}

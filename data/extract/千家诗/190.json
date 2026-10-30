@@ -1,0 +1,171 @@
+{
+ "id": 190,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蓬莱宫阙",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "追忆长安宫殿的巍峨"
+  },
+  {
+   "word": "南山",
+   "name": "终南山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "衬托宫阙所对之远山"
+  },
+  {
+   "word": "承露金茎",
+   "name": "铜柱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "汉武帝承露盘的典故，写宫廷气象"
+  },
+  {
+   "word": "霄汉",
+   "name": "霄汉",
+   "category": "天象",
+   "parent": "star",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "形容铜柱高耸入云，与星河相接"
+  },
+  {
+   "word": "瑶池",
+   "name": "瑶池",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西王母居处的典故，指长安西北宫苑"
+  },
+  {
+   "word": "王母",
+   "name": "王母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "西王母，借指宫廷盛况"
+  },
+  {
+   "word": "紫气",
+   "name": "紫气",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "用典",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "老子出函关的祥瑞之气，写长安东来的气象"
+  },
+  {
+   "word": "函关",
+   "name": "函谷关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "紫气东来的典故出处，指长安东面关隘"
+  },
+  {
+   "word": "雉尾",
+   "name": "雉尾扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "宫扇如云移开，写朝仪之盛"
+  },
+  {
+   "word": "宫扇",
+   "name": "宫扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "与雉尾扇连用，写宫中文武仪仗"
+  },
+  {
+   "word": "龙鳞",
+   "name": "龙鳞",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指龙袍，写皇帝仪容"
+  },
+  {
+   "word": "圣颜",
+   "name": "圣颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指皇帝的面容，追忆朝见情景"
+  },
+  {
+   "word": "沧江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "眼前所在之地，与长安宫阙对照"
+  },
+  {
+   "word": "青琐",
+   "name": "青琐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指宫门，回忆入朝为官"
+  },
+  {
+   "word": "朝班",
+   "name": "朝班",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "写早朝时百官排列，已不可再得"
+  }
+ ]
+}

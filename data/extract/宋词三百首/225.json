@@ -1,0 +1,237 @@
+{
+ "id": 225,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "暗柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "暗柳营造出寂寥的春日背景，柳树常与离愁相关"
+  },
+  {
+   "word": "啼鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "啼鸦的叫声增添了凄清的氛围，暗示黄昏或清晨的孤寂"
+  },
+  {
+   "word": "单衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "单衣写出词人衣着单薄，强化了孤寒之感"
+  },
+  {
+   "word": "小帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小帘是室内空间的细节，暗示着幽闭的环境"
+  },
+  {
+   "word": "朱户",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "朱户指红色的大门，点明居所，增添色彩与华美"
+  },
+  {
+   "word": "桐花",
+   "name": "桐",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "桐花半亩，以花写春景，同时静锁的庭院更显寂寥"
+  },
+  {
+   "word": "愁雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "雨洒空阶，夜阑未休，雨声烘托愁绪"
+  },
+  {
+   "word": "空阶",
+   "name": "阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "空阶强调无人，雨打空阶更显寂静"
+  },
+  {
+   "word": "西窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "化用李商隐“何当共剪西窗烛”典故，表达与故人重聚的期盼"
+  },
+  {
+   "word": "楚江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "回忆少年羁旅，楚江暝宿，江上夜景"
+  },
+  {
+   "word": "风灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "风灯零乱，写出旅途中的飘零与孤寂"
+  },
+  {
+   "word": "店舍",
+   "name": "店",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "店舍无烟，指寒食节禁烟，客舍冷清"
+  },
+  {
+   "word": "禁城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "禁城指京城，百五指寒食节，点明时节与地点"
+  },
+  {
+   "word": "旗亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旗亭是酒楼，悬旗为标识，此处与唤酒相连"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "旗亭唤酒，与高阳俦侣共饮，表现豪兴"
+  },
+  {
+   "word": "高阳俦侣",
+   "name": "酒徒",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "用高阳酒徒郦食其典故，指酒友，表现豪放不羁"
+  },
+  {
+   "word": "东园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象东园桃李盛开，寄托对故园的思念"
+  },
+  {
+   "word": "桃李",
+   "name": "桃李",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "桃李自春，以春花烂漫反衬人的孤寂，也暗喻佳人"
+  },
+  {
+   "word": "小唇秀靥",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以小唇秀靥借指所思念的女子，表达怀人之情"
+  },
+  {
+   "word": "残英",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象归时残花犹在，以待客携尊俎，暗含春逝人归的期盼"
+  },
+  {
+   "word": "尊俎",
+   "name": "酒器",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "尊俎泛指酒器食器，代指携酒赏花，与故人相聚"
+  }
+ ]
+}

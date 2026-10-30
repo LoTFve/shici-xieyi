@@ -1,0 +1,83 @@
+{
+ "id": 48,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "唐",
+   "name": "菟丝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之物，引出采撷场景"
+  },
+  {
+   "word": "麦",
+   "name": "麦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "田野作物，点明采摘时节"
+  },
+  {
+   "word": "葑",
+   "name": "蔓菁",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "野菜，与采唐采麦并列起兴"
+  },
+  {
+   "word": "桑中",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "幽会之地，桑林掩映"
+  },
+  {
+   "word": "上宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "相约的楼阁场所"
+  },
+  {
+   "word": "淇",
+   "name": "淇水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "送别之水，点明地理"
+  },
+  {
+   "word": "沬",
+   "name": "沬水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "朝歌之水，交代采集地点"
+  }
+ ]
+}

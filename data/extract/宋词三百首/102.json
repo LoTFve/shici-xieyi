@@ -1,0 +1,226 @@
+{
+ "id": 102,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "脸霞",
+   "name": "霞",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以红霞比喻女子睡醒后脸颊的红晕"
+  },
+  {
+   "word": "枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "女子独眠的卧具，衬出孤寂"
+  },
+  {
+   "word": "冠儿",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子醒来未整的冠饰，写慵懒情态"
+  },
+  {
+   "word": "屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "室内屏风，营造闺阁背景"
+  },
+  {
+   "word": "麝煤",
+   "name": "香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "香已冷，写室内清冷与独处"
+  },
+  {
+   "word": "眉峰",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以山峰喻蹙眉，写愁态"
+  },
+  {
+   "word": "泪珠",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "女子落泪，点出相思之苦"
+  },
+  {
+   "word": "粉",
+   "name": "粉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指女子妆容，泪弹粉写啼妆"
+  },
+  {
+   "word": "堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "深堂昼永，写闺中空寂"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "哀愁",
+   "note": "燕双飞反衬人之孤独"
+  },
+  {
+   "word": "风帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "风吹帘动，写庭院景象"
+  },
+  {
+   "word": "露井",
+   "name": "井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "露井写庭院清冷，衬孤寂"
+  },
+  {
+   "word": "残灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "回忆中残灯景象，写昔日夜景"
+  },
+  {
+   "word": "朱幌",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "回忆中红色帷帘，写昔日闺房"
+  },
+  {
+   "word": "淡月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "回忆中淡月照纱窗的夜景"
+  },
+  {
+   "word": "纱窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "回忆中纱窗，与淡月构成夜景"
+  },
+  {
+   "word": "阳台",
+   "name": "阳台",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用巫山云雨典，指男女欢会难期"
+  },
+  {
+   "word": "云雨",
+   "name": "云雨",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用巫山神女典，喻欢会如梦无凭"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象归来时指花共看的场景"
+  },
+  {
+   "word": "青春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指女子的青春年华，叹其流逝"
+  }
+ ]
+}

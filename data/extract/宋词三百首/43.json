@@ -1,0 +1,160 @@
+{
+ "id": 43,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "乳燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "初夏景物，反衬幽寂"
+  },
+  {
+   "word": "华屋",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美的房屋，点明环境"
+  },
+  {
+   "word": "桐阴",
+   "name": "桐",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "夏",
+   "time": "昼",
+   "emotion": "孤寂",
+   "note": "梧桐树荫，暗示时节与寂寥"
+  },
+  {
+   "word": "白团扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "美人手中所持，象征高洁"
+  },
+  {
+   "word": "绣户",
+   "name": "门",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "华美的门户，反衬无人来访"
+  },
+  {
+   "word": "瑶台",
+   "name": "瑶台",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙境楼台，指梦中美好境界"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "风吹竹声，惊破幽梦"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "竹被风敲，制造声响与清寂"
+  },
+  {
+   "word": "石榴",
+   "name": "石榴",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "石榴花开，喻美人迟暮"
+  },
+  {
+   "word": "红巾",
+   "name": "红巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻石榴花瓣的红色"
+  },
+  {
+   "word": "浮花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指轻浮短暂的花，反衬石榴"
+  },
+  {
+   "word": "浪蕊",
+   "name": "蕊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指轻浮的花蕊，反衬石榴"
+  },
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "虚写",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象秋风摧花，忧虑美人迟暮"
+  },
+  {
+   "word": "粉泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻女子眼泪与石榴花露"
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "id": 196,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "古苑幽径的冷翠竹林"
+  },
+  {
+   "word": "翠微",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青翠掩映的山路远景"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪边斗草之处"
+  },
+  {
+   "word": "莲步",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沙上脚印引出女子身影"
+  },
+  {
+   "word": "清霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以霜喻两鬓白发"
+  },
+  {
+   "word": "寒食",
+   "name": "寒食",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明节令，牵动羁旅之思"
+  },
+  {
+   "word": "云山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "身处云山深处的漂泊感"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "怨天悭春的感叹对象"
+  },
+  {
+   "word": "轻阴",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春阴易雨的压抑天色"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "轻阴化雨，添人愁绪"
+  },
+  {
+   "word": "长亭",
+   "name": "长亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "送别旧地，触发归梦"
+  },
+  {
+   "word": "风絮",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "随风飞絮伴归梦"
+  },
+  {
+   "word": "花影",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "阑干间摇曳的花影含情"
+  },
+  {
+   "word": "阑干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "花影所依的庭院栏杆"
+  },
+  {
+   "word": "莺声",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "门径莺啼似解留客"
+  },
+  {
+   "word": "门径",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "莺声花影所在的院门小径"
+  }
+ ]
+}

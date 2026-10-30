@@ -1,0 +1,83 @@
+{
+ "id": 182,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明问夜的时间背景，渲染朝会前的深夜氛围"
+  },
+  {
+   "word": "庭燎",
+   "name": "燎",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "庭院中燃烧的火炬，照亮夜色，是朝会场景的核心光源"
+  },
+  {
+   "word": "光",
+   "name": "光",
+   "category": "其他",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "形容庭燎的光亮，突出深夜中的火光"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "指前来朝会的诸侯或官员，是诗中被等待的人物"
+  },
+  {
+   "word": "鸾",
+   "name": "鸾",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指车上鸾铃，以鸾声代指君子车马到来的声音"
+  },
+  {
+   "word": "鸾声",
+   "name": "鸾声",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "鸾铃的声响，表明君子车马渐近，打破夜的寂静"
+  },
+  {
+   "word": "旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "天将明时可见的旗帜，标志君子车马的仪仗"
+  }
+ ]
+}

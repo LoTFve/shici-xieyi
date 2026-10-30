@@ -1,0 +1,72 @@
+{
+ "id": 122,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梅子",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明初夏时令，酸甜滋味唤起感官"
+  },
+  {
+   "word": "芭蕉",
+   "name": "芭蕉",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿映窗纱，写夏日庭院的浓阴"
+  },
+  {
+   "word": "窗纱",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "芭蕉绿意透入的窗前景物"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "夏",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "“日长”写夏日白昼漫长"
+  },
+  {
+   "word": "儿童",
+   "name": "童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "捉柳花的嬉戏者，衬出闲适心境"
+  },
+  {
+   "word": "柳花",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "暮春柳絮，儿童追逐的对象"
+  }
+ ]
+}

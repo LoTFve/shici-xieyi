@@ -1,0 +1,94 @@
+{
+ "id": 95,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "碧桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "天上仙桃，喻科举得志者"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "仙桃沾露，显其受天泽"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "日边，指皇帝身边显赫处"
+  },
+  {
+   "word": "红杏",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "倚云而栽，喻得势者"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红杏倚云，写高位者之依托"
+  },
+  {
+   "word": "芙蓉",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "自比秋江芙蓉，虽迟开而不怨"
+  },
+  {
+   "word": "秋江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "芙蓉所生之地，清冷僻远"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指春时与提携之力"
+  }
+ ]
+}

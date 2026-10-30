@@ -1,0 +1,61 @@
+{
+ "id": 230,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄鸟",
+   "name": "黄鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以黄鸟起兴，引出行役之苦"
+  },
+  {
+   "word": "丘阿",
+   "name": "山丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟栖止之处，也是征途所经之地"
+  },
+  {
+   "word": "丘隅",
+   "name": "山丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟栖止之处，也是征途所经之地"
+  },
+  {
+   "word": "丘侧",
+   "name": "山丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄鸟栖止之处，也是征途所经之地"
+  },
+  {
+   "word": "后车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "供役者乘坐的从车"
+  }
+ ]
+}

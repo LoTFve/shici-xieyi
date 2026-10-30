@@ -1,0 +1,83 @@
+{
+ "id": 74,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凉风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "渲染边地夜宴的萧瑟氛围"
+  },
+  {
+   "word": "夜雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点出边塞夜晚的凄冷"
+  },
+  {
+   "word": "寒林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "萧瑟秋林衬托心境"
+  },
+  {
+   "word": "高堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "指军中设宴的厅堂"
+  },
+  {
+   "word": "剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "军中剑舞，见将士豪气"
+  },
+  {
+   "word": "笳",
+   "name": "笳",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "塞上胡笳，边声悲凉"
+  },
+  {
+   "word": "边城",
+   "name": "边城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指幽州边塞之地"
+  }
+ ]
+}

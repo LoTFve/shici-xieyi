@@ -1,0 +1,72 @@
+{
+ "id": 149,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "丝纶阁",
+   "name": "阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明诗人办公的官署环境"
+  },
+  {
+   "word": "钟鼓楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与刻漏一起暗示时间流逝"
+  },
+  {
+   "word": "刻漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "计时工具，突出官署值夜的漫长"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "点明时间，渲染独坐的寂寥"
+  },
+  {
+   "word": "紫薇花",
+   "name": "紫薇",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "眼前景物，与诗人官职相映成趣"
+  },
+  {
+   "word": "紫薇郎",
+   "name": "郎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指诗人自己，表达官职身份"
+  }
+ ]
+}

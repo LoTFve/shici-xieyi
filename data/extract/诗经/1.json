@@ -1,0 +1,94 @@
+{
+ "id": 1,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雎鸠",
+   "name": "鸠",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以关关和鸣的水鸟起兴，引出君子对淑女的追求"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雎鸠栖息的河洲所在，是全诗的水景背景"
+  },
+  {
+   "word": "洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "河中沙洲，雎鸠和鸣的地方"
+  },
+  {
+   "word": "荇菜",
+   "name": "荇菜",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中采摘的野菜，反复出现以映衬淑女的美好与追求过程"
+  },
+  {
+   "word": "淑女",
+   "name": "淑女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "君子倾慕追求的美好女子"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "倾慕追求淑女的男子"
+  },
+  {
+   "word": "琴瑟",
+   "name": "琴瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以琴瑟友之，表现亲近淑女的雅乐"
+  },
+  {
+   "word": "钟鼓",
+   "name": "钟鼓",
+   "category": "器物",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "钟鼓乐之，表现迎娶淑女的热闹喜庆"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 112,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "黄莺在柳间穿梭的春日背景"
+  },
+  {
+   "word": "交交",
+   "name": "鸟鸣",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "黄莺的鸣声被比作织机声"
+  },
+  {
+   "word": "洛阳",
+   "name": "洛阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明繁华的春日都城，也暗含牡丹花城"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "三月繁花如锦，衬托莺梭织出的春色"
+  }
+ ]
+}

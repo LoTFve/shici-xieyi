@@ -1,0 +1,116 @@
+{
+ "id": 31,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "金掌",
+   "name": "金掌",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "汉武帝承露盘，点出秋霜清冷"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "无",
+   "note": "露结为霜，写重阳秋寒"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "无",
+   "note": "露成霜，渲染深秋清寒"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "流云随雁阵伸展，写天边辽阔"
+  },
+  {
+   "word": "雁字",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雁阵成行，牵动乡思"
+  },
+  {
+   "word": "绿杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "绿玉酒杯，写重阳宴饮"
+  },
+  {
+   "word": "红袖",
+   "name": "红袖",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指歌女，写宴席艳丽"
+  },
+  {
+   "word": "兰佩紫",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "佩紫兰，写重阳时令风雅"
+  },
+  {
+   "word": "菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "簪黄菊，点重阳风俗"
+  },
+  {
+   "word": "清歌",
+   "name": "歌声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清越歌声，欲以解愁却恐断肠"
+  }
+ ]
+}

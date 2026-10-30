@@ -1,0 +1,72 @@
+{
+ "id": 160,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "狼",
+   "name": "狼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以老狼跋前疐后起兴，喻公孙处境艰难"
+  },
+  {
+   "word": "胡",
+   "name": "胡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "狼颔下垂肉，写狼前行踩须之状"
+  },
+  {
+   "word": "尾",
+   "name": "尾",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "狼尾，写狼后退踩尾之状"
+  },
+  {
+   "word": "公孙",
+   "name": "公孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中被赞美的贵族主人公"
+  },
+  {
+   "word": "赤舄",
+   "name": "舄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红鞋，以华美服饰衬托公孙雍容之态"
+  },
+  {
+   "word": "德音",
+   "name": "德音",
+   "category": "声音",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指公孙的美好名声，反诘以赞其无瑕"
+  }
+ ]
+}

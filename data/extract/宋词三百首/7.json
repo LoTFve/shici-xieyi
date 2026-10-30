@@ -1,0 +1,281 @@
+{
+ "id": 7,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "开篇渲染西陵送别的迷茫水景"
+  },
+  {
+   "word": "桃叶",
+   "name": "桃叶",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借王献之桃叶渡典指昔日送别之地"
+  },
+  {
+   "word": "西陵",
+   "name": "西陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借西陵送别旧典点出离别情境"
+  },
+  {
+   "word": "潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以潮尾喻十年离恨绵延"
+  },
+  {
+   "word": "古柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "重攀古柳，折柳送别的旧痕再现"
+  },
+  {
+   "word": "轻鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鸥鸟聚散反衬人事离合"
+  },
+  {
+   "word": "危亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "独倚高亭，收束眼前陈迹"
+  },
+  {
+   "word": "凉飔",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "凉风乍起，点出秋意与身世之悲"
+  },
+  {
+   "word": "烟碛",
+   "name": "沙洲",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟雾笼罩的沙洲，衬托飞帆远去"
+  },
+  {
+   "word": "飞帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远去的行舟，望中渺茫"
+  },
+  {
+   "word": "暮山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "暮色青山横翠，作远望背景"
+  },
+  {
+   "word": "江花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "江边秋花与憔悴人相映"
+  },
+  {
+   "word": "秋镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以秋水如镜照见憔悴容颜"
+  },
+  {
+   "word": "华堂",
+   "name": "华堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "回忆当年华堂送客的盛景"
+  },
+  {
+   "word": "烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "烛暗送客，追忆夜宴情事"
+  },
+  {
+   "word": "眼波",
+   "name": "眼波",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回盼的流波，写伊人临别情态"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以流水喻眼波芳艳，兼含逝去之感"
+  },
+  {
+   "word": "素骨",
+   "name": "玉",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以冰玉喻肌肤清润"
+  },
+  {
+   "word": "柔葱",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "葱白喻手指，写分瓜时的纤手"
+  },
+  {
+   "word": "清尊",
+   "name": "酒樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "樽未洗，旧情难忘"
+  },
+  {
+   "word": "行云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借巫山行云典写梦中难会"
+  },
+  {
+   "word": "残泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "梦醒泪痕，直写悲怀"
+  },
+  {
+   "word": "秋宵",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明时间，收束全篇氛围"
+  },
+  {
+   "word": "乱蛩",
+   "name": "蟋蟀",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "乱蛩哀鸣，添秋夜凄清"
+  },
+  {
+   "word": "疏雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "疏雨敲秋，与蛩声共作愁境"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 152,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "冷泉亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗题所咏之亭，泉畔观景之所"
+  },
+  {
+   "word": "一泓",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "清澈泉水一汪，沁人心脾"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "泉水流出所汇之处，指繁华之地"
+  },
+  {
+   "word": "歌舞",
+   "name": "歌舞",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指西湖上的繁华游赏生活"
+  }
+ ]
+}

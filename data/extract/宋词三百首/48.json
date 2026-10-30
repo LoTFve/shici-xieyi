@@ -1,0 +1,116 @@
+{
+ "id": 48,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "疏雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清明后的细雨，渲染春寒将尽的氛围"
+  },
+  {
+   "word": "花径",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "小径上残花堆积，暗写春将归去"
+  },
+  {
+   "word": "馀红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凋落的残花，喻春光消逝"
+  },
+  {
+   "word": "风沼",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "风吹池面泛起新皱，写庭院景致"
+  },
+  {
+   "word": "新皱",
+   "name": "波纹",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "池面被风吹起的细纹"
+  },
+  {
+   "word": "乳燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "雏燕穿飞庭户，反衬人的孤寂"
+  },
+  {
+   "word": "飞絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飘飞的柳絮沾上衣袖，写暮春飘零"
+  },
+  {
+   "word": "晚昼",
+   "name": "昼",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明时光渐晚，带出愁绪"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以酒之浓喻滋味之深，写相思之苦"
+  },
+  {
+   "word": "庭前柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "把离恨分付给柳，柳成为愁绪的寄托"
+  }
+ ]
+}

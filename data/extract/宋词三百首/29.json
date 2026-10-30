@@ -1,0 +1,83 @@
+{
+ "id": 29,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "作无情计吹落花，是伤春的触媒"
+  },
+  {
+   "word": "艳粉娇红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "被东风吹落满地的春花"
+  },
+  {
+   "word": "碧楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "词人登临所见所居之处"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "帘影遮不住愁，愁与帘影相映"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春残时节，全词伤春的背景"
+  },
+  {
+   "word": "金盏",
+   "name": "盏",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒浇愁，杯深以醉遣伤春之恨"
+  },
+  {
+   "word": "落花",
+   "name": "落花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "看尽落花而醉，惜春伤逝的焦点"
+  }
+ ]
+}

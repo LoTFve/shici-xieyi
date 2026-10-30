@@ -1,0 +1,94 @@
+{
+ "id": 207,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "上天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇以天照临下土起兴，营造高远背景"
+  },
+  {
+   "word": "下土",
+   "name": "大地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与上天对应，指人间大地"
+  },
+  {
+   "word": "艽野",
+   "name": "荒野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "征行所至的荒远之地，烘托漂泊之苦"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指时光岁月，感叹寒暑更替"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "涕零如雨，以雨喻泪，写忧思之深"
+  },
+  {
+   "word": "萧",
+   "name": "萧",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "采萧获菽，点出岁暮农事与季节"
+  },
+  {
+   "word": "菽",
+   "name": "豆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "收获的豆类，与萧同写岁暮劳作"
+  },
+  {
+   "word": "神",
+   "name": "神",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神之听之，以神明监察劝勉君子"
+  }
+ ]
+}

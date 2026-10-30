@@ -1,0 +1,171 @@
+{
+ "id": 27,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋千",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "院落中的秋千，点出春日庭院景象"
+  },
+  {
+   "word": "院落",
+   "name": "院落",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "暮色中重帘掩映的庭院"
+  },
+  {
+   "word": "重帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "层层垂帘，渲染暮色深院"
+  },
+  {
+   "word": "彩笔",
+   "name": "笔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "闲来题字的彩笔"
+  },
+  {
+   "word": "绣户",
+   "name": "户",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雕饰华美的门户"
+  },
+  {
+   "word": "墙头",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "墙头露出丹杏"
+  },
+  {
+   "word": "丹杏",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后墙头残杏，春日花景"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后零落的花"
+  },
+  {
+   "word": "绿杨",
+   "name": "杨",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "门外绿杨，春风吹絮"
+  },
+  {
+   "word": "絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "风吹柳絮，飘零无依"
+  },
+  {
+   "word": "朝云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "借巫山朝云典，指所思之人"
+  },
+  {
+   "word": "襄王",
+   "name": "襄王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用楚襄王梦会神女典"
+  },
+  {
+   "word": "春梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象对方如春梦般逝去"
+  },
+  {
+   "word": "紫骝",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "认得旧游踪的紫骝马"
+  },
+  {
+   "word": "画桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "东畔有画的桥，旧游之地"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "id": 281,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "漆沮",
+   "name": "漆沮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "两条河流名，点明捕鱼的水域"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "水中众多的鱼，是祭祀的供品"
+  },
+  {
+   "word": "鳣",
+   "name": "鳣",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "列举的一种大鱼，显示鱼种丰富"
+  },
+  {
+   "word": "鲔",
+   "name": "鲔",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "列举的一种鱼，与鳣并列"
+  },
+  {
+   "word": "鲦",
+   "name": "鲦",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "列举的小鱼，表现鱼类繁多"
+  },
+  {
+   "word": "鲿",
+   "name": "鲿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "列举的一种鱼，参与构成鱼群意象"
+  },
+  {
+   "word": "鰋",
+   "name": "鰋",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "列举的一种鱼，强调水中物产丰饶"
+  },
+  {
+   "word": "鲤",
+   "name": "鲤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "列举的鲤鱼，是祭祀用的鱼之一"
+  }
+ ]
+}

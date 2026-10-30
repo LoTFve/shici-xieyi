@@ -1,0 +1,204 @@
+{
+ "id": 96,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "烟水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "开篇展现广阔迷蒙的水景，营造氛围"
+  },
+  {
+   "word": "高林",
+   "name": "林",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高处的树林，与残照相映"
+  },
+  {
+   "word": "残照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "傍晚的日光，增添苍茫感"
+  },
+  {
+   "word": "晚蜩",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "秋蝉凄切鸣叫，烘托悲秋情绪"
+  },
+  {
+   "word": "碧砧",
+   "name": "砧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "捣衣石，暗示秋日思妇思乡"
+  },
+  {
+   "word": "银床",
+   "name": "井栏",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "井栏，秋叶飘落其上，点明秋意"
+  },
+  {
+   "word": "叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飘落的树叶，象征秋日凋零"
+  },
+  {
+   "word": "桐阴",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梧桐树荫，秋日露冷，渲染寂寥"
+  },
+  {
+   "word": "凉花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "秋花，采撷以赋秋雪，表现秋趣"
+  },
+  {
+   "word": "秋雪",
+   "name": "芦花",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻芦花如雪，烘托秋景"
+  },
+  {
+   "word": "砌蛩",
+   "name": "蟋蟀",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "台阶下的蟋蟀鸣叫，仿佛诉说幽事"
+  },
+  {
+   "word": "琼壶",
+   "name": "壶",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "酒壶，暗示借酒消愁"
+  },
+  {
+   "word": "翠扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻荷叶，秋来被弃"
+  },
+  {
+   "word": "红衣",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指荷花，香褪凋零，象征芳华消逝"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风，吹起愁恨"
+  },
+  {
+   "word": "楚箫",
+   "name": "箫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "楚地的箫声，呜咽悲凉"
+  },
+  {
+   "word": "西楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "西边的楼阁，有人倚楼望月"
+  },
+  {
+   "word": "淡月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "朦胧的月亮，烘托孤寂氛围"
+  }
+ ]
+}

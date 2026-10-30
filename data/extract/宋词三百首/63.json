@@ -1,0 +1,182 @@
+{
+ "id": 63,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晚云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "傍晚云霞收拢，渲染清朗夜空"
+  },
+  {
+   "word": "琉璃",
+   "name": "琉璃",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻淡蓝天空澄澈如琉璃"
+  },
+  {
+   "word": "银盘",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以银盘喻圆月自海面升起"
+  },
+  {
+   "word": "海底",
+   "name": "海",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象明月从海底升起"
+  },
+  {
+   "word": "素娥",
+   "name": "嫦娥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "借月宫嫦娥写月色的清冷"
+  },
+  {
+   "word": "丹桂",
+   "name": "桂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月宫桂树，写月中阴影参差"
+  },
+  {
+   "word": "玉露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "秋露初降，点明时节"
+  },
+  {
+   "word": "金风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "秋风未寒，正是中秋佳时"
+  },
+  {
+   "word": "乌鹊",
+   "name": "鹊",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "乌鹊南飞，衬托夜深人静"
+  },
+  {
+   "word": "瑶台",
+   "name": "瑶台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以仙家楼台写月夜清冷"
+  },
+  {
+   "word": "栏干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "久倚栏杆，写露坐待月之久"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "所思念的远方之人"
+  },
+  {
+   "word": "漏声",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "漏声绵长，写夜久难眠"
+  },
+  {
+   "word": "花影",
+   "name": "花影",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "花影暗移，写时光流逝之痛"
+  },
+  {
+   "word": "清尊",
+   "name": "酒杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "举杯对影，愿与清光长伴"
+  },
+  {
+   "word": "素影",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "素影指月光，愿人月长相随"
+  }
+ ]
+}

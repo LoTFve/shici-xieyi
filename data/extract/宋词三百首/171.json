@@ -1,0 +1,83 @@
+{
+ "id": 171,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "清晨",
+   "name": "晨",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明时间，清晨的冷寂氛围"
+  },
+  {
+   "word": "帘幕",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "闺中垂帘，营造幽闭氛围"
+  },
+  {
+   "word": "轻霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "晨霜点出清冷，暗示时令与心绪"
+  },
+  {
+   "word": "手",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "呵手动作刻画闺中寒意"
+  },
+  {
+   "word": "梅妆",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "梅花妆，借梅写女子妆容"
+  },
+  {
+   "word": "远山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "眉画远山，以山喻眉，暗含离恨"
+  },
+  {
+   "word": "流芳",
+   "name": "芳",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借落花喻流逝的年华"
+  }
+ ]
+}

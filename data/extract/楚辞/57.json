@@ -1,0 +1,215 @@
+{
+ "id": 57,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "八极",
+   "name": "八极",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象中周游的极远之地"
+  },
+  {
+   "word": "九州",
+   "name": "九州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象中遍历的天下"
+  },
+  {
+   "word": "轩辕",
+   "name": "轩辕",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借古圣王寄托求索之志"
+  },
+  {
+   "word": "重华",
+   "name": "重华",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借舜之名表达对明君的向往"
+  },
+  {
+   "word": "佩玖",
+   "name": "玉佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "手中所握美玉，象征自身品质"
+  },
+  {
+   "word": "咎繇",
+   "name": "皋陶",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "羡慕贤臣建立法典"
+  },
+  {
+   "word": "风后",
+   "name": "风后",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仰慕贤臣受瑞图辅君"
+  },
+  {
+   "word": "林泽",
+   "name": "林泽",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "仓皇驱车所经的荒野"
+  },
+  {
+   "word": "丘阿",
+   "name": "山丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "彷徨行走之地"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "车辕折断暗示行路困顿"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "马疲颓衬托处境艰难"
+  },
+  {
+   "word": "虎兕",
+   "name": "虎兕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻朝中争斗的恶势力"
+  },
+  {
+   "word": "豺狼",
+   "name": "豺狼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻身边环伺的小人"
+  },
+  {
+   "word": "云雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "云聚日暗，象征世道昏暗"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "日光被云雾遮蔽，喻君恩不通"
+  },
+  {
+   "word": "飘风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "狂风扬尘，烘托动荡心境"
+  },
+  {
+   "word": "尘埃",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "风扬尘土，写环境昏乱"
+  },
+  {
+   "word": "灵闺",
+   "name": "灵闺",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "喻君王所居的深宫"
+  },
+  {
+   "word": "旧邦",
+   "name": "故乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回望故乡而路远难归"
+  }
+ ]
+}

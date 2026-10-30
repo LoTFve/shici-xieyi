@@ -1,0 +1,149 @@
+{
+ "id": 37,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "别业",
+   "name": "别墅",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "长宁公主东庄的园林宅邸"
+  },
+  {
+   "word": "青甸",
+   "name": "郊野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "别墅所临的青青郊野"
+  },
+  {
+   "word": "鸣銮",
+   "name": "銮铃",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以铃声借指皇帝车驾降临"
+  },
+  {
+   "word": "紫霄",
+   "name": "云霄",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以紫霄比喻帝王所居的高远天界"
+  },
+  {
+   "word": "长筵",
+   "name": "宴席",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "侍宴时排开的长长筵席"
+  },
+  {
+   "word": "鹓鹭",
+   "name": "朝官",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鹓鹭有序比喻百官聚集"
+  },
+  {
+   "word": "仙管",
+   "name": "箫管",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借仙管指宴上演奏的管乐"
+  },
+  {
+   "word": "凤凰",
+   "name": "凤凰",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "用凤凰鸣叫之典形容乐声美妙"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "东庄林木连接终南山"
+  },
+  {
+   "word": "南山",
+   "name": "终南山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "庄园近处的终南山"
+  },
+  {
+   "word": "烟",
+   "name": "烟霭",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "暮霭笼罩北面水渚"
+  },
+  {
+   "word": "北渚",
+   "name": "水渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "远处烟雾含映的北面小洲"
+  },
+  {
+   "word": "镳",
+   "name": "马嚼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以马镳未还借指流连忘返"
+  }
+ ]
+}

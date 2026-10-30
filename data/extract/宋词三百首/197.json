@@ -1,0 +1,160 @@
+{
+ "id": 197,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花信",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以花信写新春到来，钗股上春意萌动"
+  },
+  {
+   "word": "钗股",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子头饰，承载春意与节令装饰"
+  },
+  {
+   "word": "残日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "残阳映照岁末，暗含时光难留"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "东风吹送，象征岁华流转与新春消息"
+  },
+  {
+   "word": "西窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "西窗添烛，写除夕守岁不眠之景"
+  },
+  {
+   "word": "莺语",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "以莺语比喻新年笑声，写节日欢愉"
+  },
+  {
+   "word": "尊俎",
+   "name": "酒器",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "旧日酒宴器具，引出对往昔的追忆"
+  },
+  {
+   "word": "玉纤",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指女子纤手，回忆昔日擘柑情景"
+  },
+  {
+   "word": "黄柑",
+   "name": "橘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "黄柑是节日果品，牵出柔香与幽情"
+  },
+  {
+   "word": "归梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "梦里归湖上，写羁旅思归之情"
+  },
+  {
+   "word": "湖边",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梦中所归之地，寄托故乡之思"
+  },
+  {
+   "word": "镜中",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以镜中迷路比喻旧梦难寻、归途恍惚"
+  },
+  {
+   "word": "吴霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以千点吴霜比喻白发，写年华老去"
+  },
+  {
+   "word": "落梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落梅如雨，以花落写春寒与愁绪纷纷"
+  }
+ ]
+}

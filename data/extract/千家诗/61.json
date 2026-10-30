@@ -1,0 +1,138 @@
+{
+ "id": 61,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "中峰",
+   "name": "峰",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明登山路径的起点，写出寺在高处"
+  },
+  {
+   "word": "薜萝",
+   "name": "藤萝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "盘回山路穿行于藤萝之间，显幽深野趣"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登高远眺所见的江水，界定吴地尽头"
+  },
+  {
+   "word": "吴地",
+   "name": "吴",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指江对岸的吴地，交代地理方位"
+  },
+  {
+   "word": "越山",
+   "name": "越山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "隔岸层叠的越地山峦，写登高视野之远"
+  },
+  {
+   "word": "古木",
+   "name": "古木",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山林中苍老茂密的树木，烘托寺周幽静"
+  },
+  {
+   "word": "青蔼",
+   "name": "青霭",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "古木间缭绕的青色雾气，写山间氤氲"
+  },
+  {
+   "word": "遥天",
+   "name": "天",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极目远方的天空，与白波相接"
+  },
+  {
+   "word": "白波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "遥天倒映水面的白色波光，写江天浩渺"
+  },
+  {
+   "word": "城郭",
+   "name": "城郭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山下近处的城邑，与山上寺形成对照"
+  },
+  {
+   "word": "钟磬",
+   "name": "钟磬",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "寺中钟磬声，写佛寺清音"
+  },
+  {
+   "word": "笙歌",
+   "name": "笙歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "城中歌舞音乐，与钟磬杂响，衬出世俗与方外并存"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 92,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清明时节的细雨烘托行人愁绪"
+  },
+  {
+   "word": "路",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "行人行走的旅途，点出行旅之苦"
+  },
+  {
+   "word": "行人",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雨中赶路、触景伤情的旅人"
+  },
+  {
+   "word": "酒家",
+   "name": "酒家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "行人想借酒浇愁的去处"
+  },
+  {
+   "word": "牧童",
+   "name": "牧童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "遥指杏花村的指路人"
+  },
+  {
+   "word": "杏花",
+   "name": "杏花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "杏花村的标志，带来春意与希望"
+  },
+  {
+   "word": "村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "牧童遥指的杏花深处村落"
+  }
+ ]
+}

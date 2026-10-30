@@ -1,0 +1,72 @@
+{
+ "id": 6,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以盛开的桃花起兴，烘托新娘出嫁的喜庆与青春之美"
+  },
+  {
+   "word": "华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "灼灼之花比喻新娘容颜明艳"
+  },
+  {
+   "word": "实",
+   "name": "果",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以桃结果实比喻婚后多子多福"
+  },
+  {
+   "word": "叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以桃叶茂盛喻家族兴旺、生活繁盛"
+  },
+  {
+   "word": "之子",
+   "name": "新娘",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "指这位出嫁的女子"
+  },
+  {
+   "word": "室家",
+   "name": "家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指家庭，祝愿新娘使夫家和睦"
+  }
+ ]
+}

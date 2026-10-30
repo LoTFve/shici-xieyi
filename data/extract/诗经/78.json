@@ -1,0 +1,127 @@
+{
+ "id": 78,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "猎手所乘之马，展其威仪"
+  },
+  {
+   "word": "辔",
+   "name": "辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写御者执缰如织组般整齐"
+  },
+  {
+   "word": "两骖",
+   "name": "骖",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "两侧骖马行如舞、如雁行，突出驾驭之妙"
+  },
+  {
+   "word": "薮",
+   "name": "薮",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "猎场所在，交代围猎环境"
+  },
+  {
+   "word": "火",
+   "name": "火",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "焚草驱兽的猎火，烘托围猎声势"
+  },
+  {
+   "word": "虎",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "猎手袒身搏虎，显其勇猛"
+  },
+  {
+   "word": "弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "末章收弓入囊，写猎罢从容"
+  },
+  {
+   "word": "乘黄",
+   "name": "黄马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹黄马驾车，夸示猎队之盛"
+  },
+  {
+   "word": "雁行",
+   "name": "雁",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雁阵比喻骖马排列整齐"
+  },
+  {
+   "word": "乘鸨",
+   "name": "鸨马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以鸨羽纹饰之马驾车，再写猎队"
+  },
+  {
+   "word": "鬯弓",
+   "name": "弓囊",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "弓入囊中，收束全篇狩猎场面"
+  }
+ ]
+}

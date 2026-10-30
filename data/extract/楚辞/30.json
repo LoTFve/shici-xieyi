@@ -1,0 +1,160 @@
+{
+ "id": 30,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "桂树",
+   "name": "桂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "山中幽静处的桂树丛生"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "幽深的山中环境"
+  },
+  {
+   "word": "石",
+   "name": "石",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嵯峨的岩石"
+  },
+  {
+   "word": "溪谷",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "险峻的溪谷与水流"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "溪谷中层层水波"
+  },
+  {
+   "word": "猿狖",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "群猿啸叫，渲染荒凉"
+  },
+  {
+   "word": "虎豹",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "猛兽咆哮，突出山林危险"
+  },
+  {
+   "word": "春草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "春草萋萋，反衬王孙不归"
+  },
+  {
+   "word": "蟪蛄",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "岁暮蝉鸣，增添悲凉"
+  },
+  {
+   "word": "白鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白鹿腾倚，描写山中景象"
+  },
+  {
+   "word": "猕猴",
+   "name": "猴",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "猕猴悲鸣，渲染孤寂"
+  },
+  {
+   "word": "熊罴",
+   "name": "熊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "熊罴咆哮，突出危险"
+  },
+  {
+   "word": "禽兽",
+   "name": "兽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "禽兽惊骇，衬托山中之险"
+  },
+  {
+   "word": "王孙",
+   "name": "王孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指隐居的贤士，劝其归来"
+  }
+ ]
+}

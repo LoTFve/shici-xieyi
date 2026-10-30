@@ -1,0 +1,127 @@
+{
+ "id": 268,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以竹为背景衬托梅花的高洁"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "借佳人喻梅花，写其清冷孤高"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "点明小院所见的时辰，烘托清寂氛围"
+  },
+  {
+   "word": "小院",
+   "name": "院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梅花所处的幽静环境"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "细风送香，写梅香若有若无"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "垂垂飞雪衬托梅花的耐寒"
+  },
+  {
+   "word": "江头路",
+   "name": "江路",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象江边路远，梅香亦难及"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月下疏影，写梅的清幽神韵"
+  },
+  {
+   "word": "疏影",
+   "name": "梅影",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月照梅枝的稀疏影姿"
+  },
+  {
+   "word": "细雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象梅子黄时细雨中的景象"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指梅花，结句以花拟人相问"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 137,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明聚会跳舞的城门地点"
+  },
+  {
+   "word": "枌",
+   "name": "榆",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "东门旁的榆树，交代场景"
+  },
+  {
+   "word": "宛丘",
+   "name": "宛丘",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "陈国著名的土丘，男女聚会之地"
+  },
+  {
+   "word": "栩",
+   "name": "栎",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宛丘上的栎树，与枌并举"
+  },
+  {
+   "word": "子仲之子",
+   "name": "男子",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "诗中跳舞的青年男子"
+  },
+  {
+   "word": "谷旦",
+   "name": "吉日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "晴朗美好的日子，聚会选定的时间"
+  },
+  {
+   "word": "南方之原",
+   "name": "原野",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南边平坦的高地，跳舞的场所"
+  },
+  {
+   "word": "麻",
+   "name": "麻",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子平日所绩之物，反衬今日不事生产"
+  },
+  {
+   "word": "市",
+   "name": "市集",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "热闹的集市，舞蹈的舞台"
+  },
+  {
+   "word": "荍",
+   "name": "锦葵",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以花喻女子容颜之美"
+  },
+  {
+   "word": "椒",
+   "name": "花椒",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "女子赠予男子的定情信物"
+  }
+ ]
+}

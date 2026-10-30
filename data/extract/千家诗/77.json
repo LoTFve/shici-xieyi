@@ -1,0 +1,83 @@
+{
+ "id": 77,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "春宵",
+   "name": "春夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "点明全诗所写的春夜良辰"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "写春夜花香清幽"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "写月下花影的朦胧之美"
+  },
+  {
+   "word": "歌管",
+   "name": "歌管",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "写楼台中传来的丝竹歌声"
+  },
+  {
+   "word": "楼台",
+   "name": "楼台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "歌声所出的富贵人家楼阁"
+  },
+  {
+   "word": "秋千",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "写院落中静置的秋千，衬出夜的幽静"
+  },
+  {
+   "word": "院落",
+   "name": "院落",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜色深沉的庭院场景"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": 65,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "骤雨沾席，点明题中遇雨"
+  },
+  {
+   "word": "席",
+   "name": "席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "舟中纳凉所设之席，雨来沾湿"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "急风打船，写出雨势之猛"
+  },
+  {
+   "word": "船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "纳凉游船，风雨中受击"
+  },
+  {
+   "word": "越女",
+   "name": "越女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "舟中歌妓，红裙为雨所湿"
+  },
+  {
+   "word": "红裙",
+   "name": "裙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "越女所着，雨湿红裙，色彩鲜明"
+  },
+  {
+   "word": "燕姬",
+   "name": "燕姬",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与越女并举，指舟中众妓"
+  },
+  {
+   "word": "堤",
+   "name": "堤",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "缆绳系于堤边柳树之处"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "堤柳可系缆，增添岸边景色"
+  },
+  {
+   "word": "浪花",
+   "name": "浪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "幔卷而浪花浮动，写舟行水面之态"
+  },
+  {
+   "word": "归路",
+   "name": "归路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "归途萧飒，情绪由乐转凉"
+  },
+  {
+   "word": "陂塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "五月陂塘因雨生凉，似秋意"
+  }
+ ]
+}

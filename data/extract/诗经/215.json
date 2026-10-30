@@ -1,0 +1,83 @@
+{
+ "id": 215,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "桑扈",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以羽色美丽的桑扈起兴，烘托君子之乐"
+  },
+  {
+   "word": "羽",
+   "name": "羽",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "描写桑扈羽毛的色彩纹样"
+  },
+  {
+   "word": "领",
+   "name": "领",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "描写桑扈颈羽，与上章羽相呼应"
+  },
+  {
+   "word": "屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以屏障比喻君子为万邦所依"
+  },
+  {
+   "word": "翰",
+   "name": "翰",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以桢干喻国家柱石"
+  },
+  {
+   "word": "兕觥",
+   "name": "觥",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮时弯角酒器，写燕饮之乐"
+  },
+  {
+   "word": "旨酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "美酒柔和，衬宴饮和乐"
+  }
+ ]
+}

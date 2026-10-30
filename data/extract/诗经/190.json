@@ -1,0 +1,215 @@
+{
+ "id": 190,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "羊",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "全诗核心牲畜，写羊群繁盛之状"
+  },
+  {
+   "word": "牛",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与羊并举，写牛羊成群"
+  },
+  {
+   "word": "角",
+   "name": "角",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "羊角聚集之貌，状羊群密集"
+  },
+  {
+   "word": "耳",
+   "name": "耳",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牛耳湿润，写牛群安适"
+  },
+  {
+   "word": "阿",
+   "name": "山坡",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牛羊下坡，写牧放场景"
+  },
+  {
+   "word": "池",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牛羊饮水之处"
+  },
+  {
+   "word": "牧",
+   "name": "牧人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "牧羊人出场，点明人物"
+  },
+  {
+   "word": "蓑",
+   "name": "蓑衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牧人披蓑，写其装束"
+  },
+  {
+   "word": "笠",
+   "name": "斗笠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牧人戴笠，与蓑并写"
+  },
+  {
+   "word": "糇",
+   "name": "干粮",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牧人背负干粮，写其劳作"
+  },
+  {
+   "word": "薪",
+   "name": "柴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "牧人拾柴，写其日常"
+  },
+  {
+   "word": "蒸",
+   "name": "柴草",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "细柴，与薪并称"
+  },
+  {
+   "word": "肱",
+   "name": "手臂",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "挥臂指挥羊群，写牧人动作"
+  },
+  {
+   "word": "牧人",
+   "name": "牧人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "牧羊人入梦，引出占梦"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "梦中鱼群，占为丰年之兆"
+  },
+  {
+   "word": "旐",
+   "name": "旐旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梦中龟蛇旗，占为室家繁盛"
+  },
+  {
+   "word": "旟",
+   "name": "旟旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梦中鹰隼旗，与旐并占"
+  },
+  {
+   "word": "大人",
+   "name": "太卜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "占梦之人，解梦兆"
+  },
+  {
+   "word": "丰年",
+   "name": "丰年",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "占梦所得吉兆，非眼前实景"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "id": 104,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "牛渚",
+   "name": "牛渚",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明登临之地的历史形胜"
+  },
+  {
+   "word": "天门",
+   "name": "天门",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指天门山，突出险要地势"
+  },
+  {
+   "word": "南北",
+   "name": "南北",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指长江分隔南北的地理格局"
+  },
+  {
+   "word": "七雄",
+   "name": "七雄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借战国七雄指历代割据豪强"
+  },
+  {
+   "word": "清雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "写登览时雾气消散的清朗景象"
+  },
+  {
+   "word": "闲人",
+   "name": "闲人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "自指登览者，见其闲适心境"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "待月升起，为下文江潮蓄势"
+  },
+  {
+   "word": "潮",
+   "name": "潮",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "写月下潮平、波光滟滟的江景"
+  },
+  {
+   "word": "波",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "波光潋滟，映衬月夜江面"
+  },
+  {
+   "word": "塞管",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "羌笛轻吹新曲，添边塞苍凉之感"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "风满栏槛，渲染登临的豪情"
+  },
+  {
+   "word": "槛",
+   "name": "槛",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "楼阁栏杆，登览所倚之处"
+  },
+  {
+   "word": "西州",
+   "name": "西州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "借西州更点写夜中遥听，含怀远之意"
+  },
+  {
+   "word": "更点",
+   "name": "更点",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "历历更点声，以声衬夜静与客愁"
+  }
+ ]
+}

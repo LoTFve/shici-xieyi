@@ -1,0 +1,83 @@
+{
+ "id": 160,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "开篇听词饮酒，点出宴饮闲情"
+  },
+  {
+   "word": "亭台",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旧亭台与去年天气相映，暗示时光未改而人事已非"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西下，寄托对时光流逝的怅惘"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花落去，象征美好事物的消逝"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "似曾相识的归燕，反衬春光流转与旧情难忘"
+  },
+  {
+   "word": "小园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "香径所在的小园，是徘徊伤春的场景"
+  },
+  {
+   "word": "香径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "落花铺香的小路，烘托独自徘徊的寂寥"
+  }
+ ]
+}

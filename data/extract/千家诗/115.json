@@ -1,0 +1,83 @@
+{
+ "id": 115,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "子规",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "以杜鹃夜啼点出蚕妇劳作的时辰与凄苦氛围"
+  },
+  {
+   "word": "四更",
+   "name": "四更",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "标明深夜时分，突出蚕妇早起劳作"
+  },
+  {
+   "word": "蚕",
+   "name": "蚕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "蚕妇饲养的对象，全诗劳作的中心"
+  },
+  {
+   "word": "楼头",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与蚕妇的茅舍对照，指富贵人家的高楼"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "楼头柳色映月，写歌舞之地的春夜风光"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "杨柳梢头的月亮，连接蚕妇与玉人两个世界"
+  },
+  {
+   "word": "玉人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "指楼中歌舞的女子，反衬蚕妇的辛劳"
+  }
+ ]
+}

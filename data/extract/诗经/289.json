@@ -1,0 +1,50 @@
+{
+ "id": 289,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蜂",
+   "name": "蜂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蜂比喻微小的祸患，警示要防微杜渐"
+  },
+  {
+   "word": "桃虫",
+   "name": "桃虫",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小鸟喻指隐患初生，终成祸乱"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "桃虫化鸟，喻小患酿成大祸"
+  },
+  {
+   "word": "蓼",
+   "name": "蓼",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "苦蓼喻身陷多难辛苦的处境"
+  }
+ ]
+}

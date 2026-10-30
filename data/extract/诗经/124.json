@@ -1,0 +1,138 @@
+{
+ "id": 124,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "葛",
+   "name": "葛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "葛藤蔓延覆盖荆棘，起兴并映衬荒凉坟地"
+  },
+  {
+   "word": "楚",
+   "name": "荆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "葛藤缠绕的灌木，烘托墓地荒芜"
+  },
+  {
+   "word": "蔹",
+   "name": "蔹",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "野草蔓延于原野，渲染坟地荒凉"
+  },
+  {
+   "word": "野",
+   "name": "野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "亡者所葬的荒野"
+  },
+  {
+   "word": "棘",
+   "name": "棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "坟地丛生的酸枣树，添荒凉之感"
+  },
+  {
+   "word": "域",
+   "name": "坟域",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡者安葬的墓地范围"
+  },
+  {
+   "word": "角枕",
+   "name": "角枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡者生前所用华美枕头，触物思人"
+  },
+  {
+   "word": "锦衾",
+   "name": "锦被",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡者生前的锦缎被子，今已无人享用"
+  },
+  {
+   "word": "夏日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "夏",
+   "time": "昼",
+   "emotion": "孤寂",
+   "note": "夏日漫长，反衬独处煎熬"
+  },
+  {
+   "word": "冬夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "冬夜漫漫，写独守孤寂"
+  },
+  {
+   "word": "居",
+   "name": "墓居",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡者所居的坟墓，表达死后同穴之愿"
+  },
+  {
+   "word": "室",
+   "name": "墓室",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "亡者安息的墓室，重申百岁同归之誓"
+  }
+ ]
+}

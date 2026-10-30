@@ -1,0 +1,182 @@
+{
+ "id": 240,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晓风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "拂晓的凉风惊醒残醉，渲染离愁"
+  },
+  {
+   "word": "翠瓦朱檐",
+   "name": "瓦檐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中倒映的华丽屋瓦屋檐"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "掩映津亭，牵动离情别绪"
+  },
+  {
+   "word": "津亭",
+   "name": "亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "昔日送别的渡口亭，触发回忆"
+  },
+  {
+   "word": "败壁",
+   "name": "壁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "当年题词的残破墙壁"
+  },
+  {
+   "word": "蛛丝",
+   "name": "蛛丝",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "罩住壁上墨迹，写岁月荒凉"
+  },
+  {
+   "word": "墨",
+   "name": "墨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "昔日题字淡墨，苔痕已青"
+  },
+  {
+   "word": "苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青苔晕染旧墨，暗示光阴流逝"
+  },
+  {
+   "word": "江陵",
+   "name": "江陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指旧日情事，化用典故"
+  },
+  {
+   "word": "杨琼",
+   "name": "杨琼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指旧日歌妓，感叹难再逢"
+  },
+  {
+   "word": "旧曲",
+   "name": "曲",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凄清旧调，无人共听"
+  },
+  {
+   "word": "愁黛",
+   "name": "黛眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "歌女敛眉含愁的容颜"
+  },
+  {
+   "word": "尊",
+   "name": "酒樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "杯酒之前追念故人"
+  },
+  {
+   "word": "故人",
+   "name": "故人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "设想旧友如在，最是关情"
+  },
+  {
+   "word": "渭城",
+   "name": "渭城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借王维送别曲，强化离愁"
+  },
+  {
+   "word": "歌声",
+   "name": "歌声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "曲未尽而泪先落，点出悲情"
+  }
+ ]
+}

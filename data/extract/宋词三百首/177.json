@@ -1,0 +1,83 @@
+{
+ "id": 177,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "把酒祝东风，引出对春光的挽留"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春风，象征美好时光与相聚之愿"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "洛城东的垂柳，点明送别与怀旧之地"
+  },
+  {
+   "word": "紫陌",
+   "name": "道路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "京城郊野的道路，烘托游春场景"
+  },
+  {
+   "word": "洛城",
+   "name": "洛阳",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "具体地点，寄托旧游回忆"
+  },
+  {
+   "word": "芳丛",
+   "name": "花丛",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "昔日携手游遍的花丛，反衬今日孤寂"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "今年花红却人散，以花盛写离恨"
+  }
+ ]
+}

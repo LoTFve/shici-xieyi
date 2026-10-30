@@ -1,0 +1,72 @@
+{
+ "id": 138,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "乳鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以鸦啼散去写秋初庭院的空寂"
+  },
+  {
+   "word": "玉屏",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "室内陈设，衬托空寂清凉"
+  },
+  {
+   "word": "扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写新秋微凉中扇底生风"
+  },
+  {
+   "word": "秋声",
+   "name": "秋声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "睡起寻觅不得，引出下文梧叶月明"
+  },
+  {
+   "word": "梧叶",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "满阶落叶点明立秋，秋意可寻"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月明映照梧叶，营造清冷秋夜"
+  }
+ ]
+}

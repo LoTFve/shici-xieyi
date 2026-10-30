@@ -1,0 +1,237 @@
+{
+ "id": 156,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东山",
+   "name": "东山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "征人远戍之地，遥望思归的所在"
+  },
+  {
+   "word": "零雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "归途细雨迷蒙，渲染凄苦气氛"
+  },
+  {
+   "word": "蠋",
+   "name": "蠋",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "桑野蠕动的野蚕，映衬独宿之苦"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "桑野为征人野宿之所，牵动家园之思"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "独宿车下，见行役之苦"
+  },
+  {
+   "word": "果臝",
+   "name": "瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "瓜实蔓延屋宇，家园荒芜之象"
+  },
+  {
+   "word": "宇",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "瓜藤上屋，想象家中荒凉景象"
+  },
+  {
+   "word": "伊威",
+   "name": "鼠妇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "室内虫豸，写家居荒废"
+  },
+  {
+   "word": "蟏蛸",
+   "name": "蜘蛛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "结网于户，荒寂之态"
+  },
+  {
+   "word": "鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鹿场践踏，田园荒芜"
+  },
+  {
+   "word": "宵行",
+   "name": "萤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜间萤火，写荒村幽暗"
+  },
+  {
+   "word": "鹳",
+   "name": "鹳",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "垤上鹳鸣，起兴而引妇叹"
+  },
+  {
+   "word": "垤",
+   "name": "蚁冢",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹳鸣所在的小土堆"
+  },
+  {
+   "word": "室",
+   "name": "室",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "妇叹于室，家中思妇之景"
+  },
+  {
+   "word": "穹窒",
+   "name": "穹窒",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洒扫堵塞鼠洞，准备迎接征人"
+  },
+  {
+   "word": "瓜苦",
+   "name": "苦瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "苦瓜系于栗薪，喻久别之苦"
+  },
+  {
+   "word": "栗薪",
+   "name": "栗薪",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "柴堆，苦瓜所系之处"
+  },
+  {
+   "word": "仓庚",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "黄鹂飞鸣，回忆新婚时令"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "皇驳其马，写迎亲车马之盛"
+  },
+  {
+   "word": "缡",
+   "name": "佩巾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "亲结其缡，婚礼仪式"
+  },
+  {
+   "word": "妇",
+   "name": "妇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "家中妻子叹息盼归"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "id": 64,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "旻天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "秋日高朗的天空，起兴之景"
+  },
+  {
+   "word": "玄气",
+   "name": "气",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "秋日清朗的天气，烘托氛围"
+  },
+  {
+   "word": "北风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒冷刺骨的北风，象征环境严酷"
+  },
+  {
+   "word": "草木",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "草木凋零苍老，感时伤怀"
+  },
+  {
+   "word": "蛜蚗",
+   "name": "虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "虫鸣噍噍，以动衬静，渲染秋日凄凉"
+  },
+  {
+   "word": "蝍蛆",
+   "name": "虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "虫多穰穰，与上句呼应，写秋虫纷扰"
+  },
+  {
+   "word": "夜光",
+   "name": "夜光",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜光珠比喻贤才，却被捐弃"
+  },
+  {
+   "word": "椒瑛",
+   "name": "椒",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香椒美玉比喻高洁之士，却被污损"
+  },
+  {
+   "word": "葈耳",
+   "name": "葈耳",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "恶草充房，比喻小人得志"
+  },
+  {
+   "word": "墨阳",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "名剑墨阳，象征诗人的刚直与武备"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "命仆升车，将驰四荒，表现远游之志"
+  },
+  {
+   "word": "四荒",
+   "name": "四荒",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四方荒远之地，想象中驰骋的空间"
+  },
+  {
+   "word": "虿",
+   "name": "蝎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "毒蝎，比喻世间险恶"
+  },
+  {
+   "word": "螽",
+   "name": "螽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝗虫，出门触螽，象征遭遇灾祸"
+  },
+  {
+   "word": "蚰蜓",
+   "name": "蚰蜓",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "巷中蚰蜓，写环境污浊"
+  },
+  {
+   "word": "螳螂",
+   "name": "螳螂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "邑多螳螂，比喻贪暴之徒"
+  },
+  {
+   "word": "子胥",
+   "name": "伍子胥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借古伤今，忠而见弃"
+  },
+  {
+   "word": "比干",
+   "name": "比干",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "仰怜比干，同病相怜"
+  },
+  {
+   "word": "山泽",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "潜藏山泽，写隐居之所"
+  },
+  {
+   "word": "溪涧",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "窥见溪涧，流水沄沄，以自然之景反衬孤寂"
+  },
+  {
+   "word": "鼋鼍",
+   "name": "鼋鼍",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鼋鼍欣欣，写水族自得，反衬人之困顿"
+  },
+  {
+   "word": "鳣鲇",
+   "name": "鳣鲇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鳣鲇延延，群鱼排列，同样反衬孤独"
+  },
+  {
+   "word": "冬夜",
+   "name": "冬夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "点明时令，冬夜漫长，烘托茕茕独处"
+  },
+  {
+   "word": "雨雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "雨雪冥冥，昏暗景象，加重凄凉"
+  },
+  {
+   "word": "神光",
+   "name": "光",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "神光颎颎，若有若无的微光"
+  },
+  {
+   "word": "鬼火",
+   "name": "鬼火",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "鬼火荧荧，阴森氛围，象征困顿"
+  }
+ ]
+}

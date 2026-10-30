@@ -1,0 +1,160 @@
+{
+ "id": 181,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "写春雪轻巧沁入兰心，点出早春物候"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "新雪偷黏草甲，写初春草芽"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "东风欲障新暖，写春寒未退"
+  },
+  {
+   "word": "碧瓦",
+   "name": "瓦",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪凝碧瓦难留，写雪落屋瓦之景"
+  },
+  {
+   "word": "重帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象故园不卷重帘，寄托思乡之情"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "料想故园双燕被雪误了归期，暗寓乡思"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "柳回白眼，写柳芽初绽的早春景象"
+  },
+  {
+   "word": "杏",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "杏开素面，写红杏初开之态"
+  },
+  {
+   "word": "山阴",
+   "name": "山阴",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "忆旧游山阴，用王徽之雪夜访戴典"
+  },
+  {
+   "word": "上苑",
+   "name": "上苑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "厚盟遂妨上苑，借指旧日游赏之约"
+  },
+  {
+   "word": "寒炉",
+   "name": "炉",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "寒炉重暖，写春寒中重燃炉火的生活场景"
+  },
+  {
+   "word": "春衫",
+   "name": "衫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "放慢春衫针线，写春寒未减、春衣未成"
+  },
+  {
+   "word": "凤靴",
+   "name": "靴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象女子挑菜归来所穿的凤靴"
+  },
+  {
+   "word": "灞桥",
+   "name": "灞桥",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用灞桥风雪典，寄寓相逢与羁旅之思"
+  }
+ ]
+}

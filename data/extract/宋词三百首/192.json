@@ -1,0 +1,182 @@
+{
+ "id": 192,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蜂黄",
+   "name": "蜂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蜂黄喻花蕊黄色"
+  },
+  {
+   "word": "翠翘",
+   "name": "翠翘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻花叶如翠翘首饰"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月下认花，清冷背景"
+  },
+  {
+   "word": "凄风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "寒风惊梦，凄冷氛围"
+  },
+  {
+   "word": "晓色",
+   "name": "晓色",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "天光初现，梦醒时分"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "全词咏花主体"
+  },
+  {
+   "word": "湘娥",
+   "name": "湘妃",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "湘妃典故，赋予花幽怨神韵"
+  },
+  {
+   "word": "凌波",
+   "name": "凌波",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洛神凌波典故，状花之轻盈"
+  },
+  {
+   "word": "古岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "云沙古岸，营造幽远遗恨之境"
+  },
+  {
+   "word": "冻梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以冻梅藏韵衬托花之清寒"
+  },
+  {
+   "word": "熏炉",
+   "name": "熏炉",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "室内熏炉，暖香氛围"
+  },
+  {
+   "word": "枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "移花傍枕，写爱花情深"
+  },
+  {
+   "word": "玉人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以玉人垂发喻花影"
+  },
+  {
+   "word": "绀鬒",
+   "name": "黑发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻花叶浓黑如美人发鬓"
+  },
+  {
+   "word": "清华池馆",
+   "name": "池馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "想象中赏花之所"
+  },
+  {
+   "word": "台杯",
+   "name": "杯",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "满引台杯，赏花饮酒之兴"
+  }
+ ]
+}

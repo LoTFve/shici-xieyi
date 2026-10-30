@@ -1,0 +1,171 @@
+{
+ "id": 25,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "江潭",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "屈原流放行吟的水边之地"
+  },
+  {
+   "word": "泽畔",
+   "name": "泽",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "屈原行吟的湖泽岸边"
+  },
+  {
+   "word": "渔父",
+   "name": "渔父",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "劝屈原与世推移的隐者"
+  },
+  {
+   "word": "三闾大夫",
+   "name": "大夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "渔父认出屈原身份的官职称呼"
+  },
+  {
+   "word": "湘流",
+   "name": "湘江",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原表示宁愿葬身其中的江水"
+  },
+  {
+   "word": "江鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "屈原说宁葬于江鱼腹中的鱼"
+  },
+  {
+   "word": "新沐",
+   "name": "沐",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以沐浴弹冠比喻保持高洁"
+  },
+  {
+   "word": "冠",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "新沐弹冠，喻不容污浊沾身"
+  },
+  {
+   "word": "衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "新浴振衣，喻保持洁净"
+  },
+  {
+   "word": "莞尔",
+   "name": "笑",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "渔父听完后淡然一笑"
+  },
+  {
+   "word": "鼓枻",
+   "name": "枻",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "渔父敲打船桨离去"
+  },
+  {
+   "word": "沧浪",
+   "name": "沧浪",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "渔父歌中起兴的水名"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沧浪之水清浊，喻世道清浊"
+  },
+  {
+   "word": "缨",
+   "name": "缨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水清可濯冠缨，喻盛世可出仕"
+  },
+  {
+   "word": "足",
+   "name": "足",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水浊可濯足，喻乱世可自保"
+  }
+ ]
+}

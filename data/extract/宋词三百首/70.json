@@ -1,0 +1,138 @@
+{
+ "id": 70,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "冬",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "开篇写湘天寒雨，渲染羁旅凄冷"
+  },
+  {
+   "word": "庭院",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "深沉而空虚的院落，衬出独处寂寞"
+  },
+  {
+   "word": "丽谯",
+   "name": "谯楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "城楼更鼓声起，点出夜深难眠"
+  },
+  {
+   "word": "小单于",
+   "name": "曲调",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "戍楼所吹曲名，声调悲凉，加重羁愁"
+  },
+  {
+   "word": "清夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "迢迢长夜漫漫，写旅人彻夜难熬"
+  },
+  {
+   "word": "乡梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "归乡之梦断，反衬现实飘零"
+  },
+  {
+   "word": "旅魂",
+   "name": "旅人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "自指漂泊之身，孤苦无依"
+  },
+  {
+   "word": "岁",
+   "name": "岁除",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "峥嵘岁月又到年终，暗伤年华流逝"
+  },
+  {
+   "word": "衡阳",
+   "name": "衡阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雁回峰所在，借雁传书寄托乡思"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "衡阳尚有雁可传书，反衬郴阳之绝"
+  },
+  {
+   "word": "书",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "雁足传书，是旅人唯一盼念"
+  },
+  {
+   "word": "郴阳",
+   "name": "郴阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "贬所所在，连雁亦无，极写荒远孤绝"
+  }
+ ]
+}

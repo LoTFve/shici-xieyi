@@ -1,0 +1,50 @@
+{
+ "id": 85,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "萚",
+   "name": "叶",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "枯叶随风飘落，起兴全诗"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "吹动落叶，喻倡和相应"
+  },
+  {
+   "word": "叔",
+   "name": "叔",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指兄长般的男子，领唱者"
+  },
+  {
+   "word": "伯",
+   "name": "伯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指兄长般的男子，与叔并举"
+  }
+ ]
+}

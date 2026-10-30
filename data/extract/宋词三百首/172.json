@@ -1,0 +1,116 @@
+{
+ "id": 172,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "候馆",
+   "name": "馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "旅人寄宿的驿馆，点出行役之苦"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "馆旁残梅，暗点时令与离情"
+  },
+  {
+   "word": "溪桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "溪上小桥，与细柳相映成景"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "桥边细柳，古人折柳送别的象征"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "暖风摇动征辔，写出行人旅途"
+  },
+  {
+   "word": "春水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以不断春水比喻无穷离愁"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "闺中人登楼远望之处"
+  },
+  {
+   "word": "阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "高危阑干，劝莫倚以避怅望之苦"
+  },
+  {
+   "word": "平芜",
+   "name": "草原",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "平坦草地延伸至天边，衬出行人远"
+  },
+  {
+   "word": "春山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "平原尽处的远山，行人更在其外"
+  }
+ ]
+}

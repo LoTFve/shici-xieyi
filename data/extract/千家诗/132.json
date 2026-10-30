@@ -1,0 +1,116 @@
+{
+ "id": 132,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "茅檐",
+   "name": "茅檐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以茅草屋檐代指简朴的居所"
+  },
+  {
+   "word": "苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写庭院清扫之勤、环境清幽"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "花木成行，见主人亲手栽种的园圃之美"
+  },
+  {
+   "word": "木",
+   "name": "木",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与花并称，写庭院花木繁盛"
+  },
+  {
+   "word": "蹊",
+   "name": "蹊",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "花木间自然形成的小径"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪水环绕护卫农田"
+  },
+  {
+   "word": "田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "被绿水环绕的农田"
+  },
+  {
+   "word": "绿",
+   "name": "绿",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以颜色代指绿水，写田水相映"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "两山推门而入，化静为动，写青山扑面"
+  },
+  {
+   "word": "青",
+   "name": "青",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以颜色代指青山翠色"
+  }
+ ]
+}

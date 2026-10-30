@@ -1,0 +1,127 @@
+{
+ "id": 51,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "银签",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "指更漏，暗示时光流逝"
+  },
+  {
+   "word": "绛蜡",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "红烛，守岁场景的照明"
+  },
+  {
+   "word": "梅花",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "冬日梅花，陪伴诗人微吟"
+  },
+  {
+   "word": "邻娃",
+   "name": "少女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "邻家少女试春妆，增添春意"
+  },
+  {
+   "word": "蜂腰",
+   "name": "蜂",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻女子细腰，写春妆之态"
+  },
+  {
+   "word": "燕股",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻女子发饰如燕尾，写春妆之饰"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春风，引出春思"
+  },
+  {
+   "word": "残雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "残留的雪，点明冬末春初"
+  },
+  {
+   "word": "楼台",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登临所见楼台，背景建筑"
+  },
+  {
+   "word": "园林",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "园林春色，游赏之地"
+  },
+  {
+   "word": "迟日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "闲适",
+   "note": "春日阳光，温暖和煦"
+  }
+ ]
+}

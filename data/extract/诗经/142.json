@@ -1,0 +1,94 @@
+{
+ "id": 142,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鹊",
+   "name": "鹊",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鹊巢起兴，引出对谗言的忧惧"
+  },
+  {
+   "word": "巢",
+   "name": "巢",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹊巢，起兴之物"
+  },
+  {
+   "word": "防",
+   "name": "堤",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "堤防，起兴之地"
+  },
+  {
+   "word": "邛",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "土丘，起兴之地"
+  },
+  {
+   "word": "苕",
+   "name": "苕",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "旨苕，起兴的蔓生植物"
+  },
+  {
+   "word": "中唐",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "庭中道路，起兴之地"
+  },
+  {
+   "word": "甓",
+   "name": "砖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "路中砖石，起兴之物"
+  },
+  {
+   "word": "鹝",
+   "name": "鹝",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旨鹝，起兴之鸟"
+  }
+ ]
+}

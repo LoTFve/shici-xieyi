@@ -1,0 +1,72 @@
+{
+ "id": 150,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "方塘",
+   "name": "塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以池塘比喻书本，是诗中核心意象"
+  },
+  {
+   "word": "天光",
+   "name": "天光",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "映在塘水中的明亮天色"
+  },
+  {
+   "word": "云影",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "云影与天光在塘面徘徊，显出水面澄澈"
+  },
+  {
+   "word": "一鉴",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "把方塘比作打开的镜子，写其清澈"
+  },
+  {
+   "word": "源头",
+   "name": "源头",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "活水的来源，比喻读书要不断汲取新知"
+  },
+  {
+   "word": "活水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "不断流来的清水，比喻新知识使心境清明"
+  }
+ ]
+}

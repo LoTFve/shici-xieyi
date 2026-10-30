@@ -1,0 +1,204 @@
+{
+ "id": 213,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "别酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "离别时的酒，体现送别之情"
+  },
+  {
+   "word": "中秋",
+   "name": "中秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "点明时节，引发团圆之思"
+  },
+  {
+   "word": "好月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "中秋明月，反衬人不团圆"
+  },
+  {
+   "word": "无情水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "流水无情，送人远行"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风萧瑟，渲染离别氛围"
+  },
+  {
+   "word": "归船",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "友人归去的船"
+  },
+  {
+   "word": "莼鲈",
+   "name": "莼鲈",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用张翰思乡典故，表达归隐之念"
+  },
+  {
+   "word": "儿女",
+   "name": "儿女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "想象家中儿女灯前团聚"
+  },
+  {
+   "word": "灯",
+   "name": "灯火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "灯前温馨场景，反衬漂泊"
+  },
+  {
+   "word": "征衫",
+   "name": "征衫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "旅人之衣，暗示行役"
+  },
+  {
+   "word": "朝天",
+   "name": "朝天",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "入朝觐见，指友人赴京"
+  },
+  {
+   "word": "玉殿",
+   "name": "玉殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指朝廷"
+  },
+  {
+   "word": "承明",
+   "name": "承明",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "承明庐，代指入朝为官"
+  },
+  {
+   "word": "视草",
+   "name": "视草",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "代指为皇帝起草诏书"
+  },
+  {
+   "word": "筹边",
+   "name": "筹边",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "筹划边防，指承担军事重任"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指京城，表达对故人的思念"
+  },
+  {
+   "word": "落雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "秋雁南飞，触发乡愁"
+  },
+  {
+   "word": "空弦",
+   "name": "弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用惊弓之鸟典，自伤身世"
+  }
+ ]
+}

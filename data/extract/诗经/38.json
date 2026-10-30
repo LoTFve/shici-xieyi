@@ -1,0 +1,149 @@
+{
+ "id": 38,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "正午太阳，点明舞乐举行的时间"
+  },
+  {
+   "word": "硕人",
+   "name": "舞者",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高大魁梧的舞师，全诗描写中心"
+  },
+  {
+   "word": "虎",
+   "name": "虎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "比喻舞者力大如虎"
+  },
+  {
+   "word": "辔",
+   "name": "马缰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "舞者执缰如织组，形容其技艺"
+  },
+  {
+   "word": "龠",
+   "name": "龠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "左手所执的管乐器，舞乐道具"
+  },
+  {
+   "word": "翟",
+   "name": "翟羽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "右手所持的雉羽，文舞道具"
+  },
+  {
+   "word": "公庭",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "舞乐举行的场所"
+  },
+  {
+   "word": "爵",
+   "name": "酒爵",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "国君赐酒，表嘉奖"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴之景，引出下文的榛"
+  },
+  {
+   "word": "榛",
+   "name": "榛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上的灌木，与苓对举起兴"
+  },
+  {
+   "word": "隰",
+   "name": "湿地",
+   "category": "水域",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地，与山对举"
+  },
+  {
+   "word": "苓",
+   "name": "苓",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隰中的药草，起兴之物"
+  },
+  {
+   "word": "西方美人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指诗人所思慕的西方之人"
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "id": 149,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晚秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时节，渲染萧瑟氛围"
+  },
+  {
+   "word": "微雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "细雨洒落庭轩，增添凄凉"
+  },
+  {
+   "word": "庭轩",
+   "name": "庭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "庭院中的轩廊，词人所在之处"
+  },
+  {
+   "word": "槛菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "栏杆边的菊花萧疏，烘托秋意"
+  },
+  {
+   "word": "井梧",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "井边梧桐零乱，象征愁苦"
+  },
+  {
+   "word": "残烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "残余的烟霭，增添迷蒙凄清"
+  },
+  {
+   "word": "江关",
+   "name": "江关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "泛指江河关隘，引发乡愁"
+  },
+  {
+   "word": "飞云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "无",
+   "note": "黯淡的飞云，映衬夕阳"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西下，引发时光流逝之叹"
+  },
+  {
+   "word": "宋玉",
+   "name": "宋玉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借宋玉悲秋典故，抒发悲感"
+  },
+  {
+   "word": "陇水",
+   "name": "陇水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "陇头流水，象征行役之苦"
+  },
+  {
+   "word": "蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蝉吟败叶，渲染秋日凄凉"
+  },
+  {
+   "word": "蛩",
+   "name": "蟋蟀",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "蟋蟀鸣于衰草，烘托孤寂"
+  },
+  {
+   "word": "孤馆",
+   "name": "馆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤寂的驿馆，词人独处之地"
+  },
+  {
+   "word": "风露",
+   "name": "风露",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "风露渐变，暗示夜深寒重"
+  },
+  {
+   "word": "长天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "长天澄净，展现夜空辽阔"
+  },
+  {
+   "word": "绛河",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "银河清浅，点缀夜空"
+  },
+  {
+   "word": "皓月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "明月婵娟，引发绵绵思绪"
+  },
+  {
+   "word": "绮陌",
+   "name": "街道",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "繁华街道，指代京城游乐之处"
+  },
+  {
+   "word": "红楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "华美楼阁，指歌楼妓馆"
+  },
+  {
+   "word": "帝里",
+   "name": "京城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "指汴京，回忆中的繁华帝都"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "对酒留连，回忆年少欢宴"
+  },
+  {
+   "word": "烟水",
+   "name": "烟水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟水茫茫，象征旅途遥远"
+  },
+  {
+   "word": "漏箭",
+   "name": "漏箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "计时漏箭移动，表示夜深"
+  },
+  {
+   "word": "画角",
+   "name": "角",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "画角声残，渲染拂晓凄凉"
+  },
+  {
+   "word": "闲窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "闲窗畔，词人独对至晓"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "停灯向晓，暗示彻夜无眠"
+  }
+ ]
+}

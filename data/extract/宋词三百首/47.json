@@ -1,0 +1,160 @@
+{
+ "id": 47,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "枕上入梦，点出三年来对吴中的魂牵梦萦"
+  },
+  {
+   "word": "吴中",
+   "name": "吴中",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "魂牵梦绕的江南故乡之路"
+  },
+  {
+   "word": "黄耳",
+   "name": "黄耳",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借陆机黄犬传书的典，指代传信的家犬"
+  },
+  {
+   "word": "松江",
+   "name": "松江",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "想象中友人将经过的江南水渡"
+  },
+  {
+   "word": "小渡",
+   "name": "渡口",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "遥想友人到松江时呼唤摆渡的情景"
+  },
+  {
+   "word": "鸥鹭",
+   "name": "鸥鹭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "叮嘱莫惊动水鸟，写江南水乡的闲静"
+  },
+  {
+   "word": "四桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "吴中旧游之地，处处是自己行经之处"
+  },
+  {
+   "word": "辋川图",
+   "name": "辋川图",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借王维辋川别业图写归隐之思"
+  },
+  {
+   "word": "春暮",
+   "name": "暮春",
+   "category": "其他",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "画中春色将尽，暗含归期之思"
+  },
+  {
+   "word": "右丞",
+   "name": "王维",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "追慕王维的高人风致与诗句"
+  },
+  {
+   "word": "春衫",
+   "name": "衫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "身上春衣勾起对旧日情事的回忆"
+  },
+  {
+   "word": "小蛮",
+   "name": "小蛮",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借白居易侍妾小蛮指代缝衣的亲近之人"
+  },
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆中曾在此淋雨，湿透春衫"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "西湖之雨湿衣，成为怀旧的印记"
+  }
+ ]
+}

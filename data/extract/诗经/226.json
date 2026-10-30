@@ -1,0 +1,72 @@
+{
+ "id": 226,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿",
+   "name": "荩草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子采来染色的草，久采不满一捧，暗写心不在焉"
+  },
+  {
+   "word": "蓝",
+   "name": "蓝草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "采蓝不满衣襟，同样暗示采者心绪不宁"
+  },
+  {
+   "word": "弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象丈夫出猎时把弓装进弓袋"
+  },
+  {
+   "word": "绳",
+   "name": "钓绳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象丈夫垂钓时整理钓线"
+  },
+  {
+   "word": "鲂",
+   "name": "鲂鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象中所钓之鱼，寄托对团聚的期待"
+  },
+  {
+   "word": "鱮",
+   "name": "鲢鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与鲂并举，写出想象中渔获之丰"
+  }
+ ]
+}

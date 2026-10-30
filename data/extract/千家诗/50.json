@@ -1,0 +1,105 @@
+{
+ "id": 50,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "帐殿",
+   "name": "帐殿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以帐为殿，随驾駐扎的营帐，显出巡幸的威仪"
+  },
+  {
+   "word": "晓云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "清晨的云气与帐幕相连翻卷，衬托出行列的浩荡"
+  },
+  {
+   "word": "幕",
+   "name": "幕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帐幕，与晓云相接，写出帐殿铺展的场面"
+  },
+  {
+   "word": "夜火",
+   "name": "灯火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "夜间营中的灯火与星点交错，写扈从夜宿之景"
+  },
+  {
+   "word": "星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "星光与夜火混杂回旋，衬出夜色中的营阵"
+  },
+  {
+   "word": "谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "幽暗的山谷中千旗涌出，写山势与军容"
+  },
+  {
+   "word": "旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "千旗从暗谷中涌出，显示扈从队伍的盛大"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山鸣谷应，回应万乘而来的声势"
+  },
+  {
+   "word": "万乘",
+   "name": "车驾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指天子的车驾仪仗，写帝王出行的威势"
+  }
+ ]
+}

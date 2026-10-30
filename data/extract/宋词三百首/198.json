@@ -1,0 +1,270 @@
+{
+ "id": 198,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "盘丝",
+   "name": "丝线",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "端午系在手腕上的五彩丝线"
+  },
+  {
+   "word": "巧篆",
+   "name": "篆饰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "垂于发簪的篆文饰物"
+  },
+  {
+   "word": "绀纱",
+   "name": "纱帐",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "青红色纱帐，暗示闺中安睡"
+  },
+  {
+   "word": "银瓶",
+   "name": "瓶",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "井边银制水瓶，点出庭院生活"
+  },
+  {
+   "word": "露井",
+   "name": "井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "露天水井，增添清冷氛围"
+  },
+  {
+   "word": "彩云",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "彩绘窗户，暗示闺房"
+  },
+  {
+   "word": "榴裙",
+   "name": "裙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "石榴红裙，关联端午与青春"
+  },
+  {
+   "word": "红绡",
+   "name": "绡",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "红绡比喻褪色的花瓣，感叹时光"
+  },
+  {
+   "word": "黍梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用黄粱梦典，喻人生如梦"
+  },
+  {
+   "word": "汀洲",
+   "name": "汀洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边平地，烘托迷离意境"
+  },
+  {
+   "word": "烟箬",
+   "name": "箬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "烟雾中的箬叶，应端午时节"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指江南故地，引发乡愁"
+  },
+  {
+   "word": "楚江",
+   "name": "楚江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原沉江处，暗含凭吊"
+  },
+  {
+   "word": "沈魄",
+   "name": "魄",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指屈原沉江之魂"
+  },
+  {
+   "word": "薰风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "和暖南风，点明夏日"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "乳燕，暗示春末夏初"
+  },
+  {
+   "word": "暗雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "梅雨时节的阴雨"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "梅子黄熟，指梅雨季节"
+  },
+  {
+   "word": "午镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "午间照镜，端午习俗"
+  },
+  {
+   "word": "兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "兰汤沐浴，端午驱邪"
+  },
+  {
+   "word": "帘幕",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帘幕低垂，营造闺阁氛围"
+  },
+  {
+   "word": "秦楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指女子居所，寄托思念"
+  },
+  {
+   "word": "菖蒲",
+   "name": "菖蒲",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "端午剪菖蒲饮酒的习俗"
+  },
+  {
+   "word": "新蟾",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "新月，象征孤独与思念"
+  }
+ ]
+}

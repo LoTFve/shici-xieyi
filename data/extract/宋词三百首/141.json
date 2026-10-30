@@ -1,0 +1,83 @@
+{
+ "id": 141,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "堕叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落叶飘零，烘托秋夜寂寥"
+  },
+  {
+   "word": "香砌",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "台阶上落花香，反衬人去楼空"
+  },
+  {
+   "word": "真珠帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "珠帘卷起，见楼空人去"
+  },
+  {
+   "word": "玉楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "华美楼阁空寂，凸显孤独"
+  },
+  {
+   "word": "银河",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "银河低垂，营造夜空浩渺"
+  },
+  {
+   "word": "月华",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "月光如练，引发千里相思"
+  },
+  {
+   "word": "残灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "残灯明灭，映衬孤眠滋味"
+  }
+ ]
+}

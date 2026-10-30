@@ -1,0 +1,72 @@
+{
+ "id": 118,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "残花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明暮春凋零之景"
+  },
+  {
+   "word": "小檐",
+   "name": "檐",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "燕子日日飞来的落脚处，写春日常景"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "春日常见候鸟，衬出春意未尽的生机"
+  },
+  {
+   "word": "子规",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜半啼血，渲染惜春的悲切"
+  },
+  {
+   "word": "夜半",
+   "name": "夜半",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "点明子规啼鸣的深夜时分"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指春天本身，写唤春不回的执着"
+  }
+ ]
+}

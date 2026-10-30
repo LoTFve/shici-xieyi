@@ -1,0 +1,171 @@
+{
+ "id": 173,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "柴门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "点出村落居所的简陋寂寥"
+  },
+  {
+   "word": "村落",
+   "name": "村",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "交代寒食所在的乡野环境"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "寒食插柳以记年华的节令风物"
+  },
+  {
+   "word": "禁烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指寒食禁火之俗，说粤地不行此禁"
+  },
+  {
+   "word": "上冢",
+   "name": "坟",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寒食扫墓之事，牵出下文陵寝之叹"
+  },
+  {
+   "word": "汉寝唐陵",
+   "name": "陵",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以汉唐帝陵无人祭扫反衬世事兴亡"
+  },
+  {
+   "word": "麦饭",
+   "name": "麦饭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "祭扫之物，说帝陵连麦饭也无"
+  },
+  {
+   "word": "山溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与野径并写，衬出乡野春景"
+  },
+  {
+   "word": "野径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "荒野小径，与山溪共构村野画面"
+  },
+  {
+   "word": "梨花",
+   "name": "梨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清明寒食如雪之花，映照无人祭扫的冷清"
+  },
+  {
+   "word": "樽",
+   "name": "酒樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人藉以卧饮的酒杯，写旷达自适"
+  },
+  {
+   "word": "青苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "地上青苔，见地僻人稀"
+  },
+  {
+   "word": "城头",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "暮笳所起之处，拉开远近层次"
+  },
+  {
+   "word": "暮笳",
+   "name": "笳",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏笳声，以声收束全诗苍凉之气"
+  },
+  {
+   "word": "暮",
+   "name": "暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "点明时辰，渲染日暮苍茫"
+  }
+ ]
+}

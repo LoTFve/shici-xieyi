@@ -1,0 +1,116 @@
+{
+ "id": 139,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明地点，城墙上下春景对比"
+  },
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以莺语乱写春声之喧闹"
+  },
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "城下春水烟波浩渺，引出愁绪"
+  },
+  {
+   "word": "春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春水拍岸，点明季节"
+  },
+  {
+   "word": "绿杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "绿杨芳草，春色无边反衬愁绪"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "芳草连天，与绿杨同写春景之盛"
+  },
+  {
+   "word": "泪眼",
+   "name": "泪眼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "直接刻画主人公的悲伤面容"
+  },
+  {
+   "word": "鸾鉴",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鸾镜照见朱颜暗换，惊心岁月流逝"
+  },
+  {
+   "word": "朱颜",
+   "name": "朱颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "镜中红颜悄然改变，叹年华老去"
+  },
+  {
+   "word": "芳尊",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒浇愁，今昔对酒态度对比"
+  }
+ ]
+}

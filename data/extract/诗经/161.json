@@ -1,0 +1,116 @@
+{
+ "id": 161,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鹿",
+   "name": "鹿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以鹿鸣起兴，营造和乐氛围"
+  },
+  {
+   "word": "苹",
+   "name": "苹",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹿所食野草，烘托自然场景"
+  },
+  {
+   "word": "瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "宴饮时演奏的乐器，体现礼仪"
+  },
+  {
+   "word": "笙",
+   "name": "笙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "吹奏乐器，与瑟配合营造宴乐气氛"
+  },
+  {
+   "word": "簧",
+   "name": "簧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "笙中之簧，代指笙管乐器，吹奏发声"
+  },
+  {
+   "word": "筐",
+   "name": "筐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛放币帛的竹器，用于赠礼"
+  },
+  {
+   "word": "蒿",
+   "name": "蒿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹿所食野草，与苹、芩呼应"
+  },
+  {
+   "word": "旨酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "美酒，宴饮嘉宾之物"
+  },
+  {
+   "word": "琴",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与瑟同奏，表现宴乐和谐"
+  },
+  {
+   "word": "芩",
+   "name": "芩",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹿所食野草，重复起兴"
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "id": 245,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "上帝",
+   "name": "上帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "主宰生育与祭祀的天神，全诗祈求与感应的对象"
+  },
+  {
+   "word": "牛羊",
+   "name": "牛羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被弃于隘巷时庇护后稷的牲畜"
+  },
+  {
+   "word": "平林",
+   "name": "林",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "弃置后稷的树林，遇伐木者而得救"
+  },
+  {
+   "word": "寒冰",
+   "name": "冰",
+   "category": "水域",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "弃婴于冰上，鸟覆翼之的严寒场景"
+  },
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以翼覆护寒冰上的后稷"
+  },
+  {
+   "word": "荏菽",
+   "name": "豆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "后稷所种作物之一，旆旆茂盛"
+  },
+  {
+   "word": "禾",
+   "name": "禾",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "后稷种植的谷物，穟穟秀美"
+  },
+  {
+   "word": "麻",
+   "name": "麻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与麦并称的作物，幪幪茂密"
+  },
+  {
+   "word": "麦",
+   "name": "麦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "田间作物，与麻共见丰茂"
+  },
+  {
+   "word": "瓜",
+   "name": "瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "瓜瓞唪唪，喻后稷农事繁盛"
+  },
+  {
+   "word": "丰草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被后稷芟除的杂草，以显耕种之道"
+  },
+  {
+   "word": "秬",
+   "name": "秬",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嘉种黑黍，用于祭祀"
+  },
+  {
+   "word": "秠",
+   "name": "秠",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嘉种一壳二米之黍"
+  },
+  {
+   "word": "穈",
+   "name": "穈",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嘉种赤苗粟"
+  },
+  {
+   "word": "芑",
+   "name": "芑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嘉种白苗粟"
+  },
+  {
+   "word": "萧",
+   "name": "萧",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀时与祭脂同烧的香蒿"
+  },
+  {
+   "word": "羝",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所用公羊，取以軷祭"
+  },
+  {
+   "word": "豆",
+   "name": "豆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛祭品的礼器，与登并称"
+  },
+  {
+   "word": "登",
+   "name": "登",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛祭品的瓦制礼器"
+  },
+  {
+   "word": "隘巷",
+   "name": "巷",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "弃置后稷的狭窄街巷"
+  },
+  {
+   "word": "邰",
+   "name": "邰",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "后稷受封立室之地"
+  },
+  {
+   "word": "姜嫄",
+   "name": "姜嫄",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "生民之母，履帝武而感生后稷"
+  },
+  {
+   "word": "后稷",
+   "name": "后稷",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "全诗主角，农神与周人始祖"
+  }
+ ]
+}

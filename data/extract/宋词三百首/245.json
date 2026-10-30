@@ -1,0 +1,83 @@
+{
+ "id": 245,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋阴",
+   "name": "阴云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "昼",
+   "emotion": "哀愁",
+   "note": "开篇渲染秋日阴沉渐暮的氛围"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "云深不见雁影，暗含音书难寄"
+  },
+  {
+   "word": "寒声",
+   "name": "寒声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "伫立所闻的秋风凄厉之声"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "无",
+   "note": "云深遮雁，渲染苍茫"
+  },
+  {
+   "word": "照壁",
+   "name": "壁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "孤灯映照的墙壁，衬出空寂"
+  },
+  {
+   "word": "孤灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜深唯有孤灯相伴，写尽独处之凄"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "酒醒愁回，夜长难消的凭藉"
+  }
+ ]
+}

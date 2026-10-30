@@ -1,0 +1,215 @@
+{
+ "id": 167,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "小径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "落花稀疏的郊野小路，点出春暮"
+  },
+  {
+   "word": "红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以红代落花，写春色将尽"
+  },
+  {
+   "word": "芳郊",
+   "name": "郊",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿草遍生的郊野，铺开春景"
+  },
+  {
+   "word": "绿",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以绿代春草，与红稀对照"
+  },
+  {
+   "word": "高台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "登临处，树色浓阴可见"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "高台旁浓阴的树木"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "不解约束杨花，引出下句"
+  },
+  {
+   "word": "杨花",
+   "name": "杨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "乱扑人面，写春去飘零之感"
+  },
+  {
+   "word": "行人",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "被杨花扑面的游子，暗含羁旅"
+  },
+  {
+   "word": "翠叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "藏莺的浓绿叶丛"
+  },
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "藏于翠叶间，添春景生机"
+  },
+  {
+   "word": "朱帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "隔燕的红色帘幕，写室内静景"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "被朱帘阻隔，暗含春归之感"
+  },
+  {
+   "word": "炉香",
+   "name": "香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "静逐游丝，写室内幽静"
+  },
+  {
+   "word": "游丝",
+   "name": "游丝",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "空中飘荡的虫丝，衬香缕之静"
+  },
+  {
+   "word": "愁梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "酒醒时的一场愁梦，点出心绪"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒消愁，醒后愁仍在"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "照入深院，以暮色收束全词"
+  },
+  {
+   "word": "深院",
+   "name": "院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "斜阳所照的幽深庭院，写寂寥"
+  }
+ ]
+}

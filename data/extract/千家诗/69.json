@@ -1,0 +1,138 @@
+{
+ "id": 69,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "凤林",
+   "name": "凤林",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指西北边塞战场"
+  },
+  {
+   "word": "鱼海",
+   "name": "鱼海",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边地路遥难行的地名"
+  },
+  {
+   "word": "候火",
+   "name": "烽火",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞报警的烽火"
+  },
+  {
+   "word": "云峰",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "烽烟高耸入云的峰峦"
+  },
+  {
+   "word": "悬军",
+   "name": "孤军",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "深入敌境孤悬的军队"
+  },
+  {
+   "word": "幕井",
+   "name": "井",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "军营水井干涸的艰苦"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "西极狂风震动边地"
+  },
+  {
+   "word": "西极",
+   "name": "西极",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "极西之地的边陲"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "月照北庭的寒光"
+  },
+  {
+   "word": "北庭",
+   "name": "北庭",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方边庭的寒地"
+  },
+  {
+   "word": "飞将",
+   "name": "飞将",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借李广喻良将，寄托思将之情"
+  },
+  {
+   "word": "筑坛",
+   "name": "坛",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "筑坛拜将的典礼"
+  }
+ ]
+}

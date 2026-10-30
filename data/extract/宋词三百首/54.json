@@ -1,0 +1,215 @@
+{
+ "id": 54,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "以莺巢叶间点染春景"
+  },
+  {
+   "word": "絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳絮飘零，暗写春逝"
+  },
+  {
+   "word": "断桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "西湖断桥，点明游踪"
+  },
+  {
+   "word": "斜日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西下，烘托归思"
+  },
+  {
+   "word": "归船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "归舟意象，暗含倦游"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "看花之约，惜春之情"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风伴花，拟人化"
+  },
+  {
+   "word": "蔷薇",
+   "name": "蔷薇",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "蔷薇开时春将尽"
+  },
+  {
+   "word": "西泠",
+   "name": "西泠",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "西湖地名，绿荫荒烟"
+  },
+  {
+   "word": "荒烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "荒烟弥漫，添凄凉"
+  },
+  {
+   "word": "燕子",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "燕子知何处，暗用刘禹锡诗"
+  },
+  {
+   "word": "苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "苔深韦曲，荒凉之景"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "草暗斜川，怀古伤今"
+  },
+  {
+   "word": "鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "新愁到鸥边，拟人"
+  },
+  {
+   "word": "笙歌",
+   "name": "笙歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "昔日笙歌梦，今已无心"
+  },
+  {
+   "word": "重门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "掩门独处，避世之态"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "怕开帘见飞花"
+  },
+  {
+   "word": "飞花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花飞舞，春残之象"
+  },
+  {
+   "word": "啼鹃",
+   "name": "杜鹃",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "杜鹃啼血，悲春归去"
+  }
+ ]
+}

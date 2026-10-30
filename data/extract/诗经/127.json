@@ -1,0 +1,160 @@
+{
+ "id": 127,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "驷驖",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹黑马驾车，写出田猎的赫赫声势"
+  },
+  {
+   "word": "六辔",
+   "name": "辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "手握六条缰绳，点出御者驾技娴熟"
+  },
+  {
+   "word": "公",
+   "name": "公",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "随从簇拥的诸侯，是田猎的主体"
+  },
+  {
+   "word": "媚子",
+   "name": "宠臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "受宠的近臣随公出猎，写从者之盛"
+  },
+  {
+   "word": "狩",
+   "name": "狩猎",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明全篇所写为冬猎之事"
+  },
+  {
+   "word": "辰牡",
+   "name": "兽",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "充当猎物的硕大雄兽，衬出猎获之丰"
+  },
+  {
+   "word": "左之",
+   "name": "左",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "公命车向左，指挥驱驰的方向"
+  },
+  {
+   "word": "舍拔",
+   "name": "矢",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "放箭即中，写公之善射与猎获之易"
+  },
+  {
+   "word": "北园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "游猎所在的园囿，转入从容闲暇之境"
+  },
+  {
+   "word": "四马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "四马熟练安闲，见田猎结束后的从容"
+  },
+  {
+   "word": "𬨎车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "轻车随行，写游园时的车马仪从"
+  },
+  {
+   "word": "鸾镳",
+   "name": "马衔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸾铃装饰的马衔，以声衬出车行的轻快"
+  },
+  {
+   "word": "猃",
+   "name": "犬",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "随车的猎犬，写田猎队伍的完备"
+  },
+  {
+   "word": "歇骄",
+   "name": "犬",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "同载的猛犬，与猃并举，见猎物与随从之盛"
+  }
+ ]
+}

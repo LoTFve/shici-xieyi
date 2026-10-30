@@ -1,0 +1,116 @@
+{
+ "id": 26,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "兰舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "离人乘走的船"
+  },
+  {
+   "word": "棹",
+   "name": "桨",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "一棹点出行船远去"
+  },
+  {
+   "word": "碧涛",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春水碧波，衬托行舟之远"
+  },
+  {
+   "word": "春水",
+   "name": "春水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明离别季节与水面"
+  },
+  {
+   "word": "晓莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "清晨莺啼，船过之处春意盎然"
+  },
+  {
+   "word": "渡头",
+   "name": "渡口",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "送别之地，离情的背景"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "青青柳枝，借指依依离情"
+  },
+  {
+   "word": "锦书",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "说此后不必再寄书信，是决绝之语"
+  },
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "女子所居之处，与行舟相对"
+  },
+  {
+   "word": "云雨",
+   "name": "云雨",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用巫山云雨典，说旧情无凭"
+  }
+ ]
+}

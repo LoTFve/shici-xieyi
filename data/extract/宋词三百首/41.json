@@ -1,0 +1,138 @@
+{
+ "id": 41,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "途中遇雨，穿林打叶"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹杖由竹制成，见其行装简朴"
+  },
+  {
+   "word": "杖",
+   "name": "杖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹杖助行，写雨中徐步之态"
+  },
+  {
+   "word": "芒鞋",
+   "name": "鞋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "草鞋轻便，衬托轻胜马的从容"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以马作比，说竹杖芒鞋更轻快"
+  },
+  {
+   "word": "蓑",
+   "name": "蓑衣",
+   "category": "器物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "一蓑烟雨，写披蓑任雨的自在"
+  },
+  {
+   "word": "烟雨",
+   "name": "烟雨",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "烟雨迷蒙，衬出平生任运的襟怀"
+  },
+  {
+   "word": "春风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "料峭春风吹醒酒意"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "酒醒微冷，点出行途中的醉与醒"
+  },
+  {
+   "word": "山头",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "山头斜照相迎，写雨霁山间晚照"
+  },
+  {
+   "word": "斜照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "雨后斜阳相迎，转出晴明之景"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回望来路，风雨已过，归于也无风雨也无晴"
+  }
+ ]
+}

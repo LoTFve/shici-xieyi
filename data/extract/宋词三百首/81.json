@@ -1,0 +1,160 @@
+{
+ "id": 81,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "湖山",
+   "name": "湖山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中醉游的湖山景致"
+  },
+  {
+   "word": "春衫",
+   "name": "衫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春日的衣衫，沾满酒痕泪痕"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指都城，客居之地"
+  },
+  {
+   "word": "紫曲",
+   "name": "紫曲",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "荒废的巷曲"
+  },
+  {
+   "word": "败井",
+   "name": "井",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "破败的水井，荒凉景象"
+  },
+  {
+   "word": "青蔓",
+   "name": "蔓",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "青色的藤蔓，在风中摇动"
+  },
+  {
+   "word": "谢堂",
+   "name": "谢堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用刘禹锡“旧时王谢堂前燕”典故，指旧时高门"
+  },
+  {
+   "word": "双燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "成双的燕子，在旧巢中呢喃"
+  },
+  {
+   "word": "春梦",
+   "name": "春梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻短暂的美好时光"
+  },
+  {
+   "word": "绣屋",
+   "name": "绣屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "华美的房屋，昔日欢宴之地"
+  },
+  {
+   "word": "秦筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "秦地的筝，泛指乐器"
+  },
+  {
+   "word": "海棠",
+   "name": "海棠",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "海棠花，夜深时开"
+  },
+  {
+   "word": "河桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "河上的桥，久立欲去之处"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳余晖，烘托泪满的伤感"
+  }
+ ]
+}

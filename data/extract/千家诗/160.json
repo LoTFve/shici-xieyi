@@ -1,0 +1,72 @@
+{
+ "id": 160,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "铺展原野的青草，写牧童所处的开阔环境"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "晚风中吹弄的笛声，衬托牧童的自在"
+  },
+  {
+   "word": "晚风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "黄昏的微风，配合笛声传来"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明牧童归来的时辰"
+  },
+  {
+   "word": "蓑衣",
+   "name": "蓑衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "牧童卧月时不脱的雨具，见其质朴随意"
+  },
+  {
+   "word": "月明",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "明月照人，牧童卧于月下，收束全诗意境"
+  }
+ ]
+}

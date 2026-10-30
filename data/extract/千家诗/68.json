@@ -1,0 +1,94 @@
+{
+ "id": 68,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以闽中秋雁稀少写谪地荒远"
+  },
+  {
+   "word": "夜猿",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "以夜间猿啼写闽中凄清"
+  },
+  {
+   "word": "东路",
+   "name": "东路",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指友人赴闽的方向"
+  },
+  {
+   "word": "云山",
+   "name": "云山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写东路云雾山峦重叠之景"
+  },
+  {
+   "word": "南天",
+   "name": "南天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指闽中南方天空"
+  },
+  {
+   "word": "瘴疠",
+   "name": "瘴疠",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写南方瘴气，暗含贬地之苦"
+  },
+  {
+   "word": "雨露",
+   "name": "雨露",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "喻皇恩，宽慰友人终会遇赦"
+  },
+  {
+   "word": "风波",
+   "name": "风波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "既指行船风浪，也喻仕途险阻"
+  }
+ ]
+}

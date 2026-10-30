@@ -1,0 +1,61 @@
+{
+ "id": 103,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "卢",
+   "name": "犬",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中反复吟咏的猎犬，以犬之美衬人之美"
+  },
+  {
+   "word": "令令",
+   "name": "铃声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "猎犬颈环上的清脆铃声，点出田猎场景"
+  },
+  {
+   "word": "重环",
+   "name": "环",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "套在猎犬颈上的大环，显示猎犬的装饰与身份"
+  },
+  {
+   "word": "重鋂",
+   "name": "鋂",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "套在猎犬颈上的小环，与前章重环相应"
+  },
+  {
+   "word": "其人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被赞美的猎人，三章反复称颂其美与仁、鬈、偲"
+  }
+ ]
+}

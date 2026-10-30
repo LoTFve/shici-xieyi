@@ -1,0 +1,72 @@
+{
+ "id": 77,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "叔父在田野打猎的场景"
+  },
+  {
+   "word": "巷",
+   "name": "巷",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指叔父离开后空寂的街巷"
+  },
+  {
+   "word": "居人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "街巷中的居民，反衬叔父出众"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "饮酒的场景，烘托叔父的豪爽"
+  },
+  {
+   "word": "野",
+   "name": "野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "叔父打猎的野外环境"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "服马指驾马，表现叔父的勇武"
+  }
+ ]
+}

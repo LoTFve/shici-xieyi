@@ -1,0 +1,215 @@
+{
+ "id": 252,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "残雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "点明残冬余寒，营造冷寂氛围"
+  },
+  {
+   "word": "庭",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指代眼前庭院，承载残雪与幽香"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帘影透寒，暗示室内人孤寂"
+  },
+  {
+   "word": "玉管",
+   "name": "管",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "玉管春葭，指乐器或鼓吹，报春之意"
+  },
+  {
+   "word": "春葭",
+   "name": "葭",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "芦苇初生，象征春意萌动"
+  },
+  {
+   "word": "小帖金泥",
+   "name": "帖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "金泥小帖，指春帖，暗含春意"
+  },
+  {
+   "word": "窗前",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "窗前入梦，引出相思"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "满树幽香，指梅树"
+  },
+  {
+   "word": "幽香",
+   "name": "香",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "梅香幽微，反衬孤寂"
+  },
+  {
+   "word": "江南",
+   "name": "江南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指故乡或旧游之地，离愁所系"
+  },
+  {
+   "word": "游骢",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "游骢古道，指旅途马匹，暗示漂泊"
+  },
+  {
+   "word": "古道",
+   "name": "道",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "古老道路，增添苍凉"
+  },
+  {
+   "word": "归雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "归雁平沙，寄托思归之情"
+  },
+  {
+   "word": "平沙",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "平旷沙地，雁落之处，开阔苍茫"
+  },
+  {
+   "word": "银笺",
+   "name": "笺",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "银色信纸，欲寄相思"
+  },
+  {
+   "word": "芳草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "处处芳草，象征春深与离恨"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指极远之地，表达望不到边的愁绪"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风，暗含时光流逝"
+  },
+  {
+   "word": "飞花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花纷飞，象征春去与离愁"
+  }
+ ]
+}

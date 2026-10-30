@@ -1,0 +1,237 @@
+{
+ "id": 246,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "画角",
+   "name": "角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "悲凉的画角声渲染孤寂氛围"
+  },
+  {
+   "word": "单于",
+   "name": "单于",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "单于曲调，进一步渲染悲凉"
+  },
+  {
+   "word": "谯门",
+   "name": "谯门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "城门楼，点明地点与孤寂"
+  },
+  {
+   "word": "征骑",
+   "name": "骑",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "旅途中的骑马人，暗示漂泊"
+  },
+  {
+   "word": "飞雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "飞雪满村，营造寒冷孤寂"
+  },
+  {
+   "word": "孤村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "孤零零的村庄，强化孤独感"
+  },
+  {
+   "word": "酒市",
+   "name": "酒市",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "酒市渐闲，暗示夜渐深"
+  },
+  {
+   "word": "灯火",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "灯火渐闲，衬托夜的寂静"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "敲窗的乱叶，窗是内外隔绝的意象"
+  },
+  {
+   "word": "乱叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "乱叶飞舞，增添萧瑟秋意"
+  },
+  {
+   "word": "惊雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "惊雁嘹唳，引发思乡之情"
+  },
+  {
+   "word": "烟水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "烟水迷茫，烘托离愁"
+  },
+  {
+   "word": "寒云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒云增添寒冷与孤寂"
+  },
+  {
+   "word": "溪月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "溪月朦胧，引发销魂之思"
+  },
+  {
+   "word": "故国",
+   "name": "故国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "故国指故乡，表达思乡之情"
+  },
+  {
+   "word": "梅花",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梅花入梦，象征故乡与高洁"
+  },
+  {
+   "word": "绿罗裙",
+   "name": "裙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指女子，表达相思愁苦"
+  },
+  {
+   "word": "暗香",
+   "name": "香",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暗香指梅香，象征相思"
+  },
+  {
+   "word": "啼痕",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "啼痕指泪痕，表达相思之苦"
+  },
+  {
+   "word": "翠屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "翠屏指屏风，暗示室内孤寂"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏时分，增添愁绪"
+  }
+ ]
+}

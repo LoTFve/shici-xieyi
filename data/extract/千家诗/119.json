@@ -1,0 +1,28 @@
+{
+ "id": 119,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "三月",
+   "name": "三月",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明暮春时节，春将尽"
+  },
+  {
+   "word": "晓钟",
+   "name": "钟",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "天亮报时的钟声，标志春的终结"
+  }
+ ]
+}

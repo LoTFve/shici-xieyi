@@ -1,0 +1,149 @@
+{
+ "id": 250,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "新痕悬柳",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "新月如痕，悬于柳梢，点明咏月主题"
+  },
+  {
+   "word": "澹彩穿花",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光淡彩穿过花间，描绘月华"
+  },
+  {
+   "word": "香径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "花香小径，借指昔日相聚之地"
+  },
+  {
+   "word": "素娥",
+   "name": "嫦娥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "月宫仙子，借指月亮并寄托离恨"
+  },
+  {
+   "word": "银钩",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以银钩比喻弯月"
+  },
+  {
+   "word": "宝帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "华美帘幕，烘托秋夜清冷"
+  },
+  {
+   "word": "玉斧",
+   "name": "斧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "传说中修月之斧，暗喻山河难复"
+  },
+  {
+   "word": "金镜",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以金镜比喻圆月，暗指故国完整"
+  },
+  {
+   "word": "太液池",
+   "name": "太液池",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "汉代宫苑池名，借指故国宫苑"
+  },
+  {
+   "word": "故山",
+   "name": "故山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "故乡山水，表达故国之思"
+  },
+  {
+   "word": "窥户",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光窥窗，暗示期待团圆"
+  },
+  {
+   "word": "云外山河",
+   "name": "山河",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云外山河，象征故国疆土"
+  },
+  {
+   "word": "桂花影",
+   "name": "桂花",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "月宫桂树之影，暗喻岁月流逝"
+  }
+ ]
+}

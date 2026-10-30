@@ -1,0 +1,83 @@
+{
+ "id": 63,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "金天",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明出征时令，秋气肃杀"
+  },
+  {
+   "word": "白露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "节气名，指初秋出征之时"
+  },
+  {
+   "word": "王师",
+   "name": "军",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指朝廷正义之师"
+  },
+  {
+   "word": "海气",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南方海上弥漫的雾气，渲染征途"
+  },
+  {
+   "word": "边风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方边塞的劲风，写征伐气势"
+  },
+  {
+   "word": "卢龙塞",
+   "name": "关塞",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "北方要塞，借以劝诫勿贪功冒进"
+  },
+  {
+   "word": "麟阁",
+   "name": "麒麟阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "汉代表彰功臣之地，指立功得名"
+  }
+ ]
+}

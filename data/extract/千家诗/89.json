@@ -1,0 +1,116 @@
+{
+ "id": 89,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄鹂",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "在翠柳间鸣叫的黄鸟，点出春日的生机"
+  },
+  {
+   "word": "翠柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "黄鹂栖鸣的春柳，构成明丽的近景"
+  },
+  {
+   "word": "白鹭",
+   "name": "鹭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "排成一行飞向青天的白色水鸟"
+  },
+  {
+   "word": "青天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "白鹭飞升的辽阔背景"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "框住西岭雪景的前景窗框"
+  },
+  {
+   "word": "西岭",
+   "name": "岭",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "窗外远处积雪的连绵山岭"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "西岭上经年不化的积雪"
+  },
+  {
+   "word": "门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "门外停泊东吴船只的处所"
+  },
+  {
+   "word": "东吴",
+   "name": "东吴",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指远方江南，暗示诗人漂泊思归之情"
+  },
+  {
+   "word": "船",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "停泊门前、来自万里之外的行舟"
+  }
+ ]
+}

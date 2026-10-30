@@ -1,0 +1,238 @@
+{
+ "id": 192,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "繁霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "正月霜重，起兴写忧"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "苍天梦梦，怨天不语"
+  },
+  {
+   "word": "乌",
+   "name": "乌鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "瞻乌爰止，喻民无所归"
+  },
+  {
+   "word": "中林",
+   "name": "林",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "林中薪蒸，喻民力被征"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "谓山盖卑，喻讹言之虚"
+  },
+  {
+   "word": "冈",
+   "name": "冈",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与陵并举，言山实高"
+  },
+  {
+   "word": "陵",
+   "name": "陵",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与冈并举，言山实高"
+  },
+  {
+   "word": "地",
+   "name": "地",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "谓地盖厚，不敢不蹐"
+  },
+  {
+   "word": "虺蜴",
+   "name": "蛇蜥",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻今人毒害如虺蜴"
+  },
+  {
+   "word": "阪田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "阪田特苗，喻己孤特"
+  },
+  {
+   "word": "阴雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "阴雨窘途，喻处境艰难"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "载车弃辅，喻治国失贤"
+  },
+  {
+   "word": "辐",
+   "name": "辐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "员于尔辐，喻巩固根本"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼在沼亦不乐，喻民困"
+  },
+  {
+   "word": "沼",
+   "name": "沼",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼在沼中，反衬民不乐"
+  },
+  {
+   "word": "燎",
+   "name": "火",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燎之方扬，喻宗周将亡"
+  },
+  {
+   "word": "宗周",
+   "name": "宗周",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "赫赫宗周，哀其将灭"
+  },
+  {
+   "word": "旨酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "富人宴饮的美酒，反衬诗人孤独忧国"
+  },
+  {
+   "word": "嘉肴",
+   "name": "肴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与旨酒并列，写富贵者宴乐之盛"
+  },
+  {
+   "word": "屋",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小人得居之屋，与诗人独忧形成对照"
+  },
+  {
+   "word": "谷",
+   "name": "谷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "指谷物收成，写卑贱者反有粮的世道颠倒"
+  }
+ ]
+}

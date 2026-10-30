@@ -1,0 +1,270 @@
+{
+ "id": 10,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山鬼所居的山阿与山间环境"
+  },
+  {
+   "word": "薜荔",
+   "name": "薜荔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山鬼披挂的香草衣饰"
+  },
+  {
+   "word": "女萝",
+   "name": "女萝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山鬼腰带所用的蔓生植物"
+  },
+  {
+   "word": "赤豹",
+   "name": "豹",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山鬼乘坐的神兽"
+  },
+  {
+   "word": "文狸",
+   "name": "狸",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "随从山鬼的灵兽"
+  },
+  {
+   "word": "辛夷",
+   "name": "辛夷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "用来制作车驾的香木"
+  },
+  {
+   "word": "桂旗",
+   "name": "桂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以桂枝结成的旗帜"
+  },
+  {
+   "word": "石兰",
+   "name": "石兰",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山鬼所披的香草"
+  },
+  {
+   "word": "杜衡",
+   "name": "杜衡",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山鬼所带的香草"
+  },
+  {
+   "word": "幽篁",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "幽深竹林，遮蔽天日"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山下涌动的容容云气"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "吹动神灵之雨的风"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "神灵所降之雨，烘托幽暗氛围"
+  },
+  {
+   "word": "三秀",
+   "name": "灵芝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山间采集的灵芝仙草"
+  },
+  {
+   "word": "石",
+   "name": "石",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山间磊磊的乱石"
+  },
+  {
+   "word": "葛",
+   "name": "葛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蔓延山间的葛藤"
+  },
+  {
+   "word": "杜若",
+   "name": "杜若",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山中人佩戴的香草，喻其芬芳"
+  },
+  {
+   "word": "石泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山鬼饮用的山石清泉"
+  },
+  {
+   "word": "松柏",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山鬼荫蔽其下的松柏"
+  },
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "填填雷声，渲染山中氛围"
+  },
+  {
+   "word": "猿",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜鸣的猿声，增添凄清"
+  },
+  {
+   "word": "狖",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜间鸣叫的长尾猿"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飒飒风声，与萧萧木叶相和"
+  },
+  {
+   "word": "木",
+   "name": "木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "萧萧落下的树木枝叶"
+  }
+ ]
+}

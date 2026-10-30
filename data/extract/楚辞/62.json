@@ -1,0 +1,248 @@
+{
+ "id": 62,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "高山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "诗人欲登而见猴猿的险山"
+  },
+  {
+   "word": "猴猿",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "高山上啼啸的猿猴，渲染荒乱"
+  },
+  {
+   "word": "深谷",
+   "name": "谷",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人欲入而见虺蛇的低谷"
+  },
+  {
+   "word": "虺蛇",
+   "name": "蛇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "深谷中盘踞的毒蛇"
+  },
+  {
+   "word": "鵙",
+   "name": "鵙",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "左侧鸣叫的伯劳鸟"
+  },
+  {
+   "word": "枭",
+   "name": "枭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "右边呼号的猫头鹰"
+  },
+  {
+   "word": "中原",
+   "name": "中原",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗人徘徊回旋的旷野"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "仰天叹息的对象"
+  },
+  {
+   "word": "菅蒯",
+   "name": "茅草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "茂密丛生的野草"
+  },
+  {
+   "word": "雚苇",
+   "name": "芦苇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蔓延成片的芦苇"
+  },
+  {
+   "word": "鹿蹊",
+   "name": "鹿径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹿群出没的小径"
+  },
+  {
+   "word": "貒貉",
+   "name": "獾貉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "成群走动的野獾与貉"
+  },
+  {
+   "word": "鹯鹞",
+   "name": "鹞",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盘旋飞翔的猛禽"
+  },
+  {
+   "word": "鹑鹌",
+   "name": "鹌鹑",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "聚集栖息的鹌鹑"
+  },
+  {
+   "word": "黄昏",
+   "name": "黄昏",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "迫近日暮，烘托孤独"
+  },
+  {
+   "word": "玄鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "高飞青冥的黑鹤，象征高洁"
+  },
+  {
+   "word": "青冥",
+   "name": "青天",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "玄鹤远逝的苍茫高空"
+  },
+  {
+   "word": "鸧鹒",
+   "name": "黄鹂",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "喈喈鸣叫的黄鹂"
+  },
+  {
+   "word": "山鹊",
+   "name": "山鹊",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "嘤嘤鸣叫的山鹊"
+  },
+  {
+   "word": "鸿鸬",
+   "name": "鸿鸬",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "振翅飞起的鸿雁与鸬鹚"
+  },
+  {
+   "word": "归雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "远行的归雁，寄托归乡之思"
+  },
+  {
+   "word": "圣京",
+   "name": "京城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人心中怀念的圣明京都"
+  }
+ ]
+}

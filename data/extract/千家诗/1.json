@@ -1,0 +1,39 @@
+{
+ "id": 1,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洛阳",
+   "name": "洛阳",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明访友之地，都市背景"
+  },
+  {
+   "word": "江岭",
+   "name": "江岭",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指友人流放之地，偏远荒僻"
+  },
+  {
+   "word": "梅花",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "以岭梅早放反衬流人境遇"
+  }
+ ]
+}

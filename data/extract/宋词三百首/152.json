@@ -1,0 +1,149 @@
+{
+ "id": 152,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "暮雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "渲染秋日萧瑟氛围"
+  },
+  {
+   "word": "江天",
+   "name": "江天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "展现雨后江天开阔景象"
+  },
+  {
+   "word": "清秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明时节，烘托凄凉"
+  },
+  {
+   "word": "霜风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "强化秋寒与凄紧之感"
+  },
+  {
+   "word": "关河",
+   "name": "关河",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指代辽阔山河，显冷落"
+  },
+  {
+   "word": "残照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳残照，增添苍茫"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "登高所见，点明立足点"
+  },
+  {
+   "word": "红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指花，红衰写花谢"
+  },
+  {
+   "word": "翠",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指叶，翠减写叶枯"
+  },
+  {
+   "word": "长江水",
+   "name": "长江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以水东流反衬愁思"
+  },
+  {
+   "word": "归舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象佳人误认归舟，寄托归思"
+  },
+  {
+   "word": "妆楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象佳人所在之处"
+  },
+  {
+   "word": "阑干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "倚栏凝愁，点明人物动作"
+  }
+ ]
+}

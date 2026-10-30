@@ -1,0 +1,237 @@
+{
+ "id": 299,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "泮水",
+   "name": "泮水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "全诗中心场景，鲁侯在泮宫水边活动"
+  },
+  {
+   "word": "芹",
+   "name": "芹",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "泮水边可采的水芹，起兴之物"
+  },
+  {
+   "word": "旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鲁侯到来时飘扬的旗帜"
+  },
+  {
+   "word": "鸾声",
+   "name": "鸾铃",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "车驾鸾铃之声，显鲁侯威仪"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鲁侯车驾之马，矫健威武"
+  },
+  {
+   "word": "藻",
+   "name": "藻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "泮水所采水藻，起兴之物"
+  },
+  {
+   "word": "茆",
+   "name": "茆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "泮水所采莼菜，起兴之物"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鲁侯在泮宫饮酒，祝其长寿"
+  },
+  {
+   "word": "泮宫",
+   "name": "泮宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鲁侯所建宫室，教化与武功之所"
+  },
+  {
+   "word": "虎臣",
+   "name": "虎臣",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "勇猛如虎的将士，在泮献功"
+  },
+  {
+   "word": "皋陶",
+   "name": "皋陶",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借古贤臣皋陶喻鲁国法官善断"
+  },
+  {
+   "word": "角弓",
+   "name": "角弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "将士所持的良弓，显军威"
+  },
+  {
+   "word": "束矢",
+   "name": "矢",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "成束的箭，军备之盛"
+  },
+  {
+   "word": "戎车",
+   "name": "戎车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "宽大的兵车，彰显鲁国武力"
+  },
+  {
+   "word": "飞鸮",
+   "name": "鸮",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "飞集泮林之鸮，喻淮夷归化献音"
+  },
+  {
+   "word": "泮林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "泮宫之林，飞鸮栖息处"
+  },
+  {
+   "word": "桑黮",
+   "name": "桑葚",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸮所食桑葚，兴淮夷受感化"
+  },
+  {
+   "word": "淮夷",
+   "name": "淮夷",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "被鲁国征服而献宝的东方部族"
+  },
+  {
+   "word": "元龟",
+   "name": "龟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "淮夷所献大龟，珍宝之一"
+  },
+  {
+   "word": "象齿",
+   "name": "象牙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "淮夷所献象牙，珍宝之一"
+  },
+  {
+   "word": "南金",
+   "name": "金",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南方所产铜金，淮夷献礼"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 82,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸡",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "妻子以鸡鸣催丈夫起床，点出清晨时分"
+  },
+  {
+   "word": "明星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "黎明前残星灿烂，交代天色未明"
+  },
+  {
+   "word": "凫",
+   "name": "凫",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "丈夫准备射猎的水鸟"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与凫同猎的飞禽，写日常生计"
+  },
+  {
+   "word": "饮酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "夫妻对饮，写和乐生活"
+  },
+  {
+   "word": "琴瑟",
+   "name": "琴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "琴瑟在御，写夫妇和谐静好"
+  },
+  {
+   "word": "杂佩",
+   "name": "佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "赠答信物，表现夫妻情意"
+  }
+ ]
+}

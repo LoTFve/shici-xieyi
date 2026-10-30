@@ -1,0 +1,292 @@
+{
+ "id": 71,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晓色",
+   "name": "晓",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "点明清晨时分，云开雨霁"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后云开，衬托晴好天气"
+  },
+  {
+   "word": "骤雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "写刚过的阵雨，衬出转晴"
+  },
+  {
+   "word": "古台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "园林中古老的台榭，点出游赏之地"
+  },
+  {
+   "word": "芳榭",
+   "name": "榭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "芬芳的亭榭，营造春游场景"
+  },
+  {
+   "word": "飞燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "燕子蹴落花瓣，写春日生机"
+  },
+  {
+   "word": "红英",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "被燕子踏落的红色花瓣"
+  },
+  {
+   "word": "榆钱",
+   "name": "榆",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "榆荚如钱飘落，写春景慵懒"
+  },
+  {
+   "word": "秋千",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "园中游乐之具，添春日情趣"
+  },
+  {
+   "word": "绿水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "绿水与桥相平，写春水丰盈"
+  },
+  {
+   "word": "桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与绿水相映的园林小桥"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春风拂柳，点明季节"
+  },
+  {
+   "word": "朱门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红漆大门掩映柳色，写富贵园林"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "朱门映柳，渲染春色"
+  },
+  {
+   "word": "小秦筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "低低弹奏秦筝，写游宴之乐"
+  },
+  {
+   "word": "珠钿",
+   "name": "珠钿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "女子珠饰，代指盛装游人"
+  },
+  {
+   "word": "翠盖",
+   "name": "翠盖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "翠羽装饰的车盖，写游女车驾"
+  },
+  {
+   "word": "玉辔",
+   "name": "玉辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "玉饰马缰，写公子骏马"
+  },
+  {
+   "word": "红缨",
+   "name": "红缨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "红色缨络，衬游骑之盛"
+  },
+  {
+   "word": "金",
+   "name": "金樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "金杯酒空，写宴饮将尽"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "花困蓬瀛，写醉眼迷离中的花"
+  },
+  {
+   "word": "蓬瀛",
+   "name": "蓬瀛",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以仙境喻园林，写行乐如入仙乡"
+  },
+  {
+   "word": "豆蔻",
+   "name": "豆蔻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指年少情人，寄托旧日情恨"
+  },
+  {
+   "word": "疏烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "稀疏烟雾，写凭栏所见苍茫"
+  },
+  {
+   "word": "淡日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "淡日西沉，衬寂寞心境"
+  },
+  {
+   "word": "芜城",
+   "name": "芜城",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "借指荒芜之城，收束全词寂寥之感"
+  }
+ ]
+}

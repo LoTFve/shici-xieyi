@@ -1,0 +1,83 @@
+{
+ "id": 134,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "迁客",
+   "name": "迁客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借贾谊自比贬谪身份"
+  },
+  {
+   "word": "长沙",
+   "name": "长沙",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用贾谊贬长沙之典自况"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "西望故都而不得见，寄托乡思"
+  },
+  {
+   "word": "黄鹤楼",
+   "name": "黄鹤楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "听笛之地，点明登临处"
+  },
+  {
+   "word": "玉笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "笛声是触发全诗情思的媒介"
+  },
+  {
+   "word": "江城",
+   "name": "江城",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指黄鹤楼下的江边城郭"
+  },
+  {
+   "word": "梅花",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "《梅花落》笛曲，借指笛声所写之梅"
+  }
+ ]
+}

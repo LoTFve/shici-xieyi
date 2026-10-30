@@ -1,0 +1,61 @@
+{
+ "id": 99,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "燕子",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "梁间呢喃，点出春日闲居的生机"
+  },
+  {
+   "word": "梁间",
+   "name": "梁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "燕子栖止之处，交代室内场景"
+  },
+  {
+   "word": "杖藜",
+   "name": "杖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人拄杖出游的随身之物，见其疏放"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "携酒看山，写诗人自得其乐的情态"
+  },
+  {
+   "word": "芝山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人杖藜携酒所往之处，全诗归结点"
+  }
+ ]
+}

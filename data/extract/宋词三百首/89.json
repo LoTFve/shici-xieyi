@@ -1,0 +1,215 @@
+{
+ "id": 89,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "戏马台",
+   "name": "戏马台",
+   "category": "地名",
+   "parent": "building",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借项羽戏马台点明重九登高，暗含怀古"
+  },
+  {
+   "word": "采花篱下",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "化用陶渊明采菊东篱，写重阳归隐之思"
+  },
+  {
+   "word": "南山",
+   "name": "南山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借陶诗南山，写归家所见翠色依旧"
+  },
+  {
+   "word": "帘栊",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "帘幕代指居处，昨夜风雨从帘外听来"
+  },
+  {
+   "word": "风雨",
+   "name": "风雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "昨夜风雨反衬登高时的情景，添愁绪"
+  },
+  {
+   "word": "宋玉",
+   "name": "宋玉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以宋玉悲秋自比，写悲秋情怀"
+  },
+  {
+   "word": "卫郎",
+   "name": "卫玠",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借卫玠清瘦写自己憔悴"
+  },
+  {
+   "word": "红萸",
+   "name": "茱萸",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "重阳佩茱萸的习俗，空对酒杯更觉孤单"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "重阳对酒，却因佩萸无人共饮而惆怅"
+  },
+  {
+   "word": "砧杆",
+   "name": "砧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "捣衣声起，微寒侵袖，写秋日羁旅之寒"
+  },
+  {
+   "word": "罗袖",
+   "name": "袖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寒侵罗袖，写秋寒与身世之感"
+  },
+  {
+   "word": "败荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "残荷写秋色将尽，衰败之景"
+  },
+  {
+   "word": "衰柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "衰柳点明深秋，暗含离别飘零"
+  },
+  {
+   "word": "帽檐",
+   "name": "帽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "用孟嘉落帽典，强整帽檐写登高风雅"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆漂泊天涯时搔首望乡"
+  },
+  {
+   "word": "故国",
+   "name": "故国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "故国家园之思，点出怀乡主题"
+  },
+  {
+   "word": "莼鲈",
+   "name": "莼鲈",
+   "category": "植物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "张翰莼鲈之思，写归乡之愿"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "霜前雁后，写秋深时节与归雁之思"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "霜前雁后，雁带秋信，寄托乡愁"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 148,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "取竹为建楼之材，点出清雅"
+  },
+  {
+   "word": "高楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹楼高起，是诗人闲居之所"
+  },
+  {
+   "word": "南风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "南风清凉，故不用扇"
+  },
+  {
+   "word": "蒲葵扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以不用扇反衬南风之爽"
+  },
+  {
+   "word": "纱帽",
+   "name": "纱帽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借指官吏身份，写其闲眠之态"
+  },
+  {
+   "word": "水鸥",
+   "name": "鸥",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "对鸥而眠，见忘机闲适之心"
+  },
+  {
+   "word": "西江",
+   "name": "西江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "取竹之处，点明竹楼所在的水乡环境"
+  }
+ ]
+}

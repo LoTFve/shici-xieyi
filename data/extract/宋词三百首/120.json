@@ -1,0 +1,204 @@
+{
+ "id": 120,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "幽梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "开篇写梦醒后的怅惘"
+  },
+  {
+   "word": "重阴",
+   "name": "阴云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "渲染压抑的清晨天色"
+  },
+  {
+   "word": "晓色",
+   "name": "晓",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明清晨时分"
+  },
+  {
+   "word": "疏雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "细雨增添凄清氛围"
+  },
+  {
+   "word": "竹槛",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹边栏杆，点出庭院清冷"
+  },
+  {
+   "word": "蕙畹",
+   "name": "蕙",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "香草园圃，以香草喻高洁"
+  },
+  {
+   "word": "新绿",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "新生的绿意暗通南浦"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "送别之地的典故，暗含离情"
+  },
+  {
+   "word": "回廊",
+   "name": "回廊",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "朱户半启的回廊，空寂无人"
+  },
+  {
+   "word": "朱户",
+   "name": "门",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "红漆门户半开，盼人归来"
+  },
+  {
+   "word": "霓旌",
+   "name": "旌旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以云霞为旗，喻所思之人"
+  },
+  {
+   "word": "锦书",
+   "name": "书信",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用典指书信难凭，音讯渺茫"
+  },
+  {
+   "word": "苔径",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "长满青苔的小径，追忆旧游"
+  },
+  {
+   "word": "秋千",
+   "name": "秋千",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "回忆中无人相伴的秋千"
+  },
+  {
+   "word": "犀奁",
+   "name": "妆奁",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "想象对方卷起黛眉对镜"
+  },
+  {
+   "word": "凤枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "凤枕孤眠，写独处之苦"
+  },
+  {
+   "word": "花雾",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象伊人所在的花雾深处"
+  },
+  {
+   "word": "小堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象中的幽会之所"
+  }
+ ]
+}

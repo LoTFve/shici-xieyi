@@ -1,0 +1,83 @@
+{
+ "id": 162,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "四牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "驾车奔波的四匹公马，是全诗行役劳苦的核心实景"
+  },
+  {
+   "word": "周道",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "漫长迂曲的大道，衬托行役之路的遥远艰辛"
+  },
+  {
+   "word": "骆马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白鬃黑马，驾车之马的具体描写"
+  },
+  {
+   "word": "鵻",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "翩翩飞落的鹁鸪，反衬行人不得归家的处境"
+  },
+  {
+   "word": "苞栩",
+   "name": "栩",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丛生的栎树，是鹁鸪停集之处"
+  },
+  {
+   "word": "苞杞",
+   "name": "杞",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丛生的杞树，与苞栩对举，写鸟有可栖而人无归"
+  },
+  {
+   "word": "四骆",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "四匹白鬃黑马，再次点出驾车奔驰的行役场景"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "id": 258,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "云汉",
+   "name": "银河",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "以银河之光反衬人间旱灾之苦"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼告上天，表达对天灾的无奈"
+  },
+  {
+   "word": "牲",
+   "name": "牲畜",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所用牺牲，表现遍祀群神"
+  },
+  {
+   "word": "圭壁",
+   "name": "圭璧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀礼器，已尽用于祈雨"
+  },
+  {
+   "word": "郊",
+   "name": "郊",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀之处，自郊至宫遍祷"
+  },
+  {
+   "word": "宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀场所，与郊对举"
+  },
+  {
+   "word": "后稷",
+   "name": "后稷",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "周人始祖，祈雨时求其神灵"
+  },
+  {
+   "word": "上帝",
+   "name": "上帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "主宰天之神，求其护佑"
+  },
+  {
+   "word": "霆",
+   "name": "雷霆",
+   "category": "气象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以雷霆喻旱灾威势之可畏"
+  },
+  {
+   "word": "雷",
+   "name": "雷",
+   "category": "气象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与霆并举，形容灾祸猛烈"
+  },
+  {
+   "word": "昊天",
+   "name": "昊天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "呼告苍天，反复表达哀求"
+  },
+  {
+   "word": "先祖",
+   "name": "先祖",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祈求祖先神灵相助"
+  },
+  {
+   "word": "山川",
+   "name": "山川",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旱灾使山川干枯，突出旱情"
+  },
+  {
+   "word": "旱魃",
+   "name": "旱魃",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旱神，借指旱灾肆虐"
+  },
+  {
+   "word": "暑",
+   "name": "暑",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "酷热难当，心忧如焚"
+  },
+  {
+   "word": "群公先正",
+   "name": "先公先正",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祈求前代贤臣神灵"
+  }
+ ]
+}

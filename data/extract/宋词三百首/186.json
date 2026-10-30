@@ -1,0 +1,226 @@
+{
+ "id": 186,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晚雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "秋晚之雨，渲染凄清氛围"
+  },
+  {
+   "word": "宫树",
+   "name": "树",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "宫中树木，衬托秋意与闲愁"
+  },
+  {
+   "word": "闲叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "maple",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "秋叶闲落，映衬冷寂心境"
+  },
+  {
+   "word": "凉蝉",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寒蝉抱叶，写秋日悲凉"
+  },
+  {
+   "word": "漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "漏壶初长，写夜长难寐"
+  },
+  {
+   "word": "风月",
+   "name": "风月",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "风月俱寒，写心境凄冷"
+  },
+  {
+   "word": "土花",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "苔藓满庭，写荒凉幽寂"
+  },
+  {
+   "word": "虫网",
+   "name": "蛛网",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "蛛网挂栏，写久无人至"
+  },
+  {
+   "word": "阑干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "虫网阑干，荒凉之景"
+  },
+  {
+   "word": "啼蛄",
+   "name": "蝼蛄",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "蝼蛄夜鸣，搅动愁绪"
+  },
+  {
+   "word": "团扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用班婕妤秋扇见捐典，写失宠之恨"
+  },
+  {
+   "word": "秋莲",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以秋莲之苦喻心境之苦"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "笛声当楼，引出谢娘垂泪"
+  },
+  {
+   "word": "谢娘",
+   "name": "谢娘",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指所思念的女子，风中垂泪"
+  },
+  {
+   "word": "故园",
+   "name": "故园",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "想象故园晚景，寄托乡思"
+  },
+  {
+   "word": "诗酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "强留诗酒，写故园旧事"
+  },
+  {
+   "word": "新雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "新雁远飞，不传音信，写音书阻隔"
+  },
+  {
+   "word": "苍烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "苍烟隔断，写望而不见"
+  },
+  {
+   "word": "罗袖",
+   "name": "罗袖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以罗袖借指所念女子"
+  },
+  {
+   "word": "婵娟",
+   "name": "婵娟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指美人，写谁伴之问"
+  }
+ ]
+}

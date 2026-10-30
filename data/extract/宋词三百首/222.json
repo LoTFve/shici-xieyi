@@ -1,0 +1,105 @@
+{
+ "id": 222,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "官柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "长亭官道上的柳树，送别背景，牵动离情"
+  },
+  {
+   "word": "画舸",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "行人乘坐的彩绘船只，渐行渐远"
+  },
+  {
+   "word": "行客",
+   "name": "客",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "指漂泊在外的旅人，即词人自身"
+  },
+  {
+   "word": "南山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "远处山峰，仿佛含情相送行人"
+  },
+  {
+   "word": "高城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "高城阻隔，送行者与行人被城隔开"
+  },
+  {
+   "word": "园林",
+   "name": "园林",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "罨画般美丽的园林景致，回忆中的旧游之地"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "园林中碧绿清澈的小溪，写景清丽"
+  },
+  {
+   "word": "桃花",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借刘禹锡桃花诗典，感叹人事变迁、容颜易老"
+  },
+  {
+   "word": "刘郎",
+   "name": "刘郎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用刘禹锡典故自比，抒年华老去之慨"
+  }
+ ]
+}

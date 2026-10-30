@@ -1,0 +1,248 @@
+{
+ "id": 43,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "季春",
+   "name": "春",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明暮春时节，奠定全诗时令背景"
+  },
+  {
+   "word": "阳阳",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "昼",
+   "emotion": "欢欣",
+   "note": "春日和暖明亮，与下文悲情形成对照"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春草成行，写眼前春景"
+  },
+  {
+   "word": "兰",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "香草委积横陈，喻贤才被弃"
+  },
+  {
+   "word": "江离",
+   "name": "江离",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "香草被遗弃，借喻贤者不遇"
+  },
+  {
+   "word": "辛夷",
+   "name": "辛夷",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "香木被挤藏，喻贤才受抑"
+  },
+  {
+   "word": "伍胥",
+   "name": "伍子胥",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "引伍子胥浮江之典，寄托遭谗之悲"
+  },
+  {
+   "word": "屈子",
+   "name": "屈原",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "引屈原沉湘之典，抒忠而见弃之痛"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "伍胥浮江之地，引发怀古之思"
+  },
+  {
+   "word": "湘",
+   "name": "湘江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原沉湘之处，寄托哀思"
+  },
+  {
+   "word": "淮",
+   "name": "淮河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "望淮水沛沛，引发身世漂泊之感"
+  },
+  {
+   "word": "舫",
+   "name": "船",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "乘船顺流而下，写放逐漂泊之行"
+  },
+  {
+   "word": "蛟龙",
+   "name": "蛟龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象蛟龙导引行舟，气象奇幻"
+  },
+  {
+   "word": "文鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "文鱼逆流而上，增添神异色彩"
+  },
+  {
+   "word": "蒲",
+   "name": "蒲",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "抽蒲草铺陈坐席，写舟中陈设"
+  },
+  {
+   "word": "芙蕖",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以荷花为车盖，想象奇丽"
+  },
+  {
+   "word": "旌",
+   "name": "旌旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "水波溅跃于旌旗，写行舟声势"
+  },
+  {
+   "word": "云旗",
+   "name": "云旗",
+   "category": "器物",
+   "parent": "cloud",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以云为旗，电光疾驰，写神游之境"
+  },
+  {
+   "word": "电",
+   "name": "电",
+   "category": "气象",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "电光奔驰，形容舟行迅疾如神"
+  },
+  {
+   "word": "河伯",
+   "name": "河伯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "河伯开门相迎，写幻想中的礼遇"
+  },
+  {
+   "word": "旧都",
+   "name": "旧都",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回顾旧都而怀恨，寄托故国之思"
+  },
+  {
+   "word": "浮萍",
+   "name": "浮萍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "以浮萍无根自喻漂泊无依的身世"
+  }
+ ]
+}

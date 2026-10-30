@@ -1,0 +1,182 @@
+{
+ "id": 62,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "浅洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水边浅滩，交代荷叶生长环境"
+  },
+  {
+   "word": "远渚",
+   "name": "渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "远处小洲，拓展画面空间"
+  },
+  {
+   "word": "遗簪",
+   "name": "簪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻未展开的荷叶如遗落的玉簪"
+  },
+  {
+   "word": "鸳鸯",
+   "name": "鸳鸯",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鸳鸯在荷叶间密语，反衬孤寂"
+  },
+  {
+   "word": "浣纱人",
+   "name": "浣纱人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借西施浣纱典故，指采莲女子"
+  },
+  {
+   "word": "怨歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "想象中哀怨的歌声，渲染愁绪"
+  },
+  {
+   "word": "花风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "吹落花的风，带出凋零之感"
+  },
+  {
+   "word": "翠云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻层层叠叠的荷叶如翠云"
+  },
+  {
+   "word": "汉舞",
+   "name": "舞",
+   "category": "其他",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借赵飞燕留仙裙典故，写荷叶摇曳"
+  },
+  {
+   "word": "青衫",
+   "name": "衫",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指词人自己，写身世飘零"
+  },
+  {
+   "word": "鬓丝飘雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻鬓发斑白如雪"
+  },
+  {
+   "word": "清露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "无",
+   "note": "荷叶上清露如铅水，写秋荷之态"
+  },
+  {
+   "word": "西风",
+   "name": "西风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风摧折荷叶，点明季节与凋零"
+  },
+  {
+   "word": "匹练",
+   "name": "练",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "比喻秋光如白练倾泻"
+  },
+  {
+   "word": "半湖",
+   "name": "湖",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "湖面倒映明月，收束全篇"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "明月倒泻湖中，营造清冷意境"
+  }
+ ]
+}

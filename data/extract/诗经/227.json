@@ -1,0 +1,94 @@
+{
+ "id": 227,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黍苗",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "以茂盛黍苗起兴，引出召伯教化之功"
+  },
+  {
+   "word": "阴雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨水滋润黍苗，喻召伯恩泽"
+  },
+  {
+   "word": "辇",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "服役者推挽的车，写劳役之状"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与牛并列，写运输劳役"
+  },
+  {
+   "word": "牛",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "拉车服役之畜"
+  },
+  {
+   "word": "谢",
+   "name": "谢",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "召伯所营之地，工程所在"
+  },
+  {
+   "word": "原隰",
+   "name": "原隰",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "高原与低湿之地，写整治水土的功绩"
+  },
+  {
+   "word": "泉流",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "泉水清澈，喻召伯功成政清"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": 38,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指杨花，似花非花，象征飘零"
+  },
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "莺啼惊醒思妇的梦"
+  },
+  {
+   "word": "西园",
+   "name": "西园",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指园林，落红难缀之地"
+  },
+  {
+   "word": "落红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花，象征春光流逝"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "晓来雨过，冲刷杨花"
+  },
+  {
+   "word": "池",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "一池萍碎，杨花落水所化"
+  },
+  {
+   "word": "萍",
+   "name": "萍",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "浮萍，杨花入水所化"
+  },
+  {
+   "word": "春色",
+   "name": "春色",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春色三分，二分尘土，一分流水"
+  },
+  {
+   "word": "尘土",
+   "name": "尘土",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "春色归尘土"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春色随流水逝去"
+  },
+  {
+   "word": "杨花",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "全词核心意象，似花非花，象征离人"
+  },
+  {
+   "word": "离人泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "将杨花比作离人泪，点明主旨"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 225,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "狐裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以狐裘黄黄写都人士服饰之盛"
+  },
+  {
+   "word": "台笠",
+   "name": "笠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写都人士戴斗笠的简朴装束"
+  },
+  {
+   "word": "缁撮",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写都人士束发小冠"
+  },
+  {
+   "word": "充耳",
+   "name": "耳饰",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以充耳琇实写贵族冠饰"
+  },
+  {
+   "word": "琇",
+   "name": "玉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "美石饰耳，衬托都人士华贵"
+  },
+  {
+   "word": "带",
+   "name": "带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "垂带而厉写士人衣带垂长"
+  },
+  {
+   "word": "发",
+   "name": "发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以卷发如虿写女子发饰之美"
+  },
+  {
+   "word": "周",
+   "name": "周",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "行归于周指返回周都，寄托向往"
+  },
+  {
+   "word": "虿",
+   "name": "蝎",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蝎尾喻女子卷发上翘之形"
+  }
+ ]
+}

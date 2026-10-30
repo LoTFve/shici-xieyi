@@ -1,0 +1,138 @@
+{
+ "id": 64,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "傍晚泛舟的背景，点明纳凉时分"
+  },
+  {
+   "word": "船",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "傍晚放船出游的载体"
+  },
+  {
+   "word": "轻风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "微风徐来，吹起迟滞的波浪"
+  },
+  {
+   "word": "浪",
+   "name": "浪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "轻风所生的细浪，写水面动态"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "竹林深处留客，构成纳凉的清幽场景"
+  },
+  {
+   "word": "荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "荷塘洁净，正是纳凉佳处"
+  },
+  {
+   "word": "公子",
+   "name": "公子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宴中调冰水的贵族男子"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "席上切藕丝的女子"
+  },
+  {
+   "word": "冰水",
+   "name": "冰水",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "消暑饮品，见夏日宴饮之乐"
+  },
+  {
+   "word": "藕丝",
+   "name": "藕",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "雪白藕丝，写佳人手艺与夏日清味"
+  },
+  {
+   "word": "片云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "头顶乌云初起，预示催诗之雨"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "虚写",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "由片云推想将至之雨，引出诗兴"
+  }
+ ]
+}

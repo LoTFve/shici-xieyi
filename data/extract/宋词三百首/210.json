@@ -1,0 +1,193 @@
+{
+ "id": 210,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "野棠",
+   "name": "棠",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以野棠花落点明春尽，引出时序匆匆之叹"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "落花象征春光流逝与离别之恨"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "东风惊破客梦，写羁旅孤寂"
+  },
+  {
+   "word": "云屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "云母屏风生寒，烘托夜中独宿的凄冷"
+  },
+  {
+   "word": "曲岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中送别之地，水岸曲折"
+  },
+  {
+   "word": "垂杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "垂杨系马，柳枝牵系离情"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "系马垂杨，点出昔日游冶送别场景"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "楼空人去，物是人非之慨"
+  },
+  {
+   "word": "飞燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "旧游飞燕能说往事，以燕衬人亡楼空"
+  },
+  {
+   "word": "绮陌",
+   "name": "陌",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "繁华街道，引出行人所见之景"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "帘底纤纤月，写美人足或帘间新月"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "纤纤月喻美人足，亦带清冷夜色"
+  },
+  {
+   "word": "春江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以春江流不断喻旧恨绵长"
+  },
+  {
+   "word": "云山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "云山千叠喻新恨层叠无尽"
+  },
+  {
+   "word": "尊",
+   "name": "樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "尊前重见，设想他日借酒相对"
+  },
+  {
+   "word": "镜",
+   "name": "镜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "镜里花难折，喻旧情难再"
+  },
+  {
+   "word": "华发",
+   "name": "白发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "惊叹近来白发增多，叹年华老去"
+  }
+ ]
+}

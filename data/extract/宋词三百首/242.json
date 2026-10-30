@@ -1,0 +1,248 @@
+{
+ "id": 242,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "隋堤",
+   "name": "堤",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "点明送别地点，暗含历史沧桑"
+  },
+  {
+   "word": "日晚",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "渲染黄昏离别的惆怅"
+  },
+  {
+   "word": "密霭",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮霭笼罩，烘托迷离氛围"
+  },
+  {
+   "word": "深树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "岸边树林，雾气从中生出"
+  },
+  {
+   "word": "淡月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "朦胧淡月照沙，暗示夜宿"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月光笼罩的沙岸"
+  },
+  {
+   "word": "河桥",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "泊舟之处，点明羁旅"
+  },
+  {
+   "word": "画舸",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "无情画船载人离去"
+  },
+  {
+   "word": "烟波",
+   "name": "烟波",
+   "category": "水域",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟水茫茫，阻隔南浦"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地的典故，暗指离别"
+  },
+  {
+   "word": "行人",
+   "name": "行人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指离去的人，醉卧舟中"
+  },
+  {
+   "word": "重衾",
+   "name": "被",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "行人醉拥厚被，浑然不觉离愁"
+  },
+  {
+   "word": "京华",
+   "name": "京城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆中繁华的京城旧游"
+  },
+  {
+   "word": "疏林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "回忆中与友人欢聚的疏林"
+  },
+  {
+   "word": "小槛",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "旧日欢聚倚栏之处"
+  },
+  {
+   "word": "冶叶倡条",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指歌妓，回忆旧日相识"
+  },
+  {
+   "word": "珠歌翠舞",
+   "name": "歌舞",
+   "category": "声音",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆中繁华的歌舞场面"
+  },
+  {
+   "word": "渔村",
+   "name": "渔村",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "如今漂泊的荒僻之地"
+  },
+  {
+   "word": "水驿",
+   "name": "水驿",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "水路驿站，点明羁旅孤宿"
+  },
+  {
+   "word": "焚香",
+   "name": "香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "独自焚香，烘托孤寂夜长"
+  },
+  {
+   "word": "梦魂",
+   "name": "梦魂",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "梦中思念鸳侣"
+  },
+  {
+   "word": "鸳侣",
+   "name": "鸳侣",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "比喻情侣伴侣，表达思念"
+  }
+ ]
+}

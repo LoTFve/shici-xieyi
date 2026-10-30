@@ -1,0 +1,193 @@
+{
+ "id": 204,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "壮阔",
+   "note": "以熔金写落日之灿烂，反衬人之漂泊无依"
+  },
+  {
+   "word": "暮云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "暮云合璧，写天色将晚的景致"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "烟染柳色，点明春意，也暗含离愁"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "笛声吹落梅花，以梅写春寒与怨情"
+  },
+  {
+   "word": "笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "笛声幽怨，吹奏《梅花落》曲调"
+  },
+  {
+   "word": "元宵",
+   "name": "元宵",
+   "category": "其他",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "点明节令，昔日欢聚与今日孤寂对照"
+  },
+  {
+   "word": "香车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "友人乘车来邀，写他人节日之热闹"
+  },
+  {
+   "word": "宝马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与香车并提，写贵客车马之盛"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "酒朋相邀，反衬词人无心过节"
+  },
+  {
+   "word": "中州",
+   "name": "中州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指故国汴京，寄托盛衰之感和故国之思"
+  },
+  {
+   "word": "三五",
+   "name": "三五",
+   "category": "其他",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "指正月十五元宵，回忆昔日闺中重此佳节"
+  },
+  {
+   "word": "铺翠冠儿",
+   "name": "翠冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写昔日元宵盛装打扮的饰物"
+  },
+  {
+   "word": "雪柳",
+   "name": "雪柳",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "元宵节女子头饰，写旧日闺中盛妆"
+  },
+  {
+   "word": "风鬟",
+   "name": "发鬟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写如今鬓发散乱，憔悴之态"
+  },
+  {
+   "word": "霜鬓",
+   "name": "鬓",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "两鬓如霜，写年老憔悴"
+  },
+  {
+   "word": "帘儿",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "词人躲于帘下听人笑语，写孤独自处"
+  },
+  {
+   "word": "笑语",
+   "name": "笑语",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "他人节日的欢笑声，反衬词人孤寂心境"
+  }
+ ]
+}

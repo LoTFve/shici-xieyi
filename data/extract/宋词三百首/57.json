@@ -1,0 +1,138 @@
+{
+ "id": 57,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "玉楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "词牌名，也是华美楼阁的意象"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "写少年在长安街市跃马奔驰的豪迈生活"
+  },
+  {
+   "word": "长安",
+   "name": "长安",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指京城，写客居京华的生活"
+  },
+  {
+   "word": "客舍",
+   "name": "客舍",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "客居之所，似家又非家"
+  },
+  {
+   "word": "青钱",
+   "name": "钱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "铜钱换酒，写挥金买醉的放浪"
+  },
+  {
+   "word": "红烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜饮博戏的照明之物"
+  },
+  {
+   "word": "锦妇",
+   "name": "思妇",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指家中妻子，用苏蕙织锦回文典"
+  },
+  {
+   "word": "机中字",
+   "name": "回文诗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用苏蕙织锦回文典故，写妻子情思易得"
+  },
+  {
+   "word": "玉人",
+   "name": "美人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指歌楼女子，言其心事难测"
+  },
+  {
+   "word": "神州",
+   "name": "中原",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指沦陷的北方国土，寄托报国之志"
+  },
+  {
+   "word": "水西桥",
+   "name": "水西桥",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别流泪之地，劝男儿莫在此洒泪"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "儿女情长的伤心之泪，与报国豪情对照"
+  }
+ ]
+}

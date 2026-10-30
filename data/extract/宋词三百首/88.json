@@ -1,0 +1,193 @@
+{
+ "id": 88,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "乔木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "起笔写高树连云，营造苍茫气象"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "乔木上云气缭绕，烘托高远"
+  },
+  {
+   "word": "战舰",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "追忆中兴战事，战舰乘风"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借东风以喻战机，叹天不助"
+  },
+  {
+   "word": "吴宫",
+   "name": "宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "小筑于吴宫闲地，历史与眼前交织"
+  },
+  {
+   "word": "华表",
+   "name": "华表",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用丁令威化鹤典故，叹城郭如故"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月明夜鹤归，写沧桑之感"
+  },
+  {
+   "word": "鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "化鹤归来的典故，寓人世变迁"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "昔年花竹，今已如此，感慨今昔"
+  },
+  {
+   "word": "竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与花并置，写园中旧景"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枝上露水，比喻清泪"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "将露比泪，写凭吊之悲"
+  },
+  {
+   "word": "苍苔",
+   "name": "苔",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "步苍苔寻幽，写园径荒寂"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "问梅开未，写春游寻芳"
+  },
+  {
+   "word": "寒梢",
+   "name": "枝",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "冻蕊将发，寒枝待春"
+  },
+  {
+   "word": "东君",
+   "name": "东君",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指春神，写盼春之意"
+  },
+  {
+   "word": "沧浪水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用沧浪水典，写相对无言、寄恨残醉"
+  }
+ ]
+}

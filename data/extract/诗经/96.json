@@ -1,0 +1,61 @@
+{
+ "id": 96,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸡",
+   "name": "鸡",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "以鸡鸣点出晨起时刻"
+  },
+  {
+   "word": "苍蝇",
+   "name": "蝇",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蝇声反说鸡鸣，疑幻听"
+  },
+  {
+   "word": "东方",
+   "name": "东方",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "东方发白，天将破晓"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月出之光，与晨光相混"
+  },
+  {
+   "word": "虫",
+   "name": "虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "飞虫薨薨，点明残夜将尽"
+  }
+ ]
+}

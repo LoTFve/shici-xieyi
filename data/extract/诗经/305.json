@@ -1,0 +1,117 @@
+{
+ "id": 305,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "荆楚",
+   "name": "荆楚",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "征伐的对象，南方楚国之地"
+  },
+  {
+   "word": "汤孙",
+   "name": "汤孙",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指商王后代，即当朝君主"
+  },
+  {
+   "word": "成汤",
+   "name": "成汤",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "追述商朝开国君主以显赫威德"
+  },
+  {
+   "word": "氐羌",
+   "name": "氐羌",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指西方远邦，昔日来朝"
+  },
+  {
+   "word": "禹",
+   "name": "禹",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大禹，借其功绩指立都之地"
+  },
+  {
+   "word": "商邑",
+   "name": "商邑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "商朝都城，四方之中心"
+  },
+  {
+   "word": "景山",
+   "name": "景山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高大的山，取材建寝之所"
+  },
+  {
+   "word": "松",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "reason_detail": "",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上松树挺直，用作建庙良材"
+  },
+  {
+   "word": "松桷",
+   "name": "桷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "松木做的方椽，形容寝庙壮美"
+  },
+  {
+   "word": "楹",
+   "name": "楹",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "厅堂柱子，众多而闲大"
+  }
+ ]
+}

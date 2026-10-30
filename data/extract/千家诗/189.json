@@ -1,0 +1,127 @@
+{
+ "id": 189,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "朝晖",
+   "name": "朝晖",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "清晨日光洒在山郭，定下全诗清冷的晨景基调"
+  },
+  {
+   "word": "山郭",
+   "name": "山郭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "依山而建的城郭，点出诗人所在之地的僻静"
+  },
+  {
+   "word": "江楼",
+   "name": "江楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "诗人日日独坐之处，承载羁旅之思"
+  },
+  {
+   "word": "翠微",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "青翠山色映入江楼，是诗人终日相对的远景"
+  },
+  {
+   "word": "渔人",
+   "name": "渔人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "江上往来泛舟的渔者，反衬诗人滞留不归"
+  },
+  {
+   "word": "燕子",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "清秋时节仍飞来飞去，暗写时序与漂泊"
+  },
+  {
+   "word": "匡衡",
+   "name": "匡衡",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借古人抗疏之事自伤功名薄"
+  },
+  {
+   "word": "刘向",
+   "name": "刘向",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借古人传经之事自叹心事违"
+  },
+  {
+   "word": "同学少年",
+   "name": "少年",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "昔日同窗今多显贵，反衬自身落魄"
+  },
+  {
+   "word": "五陵",
+   "name": "五陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指长安贵族聚居之地，暗含对权贵的疏离"
+  },
+  {
+   "word": "裘马",
+   "name": "裘马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "轻裘肥马，借指同学少年的富贵生活"
+  }
+ ]
+}

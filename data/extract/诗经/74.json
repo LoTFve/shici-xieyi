@@ -1,0 +1,61 @@
+{
+ "id": 74,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "丘",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗中的山坡田野背景，麻麦李生长之处"
+  },
+  {
+   "word": "麻",
+   "name": "麻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "山坡上种植的作物，起兴之物"
+  },
+  {
+   "word": "麦",
+   "name": "麦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "山坡上的麦田，引出对留子国的思念"
+  },
+  {
+   "word": "李",
+   "name": "李",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "山坡上的李树，引出对留之子的期待"
+  },
+  {
+   "word": "佩玖",
+   "name": "玖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "留之子所赠的玉佩，象征情谊与馈赠"
+  }
+ ]
+}

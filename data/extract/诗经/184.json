@@ -1,0 +1,127 @@
+{
+ "id": 184,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鹤",
+   "name": "鹤",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以鹤鸣起兴，象征贤者虽隐而声名远播"
+  },
+  {
+   "word": "九皋",
+   "name": "泽",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鹤鸣的深泽背景，营造幽远意境"
+  },
+  {
+   "word": "渊",
+   "name": "渊",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼潜之处，与鹤鸣相对，写万物各得其所"
+  },
+  {
+   "word": "渚",
+   "name": "渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鱼或游于浅滩，表现鱼的自由出没"
+  },
+  {
+   "word": "鱼",
+   "name": "鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "与鹤对举，象征隐逸自得的生活"
+  },
+  {
+   "word": "园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "乐彼之园，指美好的园林环境"
+  },
+  {
+   "word": "树檀",
+   "name": "檀",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "园中檀树，比喻贤才"
+  },
+  {
+   "word": "萚",
+   "name": "落叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "檀下落叶，反衬檀树之高洁"
+  },
+  {
+   "word": "谷",
+   "name": "楮",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "檀下恶木，与檀对比，喻贤愚并存"
+  },
+  {
+   "word": "他山之石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻别处的贤才可用来磨砺自己"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "鹤鸣声闻于天，极言其声之高远"
+  }
+ ]
+}

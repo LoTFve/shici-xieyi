@@ -1,0 +1,105 @@
+{
+ "id": 73,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "罗衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点出春寒未退时人的穿着"
+  },
+  {
+   "word": "珠帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "不卷之帘隔出深闺幽闭之境"
+  },
+  {
+   "word": "红杏",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "以枝头杏花写暮春将尽"
+  },
+  {
+   "word": "清明雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清明时节的雨惹人啼恨"
+  },
+  {
+   "word": "沈烟",
+   "name": "烟",
+   "category": "其他",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "孤寂",
+   "note": "沉香烟缕写尽日独处的寂寥"
+  },
+  {
+   "word": "宿酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "宿醉醒迟见春愁难解"
+  },
+  {
+   "word": "飞燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "燕子误了归信，反衬行人无消息"
+  },
+  {
+   "word": "小屏风",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "屏上所画西江路勾起对远人的思念"
+  },
+  {
+   "word": "西江路",
+   "name": "西江",
+   "category": "地名",
+   "parent": "water",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "屏风上的水路借指行人远去的途程"
+  }
+ ]
+}

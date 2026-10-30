@@ -1,0 +1,17 @@
+{
+ "id": 122,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗中反复咏叹的衣物，是与“子之衣”对比的对象"
+  }
+ ]
+}

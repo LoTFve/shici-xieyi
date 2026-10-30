@@ -1,0 +1,17 @@
+{
+ "id": 271,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇呼告上天，赋予全诗庄严的颂神背景"
+  }
+ ]
+}

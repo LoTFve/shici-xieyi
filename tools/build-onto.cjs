@@ -1,12 +1,17 @@
-// 汇总 data/extract 的逐首抽取结果，生成物象层和意象层的草稿：
+// 汇总 data/extract/<集名>/ 的逐首抽取结果，生成物象层和意象层的草稿：
 //   ontology/images.json  概念数据
 //   ontology/review.md    审阅报告，列出需要人工确认的地方
-// 用法：node tools/build-onto.cjs
+// 用法：node tools/build-onto.cjs        汇总 data/extract 下所有已抽取的集子
 const fs = require('fs');
 const path = require('path');
 const root = path.join(__dirname, '..');
 const OLD = require('../ontology.js'); // 现有 27 种画法，作为可画的基础概念
-const poems = require('../data/tang300.json');
+// 各集按 data/extract 下的目录读取，诗的编号是“集名:id”
+const COLLECTIONS = fs.readdirSync(path.join(root, 'data/extract')).filter((n) => fs.existsSync(path.join(root, 'data', `${n}.json`)));
+const poems = COLLECTIONS.flatMap((col) => require(`../data/${col}.json`)
+  .filter((p) => fs.existsSync(path.join(root, 'data/extract', col, `${p.id}.json`)))
+  .map((p) => ({ ...p, col, key: `${col}:${p.id}` })));
+const SHORT = { tang300: '唐', 宋词三百首: '宋词', 千家诗: '千家', 诗经: '诗经', 楚辞: '楚辞' };
 const MIN_POEMS = 3;
 
 const CATS = ['天象', '气象', '山石', '水域', '植物', '动物', '建筑', '器物', '人物', '地理'];
@@ -59,12 +64,12 @@ const share = (c, n, min = 0.3) => Object.fromEntries(top(c).filter(([k, v]) => 
 // 1. 读入所有提及，做排除、拆分、同义合并
 const mentions = [], excluded = {};
 for (const p of poems) {
-  const j = JSON.parse(fs.readFileSync(path.join(root, 'data/extract', `${p.id}.json`), 'utf8'));
+  const j = JSON.parse(fs.readFileSync(path.join(root, 'data/extract', p.col, `${p.id}.json`), 'utf8'));
   for (const m of j.images) {
     if (!m.word || !(p.title + p.body).includes(m.word)) continue;
     const raw = (m.name || m.word).trim();
     if (NOT_IMAGE[raw]) { (excluded[raw] = excluded[raw] || { why: NOT_IMAGE[raw], n: 0 }).n++; continue; }
-    for (const n of SPLIT[raw] || [raw]) mentions.push({ ...m, name: SYN[n] || n, pid: p.id, title: p.title, emotion: EMO_FIX[m.emotion] || m.emotion });
+    for (const n of SPLIT[raw] || [raw]) mentions.push({ ...m, name: SYN[n] || n, pid: p.key, col: p.col, title: `${SHORT[p.col] || p.col}${p.id}《${p.title}》`, emotion: EMO_FIX[m.emotion] || m.emotion });
   }
 }
 
@@ -108,7 +113,8 @@ function summarize(name, ms) {
     evokes: { 默认: share(count(ms.map((m) => m.emotion).filter((e) => EMOTIONS.includes(e))), n, 0.2) },
     ...(SYMBOL[name] && { symbol: SYMBOL[name] }),
     ...(literal < 0.95 && { usage: Object.fromEntries(top(usage).filter(([, v]) => v >= 2)) }),
-    examples: [...new Map(ms.map((m) => [m.pid, `${m.pid}《${m.title}》${m.word}`])).values()].slice(0, 3),
+    by: Object.fromEntries(top(count([...new Map(ms.map((m) => [m.pid, SHORT[m.col] || m.col])).values()]))),
+    examples: [...new Map(ms.map((m) => [m.pid, `${m.title}${m.word}`])).values()].slice(0, 3),
   };
   for (const k of ['season', 'time', 'usage']) if (c[k] && !Object.keys(c[k]).length) delete c[k];
   if (!Object.keys(c.evokes.默认).length) delete c.evokes;
@@ -198,14 +204,16 @@ for (const [name, ms] of Object.entries(groups)) for (const m of ms) {
 }
 
 fs.mkdirSync(path.join(root, 'ontology'), { recursive: true });
-const meta = { source: '唐诗三百首 320 首，DeepSeek 逐首抽取后汇总', generated_by: 'tools/build-onto.cjs', min_poems: MIN_POEMS, mentions: mentions.length };
+const NAME = { tang300: '唐诗三百首' };
+const perCol = Object.fromEntries(COLLECTIONS.map((c) => [NAME[c] || c, poems.filter((p) => p.col === c).length]));
+const meta = { source: `${Object.entries(perCol).map(([c, n]) => `${c} ${n} 首`).join('、')}，DeepSeek 逐首抽取后汇总`, collections: perCol, generated_by: 'tools/build-onto.cjs', min_poems: MIN_POEMS, mentions: mentions.length };
 fs.writeFileSync(path.join(root, 'ontology/images.json'), JSON.stringify({ _meta: meta, concepts, rare, excluded }, null, 1));
 
 // 审阅报告
 const fmt = (o) => Object.entries(o || {}).map(([k, v]) => `${k}${v}`).join(' ');
 let md = `# 物象层与意象层草稿审阅\n\n由 \`tools/build-onto.cjs\` 生成，不要手改，改脚本里的合并表后重新生成。\n\n`;
-md += `- 能画的概念 ${drawable.length} 个（自身有画法，或沿上位类找到画法），按诗数合计 ${drawable.reduce((t, c) => t + c.n, 0)} 首次；画不出的 ${Object.keys(concepts).length - drawable.length} 个仍参与时辰、季节、情感推断
-`;
+md += `- 来源：${meta.source}\n`;
+md += `- 能画的概念 ${drawable.length} 个（自身有画法，或沿上位类找到画法），按诗数合计 ${drawable.reduce((t, c) => t + c.n, 0)} 首次；画不出的 ${Object.keys(concepts).length - drawable.length} 个仍参与时辰、季节、情感推断\n`;
 md += `- 提及 ${mentions.length} 条，概念 ${Object.keys(concepts).length} 个（出现在 ${MIN_POEMS} 首以上，加上 27 个现有画法），少见物象 ${rare.length} 个，并入已有概念的写法 ${Object.keys(aliasOf).length} 个\n`;
 md += `- 寄托只统计了旧的 7 种情感，凄清、怀人、清幽、悲凉、悲壮这 5 种要等第二轮抽取；也还没有按题材区分，只有“默认”\n- 象征是手写的，共 ${Object.keys(SYMBOL).length - missingSymbol.length} 条\n\n`;
 md += `## 需要确认\n\n`;
@@ -216,11 +224,21 @@ md += `- **单字触发词**（规则匹配时容易误中，接入页面前要�
 md += `- **连写词，不作触发词**（含两个以上概念）：${clash.join('、') || '无'}\n`;
 if (missingSymbol.length) md += `- **象征表里没对上概念的**：${missingSymbol.join('、')}\n`;
 md += `- **排除出物象层的**：${Object.entries(excluded).map(([k, v]) => `${k}(${v.n}，${v.why})`).join('、')}\n\n`;
-md += `## 概念\n\n`;
+// 各集特有的高频物象：在这一集出现的首数占比，明显高于其他集合计
+md += `## 各集特色物象\n\n占比是“出现的首数 / 这一集的首数”，列出在这一集占比超过其他集 1.8 倍的。\n\n`;
+for (const col of COLLECTIONS) {
+  const n = perCol[NAME[col] || col], short = SHORT[col] || col, restN = poems.length - n;
+  const rows = Object.entries(concepts).map(([name, c]) => {
+    const here = (c.by || {})[short] || 0;
+    return [name, here, here / n, ((c.n || 0) - here) / Math.max(restN, 1)];
+  }).filter(([, h, a, b]) => h >= 3 && a > b * 1.8).sort((x, y) => y[2] - x[2]).slice(0, 25);
+  md += `- **${NAME[col] || col}**（${n} 首）：${rows.map(([nm, h]) => `${nm}${h}`).join(' ') || '无'}\n`;
+}
+md += `\n## 概念\n\n`;
 for (const cat of CATS) {
   const list = Object.entries(concepts).filter(([, c]) => c.cat === cat).sort((a, b) => b[1].n - a[1].n);
-  md += `### ${cat}（${list.length}）\n\n| 物象 | 诗数 | 上位/画法 | 季节 | 时辰 | 寄托 | 象征 | 写法 |\n|---|---|---|---|---|---|---|---|\n`;
-  for (const [name, c] of list) md += `| ${name}${c.sense ? '（听）' : ''} | ${c.n} | ${c.draw ? '画：' + c.draw : c.is_a ? c.is_a + (c.draws_as ? '' : '（画不出）') : '—'}${c.part_of ? '，属' + c.part_of : ''} | ${fmt(c.season)} | ${fmt(c.time)} | ${fmt(c.evokes && c.evokes.默认)} | ${(c.symbol || []).join('、')} | ${c.words.slice(0, 8).join(' ')} |\n`;
+  md += `### ${cat}（${list.length}）\n\n| 物象 | 诗数 | 各集 | 上位/画法 | 季节 | 时辰 | 寄托 | 象征 | 写法 |\n|---|---|---|---|---|---|---|---|---|\n`;
+  for (const [name, c] of list) md += `| ${name}${c.sense ? '（听）' : ''} | ${c.n} | ${fmt(c.by)} | ${c.draw ? '画：' + c.draw : c.is_a ? c.is_a + (c.draws_as ? '' : '（画不出）') : '—'}${c.part_of ? '，属' + c.part_of : ''} | ${fmt(c.season)} | ${fmt(c.time)} | ${fmt(c.evokes && c.evokes.默认)} | ${(c.symbol || []).join('、')} | ${c.words.slice(0, 8).join(' ')} |\n`;
   md += '\n';
 }
 md += `## 修饰字（供第 2 步写言层，按搭配的物象种数排序）\n\n${top(Object.fromEntries(Object.entries(mods).map(([k, v]) => [k, v.size]))).filter(([, v]) => v >= 3).map(([k, v]) => `${k}${v}`).join(' ')}\n\n`;

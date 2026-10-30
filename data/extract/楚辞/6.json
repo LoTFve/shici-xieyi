@@ -1,0 +1,160 @@
+{
+ "id": 6,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天宫之门，展现神界威严"
+  },
+  {
+   "word": "玄云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "大司命乘驾的黑色云气，突出神性"
+  },
+  {
+   "word": "飘风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "作为先驱的旋风，渲染声势"
+  },
+  {
+   "word": "涷雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洒尘的暴雨，表现神灵出行的气势"
+  },
+  {
+   "word": "空桑",
+   "name": "空桑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神话中的山名，借指遥远仙境"
+  },
+  {
+   "word": "九州",
+   "name": "九州",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "代指天下人间"
+  },
+  {
+   "word": "阴阳",
+   "name": "阴阳",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "象征自然规律与神力"
+  },
+  {
+   "word": "九坑",
+   "name": "九坑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天帝居所，借指至高神界"
+  },
+  {
+   "word": "灵衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神灵所着之衣，飘逸神圣"
+  },
+  {
+   "word": "玉佩",
+   "name": "玉佩",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "佩玉陆离，显示神灵的高贵"
+  },
+  {
+   "word": "疏麻",
+   "name": "麻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "折麻赠别，表达离居之情"
+  },
+  {
+   "word": "瑶华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "玉华，象征珍贵美好"
+  },
+  {
+   "word": "龙",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "神灵乘龙，彰显神威"
+  },
+  {
+   "word": "桂枝",
+   "name": "桂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "结桂枝延伫，寄托相思"
+  }
+ ]
+}

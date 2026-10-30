@@ -1,0 +1,226 @@
+{
+ "id": 66,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "胡马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞景象中嘶鸣的战马"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "吹动马嘶的边地寒风"
+  },
+  {
+   "word": "汉旗",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "雪中翻卷的军旗，点出边塞行役"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "旗上翻飞的雪，渲染苦寒"
+  },
+  {
+   "word": "彤云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "暮",
+   "emotion": "无",
+   "note": "暮色中涌起的浓云"
+  },
+  {
+   "word": "残照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "一竿残阳，烘托旅途迟暮"
+  },
+  {
+   "word": "古木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "连天老树，写荒寒之景"
+  },
+  {
+   "word": "乱山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "无数乱山，写行路荒远"
+  },
+  {
+   "word": "暮沙",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "暮色中的沙地，衬出行役之苦"
+  },
+  {
+   "word": "衰草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枯衰的野草，写边地萧瑟"
+  },
+  {
+   "word": "星斗",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "横斜星斗，点出夜宿幽馆"
+  },
+  {
+   "word": "灯花",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "灯花空老，写夜不能寐"
+  },
+  {
+   "word": "雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "浓雾弥漫，渲染幽馆凄迷"
+  },
+  {
+   "word": "香鸭",
+   "name": "香炉",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "鸭形香炉，写室内孤寂"
+  },
+  {
+   "word": "泪烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "烛泪凝冰，以物写人"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "霜天难晓，写寒夜漫长"
+  },
+  {
+   "word": "秋波",
+   "name": "眼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指离人含情的眼波"
+  },
+  {
+   "word": "朝雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "梦中朝雨，喻情事欢会"
+  },
+  {
+   "word": "跃马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象归来的骑马身影"
+  },
+  {
+   "word": "迎门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象迎门而笑的相逢"
+  }
+ ]
+}

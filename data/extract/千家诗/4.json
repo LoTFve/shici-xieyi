@@ -1,0 +1,39 @@
+{
+ "id": 4,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "众鸟飞尽，反衬山之空寂与人之孤独"
+  },
+  {
+   "word": "孤云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "独去之云，与诗人相对，共成闲寂之境"
+  },
+  {
+   "word": "敬亭山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "诗人相看之对象，寄寓孤高自守之情"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "id": 116,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "寒水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "开篇寒水映痕，点出早春清冷"
+  },
+  {
+   "word": "沙际",
+   "name": "沙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边沙岸，视野开阔处"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "沙际烟雾迷蒙，写出春意初回"
+  },
+  {
+   "word": "溪梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪边梅花晴照争发，报春先开"
+  },
+  {
+   "word": "冷芯",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "冷芯数枝，写梅之清冷孤高"
+  },
+  {
+   "word": "长亭",
+   "name": "长亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地，寄托天涯旧恨"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "长亭门外山重叠，写望中之景"
+  },
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "想象对方深闭楼中，增添相思"
+  },
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风暗销肌雪，写时光流逝"
+  },
+  {
+   "word": "肌雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雪喻肌肤，写闺中人憔悴"
+  },
+  {
+   "word": "枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "枕前云雨，回忆昔日欢情"
+  },
+  {
+   "word": "云雨",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指男女欢会，非眼前景"
+  },
+  {
+   "word": "尊",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "尊前花月，忆旧日对饮之乐"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "花月相伴的旧日欢景"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "尊前花月，追忆往昔良宵"
+  }
+ ]
+}

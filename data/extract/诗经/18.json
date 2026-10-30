@@ -1,0 +1,50 @@
+{
+ "id": 18,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "羔羊",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以羔羊皮起兴，暗喻大夫的俭朴与从容"
+  },
+  {
+   "word": "素丝",
+   "name": "丝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白色丝线，缝制羔羊皮裘，象征质朴"
+  },
+  {
+   "word": "公",
+   "name": "公",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指公家、官府，退食自公的处所"
+  },
+  {
+   "word": "退食",
+   "name": "食",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "退朝就食，表现大夫从容自得的生活"
+  }
+ ]
+}

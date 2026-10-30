@@ -1,0 +1,127 @@
+{
+ "id": 292,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "丝衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀者所穿的丝质礼服，点明仪式之始"
+  },
+  {
+   "word": "弁",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀者头戴的皮弁，与丝衣相配，见仪容之庄"
+  },
+  {
+   "word": "堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀行礼的厅堂，为仪式展开的空间起点"
+  },
+  {
+   "word": "基",
+   "name": "基",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "堂下台阶之地，与堂相对，见祭祀行进的路线"
+  },
+  {
+   "word": "羊",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所用牺牲之一，自羊至牛见牲物之备"
+  },
+  {
+   "word": "牛",
+   "name": "牛",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所用大牲，与羊并举，见祭品之丰"
+  },
+  {
+   "word": "鼐",
+   "name": "鼐",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "大鼎，祭祀盛牲之器，与鼒并举见礼器之陈"
+  },
+  {
+   "word": "鼎",
+   "name": "鼎",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀烹牲之重器，礼器陈列的核心"
+  },
+  {
+   "word": "鼒",
+   "name": "鼒",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小鼎，与大鼎相配，见礼器大小有序"
+  },
+  {
+   "word": "兕觥",
+   "name": "觥",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "犀角制的酒器，其形弯曲，见祭宴之盛"
+  },
+  {
+   "word": "旨酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "美酒，祭礼中献享之物，见祭者诚敬"
+  }
+ ]
+}

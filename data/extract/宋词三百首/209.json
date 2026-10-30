@@ -1,0 +1,149 @@
+{
+ "id": 209,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楚天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "点明地域和季节，营造辽阔秋景"
+  },
+  {
+   "word": "清秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明季节，渲染清冷氛围"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "描绘江水随天远去的辽阔景象"
+  },
+  {
+   "word": "遥岑",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "远山引发愁恨，以山喻愁"
+  },
+  {
+   "word": "落日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西下，烘托游子孤寂"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "登楼远眺，触发愁思"
+  },
+  {
+   "word": "断鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "失群孤雁，象征游子漂泊"
+  },
+  {
+   "word": "吴钩",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "看剑表达报国无门的悲愤"
+  },
+  {
+   "word": "栏干",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "拍遍栏杆，动作传达激愤"
+  },
+  {
+   "word": "鲈鱼",
+   "name": "鲈鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借用张翰典故，表达思乡归隐"
+  },
+  {
+   "word": "西风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "秋风起，增添萧瑟之感"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "树犹如此，人何以堪，感叹时光流逝"
+  },
+  {
+   "word": "翠袖",
+   "name": "女子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指歌女或佳人，反衬英雄泪"
+  }
+ ]
+}

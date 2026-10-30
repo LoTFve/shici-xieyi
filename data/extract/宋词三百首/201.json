@@ -1,0 +1,127 @@
+{
+ "id": 201,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "金猊",
+   "name": "香炉",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "香冷金猊，烘托室内冷清与独处"
+  },
+  {
+   "word": "红浪",
+   "name": "锦被",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "被翻红浪，写慵懒未起与无人共处"
+  },
+  {
+   "word": "宝奁",
+   "name": "妆奁",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "宝奁闲掩，暗示无心梳妆"
+  },
+  {
+   "word": "帘钩",
+   "name": "帘钩",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "日上帘钩，点明晨光已高"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "日上帘钩，以日光表明时间流逝"
+  },
+  {
+   "word": "阳关",
+   "name": "阳关",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "千万遍阳关，借送别曲写离情难留"
+  },
+  {
+   "word": "武陵",
+   "name": "武陵",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "念武陵春晚，借桃源典故写别后相思"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "云锁重楼，以云雾锁楼写阻隔与愁闷"
+  },
+  {
+   "word": "重楼",
+   "name": "楼阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "云锁重楼，写居所深闭与望眼难穿"
+  },
+  {
+   "word": "楼",
+   "name": "楼阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "楼前绿水，是凝眸远望所在"
+  },
+  {
+   "word": "绿水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "楼前绿水，寄托终日凝眸的相思"
+  }
+ ]
+}

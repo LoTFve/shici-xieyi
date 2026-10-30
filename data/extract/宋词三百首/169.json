@@ -1,0 +1,138 @@
+{
+ "id": 169,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明游春地点"
+  },
+  {
+   "word": "风光",
+   "name": "风光",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "总写春色美好"
+  },
+  {
+   "word": "皱波纹",
+   "name": "波",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "水波荡漾，迎接游船"
+  },
+  {
+   "word": "客棹",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "游船，表现春游之乐"
+  },
+  {
+   "word": "绿杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "绿柳如烟，增添春色"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "薄雾笼罩杨柳"
+  },
+  {
+   "word": "晓寒",
+   "name": "寒",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "清晨微寒"
+  },
+  {
+   "word": "红杏",
+   "name": "杏",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "杏花盛开，春意盎然"
+  },
+  {
+   "word": "枝头",
+   "name": "枝",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "杏花所在的枝头"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "劝斜阳留晚照，表达惜春之情"
+  },
+  {
+   "word": "花间",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "花丛之间，留连晚照"
+  },
+  {
+   "word": "晚照",
+   "name": "晚照",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "夕阳余晖，表达惜时之情"
+  }
+ ]
+}

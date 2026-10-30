@@ -1,0 +1,61 @@
+{
+ "id": 158,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "斧",
+   "name": "斧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以伐木需斧比喻娶妻需媒"
+  },
+  {
+   "word": "柯",
+   "name": "柯",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "砍伐的树枝，喻指婚配的凭据"
+  },
+  {
+   "word": "妻",
+   "name": "妻",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "诗中所娶之人"
+  },
+  {
+   "word": "媒",
+   "name": "媒",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "促成婚姻的中介者"
+  },
+  {
+   "word": "笾豆",
+   "name": "笾豆",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "盛放祭品的礼器，排列整齐以示婚礼成仪"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": 53,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "玉台观",
+   "name": "道观",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "诗题所咏道观，登览起点"
+  },
+  {
+   "word": "平台",
+   "name": "高台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "访古所登之处"
+  },
+  {
+   "word": "彩云",
+   "name": "彩云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仙人萧史驻留之云，烘托仙气"
+  },
+  {
+   "word": "萧史",
+   "name": "萧史",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借仙人萧史写观中仙迹"
+  },
+  {
+   "word": "文字",
+   "name": "铭文",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鲁恭王留下的题识，见古迹之实"
+  },
+  {
+   "word": "鲁恭",
+   "name": "鲁恭王",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借鲁恭王好宫室事点出观之来历"
+  },
+  {
+   "word": "宫阙",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写玉台观殿宇高峻，直通群帝"
+  },
+  {
+   "word": "群帝",
+   "name": "群帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "想象宫阙高耸，可通诸天帝君"
+  },
+  {
+   "word": "乾坤",
+   "name": "天地",
+   "category": "天象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以天地之大写观中气象，通达十洲"
+  },
+  {
+   "word": "十洲",
+   "name": "十洲",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借海上仙洲写观境如仙境"
+  },
+  {
+   "word": "笙鹤",
+   "name": "笙鹤",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以王子乔乘鹤吹笙的仙话写观之灵异"
+  },
+  {
+   "word": "北山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "笙鹤飞过之处，为仙迹落到实处"
+  }
+ ]
+}

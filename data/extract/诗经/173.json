@@ -1,0 +1,83 @@
+{
+ "id": 173,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "萧",
+   "name": "艾蒿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以蓼萧起兴，引出露水与宴饮之景"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "零露湑兮等句以露珠点染清早晨景，兼作起兴"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "诗中反复称颂的宴飨对象，即诸侯君子"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "燕笑语兮之燕实为宴饮之宴的借字，写宴乐笑语"
+  },
+  {
+   "word": "龙",
+   "name": "龙",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "为龙为光，以龙光喻君子之德辉"
+  },
+  {
+   "word": "鞗革",
+   "name": "辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写车上缰辔下垂之貌，见君子车马之盛"
+  },
+  {
+   "word": "和鸾",
+   "name": "鸾铃",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "和鸾雍雍，以车铃和鸣收束全诗，渲染宴乐雍容"
+  }
+ ]
+}

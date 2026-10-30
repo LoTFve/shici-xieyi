@@ -1,0 +1,116 @@
+{
+ "id": 20,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楼台",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "梦后所见高锁的楼台，封闭冷清"
+  },
+  {
+   "word": "帘幕",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "酒醒后低垂的帘幕，衬托寂寥"
+  },
+  {
+   "word": "落花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "春恨的触媒，落花中独立更显人孤"
+  },
+  {
+   "word": "微雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "细雨添愁，与双飞燕对照"
+  },
+  {
+   "word": "燕",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "双飞燕反衬人之独立"
+  },
+  {
+   "word": "小苹",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回忆中初见的歌女"
+  },
+  {
+   "word": "罗衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "心字罗衣写初见时的服饰记忆"
+  },
+  {
+   "word": "琵琶",
+   "name": "琵琶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "弦上说相思，寄寓别后相思"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "当时明月仍在，照人不见，物是人非"
+  },
+  {
+   "word": "彩云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指小苹，彩云归去成追忆"
+  }
+ ]
+}

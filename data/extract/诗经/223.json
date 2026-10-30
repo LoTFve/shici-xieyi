@@ -1,0 +1,83 @@
+{
+ "id": 223,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "角弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以角弓反张起兴，喻兄弟相远"
+  },
+  {
+   "word": "老马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻老人反被当幼驹，讽刺不顾后果"
+  },
+  {
+   "word": "猱",
+   "name": "猿",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喻小人如猿猴，教之升木更攀附"
+  },
+  {
+   "word": "雨雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雨雪瀌瀌、浮浮，以雪喻世态消融"
+  },
+  {
+   "word": "𬀪",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "见日而雪消，反衬人心不化"
+  },
+  {
+   "word": "涂",
+   "name": "泥",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "如涂涂附，喻小人依附如泥涂"
+  },
+  {
+   "word": "爵",
+   "name": "爵",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "受爵不让，借指爵位俸禄"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "id": 153,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "下泉",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寒泉浸泡庄稼，起兴以见伤时之悲"
+  },
+  {
+   "word": "稂",
+   "name": "稂",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被寒泉浸泡的野草，象征荒乱"
+  },
+  {
+   "word": "萧",
+   "name": "萧",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被寒泉浸泡的蒿草，与稂、蓍并列"
+  },
+  {
+   "word": "蓍",
+   "name": "蓍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "被寒泉浸泡的蓍草，重复起兴"
+  },
+  {
+   "word": "黍苗",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "茂盛的黍苗，与阴雨相配，转折见希望"
+  },
+  {
+   "word": "阴雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "滋润黍苗的雨，喻善政惠泽"
+  },
+  {
+   "word": "周京",
+   "name": "周京",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "诗人所念的周朝京都，寄托对旧都的怀念"
+  },
+  {
+   "word": "京周",
+   "name": "京周",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "与周京同指，重复强调思念"
+  },
+  {
+   "word": "京师",
+   "name": "京师",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "与周京同指，第三次强调"
+  },
+  {
+   "word": "四国",
+   "name": "四国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四方之国，指天下诸侯"
+  },
+  {
+   "word": "郇伯",
+   "name": "郇伯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "慰劳诸侯的贤伯，借以寄托对治世的向往"
+  }
+ ]
+}

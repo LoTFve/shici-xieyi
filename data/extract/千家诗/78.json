@@ -1,0 +1,50 @@
+{
+ "id": 78,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "绿柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "早春柳色初黄，点出清新景致"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "想象上林繁花似锦的盛春景象"
+  },
+  {
+   "word": "看花人",
+   "name": "人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "想象盛春时出门赏花的游人"
+  },
+  {
+   "word": "上林",
+   "name": "上林",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "春",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借汉代上林苑指代京城园林"
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "id": 150,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "冻云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "黯淡天候的压抑背景"
+  },
+  {
+   "word": "扁舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "词人乘舟远行的载体"
+  },
+  {
+   "word": "江渚",
+   "name": "江渚",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "启程离岸的江边小洲"
+  },
+  {
+   "word": "万壑千岩",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "越溪沿途的层叠山水"
+  },
+  {
+   "word": "怒涛",
+   "name": "涛",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "渐息的汹涌波涛"
+  },
+  {
+   "word": "樵风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "忽然吹起的顺风"
+  },
+  {
+   "word": "商旅",
+   "name": "商旅",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江上互相呼唤的行商"
+  },
+  {
+   "word": "片帆",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "高高举起的孤帆"
+  },
+  {
+   "word": "画鹢",
+   "name": "画鹢",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指彩绘的船身"
+  },
+  {
+   "word": "南浦",
+   "name": "南浦",
+   "category": "地名",
+   "parent": "water",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暗含送别之意的水滨"
+  },
+  {
+   "word": "酒旆",
+   "name": "酒旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "远处闪闪招展的酒家旗"
+  },
+  {
+   "word": "烟村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "烟雾中一簇人家的村落"
+  },
+  {
+   "word": "霜树",
+   "name": "树",
+   "category": "植物",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "带霜的几行树"
+  },
+  {
+   "word": "残日",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏落日余晖"
+  },
+  {
+   "word": "渔人",
+   "name": "渔人",
+   "category": "人物",
+   "parent": "fisher",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "闲适",
+   "note": "敲榔归去的渔人"
+  },
+  {
+   "word": "败荷",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "零落的残荷"
+  },
+  {
+   "word": "衰杨",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "掩映岸边的衰柳"
+  },
+  {
+   "word": "浣沙游女",
+   "name": "游女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "岸边含羞相语的浣纱女子"
+  },
+  {
+   "word": "绣阁",
+   "name": "绣阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指家中思念之人"
+  },
+  {
+   "word": "浪萍",
+   "name": "浮萍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "比喻漂泊难驻的身世"
+  },
+  {
+   "word": "泪眼",
+   "name": "泪眼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凝泪远望的神情"
+  },
+  {
+   "word": "神京路",
+   "name": "神京",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "遥望京城归路的迢遥"
+  },
+  {
+   "word": "断鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "暮天远去的孤雁哀鸣"
+  }
+ ]
+}

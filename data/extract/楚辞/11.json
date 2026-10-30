@@ -1,0 +1,248 @@
+{
+ "id": 11,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "吴戈",
+   "name": "戈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战士手持的兵器，显军容之盛"
+  },
+  {
+   "word": "犀甲",
+   "name": "甲",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "披坚执锐的装束"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战车交错，写激战之状"
+  },
+  {
+   "word": "旌",
+   "name": "旌",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战旗蔽日，极言敌军之众"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "壮阔",
+   "note": "旌旗遮住太阳，渲染战场声势"
+  },
+  {
+   "word": "敌",
+   "name": "敌",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以云喻敌军之多，是比喻用法"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "敌军如云，状其密集众多"
+  },
+  {
+   "word": "矢",
+   "name": "矢",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "箭矢交相坠落，写战斗激烈"
+  },
+  {
+   "word": "士",
+   "name": "士",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "士兵争先杀敌"
+  },
+  {
+   "word": "骖",
+   "name": "骖",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "战马一死一伤，见战局之惨"
+  },
+  {
+   "word": "两轮",
+   "name": "轮",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "车轮埋陷，战车受困"
+  },
+  {
+   "word": "四马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战马被绊住，写战事胶着"
+  },
+  {
+   "word": "玉枹",
+   "name": "枹",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "援枹击鼓，鼓舞士气"
+  },
+  {
+   "word": "鸣鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战鼓震响，是战斗的号令"
+  },
+  {
+   "word": "天时",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天时怨怒，借天象写战况惨烈"
+  },
+  {
+   "word": "威灵",
+   "name": "神灵",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "神灵震怒，渲染悲壮气氛"
+  },
+  {
+   "word": "原野",
+   "name": "原野",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "尸横原野，写战死之惨"
+  },
+  {
+   "word": "平原",
+   "name": "平原",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "平原渺远，写征途与死别之远"
+  },
+  {
+   "word": "长剑",
+   "name": "剑",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "身带长剑，显战士英武"
+  },
+  {
+   "word": "秦弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "挟持秦弓，写勇士刚强"
+  },
+  {
+   "word": "首身",
+   "name": "首",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "身首分离而心不改，颂其忠勇"
+  },
+  {
+   "word": "魂魄",
+   "name": "魂",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "死后魂魄仍为鬼中英雄"
+  }
+ ]
+}

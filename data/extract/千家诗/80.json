@@ -1,0 +1,61 @@
+{
+ "id": 80,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "小雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "细雨润泽京城街道，点出初春时令"
+  },
+  {
+   "word": "天街",
+   "name": "街",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "京城街道，是细雨润泽的场所"
+  },
+  {
+   "word": "草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "远看有近看无的初生草色，写早春之微妙"
+  },
+  {
+   "word": "烟柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "满城烟柳的盛春之景，反衬初春草色更佳"
+  },
+  {
+   "word": "皇都",
+   "name": "皇都",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指京城，点明赏春之地"
+  }
+ ]
+}

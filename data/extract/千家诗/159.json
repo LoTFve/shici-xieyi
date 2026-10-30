@@ -1,0 +1,50 @@
+{
+ "id": 159,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "与雪相衬的早春梅花，是诗眼之一"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "与梅相伴而成精神，末句更写天又落雪"
+  },
+  {
+   "word": "日暮",
+   "name": "日暮",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "点明诗成的时辰，为雪夜添暮色"
+  },
+  {
+   "word": "诗",
+   "name": "诗",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以诗写梅雪，贯串全篇的雅事"
+  }
+ ]
+}

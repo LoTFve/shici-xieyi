@@ -1,0 +1,50 @@
+{
+ "id": 143,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "西湖",
+   "name": "西湖",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "点明赏荷地点，湖面为全诗背景"
+  },
+  {
+   "word": "莲叶",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "接天无穷的碧色荷叶铺满湖面"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "夏",
+   "time": "昼",
+   "emotion": "欢欣",
+   "note": "映照荷花的日光，使花色更红"
+  },
+  {
+   "word": "荷花",
+   "name": "荷",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "别样红的荷花，全诗色彩焦点"
+  }
+ ]
+}

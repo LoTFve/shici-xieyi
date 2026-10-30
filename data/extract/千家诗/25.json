@@ -1,0 +1,50 @@
+{
+ "id": 25,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "汉廷",
+   "name": "汉廷",
+   "category": "地名",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借汉廷指当朝朝廷，点出重巧宦的风气"
+  },
+  {
+   "word": "云阁",
+   "name": "云阁",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借指朝廷论功之所，与边功相对"
+  },
+  {
+   "word": "骢马使",
+   "name": "骢马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "用汉代桓典骢马御史典，指乔侍郎的刚直"
+  },
+  {
+   "word": "白首",
+   "name": "白首",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写乔侍郎年老仍不得志"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "id": 194,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "云物",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "凄凉",
+   "note": "秋晨拂晓的云气，渲染凄凉氛围"
+  },
+  {
+   "word": "汉家宫阙",
+   "name": "宫阙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "壮阔",
+   "note": "长安秋日高耸的宫殿，展现帝都气象"
+  },
+  {
+   "word": "残星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "拂晓时稀疏的残星，点明时间并添寂寥"
+  },
+  {
+   "word": "雁",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "思乡",
+   "note": "横越关塞的秋雁，引发乡思"
+  },
+  {
+   "word": "长笛",
+   "name": "笛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "一声长笛倚楼吹奏，烘托孤寂心境"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "人倚楼头，点明观景位置"
+  },
+  {
+   "word": "篱菊",
+   "name": "菊",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "闲适",
+   "note": "篱边半开的紫菊，象征秋日高洁"
+  },
+  {
+   "word": "渚莲",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "秋",
+   "time": "晨",
+   "emotion": "哀愁",
+   "note": "水边红衣落尽的莲，寄托愁绪"
+  },
+  {
+   "word": "鲈鱼",
+   "name": "鲈鱼",
+   "category": "动物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "用张翰思鲈鱼典，表达归隐之思"
+  },
+  {
+   "word": "南冠",
+   "name": "南冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "用楚囚钟仪典，自伤拘系之身"
+  }
+ ]
+}

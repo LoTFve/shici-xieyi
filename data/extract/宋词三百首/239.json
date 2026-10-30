@@ -1,0 +1,193 @@
+{
+ "id": 239,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "环绕故国的群山，起兴怀古"
+  },
+  {
+   "word": "清江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "环绕孤城的江水"
+  },
+  {
+   "word": "孤城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "被怒涛拍打的寂寞空城"
+  },
+  {
+   "word": "怒涛",
+   "name": "涛",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "拍打孤城的汹涌波涛"
+  },
+  {
+   "word": "风樯",
+   "name": "帆",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远处天际的帆影"
+  },
+  {
+   "word": "断崖",
+   "name": "崖",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "倒倚老树的陡崖"
+  },
+  {
+   "word": "树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "倒倚断崖的老树"
+  },
+  {
+   "word": "艇子",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "莫愁曾系舟处，怀古之典"
+  },
+  {
+   "word": "雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "沉没半座营垒的浓雾"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜深越过女墙的冷月"
+  },
+  {
+   "word": "女墙",
+   "name": "城墙",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "月光越过的城上短墙"
+  },
+  {
+   "word": "淮水",
+   "name": "淮水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "东望所见的秦淮河水"
+  },
+  {
+   "word": "酒旗",
+   "name": "酒旗",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "市井中飘扬的酒家旗"
+  },
+  {
+   "word": "戏鼓",
+   "name": "鼓",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "市集戏场的鼓声"
+  },
+  {
+   "word": "燕子",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飞入寻常巷陌、似说兴亡的燕子"
+  },
+  {
+   "word": "巷陌",
+   "name": "巷",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "王谢旧邻如今的寻常街巷"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "斜阳映照中燕子说兴亡，收束怀古之悲"
+  }
+ ]
+}

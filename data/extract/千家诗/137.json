@@ -1,0 +1,39 @@
+{
+ "id": 137,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "牵牛",
+   "name": "牛郎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "七夕传说中的牛郎，诗中发问的对象"
+  },
+  {
+   "word": "织女",
+   "name": "织女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "与牵牛相对的七夕神话人物，被邀弄梭"
+  },
+  {
+   "word": "金梭",
+   "name": "梭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "织女织布的工具，代指乞巧之事"
+  }
+ ]
+}

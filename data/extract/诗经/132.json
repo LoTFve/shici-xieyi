@@ -1,0 +1,94 @@
+{
+ "id": 132,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "晨风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "孤寂",
+   "note": "清晨疾风，起兴并烘托未见之人的忧思"
+  },
+  {
+   "word": "北林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "北面茂密树林，与晨风共同构成起兴背景"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "与隰对举，铺陈山野所见之物"
+  },
+  {
+   "word": "苞栎",
+   "name": "栎",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上丛生的栎树，作为起兴与铺陈"
+  },
+  {
+   "word": "隰",
+   "name": "隰",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地，与山对举构成空间场景"
+  },
+  {
+   "word": "六駮",
+   "name": "駮",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿地所生之兽，铺陈景物"
+  },
+  {
+   "word": "苞棣",
+   "name": "棣",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "山上丛生的棠棣，起兴兼点春景"
+  },
+  {
+   "word": "树檖",
+   "name": "檖",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿地所生的山梨树，铺陈景物"
+  }
+ ]
+}

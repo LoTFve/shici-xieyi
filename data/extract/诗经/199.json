@@ -1,0 +1,105 @@
+{
+ "id": 199,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梁",
+   "name": "桥",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "对方经过却不入门的桥梁，象征隔阂"
+  },
+  {
+   "word": "门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "对方不入之门，表达被疏远的哀怨"
+  },
+  {
+   "word": "声",
+   "name": "声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "闻声不见人，突出对方的若即若离"
+  },
+  {
+   "word": "飘风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以飘风比喻对方行踪不定"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "对方疾行不停车、不暇脂车，见其匆忙避己"
+  },
+  {
+   "word": "埙",
+   "name": "埙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "伯氏吹埙，象征兄弟和睦的往昔"
+  },
+  {
+   "word": "篪",
+   "name": "篪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "仲氏吹篪，与埙相应，喻兄弟和乐"
+  },
+  {
+   "word": "鬼",
+   "name": "鬼",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以鬼蜮喻对方行径阴险不可测"
+  },
+  {
+   "word": "蜮",
+   "name": "蜮",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "传说中的害人虫，与鬼并列喻对方阴毒"
+  }
+ ]
+}

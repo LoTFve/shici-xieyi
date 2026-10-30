@@ -1,0 +1,50 @@
+{
+ "id": 157,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "斧",
+   "name": "斧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "战士破损的兵器，暗示征战劳苦"
+  },
+  {
+   "word": "斨",
+   "name": "斧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "方孔斧，与破斧并举写兵器残损"
+  },
+  {
+   "word": "锜",
+   "name": "凿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "兵器受损，衬托东征之艰"
+  },
+  {
+   "word": "𨱇",
+   "name": "锜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "残缺兵器，反复咏叹征战之久"
+  }
+ ]
+}

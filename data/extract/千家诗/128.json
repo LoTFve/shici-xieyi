@@ -1,0 +1,105 @@
+{
+ "id": 128,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "昼",
+   "name": "昼",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "点明白天劳作的时间"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点明夜晚劳作的时间"
+  },
+  {
+   "word": "田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "农家耕作的场所"
+  },
+  {
+   "word": "麻",
+   "name": "麻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "夜晚绩麻的原料"
+  },
+  {
+   "word": "村庄",
+   "name": "村",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "农家生活的环境背景"
+  },
+  {
+   "word": "童孙",
+   "name": "童",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "不懂耕织却模仿种瓜的孩童"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "孩童学种瓜的桑树荫下"
+  },
+  {
+   "word": "桑阴",
+   "name": "桑阴",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "遮阴的桑树树荫"
+  },
+  {
+   "word": "瓜",
+   "name": "瓜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "孩童模仿大人学种的瓜"
+  }
+ ]
+}

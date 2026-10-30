@@ -1,0 +1,149 @@
+{
+ "id": 212,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "大田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "全诗劳作与收成的舞台"
+  },
+  {
+   "word": "百谷",
+   "name": "谷",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "播种的各类谷物，泛指庄稼"
+  },
+  {
+   "word": "南亩",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "向阳的农田，耕作之处"
+  },
+  {
+   "word": "覃耜",
+   "name": "耜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "农夫翻土用的农具"
+  },
+  {
+   "word": "炎火",
+   "name": "火",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "焚烧害虫的火焰"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祈盼的及时雨，滋润公田私田"
+  },
+  {
+   "word": "公田",
+   "name": "田",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "先降雨的公共田地"
+  },
+  {
+   "word": "妇子",
+   "name": "妇人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "送饭到田头的妻儿"
+  },
+  {
+   "word": "馌",
+   "name": "饭食",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "送到田间的饭食"
+  },
+  {
+   "word": "田畯",
+   "name": "农官",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "田间监督农事的官员"
+  },
+  {
+   "word": "骍黑",
+   "name": "牺",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀用的赤色与黑色牲畜"
+  },
+  {
+   "word": "黍稷",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀用的谷物"
+  },
+  {
+   "word": "螟螣",
+   "name": "虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "危害庄稼的害虫"
+  }
+ ]
+}

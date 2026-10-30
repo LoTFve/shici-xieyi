@@ -1,0 +1,105 @@
+{
+ "id": 206,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "红尘",
+   "name": "尘世",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指世俗仕途生活，与归隐相对"
+  },
+  {
+   "word": "青山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "魂牵梦萦的归隐之地"
+  },
+  {
+   "word": "紫绶",
+   "name": "绶",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指高官显位"
+  },
+  {
+   "word": "朱门",
+   "name": "朱门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指富贵人家"
+  },
+  {
+   "word": "剑戟",
+   "name": "剑戟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指战乱兵事"
+  },
+  {
+   "word": "笙歌",
+   "name": "笙歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指豪门宴乐喧闹"
+  },
+  {
+   "word": "旧书",
+   "name": "书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "归隐时随身携带的旧物"
+  },
+  {
+   "word": "野花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山野自开之花，写归隐之乐"
+  },
+  {
+   "word": "啼鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "山野鸟鸣，与野花共成春景"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 139,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "银烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "秋夜烛光映照画屏，点出清冷氛围"
+  },
+  {
+   "word": "画屏",
+   "name": "屏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "室内陈设，烛光映照更显寂寥"
+  },
+  {
+   "word": "轻罗小扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "宫女手中小扇，暗示夏日已过、秋意渐生"
+  },
+  {
+   "word": "流萤",
+   "name": "萤",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "飞动的萤火虫，以动衬静，显出宫中秋夜的冷清"
+  },
+  {
+   "word": "天街",
+   "name": "天街",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "指京城街道，夜色如水，烘托凄清"
+  },
+  {
+   "word": "夜色",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜色凉如水，写宫中秋夜的清冷感受"
+  },
+  {
+   "word": "牵牛织女星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "用典",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "牛郎织女隔河相望，借以寄托宫女的孤寂与对爱情的向往"
+  }
+ ]
+}

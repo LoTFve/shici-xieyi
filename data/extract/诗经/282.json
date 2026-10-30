@@ -1,0 +1,94 @@
+{
+ "id": 282,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "天子",
+   "name": "天子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指主祭的周王，庄严肃穆"
+  },
+  {
+   "word": "辟公",
+   "name": "诸侯",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "助祭的诸侯，肃敬随行"
+  },
+  {
+   "word": "皇考",
+   "name": "先父",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀对象，指亡父"
+  },
+  {
+   "word": "孝子",
+   "name": "孝子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "主祭者自称"
+  },
+  {
+   "word": "烈考",
+   "name": "先父",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "对亡父的尊称"
+  },
+  {
+   "word": "文母",
+   "name": "先母",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀对象，指亡母"
+  },
+  {
+   "word": "广牡",
+   "name": "牺牲",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "祭祀所用的肥壮公牛"
+  },
+  {
+   "word": "皇天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "受祭祀与庇佑的上天"
+  }
+ ]
+}

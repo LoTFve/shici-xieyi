@@ -1,0 +1,39 @@
+{
+ "id": 72,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "葛",
+   "name": "葛",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "采集的野葛藤，起兴之物"
+  },
+  {
+   "word": "萧",
+   "name": "萧",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "采集的蒿草，与思念层层递进"
+  },
+  {
+   "word": "艾",
+   "name": "艾",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "采集的艾草，强化思慕之久"
+  }
+ ]
+}

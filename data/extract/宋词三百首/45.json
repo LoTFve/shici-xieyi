@@ -1,0 +1,127 @@
+{
+ "id": 45,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "孤坟",
+   "name": "坟",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "千里之外亡妻的孤寂坟冢"
+  },
+  {
+   "word": "尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "满面风尘写尽宦游沧桑"
+  },
+  {
+   "word": "霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以鬓如霜喻年华老去"
+  },
+  {
+   "word": "幽梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "夜来入梦，引出还乡情景"
+  },
+  {
+   "word": "乡",
+   "name": "乡",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "梦中归返的故乡"
+  },
+  {
+   "word": "小轩窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "梦中妻子梳妆的窗前"
+  },
+  {
+   "word": "梳妆",
+   "name": "梳妆",
+   "category": "人物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "妻子对窗梳妆的往日情景"
+  },
+  {
+   "word": "泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "相顾无言而泪千行"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "年年照断肠处的明月"
+  },
+  {
+   "word": "夜",
+   "name": "夜",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "明月之夜更添凄凉"
+  },
+  {
+   "word": "短松冈",
+   "name": "松",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "坟所在遍植短松的山冈"
+  }
+ ]
+}

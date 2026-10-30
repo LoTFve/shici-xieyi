@@ -1,0 +1,182 @@
+{
+ "id": 191,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "秋夜月色洗净高梧，渲染清冷氛围"
+  },
+  {
+   "word": "高梧",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月下梧桐，秋深庭院实景"
+  },
+  {
+   "word": "露",
+   "name": "露",
+   "category": "天象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "无",
+   "note": "露水沾湿幽草，点出秋夜清寒"
+  },
+  {
+   "word": "幽草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "露中幽暗的草丛，营造幽静环境"
+  },
+  {
+   "word": "宝钗楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "点明地点，楼外秋色深浓"
+  },
+  {
+   "word": "土花",
+   "name": "苔藓",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "青苔沿墙翠绿，写庭院荒幽"
+  },
+  {
+   "word": "萤火",
+   "name": "萤火虫",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "萤火坠于墙阴，增添秋夜寂寥"
+  },
+  {
+   "word": "墙",
+   "name": "墙",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "萤火坠落的背景，庭院实景"
+  },
+  {
+   "word": "寒声",
+   "name": "虫声",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "秋虫断续寒声，凄咽悲凉"
+  },
+  {
+   "word": "促织",
+   "name": "蟋蟀",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "秋",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "以促织争求侣、劝织，写秋夜虫鸣"
+  },
+  {
+   "word": "灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "儿时呼灯灌穴，回忆中的温暖画面"
+  },
+  {
+   "word": "花影",
+   "name": "花影",
+   "category": "其他",
+   "parent": "flower",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "回忆儿时满身花影追寻蟋蟀"
+  },
+  {
+   "word": "花堂",
+   "name": "堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "携蟋蟀向花堂戏斗，童年乐事"
+  },
+  {
+   "word": "亭台",
+   "name": "亭台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "亭台小巧，写斗蟋蟀的场所"
+  },
+  {
+   "word": "笼",
+   "name": "笼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小巧妆金的蟋蟀笼，童年玩物"
+  },
+  {
+   "word": "床",
+   "name": "床",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "凉夜蟋蟀鸣于床下，伴人孤吟"
+  }
+ ]
+}

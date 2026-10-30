@@ -1,0 +1,105 @@
+{
+ "id": 40,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蚕丛路",
+   "name": "蜀道",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "借蚕丛开国传说指入蜀险道"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写蜀道山势陡峭逼人"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写山高云绕马头"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "友人骑马入蜀"
+  },
+  {
+   "word": "芳树",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "秦栈旁花木繁茂"
+  },
+  {
+   "word": "秦栈",
+   "name": "栈道",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "入蜀的险峻栈道"
+  },
+  {
+   "word": "春流",
+   "name": "春水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "环绕蜀城的春江"
+  },
+  {
+   "word": "蜀城",
+   "name": "蜀城",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "友人将去的成都"
+  },
+  {
+   "word": "君平",
+   "name": "君平",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借严君平卖卜典故宽慰友人"
+  }
+ ]
+}

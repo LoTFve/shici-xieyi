@@ -1,0 +1,105 @@
+{
+ "id": 9,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "乔木",
+   "name": "树",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "南方高树，起兴之景，不可休憩"
+  },
+  {
+   "word": "汉",
+   "name": "汉水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "宽广难渡，阻隔所求"
+  },
+  {
+   "word": "游女",
+   "name": "游女",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "汉水边不可追求的女子"
+  },
+  {
+   "word": "江",
+   "name": "江",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "江水长流，与汉水并举，喻阻隔"
+  },
+  {
+   "word": "错薪",
+   "name": "柴薪",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "丛杂柴草，起兴刈取"
+  },
+  {
+   "word": "楚",
+   "name": "荆条",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所刈之薪，起兴婚嫁"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "喂马备嫁，想象女子出嫁"
+  },
+  {
+   "word": "蒌",
+   "name": "蒌蒿",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "所刈之草，复沓起兴"
+  },
+  {
+   "word": "驹",
+   "name": "驹",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "小马，喂驹备嫁，复沓"
+  }
+ ]
+}

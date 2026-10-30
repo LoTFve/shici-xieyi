@@ -1,0 +1,28 @@
+{
+ "id": 49,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鹑",
+   "name": "鹌鹑",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以鹌鹑奔奔起兴，喻人无良"
+  },
+  {
+   "word": "鹊",
+   "name": "鹊",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以喜鹊彊彊起兴，反衬人之无良"
+  }
+ ]
+}

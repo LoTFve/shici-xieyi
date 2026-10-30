@@ -1,0 +1,83 @@
+{
+ "id": 211,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "枕簟",
+   "name": "枕席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪堂中纳凉的卧具，点出词人闲居处境"
+  },
+  {
+   "word": "溪堂",
+   "name": "溪堂",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "临溪的堂屋，是词人所在之处"
+  },
+  {
+   "word": "断云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "傍晚将要收尽的云，渲染清冷氛围"
+  },
+  {
+   "word": "水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "云影依水而收，写溪堂所见晚景"
+  },
+  {
+   "word": "红莲",
+   "name": "莲",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "相倚如醉的红荷，以花态反衬词人情怀"
+  },
+  {
+   "word": "白鸟",
+   "name": "鸟",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "默然不鸣的水鸟，被说成“定自愁”，移情于物"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "“懒上楼”的楼，见出筋力衰退与心境疏懒"
+  }
+ ]
+}

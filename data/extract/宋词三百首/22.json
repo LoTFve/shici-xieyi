@@ -1,0 +1,105 @@
+{
+ "id": 22,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "西楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "醉别之地，点明离别场景"
+  },
+  {
+   "word": "春梦",
+   "name": "梦",
+   "category": "其他",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "比喻聚散短暂虚幻"
+  },
+  {
+   "word": "秋云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "与春梦并列，喻聚散无常"
+  },
+  {
+   "word": "斜月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "夜半斜月照窗，衬托无眠"
+  },
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月照半窗，营造室内孤寂氛围"
+  },
+  {
+   "word": "画屏",
+   "name": "屏风",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "屏上吴山翠色，反衬愁情"
+  },
+  {
+   "word": "吴山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "屏中青山，引发对江南的遥想"
+  },
+  {
+   "word": "酒痕",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "衣上酒渍见证醉别之悲"
+  },
+  {
+   "word": "红烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "拟人化，夜寒中替人垂泪"
+  }
+ ]
+}

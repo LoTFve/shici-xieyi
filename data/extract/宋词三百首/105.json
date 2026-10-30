@@ -1,0 +1,204 @@
+{
+ "id": 105,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "薄雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "初春寒雨渲染离愁"
+  },
+  {
+   "word": "斜照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "雨后斜阳映晴，点明暮色"
+  },
+  {
+   "word": "长亭",
+   "name": "长亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别之地，离愁的象征"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "折柳赠别，春意与离情交织"
+  },
+  {
+   "word": "远客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远行之人，指离去的友人"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "水边烟霭横陈，增添迷离愁绪"
+  },
+  {
+   "word": "归鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "思乡",
+   "note": "几点归鸦反衬离人不归"
+  },
+  {
+   "word": "东风",
+   "name": "东风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "春风消融边塞积雪，暗写时节变迁"
+  },
+  {
+   "word": "龙沙",
+   "name": "龙沙",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "边塞沙漠，点出塞外苦寒背景"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "龙沙之雪被东风销尽，冬去春来"
+  },
+  {
+   "word": "画楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "昔日送别宴饮之地，今成回忆"
+  },
+  {
+   "word": "芳酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "饯别之酒，衬离情"
+  },
+  {
+   "word": "红泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "女子离别之泪，借指歌女伤别"
+  },
+  {
+   "word": "清歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "送别时的凄清歌声"
+  },
+  {
+   "word": "芭蕉",
+   "name": "芭蕉",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "芭蕉不展比喻愁心郁结"
+  },
+  {
+   "word": "丁香",
+   "name": "丁香",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "丁香结比喻愁绪不解"
+  },
+  {
+   "word": "天涯",
+   "name": "天涯",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "极远之地，望断天涯写相思"
+  },
+  {
+   "word": "风月",
+   "name": "风月",
+   "category": "其他",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "清风明月，借指两地相思的风景"
+  }
+ ]
+}

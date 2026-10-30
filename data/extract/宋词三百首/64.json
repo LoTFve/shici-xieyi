@@ -1,0 +1,105 @@
+{
+ "id": 64,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "雪云",
+   "name": "云",
+   "category": "气象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "冬",
+   "time": "晨",
+   "emotion": "无",
+   "note": "点明冬末春初的云气散尽"
+  },
+  {
+   "word": "晓晴",
+   "name": "晴",
+   "category": "气象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "欢欣",
+   "note": "写清晨放晴，为全词定下明朗基调"
+  },
+  {
+   "word": "池",
+   "name": "池",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "池院景致，映衬庭院春光"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以柳眼初青写春意初萌"
+  },
+  {
+   "word": "梅",
+   "name": "梅",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "一点梅心，写早春疏淡之美"
+  },
+  {
+   "word": "百紫千红",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "写清明时繁花盛开的景象"
+  },
+  {
+   "word": "春风",
+   "name": "春风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "借春风过半，叹春光易逝"
+  },
+  {
+   "word": "春寒",
+   "name": "寒",
+   "category": "气象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "劝人莫管春寒，及时游赏"
+  },
+  {
+   "word": "醉红",
+   "name": "红颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "借指醉后红润的面色，写追游之乐"
+  }
+ ]
+}

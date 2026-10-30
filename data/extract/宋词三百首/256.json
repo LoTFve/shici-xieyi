@@ -1,0 +1,216 @@
+{
+ "id": 256,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "黄金屋",
+   "name": "金屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "借汉武帝金屋藏娇典故写旧日华屋冷落"
+  },
+  {
+   "word": "秦筝",
+   "name": "筝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "尘封的乐器勾起故国之思"
+  },
+  {
+   "word": "斜鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "筝柱如斜飞雁阵，兼寓飘零"
+  },
+  {
+   "word": "素弦",
+   "name": "弦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写筝弦积尘，旧乐无人弹"
+  },
+  {
+   "word": "娇莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "虚写",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "梦中化身娇莺飞回旧处"
+  },
+  {
+   "word": "纱窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "莺犹认得旧日绿纱窗"
+  },
+  {
+   "word": "荆桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "雨后樱桃如豆，点出节候"
+  },
+  {
+   "word": "琼台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以琼台弹棋局喻恨之不平"
+  },
+  {
+   "word": "弹棋局",
+   "name": "棋局",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "喻心头块垒起伏难平"
+  },
+  {
+   "word": "明烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "time_note": null,
+   "emotion": "孤寂",
+   "note": "烛光反衬消瘦孤影"
+  },
+  {
+   "word": "鸳楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "旧日居处，今已成空"
+  },
+  {
+   "word": "东西玉",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒写旧欢破碎"
+  },
+  {
+   "word": "翠钗",
+   "name": "钗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以钗卜归期而难定"
+  },
+  {
+   "word": "宫眉",
+   "name": "眉",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旧时宫样眉妆，象征故国风仪"
+  },
+  {
+   "word": "生绡",
+   "name": "绡",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "欲将旧妆描上画幅"
+  },
+  {
+   "word": "彩扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旧日歌筵之物尚存"
+  },
+  {
+   "word": "红牙",
+   "name": "拍板",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红牙拍板，与彩扇同写旧乐"
+  },
+  {
+   "word": "开元曲",
+   "name": "开元曲",
+   "category": "声音",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借唐开元盛世之曲寄故国之思"
+  },
+  {
+   "word": "寒竹",
+   "name": "竹",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "结尾倚竹而立，写孤高清冷"
+  }
+ ]
+}

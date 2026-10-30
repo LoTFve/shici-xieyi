@@ -1,0 +1,171 @@
+{
+ "id": 47,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "副笄",
+   "name": "笄",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "贵妇头上的发饰，显示身份"
+  },
+  {
+   "word": "六珈",
+   "name": "珈",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "笄上的六颗玉饰，凸显华贵"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以山比喻贵妇步态稳重"
+  },
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以河比喻贵妇气度宽广"
+  },
+  {
+   "word": "象服",
+   "name": "象服",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "绘有图案的礼服，点明身份"
+  },
+  {
+   "word": "翟",
+   "name": "翟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指绘有长尾雉的礼服纹样"
+  },
+  {
+   "word": "发",
+   "name": "发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "赞美黑发浓密如云"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以流云比喻头发浓密"
+  },
+  {
+   "word": "髢",
+   "name": "髢",
+   "category": "器物",
+   "parent": "none",
+   "reason": "无",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "假发，说不用假发衬出真发之美"
+  },
+  {
+   "word": "玉之瑱",
+   "name": "瑱",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "耳旁玉饰，写贵妇盛装"
+  },
+  {
+   "word": "象之揥",
+   "name": "揥",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "象牙发簪，写头饰精美"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "惊叹贵妇如天仙"
+  },
+  {
+   "word": "帝",
+   "name": "帝",
+   "category": "人物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以天帝比喻贵妇尊贵"
+  },
+  {
+   "word": "绉𫄨",
+   "name": "绉𫄨",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "细葛布内衣，写衣着讲究"
+  },
+  {
+   "word": "清扬",
+   "name": "清扬",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "眉目清秀，赞容貌之美"
+  }
+ ]
+}

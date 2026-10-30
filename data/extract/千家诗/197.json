@@ -1,0 +1,94 @@
+{
+ "id": 197,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋",
+   "name": "秋",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明重九时节，诗人悲秋的起点"
+  },
+  {
+   "word": "短发",
+   "name": "发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "写年老发稀，自伤迟暮"
+  },
+  {
+   "word": "帽",
+   "name": "帽",
+   "category": "器物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "用孟嘉落帽典，写宴饮中的风雅自嘲"
+  },
+  {
+   "word": "冠",
+   "name": "冠",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "旁人替诗人正冠，见醉态与谐趣"
+  },
+  {
+   "word": "蓝水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "眼前蓝溪自千涧飞落，写宴饮所见远景"
+  },
+  {
+   "word": "千涧",
+   "name": "涧",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "众涧汇流，衬托蓝水声势"
+  },
+  {
+   "word": "玉山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "蓝田玉山两峰并峙，与蓝水对举成景"
+  },
+  {
+   "word": "茱萸",
+   "name": "茱萸",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "重阳节物，醉中细看，寄聚散生死之感"
+  }
+ ]
+}

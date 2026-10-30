@@ -1,0 +1,50 @@
+{
+ "id": 6,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "梨花",
+   "name": "梨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "全诗咏写的对象，冷艳欺雪的白花"
+  },
+  {
+   "word": "雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "比喻",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "以雪衬梨花之洁白冷艳"
+  },
+  {
+   "word": "春风",
+   "name": "春风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "吹送落花的环境，寄托吹向玉阶的期盼"
+  },
+  {
+   "word": "玉阶",
+   "name": "玉阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指宫中朝廷，寄托受知于君的希望"
+  }
+ ]
+}

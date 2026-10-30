@@ -1,0 +1,238 @@
+{
+ "id": 224,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "章台路",
+   "name": "章台",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指昔日冶游之地，引出回忆"
+  },
+  {
+   "word": "梅梢",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "褪粉残梅，点明时节变迁"
+  },
+  {
+   "word": "桃树",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "初绽桃花，与残梅对照写春深"
+  },
+  {
+   "word": "坊陌",
+   "name": "街巷",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "交代旧日居处环境"
+  },
+  {
+   "word": "人家",
+   "name": "人家",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "街巷中的住户，构成市井背景"
+  },
+  {
+   "word": "燕子",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "归巢旧燕，暗寓物是人非"
+  },
+  {
+   "word": "门户",
+   "name": "门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "少女窥门之处，重现初见情景"
+  },
+  {
+   "word": "宫黄",
+   "name": "额黄",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "time_note": "",
+   "emotion": "欢欣",
+   "note": "晨妆点额，写少女娇态"
+  },
+  {
+   "word": "袖",
+   "name": "袖",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "举袖障风，显轻盈姿态"
+  },
+  {
+   "word": "笑语",
+   "name": "笑语",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "盈盈笑声，追忆中最为鲜明"
+  },
+  {
+   "word": "刘郎",
+   "name": "刘郎",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "自比刘晨重来，暗含旧地重游之慨"
+  },
+  {
+   "word": "秋娘",
+   "name": "秋娘",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "借指旧日相识的歌女"
+  },
+  {
+   "word": "燕台句",
+   "name": "燕台",
+   "category": "地名",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "用李商隐典，指昔日赠妓之诗"
+  },
+  {
+   "word": "名园",
+   "name": "园",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "设想中的游赏之地，反衬如今孤寂"
+  },
+  {
+   "word": "孤鸿",
+   "name": "鸿",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "往事如孤雁飞去，喻离散难寻"
+  },
+  {
+   "word": "官柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "低垂金缕，牵动离情"
+  },
+  {
+   "word": "归骑",
+   "name": "骑",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "归途已晚，写离开时的怅惘"
+  },
+  {
+   "word": "池塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "飞雨落池，渲染凄清氛围"
+  },
+  {
+   "word": "飞雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "纤纤细雨，映衬断肠心绪"
+  },
+  {
+   "word": "院落",
+   "name": "院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "空寂庭院，收束全词愁境"
+  },
+  {
+   "word": "风絮",
+   "name": "絮",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "一帘飞絮随风，喻心绪纷乱飘零"
+  }
+ ]
+}

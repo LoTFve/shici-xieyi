@@ -1,0 +1,61 @@
+{
+ "id": 100,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东方",
+   "name": "东方",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "晨",
+   "emotion": "无",
+   "note": "天未亮时的方向，点出时间之早"
+  },
+  {
+   "word": "衣裳",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "摸黑中穿反的衣服，写慌乱之态"
+  },
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "折来编篱笆的柳枝，是眼前实景"
+  },
+  {
+   "word": "圃",
+   "name": "圃",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "菜园，柳枝围成的篱笆所在"
+  },
+  {
+   "word": "狂夫",
+   "name": "狂夫",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "瞪眼监工的凶悍之人"
+  }
+ ]
+}

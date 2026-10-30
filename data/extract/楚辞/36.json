@@ -1,0 +1,193 @@
+{
+ "id": 36,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "楚国",
+   "name": "楚",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "诗人忧念的故国"
+  },
+  {
+   "word": "沅湘",
+   "name": "沅湘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "流放南行的水域"
+  },
+  {
+   "word": "汨罗",
+   "name": "汨罗",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原沉江之处，暗含自沉之志"
+  },
+  {
+   "word": "湘水",
+   "name": "湘水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "南方流放之地的江水"
+  },
+  {
+   "word": "玄舍",
+   "name": "玄舍",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "幽暗的居所，写隐居之陋"
+  },
+  {
+   "word": "幽门",
+   "name": "门",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "幽深封闭的门户"
+  },
+  {
+   "word": "岩石",
+   "name": "岩石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "穴居窟伏的山岩"
+  },
+  {
+   "word": "水蛟",
+   "name": "蛟",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水中的蛟龙，写处境之险"
+  },
+  {
+   "word": "神龙",
+   "name": "龙",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与神龙同息，写幽隐之志"
+  },
+  {
+   "word": "山石",
+   "name": "山石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "高峻的山岩，映衬灵魂的困顿"
+  },
+  {
+   "word": "素水",
+   "name": "素水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "清澈的江水，诗人戏于急流"
+  },
+  {
+   "word": "椒兰",
+   "name": "椒兰",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指贤美之人，一去不返"
+  },
+  {
+   "word": "疾濑",
+   "name": "急流",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "湍急的水流，写决绝之态"
+  },
+  {
+   "word": "高山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "远望的高山，寄托归途之思"
+  },
+  {
+   "word": "高丘",
+   "name": "高丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "高高的山丘，诗人没身之处"
+  },
+  {
+   "word": "赤岸",
+   "name": "岸",
+   "category": "水域",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "赤色的崖岸，写沉江前的景象"
+  },
+  {
+   "word": "女媭",
+   "name": "女媭",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "屈原之姊，借指亲人牵挂"
+  }
+ ]
+}

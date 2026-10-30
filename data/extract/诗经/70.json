@@ -1,0 +1,61 @@
+{
+ "id": 70,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "兔",
+   "name": "兔",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以兔的逍遥自在反衬雉的落网，对比生不逢时"
+  },
+  {
+   "word": "雉",
+   "name": "雉",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雉鸟落入罗网，象征遭逢祸患的人"
+  },
+  {
+   "word": "罗",
+   "name": "罗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕鸟的网，象征乱世中不能逃脱的灾祸"
+  },
+  {
+   "word": "罦",
+   "name": "罦",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "覆车网，与罗、罿同列为罗网，加重灾祸意象"
+  },
+  {
+   "word": "罿",
+   "name": "罿",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "捕鸟网，三章递换网名，强化无处可逃的困境"
+  }
+ ]
+}

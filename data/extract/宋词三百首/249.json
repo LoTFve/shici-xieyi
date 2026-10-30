@@ -1,0 +1,237 @@
+{
+ "id": 249,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "孤峤",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "以孤峰蟠烟比喻龙涎香产地海岛的孤绝"
+  },
+  {
+   "word": "烟",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "孤峰上缭绕的烟雾，渲染采香之地的缥缈"
+  },
+  {
+   "word": "层涛",
+   "name": "涛",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "壮阔",
+   "note": "层层波浪，写海上采香时的壮阔背景"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月影在波涛中如蜕，写夜海月色"
+  },
+  {
+   "word": "骊宫",
+   "name": "骊宫",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "用典",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "借骊龙所居宫室点出龙涎香来历"
+  },
+  {
+   "word": "槎",
+   "name": "槎",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "乘槎远讯，写采香人海上漂泊"
+  },
+  {
+   "word": "薇露",
+   "name": "露",
+   "category": "气象",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "蔷薇花露，借指制香所用的花露"
+  },
+  {
+   "word": "心字",
+   "name": "心字香",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "香炷盘成心字，寄托断魂之情"
+  },
+  {
+   "word": "红瓷",
+   "name": "瓷",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色瓷制香炉，写焚香器具的精美"
+  },
+  {
+   "word": "冰环玉指",
+   "name": "玉指",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "女子冰清玉润的手指，写焚香的动作"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "香雾萦绕帘幕，写香气弥漫室内"
+  },
+  {
+   "word": "海天云气",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以海天云气比喻炉中香烟的缥缈"
+  },
+  {
+   "word": "春灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "春夜剪灯，写昔日温馨欢乐的场景"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "灯花碎落，与春灯相映成趣"
+  },
+  {
+   "word": "故溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "回忆故乡溪水，寄托怀旧之情"
+  },
+  {
+   "word": "飞雪",
+   "name": "雪",
+   "category": "气象",
+   "parent": "snow",
+   "reason": "虚写",
+   "season": "冬",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "回忆故溪飞雪，写往昔冬日焚香的清境"
+  },
+  {
+   "word": "小窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "深闭小窗，写冬日焚香时的幽静"
+  },
+  {
+   "word": "荀令",
+   "name": "荀令",
+   "category": "人物",
+   "parent": "none",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借荀彧爱香之典，写自身年老香情已减"
+  },
+  {
+   "word": "樽",
+   "name": "樽",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "酒樽前的旧日风味，今已忘却"
+  },
+  {
+   "word": "篝",
+   "name": "熏笼",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "空空的熏笼，写香尽人散的寂寥"
+  },
+  {
+   "word": "素被",
+   "name": "被",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "素色被子，写独宿无香之寒寂"
+  }
+ ]
+}

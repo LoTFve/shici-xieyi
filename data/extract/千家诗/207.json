@@ -1,0 +1,94 @@
+{
+ "id": 207,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "蓬茅",
+   "name": "茅屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "寡妇居住的破败茅屋"
+  },
+  {
+   "word": "麻苎",
+   "name": "麻衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "寡妇所穿的粗麻衣裙"
+  },
+  {
+   "word": "鬓发",
+   "name": "鬓发",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "鬓发焦黄，写寡妇的憔悴"
+  },
+  {
+   "word": "桑柘",
+   "name": "桑树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "桑柘荒废却仍要纳税"
+  },
+  {
+   "word": "田园",
+   "name": "田园",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "田园荒尽仍征苗税"
+  },
+  {
+   "word": "野菜",
+   "name": "野菜",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "连根煮食，见生活之苦"
+  },
+  {
+   "word": "生柴",
+   "name": "柴",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "带叶烧的湿柴，见生计艰难"
+  },
+  {
+   "word": "深山",
+   "name": "深山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "即使深山最深处也躲不过征徭"
+  }
+ ]
+}

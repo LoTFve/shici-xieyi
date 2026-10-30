@@ -1,0 +1,149 @@
+{
+ "id": 75,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "兰芷",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "芳洲上的香草，渲染春日美景"
+  },
+  {
+   "word": "芳洲",
+   "name": "洲",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "长满香草的水中陆地"
+  },
+  {
+   "word": "罗袜",
+   "name": "袜",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "写女子步态轻盈"
+  },
+  {
+   "word": "尘",
+   "name": "尘",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "罗袜生尘，形容步履轻盈"
+  },
+  {
+   "word": "鬟",
+   "name": "鬟",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "女子整理发鬟的仪态"
+  },
+  {
+   "word": "柳絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "细风吹絮，点明暮春与离情"
+  },
+  {
+   "word": "细风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "吹动柳絮，渲染轻柔氛围"
+  },
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "回首旧游，山重数叠，阻隔之景"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "花底深户，写旧游之地"
+  },
+  {
+   "word": "朱户",
+   "name": "户",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "花下深红的门户，指旧游之所"
+  },
+  {
+   "word": "梅子",
+   "name": "梅",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "半黄梅子，点明时令与愁绪"
+  },
+  {
+   "word": "疏雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "向晚帘外疏雨，烘托断魂之情"
+  },
+  {
+   "word": "帘",
+   "name": "帘",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "无",
+   "note": "一帘疏雨，作为室内外景物的分隔"
+  }
+ ]
+}

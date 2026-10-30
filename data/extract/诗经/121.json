@@ -1,0 +1,83 @@
+{
+ "id": 121,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "鸨羽",
+   "name": "鸨",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以鸨鸟振翅集于树上起兴，暗喻劳役者不得安处"
+  },
+  {
+   "word": "苞栩",
+   "name": "栩",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "鸨鸟栖集的栎树，作为起兴的自然景物"
+  },
+  {
+   "word": "苞棘",
+   "name": "棘",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "带刺的酸枣丛，鸨鸟集于其上，起兴之景"
+  },
+  {
+   "word": "苞桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "桑树丛，鸨鸟集于此，作为第三段起兴"
+  },
+  {
+   "word": "苍天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "呼告苍天，抒发劳役无休、父母无依的悲愤"
+  },
+  {
+   "word": "稷黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "因王事繁忙而无法种植的谷物，象征农事荒废"
+  },
+  {
+   "word": "稻梁",
+   "name": "稻",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "无",
+   "note": "无法种植的稻粱，进一步强调农事荒废与父母无食"
+  }
+ ]
+}

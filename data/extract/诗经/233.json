@@ -1,0 +1,72 @@
+{
+ "id": 233,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "苕",
+   "name": "苕",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以凌霄花开起兴，反衬心忧"
+  },
+  {
+   "word": "华",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "苕之花，起兴之物"
+  },
+  {
+   "word": "叶",
+   "name": "叶",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "苕叶青青，与黄花对照"
+  },
+  {
+   "word": "牂羊",
+   "name": "羊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "瘦母羊大头，写荒年凋敝"
+  },
+  {
+   "word": "三星",
+   "name": "星",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "星光照进空鱼篓，写饥荒无获"
+  },
+  {
+   "word": "罶",
+   "name": "鱼篓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "捕鱼竹器，空置见星光，暗示无鱼可食"
+  }
+ ]
+}

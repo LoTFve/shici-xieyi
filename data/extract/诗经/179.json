@@ -1,0 +1,248 @@
+{
+ "id": 179,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指战车，体现田猎的威武场面"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "指驾车的战马，衬托狩猎的雄壮"
+  },
+  {
+   "word": "牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指公马，强调马匹健壮"
+  },
+  {
+   "word": "东",
+   "name": "东",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指东方，狩猎的方向"
+  },
+  {
+   "word": "甫草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指甫田的草，交代狩猎环境"
+  },
+  {
+   "word": "旐",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指绘有龟蛇的旗帜，用于狩猎队伍"
+  },
+  {
+   "word": "旄",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指装饰牛尾的旗帜，彰显威仪"
+  },
+  {
+   "word": "敖",
+   "name": "敖",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指敖地，狩猎的地点"
+  },
+  {
+   "word": "赤芾",
+   "name": "蔽膝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "红色蔽膝，指贵族服饰"
+  },
+  {
+   "word": "金舄",
+   "name": "鞋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "金色鞋子，指贵族所穿的鞋"
+  },
+  {
+   "word": "决",
+   "name": "扳指",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "射箭用的扳指"
+  },
+  {
+   "word": "拾",
+   "name": "护臂",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "射箭用的护臂"
+  },
+  {
+   "word": "弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "指弓箭，狩猎的武器"
+  },
+  {
+   "word": "矢",
+   "name": "箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指箭矢，与弓并用"
+  },
+  {
+   "word": "柴",
+   "name": "柴",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指猎物或积薪，狩猎所获"
+  },
+  {
+   "word": "四黄",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指四匹黄马，驾车所用"
+  },
+  {
+   "word": "骖",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指驾车的边马"
+  },
+  {
+   "word": "马鸣",
+   "name": "马鸣",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "马嘶鸣声，烘托狩猎气氛"
+  },
+  {
+   "word": "旆旌",
+   "name": "旗",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "泛指旗帜，显示队伍威武"
+  },
+  {
+   "word": "徒御",
+   "name": "徒御",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指步卒和驾车者，参与狩猎的人"
+  },
+  {
+   "word": "大庖",
+   "name": "厨房",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指天子的大厨房，此处指猎物分配"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指狩猎的贵族或领导者"
+  }
+ ]
+}

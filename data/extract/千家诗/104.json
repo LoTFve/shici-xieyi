@@ -1,0 +1,50 @@
+{
+ "id": 104,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "瑶台",
+   "name": "台",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以华美楼台比喻花影所覆盖的高处，映出影子之浓密"
+  },
+  {
+   "word": "太阳",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "昼",
+   "emotion": "无",
+   "note": "太阳西沉使花影暂时消失，是诗中流转的一环"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月上送来新的花影，与太阳交替构成全诗的往复情趣"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "花本体的影子贯穿全诗，是所咏之物的来源"
+  }
+ ]
+}

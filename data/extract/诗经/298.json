@@ -1,0 +1,72 @@
+{
+ "id": 298,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "乘黄",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "肥壮黄马驾车，公室威仪之象"
+  },
+  {
+   "word": "鹭",
+   "name": "鹭",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "白鹭振羽起舞，以拟舞者之容"
+  },
+  {
+   "word": "鼓",
+   "name": "鼓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "鼓声咽咽，宴饮歌舞之节"
+  },
+  {
+   "word": "乘牡",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "雄健公马驾车，与乘黄对举"
+  },
+  {
+   "word": "乘駽",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "青黑骏马驾车，三章铺陈马色"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "在公饮酒，燕饮尽欢之实"
+  }
+ ]
+}

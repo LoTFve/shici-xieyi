@@ -1,0 +1,160 @@
+{
+ "id": 86,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "红衣",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "比喻",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "以红衣喻荷花，写池边倚阑所见"
+  },
+  {
+   "word": "阑",
+   "name": "栏",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "倚阑之处，点明观景位置"
+  },
+  {
+   "word": "栖鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "夕阳中归巢的乌鸦，渲染暮色苍茫"
+  },
+  {
+   "word": "夕阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西下，烘托羁旅愁思"
+  },
+  {
+   "word": "殷云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "浓云带雨，写天气变化"
+  },
+  {
+   "word": "雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "疏雨打桐，增添秋意"
+  },
+  {
+   "word": "疏桐",
+   "name": "梧桐",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "雨打梧桐，秋声萧瑟"
+  },
+  {
+   "word": "明月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "明月生凉，触发乡梦"
+  },
+  {
+   "word": "宝扇",
+   "name": "扇",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "秋凉扇闲，暗示季节转换"
+  },
+  {
+   "word": "小窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "小窗内人愁对秋山"
+  },
+  {
+   "word": "秋山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "比喻",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以秋山喻愁眉，写愁之深"
+  },
+  {
+   "word": "吴鸿",
+   "name": "雁",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "借指",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借吴地鸿雁传书，寄归乡之望"
+  },
+  {
+   "word": "杨柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "阊门杨柳，指代故乡景物"
+  },
+  {
+   "word": "阊门",
+   "name": "阊门",
+   "category": "地名",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "苏州城门，借指故乡"
+  }
+ ]
+}

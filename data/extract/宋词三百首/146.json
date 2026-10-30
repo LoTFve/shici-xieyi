@@ -1,0 +1,182 @@
+{
+ "id": 146,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "风吹入的窗，点明客舍孤眠之境"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "透窗之风，写梦醒后的清冷"
+  },
+  {
+   "word": "寒灯",
+   "name": "灯",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "被风吹息的寒灯，映出客中凄凉"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "酒醒更添愁，是借酒遣愁的触媒"
+  },
+  {
+   "word": "空阶",
+   "name": "阶",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "空阶雨滴，以声衬静，写独处之苦"
+  },
+  {
+   "word": "夜雨",
+   "name": "雨",
+   "category": "气象",
+   "parent": "rain",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "哀愁",
+   "note": "频滴空阶的夜雨，渲染羁旅愁思"
+  },
+  {
+   "word": "天涯客",
+   "name": "客",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "自指久客天涯的游子身份"
+  },
+  {
+   "word": "佳人",
+   "name": "佳人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "辜负盟言的所爱之人，牵动相思"
+  },
+  {
+   "word": "洞房",
+   "name": "洞房",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "追忆中幽深的内室，是昔日欢会之所"
+  },
+  {
+   "word": "鸳鸯被",
+   "name": "被",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "香暖的鸳鸯被，回忆中温情欢爱的象征"
+  },
+  {
+   "word": "漏",
+   "name": "漏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "天长漏永，写夜长难捱的相思煎熬"
+  },
+  {
+   "word": "秦云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指佳人，盼望重逢拥其仪态"
+  },
+  {
+   "word": "帏",
+   "name": "帏",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "低帏昵枕，想象中重逢的亲密场景"
+  },
+  {
+   "word": "枕",
+   "name": "枕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "夜",
+   "emotion": "欢欣",
+   "note": "与帏并写，悬想他日同眠细说相思"
+  },
+  {
+   "word": "江乡",
+   "name": "江乡",
+   "category": "地名",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "思乡",
+   "note": "指漂泊所在的江南水乡，点出客居之地"
+  },
+  {
+   "word": "寒更",
+   "name": "更",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "数寒更以计夜，写长夜思忆难眠"
+  }
+ ]
+}

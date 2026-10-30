@@ -1,0 +1,270 @@
+{
+ "id": 128,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "小戎",
+   "name": "兵车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "点明诗中所咏的轻便战车"
+  },
+  {
+   "word": "梁辀",
+   "name": "车辕",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以曲辕刻画战车形制"
+  },
+  {
+   "word": "游环",
+   "name": "环",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "马具细节，显示车马精良"
+  },
+  {
+   "word": "靷",
+   "name": "引带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车上牵引的皮带"
+  },
+  {
+   "word": "文茵",
+   "name": "车席",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "虎皮纹车席，见车饰之盛"
+  },
+  {
+   "word": "毂",
+   "name": "车毂",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "车轮部件，代指战车"
+  },
+  {
+   "word": "骐",
+   "name": "骐马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "青黑纹马，写驾车之马"
+  },
+  {
+   "word": "馵",
+   "name": "馵马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "后足白的马，与骐并驾"
+  },
+  {
+   "word": "君子",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "思妇所念的从军丈夫"
+  },
+  {
+   "word": "板屋",
+   "name": "板屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "西戎式木屋，指丈夫居所"
+  },
+  {
+   "word": "四牡",
+   "name": "牡马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "四匹雄马，写军容之盛"
+  },
+  {
+   "word": "六辔",
+   "name": "马辔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "六条缰绳，见驾驭之精"
+  },
+  {
+   "word": "骝",
+   "name": "骝马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黑鬃赤马，写车中良马"
+  },
+  {
+   "word": "骊",
+   "name": "骊马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "黑马，为骖马"
+  },
+  {
+   "word": "龙盾",
+   "name": "盾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "画龙的盾牌，写军器"
+  },
+  {
+   "word": "觼軜",
+   "name": "舌环",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白铜舌环，系于马辔"
+  },
+  {
+   "word": "邑",
+   "name": "邑",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "丈夫从军所居之地"
+  },
+  {
+   "word": "厹矛",
+   "name": "矛",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "三棱矛，写兵器之利"
+  },
+  {
+   "word": "蒙伐",
+   "name": "盾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "杂羽纹盾牌"
+  },
+  {
+   "word": "虎韔",
+   "name": "弓袋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "虎皮弓袋，刻有金饰"
+  },
+  {
+   "word": "弓",
+   "name": "弓",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "交二弓于袋中，写武备"
+  },
+  {
+   "word": "竹闭",
+   "name": "弓檠",
+   "category": "器物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "竹制弓檠，护弓之具"
+  },
+  {
+   "word": "良人",
+   "name": "良人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "思妇对丈夫的称呼"
+  },
+  {
+   "word": "德音",
+   "name": "德音",
+   "category": "声音",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "丈夫的美好声誉，思妇所念"
+  }
+ ]
+}

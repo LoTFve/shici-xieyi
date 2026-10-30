@@ -1,0 +1,94 @@
+{
+ "id": 107,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "杨花",
+   "name": "杨花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "铺满小径如白毡的杨花，点出暮春景象"
+  },
+  {
+   "word": "径",
+   "name": "径",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "杨花铺满的小路，交代场景"
+  },
+  {
+   "word": "溪",
+   "name": "溪",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "荷叶点缀其上的小溪"
+  },
+  {
+   "word": "荷叶",
+   "name": "荷",
+   "category": "植物",
+   "parent": "lotus",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "溪上初生荷叶如叠青钱"
+  },
+  {
+   "word": "笋",
+   "name": "笋",
+   "category": "植物",
+   "parent": "bamboo",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "笋根处藏着稚子，写春景生机"
+  },
+  {
+   "word": "稚子",
+   "name": "稚子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "藏于笋根无人看见的幼小者，添生趣"
+  },
+  {
+   "word": "沙",
+   "name": "沙",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "水边沙地，凫雏栖眠之处"
+  },
+  {
+   "word": "凫雏",
+   "name": "凫",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "沙上依母而眠的小野鸭，写天伦与静谧"
+  }
+ ]
+}

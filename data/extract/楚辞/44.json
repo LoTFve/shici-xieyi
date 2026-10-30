@@ -1,0 +1,171 @@
+{
+ "id": 44,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "秋风",
+   "name": "秋风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "起兴，以萧瑟秋风渲染悲秋氛围"
+  },
+  {
+   "word": "芳",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "秋风中花草摇落，暗喻芳华易逝"
+  },
+  {
+   "word": "微霜",
+   "name": "霜",
+   "category": "气象",
+   "parent": "frost",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "点明深秋时节，霜降草枯"
+  },
+  {
+   "word": "鸣蜩",
+   "name": "蝉",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以蝉鸣悲切写秋日将尽的哀音"
+  },
+  {
+   "word": "玄鸟",
+   "name": "燕",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "燕子南归，反衬人不得归的怅惘"
+  },
+  {
+   "word": "灵丘",
+   "name": "灵丘",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "神话中的仙山，燕飞往之处，暗含高洁远引之意"
+  },
+  {
+   "word": "溪谷",
+   "name": "溪谷",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "云气滃郁之景，营造幽深氛围"
+  },
+  {
+   "word": "熊罴",
+   "name": "熊",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "山中猛兽吼叫，极写荒野险恶"
+  },
+  {
+   "word": "渊",
+   "name": "渊",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "临渊见汪洋，境界由狭转阔"
+  },
+  {
+   "word": "林",
+   "name": "林",
+   "category": "植物",
+   "parent": "pine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "回望树林忽觉荒远，写离别回环之态"
+  },
+  {
+   "word": "袿衣",
+   "name": "衣",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "修饰衣裳，写远游前的自我整饬"
+  },
+  {
+   "word": "霓",
+   "name": "虹",
+   "category": "天象",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "豪放",
+   "note": "以虹霓为坐骑南行，想象瑰丽，喻高洁远举"
+  },
+  {
+   "word": "云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "乘云回旋，写神游高远之境"
+  },
+  {
+   "word": "兰皋",
+   "name": "兰",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "兰草之岸，象征高洁的栖止之地"
+  },
+  {
+   "word": "君",
+   "name": "君子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "所思之人，表达忠君恋阙之思"
+  }
+ ]
+}

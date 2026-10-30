@@ -1,0 +1,215 @@
+{
+ "id": 68,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "山",
+   "name": "山",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "开篇远景，山色与微云相映"
+  },
+  {
+   "word": "微云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "山间淡云，渲染凄清氛围"
+  },
+  {
+   "word": "天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "天与衰草相接，写苍茫远景"
+  },
+  {
+   "word": "衰草",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "秋",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "枯草连天，点明秋日萧瑟"
+  },
+  {
+   "word": "画角",
+   "name": "角",
+   "category": "声音",
+   "parent": "bell",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "城头号角声断，增添离别的悲凉"
+  },
+  {
+   "word": "谯门",
+   "name": "城门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "角声传来的地方，点明城楼场景"
+  },
+  {
+   "word": "征棹",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "远行之舟暂停，写离别在即"
+  },
+  {
+   "word": "离尊",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "饯别之酒，共饮以诉离情"
+  },
+  {
+   "word": "烟霭",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "回首旧事如烟霭迷蒙，烘托怅惘"
+  },
+  {
+   "word": "斜阳",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "夕阳西下，渲染离别的凄清"
+  },
+  {
+   "word": "寒鸦",
+   "name": "鸦",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "秋",
+   "time": "暮",
+   "emotion": "孤寂",
+   "note": "万点寒鸦归巢，反衬游子漂泊"
+  },
+  {
+   "word": "流水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "流水绕村，写孤寂荒寒之景"
+  },
+  {
+   "word": "孤村",
+   "name": "村",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤零零的村落，强化寂寥之感"
+  },
+  {
+   "word": "香囊",
+   "name": "香囊",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "暗解香囊赠别，写临别情态"
+  },
+  {
+   "word": "罗带",
+   "name": "罗带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "轻分罗带，写依依惜别"
+  },
+  {
+   "word": "青楼",
+   "name": "青楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "指歌妓居所，写薄名空留之叹"
+  },
+  {
+   "word": "襟袖",
+   "name": "襟袖",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "泪痕沾襟袖，写离别之悲"
+  },
+  {
+   "word": "高城",
+   "name": "城",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "望断高城，写别后回望的不舍"
+  },
+  {
+   "word": "灯火",
+   "name": "灯火",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "黄昏灯火起，写别后孤寂寥落"
+  }
+ ]
+}

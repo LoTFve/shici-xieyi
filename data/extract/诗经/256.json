@@ -1,0 +1,183 @@
+{
+ "id": 256,
+ "model": "deepseek-flash",
+ "chunks": 2,
+ "images": [
+  {
+   "word": "皇天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指上天、天命，作为道德与命运的终极依据"
+  },
+  {
+   "word": "泉流",
+   "name": "泉",
+   "category": "水域",
+   "parent": "water",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以泉流奔泻比喻国势衰亡不可阻挡"
+  },
+  {
+   "word": "庭",
+   "name": "庭院",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "洒扫庭内，指日常居所与修身之本"
+  },
+  {
+   "word": "车马",
+   "name": "车马",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "修治车马以备战事，象征国家武备"
+  },
+  {
+   "word": "弓矢",
+   "name": "弓箭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与戎兵并举，指军事装备"
+  },
+  {
+   "word": "戎兵",
+   "name": "兵器",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "修武备以戒戎事"
+  },
+  {
+   "word": "蛮方",
+   "name": "蛮方",
+   "category": "地名",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "指远方异族之地，借指边患"
+  },
+  {
+   "word": "白圭",
+   "name": "圭",
+   "category": "器物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以白圭之玷可磨，反衬言语之失不可挽回"
+  },
+  {
+   "word": "屋漏",
+   "name": "屋漏",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "指室内隐秘处，喻独处时亦当无愧"
+  },
+  {
+   "word": "神",
+   "name": "神",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "言神明降临不可揣度，强调敬畏"
+  },
+  {
+   "word": "桃",
+   "name": "桃",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "投桃报李，喻施报相称"
+  },
+  {
+   "word": "李",
+   "name": "李",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与桃并举，喻报答之礼"
+  },
+  {
+   "word": "柔木",
+   "name": "木",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "荏染柔木，以木材喻可塑之材"
+  },
+  {
+   "word": "丝",
+   "name": "丝",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "言缗之丝，指加工柔木所用的丝绳"
+  },
+  {
+   "word": "昊天",
+   "name": "天",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以苍天为证，强调天道昭明"
+  },
+  {
+   "word": "耳",
+   "name": "耳",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "提耳面命，形容教诲恳切"
+  }
+ ]
+}

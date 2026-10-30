@@ -1,0 +1,61 @@
+{
+ "id": 37,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "旄丘",
+   "name": "丘",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴的山丘，点明登高所见的场景"
+  },
+  {
+   "word": "葛",
+   "name": "葛",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "丘上蔓延的葛藤，以藤节之长起兴"
+  },
+  {
+   "word": "狐裘",
+   "name": "裘",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "冬",
+   "time": "无",
+   "emotion": "无",
+   "note": "指对方所穿皮裘，已蓬松散乱，喻其处境"
+  },
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "斥其车不肯向东，喻不肯相助"
+  },
+  {
+   "word": "流离",
+   "name": "流离",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以流离鸟喻漂泊流亡之人"
+  }
+ ]
+}

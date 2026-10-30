@@ -1,0 +1,127 @@
+{
+ "id": 126,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "车",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "起兴，以车马声引出访友之事"
+  },
+  {
+   "word": "马",
+   "name": "马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白额良马，与车同起兴"
+  },
+  {
+   "word": "寺人",
+   "name": "寺人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "守门传令的侍从，交代未得见君子的缘由"
+  },
+  {
+   "word": "阪",
+   "name": "山坡",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山坡长漆，与隰相对，构成起兴环境"
+  },
+  {
+   "word": "漆",
+   "name": "漆树",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "山坡所生之树，起兴之景"
+  },
+  {
+   "word": "隰",
+   "name": "低湿地",
+   "category": "水域",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "低湿之地长栗，与阪相对起兴"
+  },
+  {
+   "word": "栗",
+   "name": "栗",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隰地所生之树，起兴之景"
+  },
+  {
+   "word": "瑟",
+   "name": "瑟",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "与君子并坐弹瑟，写相见之乐"
+  },
+  {
+   "word": "桑",
+   "name": "桑",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "阪上之桑，与杨并举起兴"
+  },
+  {
+   "word": "杨",
+   "name": "杨",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "隰地之杨，与桑并举起兴"
+  },
+  {
+   "word": "簧",
+   "name": "簧",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "并坐鼓簧，再写相见宴乐之欢"
+  }
+ ]
+}

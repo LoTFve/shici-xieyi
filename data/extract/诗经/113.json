@@ -1,0 +1,83 @@
+{
+ "id": 113,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "硕鼠",
+   "name": "鼠",
+   "category": "动物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "比喻贪婪的剥削者"
+  },
+  {
+   "word": "黍",
+   "name": "黍",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "粮食，代表劳动果实"
+  },
+  {
+   "word": "麦",
+   "name": "麦",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "粮食，代表劳动果实"
+  },
+  {
+   "word": "苗",
+   "name": "苗",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "禾苗，代表劳动果实"
+  },
+  {
+   "word": "乐土",
+   "name": "乐土",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "理想中的安乐之地"
+  },
+  {
+   "word": "乐国",
+   "name": "乐国",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "理想中的安乐之地"
+  },
+  {
+   "word": "乐郊",
+   "name": "乐郊",
+   "category": "地名",
+   "parent": "none",
+   "reason": "虚写",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "理想中的安乐之地"
+  }
+ ]
+}

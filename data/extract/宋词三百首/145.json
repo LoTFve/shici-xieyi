@@ -1,0 +1,116 @@
+{
+ "id": 145,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "危楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "主人公久久伫立的高楼，是凭阑远望的立足点"
+  },
+  {
+   "word": "风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "细细春风轻拂，衬出伫立之久与心境之微凉"
+  },
+  {
+   "word": "天际",
+   "name": "天际",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "春愁仿佛从遥远天边生出，把愁绪推向苍茫远景"
+  },
+  {
+   "word": "草色",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "残照下的春草，绵延如愁绪，是触目所见的实景"
+  },
+  {
+   "word": "烟光",
+   "name": "烟",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "暮霭与草色相融，营造迷蒙黯淡的黄昏氛围"
+  },
+  {
+   "word": "残照",
+   "name": "夕阳",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "暮",
+   "emotion": "哀愁",
+   "note": "落日余晖笼罩草色烟光，点明黄昏时分与迟暮之感"
+  },
+  {
+   "word": "阑",
+   "name": "栏杆",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "凭阑远望的动作细节，写出无人会意的孤独"
+  },
+  {
+   "word": "酒",
+   "name": "酒",
+   "category": "器物",
+   "parent": "wine",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借酒图醉，却强乐无味，反衬愁之难遣"
+  },
+  {
+   "word": "歌",
+   "name": "歌",
+   "category": "声音",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "对酒当歌却无味，以歌声反衬内心苦闷"
+  },
+  {
+   "word": "衣带",
+   "name": "衣带",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "衣带渐宽写身形消瘦，是相思煎熬的具体写照"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": 90,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "东风",
+   "name": "风",
+   "category": "气象",
+   "parent": "wind",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "春风轻拂，点出海棠盛开的时令"
+  },
+  {
+   "word": "香雾",
+   "name": "雾",
+   "category": "气象",
+   "parent": "mist",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "无",
+   "note": "渲染海棠香气弥漫如雾的朦胧氛围"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月转廊下，点明夜深时分"
+  },
+  {
+   "word": "廊",
+   "name": "廊",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "月光转过回廊，交代赏花的环境"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "夜",
+   "emotion": "闲适",
+   "note": "指海棠，全诗吟咏的中心"
+  },
+  {
+   "word": "高烛",
+   "name": "烛",
+   "category": "器物",
+   "parent": "lamp",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "夜深燃烛照花，见惜花痴情"
+  },
+  {
+   "word": "红妆",
+   "name": "海棠",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "比喻",
+   "season": "春",
+   "time": "夜",
+   "emotion": "无",
+   "note": "以美人红妆比喻海棠，写花的娇艳"
+  }
+ ]
+}

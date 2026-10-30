@@ -1,0 +1,94 @@
+{
+ "id": 147,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "柳",
+   "name": "柳",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "柳带指柳条，烘托春景与愁绪"
+  },
+  {
+   "word": "花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "花梢点明春景，反衬愁情"
+  },
+  {
+   "word": "莺",
+   "name": "莺",
+   "category": "动物",
+   "parent": "bird",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "莺穿柳带，以乐景写哀情"
+  },
+  {
+   "word": "日",
+   "name": "日",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "春",
+   "time": "晨",
+   "emotion": "无",
+   "note": "日上花梢，表示时间不早"
+  },
+  {
+   "word": "香衾",
+   "name": "衾",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "香衾卧，表现闺中独卧"
+  },
+  {
+   "word": "雕鞍",
+   "name": "鞍",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "雕鞍锁，借指留住情郎"
+  },
+  {
+   "word": "鸡窗",
+   "name": "窗",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "用典",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "鸡窗指书斋，用典表共读之愿"
+  },
+  {
+   "word": "蛮笺象管",
+   "name": "纸笔",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "蛮笺象管指纸笔，写吟课之事"
+  }
+ ]
+}

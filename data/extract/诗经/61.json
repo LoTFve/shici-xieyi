@@ -1,0 +1,39 @@
+{
+ "id": 61,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "河",
+   "name": "河",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "设问对象，以黄河之广反衬归宋之易"
+  },
+  {
+   "word": "苇",
+   "name": "苇",
+   "category": "植物",
+   "parent": "none",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "以一片苇叶喻轻舟，极言渡河之易"
+  },
+  {
+   "word": "刀",
+   "name": "刀",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "通'舠'，小船，以不容小舟反说河窄"
+  }
+ ]
+}

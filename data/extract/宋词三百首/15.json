@@ -1,0 +1,215 @@
+{
+ "id": 15,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "陌",
+   "name": "路",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "送别出发的田间小路"
+  },
+  {
+   "word": "绣帏",
+   "name": "帷",
+   "category": "器物",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "闺中人所在的帷帐"
+  },
+  {
+   "word": "珠泪",
+   "name": "泪",
+   "category": "其他",
+   "parent": "rain",
+   "reason": "比喻",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "以珠喻泪写送别之悲"
+  },
+  {
+   "word": "征轮",
+   "name": "车",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "远行之人的车轮"
+  },
+  {
+   "word": "长亭",
+   "name": "长亭",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "送别之地，寄托离情"
+  },
+  {
+   "word": "远水",
+   "name": "水",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "望中远去的流水"
+  },
+  {
+   "word": "孤云",
+   "name": "云",
+   "category": "天象",
+   "parent": "cloud",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "孤云映衬行人飘零"
+  },
+  {
+   "word": "楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "登高望远的楼阁"
+  },
+  {
+   "word": "王孙",
+   "name": "游子",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "借指远行不归的人"
+  },
+  {
+   "word": "池塘",
+   "name": "池塘",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "回忆中同游之地"
+  },
+  {
+   "word": "绿",
+   "name": "草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "借绿草写芳草与人相映"
+  },
+  {
+   "word": "轻裙",
+   "name": "裙",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "女子轻裙，忆旧日欢游"
+  },
+  {
+   "word": "素手",
+   "name": "手",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "携素手写昔日亲密"
+  },
+  {
+   "word": "乱花",
+   "name": "花",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "欢欣",
+   "note": "暮春飞花，渲染旧游"
+  },
+  {
+   "word": "飞絮",
+   "name": "柳絮",
+   "category": "植物",
+   "parent": "willow",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "飞絮飘零，暗喻离散"
+  },
+  {
+   "word": "香",
+   "name": "香",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "缓步香径，写昔日游乐"
+  },
+  {
+   "word": "朱颜",
+   "name": "容颜",
+   "category": "人物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指青春容颜空自老去"
+  },
+  {
+   "word": "芳意",
+   "name": "芳草",
+   "category": "植物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "无",
+   "note": "芳草年年新绿，与人事对照"
+  },
+  {
+   "word": "绿野",
+   "name": "原野",
+   "category": "山石",
+   "parent": "none",
+   "reason": "字面",
+   "season": "春",
+   "time": "无",
+   "emotion": "闲适",
+   "note": "绿遍郊野，劝人游乐"
+  }
+ ]
+}

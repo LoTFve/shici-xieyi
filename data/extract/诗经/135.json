@@ -1,0 +1,39 @@
+{
+ "id": 135,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "夏屋",
+   "name": "屋",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "往昔居所之宏大，与今日对比"
+  },
+  {
+   "word": "食",
+   "name": "食",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "日常饮食，体现今昔生活落差"
+  },
+  {
+   "word": "四簋",
+   "name": "簋",
+   "category": "器物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "盛放食物的礼器，指代丰盛饮食"
+  }
+ ]
+}

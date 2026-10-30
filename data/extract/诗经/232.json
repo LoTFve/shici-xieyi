@@ -1,0 +1,72 @@
+{
+ "id": 232,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "石",
+   "name": "石",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "以渐高之石起兴，写东征山路的险峻高远"
+  },
+  {
+   "word": "山川",
+   "name": "山川",
+   "category": "山石",
+   "parent": "mountain",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "写征途山水遥远无尽，衬托行军劳苦"
+  },
+  {
+   "word": "豕",
+   "name": "豕",
+   "category": "动物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "无",
+   "note": "白蹄之猪涉水，是诗中眼前所见之景"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月靠近毕宿，是滂沱大雨将至的天象征兆"
+  },
+  {
+   "word": "毕",
+   "name": "毕",
+   "category": "天象",
+   "parent": "star",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "二十八宿之一，月离于毕预示大雨"
+  },
+  {
+   "word": "武人",
+   "name": "武人",
+   "category": "人物",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "东征的将士，是诗中劳苦奔波的抒情主体"
+  }
+ ]
+}

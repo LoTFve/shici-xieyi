@@ -1,0 +1,72 @@
+{
+ "id": 147,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "禁门",
+   "name": "宫门",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "点出宫中值夜的封闭环境"
+  },
+  {
+   "word": "两相麻",
+   "name": "诏书",
+   "category": "器物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "浓墨书写的任命诏书，显示翰林院公务"
+  },
+  {
+   "word": "五更",
+   "name": "五更",
+   "category": "其他",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "报晓的更声，点明深夜时分"
+  },
+  {
+   "word": "月",
+   "name": "月",
+   "category": "天象",
+   "parent": "moon",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "孤寂",
+   "note": "月光浸染台阶与花，营造清寂夜色"
+  },
+  {
+   "word": "墀",
+   "name": "台阶",
+   "category": "建筑",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "夜",
+   "emotion": "无",
+   "note": "月光铺满的宫中石阶"
+  },
+  {
+   "word": "紫薇花",
+   "name": "紫薇",
+   "category": "植物",
+   "parent": "flower",
+   "reason": "字面",
+   "season": "夏",
+   "time": "无",
+   "emotion": "无",
+   "note": "宫中值夜所见之花，映月而开"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": 56,
+ "model": "deepseek-flash",
+ "images": [
+  {
+   "word": "洞庭水",
+   "name": "洞庭",
+   "category": "水域",
+   "parent": "water",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "开篇点出久闻的洞庭湖，为登楼所见蓄势"
+  },
+  {
+   "word": "岳阳楼",
+   "name": "楼",
+   "category": "建筑",
+   "parent": "building",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "登临之地，全诗视点所在"
+  },
+  {
+   "word": "东南",
+   "name": "东南",
+   "category": "地名",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "吴楚大地在此裂分，写出洞庭的浩渺气势"
+  },
+  {
+   "word": "乾坤",
+   "name": "天地",
+   "category": "天象",
+   "parent": "none",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "与日月并举，写湖水浮天载日的雄浑"
+  },
+  {
+   "word": "日月",
+   "name": "日月",
+   "category": "天象",
+   "parent": "sun",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "壮阔",
+   "note": "日夜在湖上沉浮，极写洞庭之阔大"
+  },
+  {
+   "word": "孤舟",
+   "name": "舟",
+   "category": "器物",
+   "parent": "boat",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "孤寂",
+   "note": "老病之身唯寄一叶孤舟，自伤漂泊"
+  },
+  {
+   "word": "戎马",
+   "name": "战马",
+   "category": "动物",
+   "parent": "none",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "借指北方战事未息，忧国伤时"
+  },
+  {
+   "word": "关山",
+   "name": "关山",
+   "category": "地名",
+   "parent": "mountain",
+   "reason": "借指",
+   "season": "无",
+   "time": "无",
+   "emotion": "思乡",
+   "note": "战火阻隔的北方关塞，遥念故土与国难"
+  },
+  {
+   "word": "轩",
+   "name": "轩",
+   "category": "建筑",
+   "parent": "window",
+   "reason": "字面",
+   "season": "无",
+   "time": "无",
+   "emotion": "哀愁",
+   "note": "凭栏之窗，涕泪纵横的凭依处"
+  }
+ ]
+}
