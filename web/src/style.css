@@ -60,6 +60,8 @@ nav a.on { color: var(--ink); background: var(--surface-2); font-weight: 600; }
 .chip.llm { background: var(--llm); } .chip.onto { background: var(--onto); }
 .chip.diff { box-shadow: inset 0 0 0 1.5px var(--diff); }
 .chip[data-name] { cursor: pointer; }
+.chip.quiet { background: transparent; box-shadow: inset 0 0 0 1px var(--line-2); font-size: 12px; }
+.also { margin-top: 4px; }
 .chip[data-name]:hover { filter: brightness(.95); }
 .src { font-size: 11px; margin-left: 6px; padding: 0 6px; border-radius: 8px; background: var(--llm); color: var(--ink-2); }
 .src.onto { background: var(--onto); } .src.diff { box-shadow: inset 0 0 0 1.5px var(--diff); }

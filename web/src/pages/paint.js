@@ -1,5 +1,7 @@
 // 作画页：全屏画面，竖排诗句，右侧（窄屏在底部）是输入和分析面板
 import { analyze, fuse, visual, ask, ONTO, EMO, TIME_HOW, SEASON_HOW } from '../analyze.js';
+
+const DRAW_NAME = Object.fromEntries(Object.entries(ONTO.images).map(([id, o]) => [id, o.name]));
 import { mount, paint, isDark } from '../scene.js';
 import { findPoem, toRaw, esc } from '../data.js';
 
@@ -108,12 +110,17 @@ function fit() {
 const chip = (text, tip, { off, cls, name } = {}) => `<span class="chip${off ? ' off' : ''}${cls ? ' ' + cls : ''}"${name ? ` data-name="${esc(name)}" role="link" tabindex="0"` : ''} title="${esc(tip)}">${esc(text)}</span>`;
 function panel() {
   const extra = (m) => [m.note, m.differs && m.rule].filter(Boolean).map((s) => '\n' + s).join('');
-  $('.images').innerHTML = S.imgs.length ? S.imgs.map((m) => {
-    const cls = [TAG[m.src], m.differs && 'diff'].filter(Boolean).join(' '), tip = `来源：${m.src}\n`;
+  const one = (m) => {
+    const cls = [TAG[m.src], m.differs && 'diff', !m.id && 'quiet'].filter(Boolean).join(' '), tip = `来源：${m.src}\n`;
+    const drawn = m.id ? `${m.name === DRAW_NAME[m.id] ? '' : `按“${DRAW_NAME[m.id]}”画：`}${m.desc}` : '画不出，参与时辰、季节、情感推断';
     return m.off
-      ? chip(`${m.name}（${m.why}）`, tip + (m.tip || `诗中“${m.ev.join('、')}”${m.why.split('、').map((k) => ONTO.reasons[k]).filter(Boolean).join('，')}，所以不画`) + extra(m), { off: true, cls, name: m.name })
-      : chip(m.name, tip + `见“${m.ev.join('、')}” → ${m.desc}` + extra(m), { cls, name: m.name });
-  }).join('') : '<span class="muted">没认出具体景物，只画天和远山</span>';
+      ? chip(`${m.name}（${m.why}）`, tip + (m.tip || `诗中“${m.ev.join('、')}”${m.why.split('、').map((k) => ONTO.reasons[k]).filter(Boolean).join('，')}，所以不算眼前景`) + extra(m), { off: true, cls, name: m.name })
+      : chip(m.name, tip + `见“${m.ev.join('、')}” → ${drawn}` + extra(m), { cls, name: m.name });
+  };
+  // 能画的和只参与推断的分两行，长诗里意象多时不至于混成一片
+  const drawable = S.imgs.filter((m) => m.id), other = S.imgs.filter((m) => !m.id);
+  $('.images').innerHTML = (drawable.length ? drawable.map(one).join('') : '<span class="muted">没认出能画的景物，只画天和远山</span>') +
+    (other.length ? `<div class="also"><span class="muted">另有 ${other.length} 个参与推断：</span>${other.map(one).join('')}</div>` : '');
   const ev = (o) => o.ev.length ? `<span class="muted">依据：${o.ev.map(esc).join('、')}</span>` : '<span class="muted">诗里没有线索，用默认</span>';
   const src = (o) => o.src === '规则' || o.src === '默认' ? '' : `<span class="src ${TAG[o.src]}${o.differs ? ' diff' : ''}" title="${esc(o.rule || '')}">${o.src}</span>`;
   const kv = (label, val, o, how) => `<div class="kv"><b>${label}</b><span>${val}${src(o)}　${ev(o)}<br><span class="muted">${how}</span></span></div>`;

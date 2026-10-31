@@ -41,7 +41,7 @@ const BASE_CAT = {
 };
 const PART = { 帆: '舟', 叶: '树', 枝: '树' };
 // 人工指定的写法归属，优先于一切自动规则
-const OWN = { 渔火: '灯火', 玉盘: '月', 红叶: '枫', 黄叶: '枫' };
+const OWN = { 渔火: '灯火', 玉盘: '月', 红叶: '枫', 黄叶: '枫', 客船: '舟', 钓鱼船: '舟', 东船: '舟', 寒灯: '灯火', 读书灯: '灯火', 金樽: '杯' };
 // 人工指定的上位类，覆盖抽取统计（统计结果明显不对的）
 const IS_A = { 叶: '树', 枝: '树', 树: null, 关: null, 石: null, 鼓: null, 屏风: null, 荆门: null, 桂: null, 轮台: null, 幽人: null };
 // 约定俗成的含义，手写
@@ -222,8 +222,56 @@ const cooc = Object.entries(pair).filter(([, v]) => v >= 4).map(([key, v]) => {
   const [a, b] = key.split('|');
   return [a, b, v, +Math.log2((v * N) / (concepts[a].n * concepts[b].n)).toFixed(2)];
 }).filter((e) => e[3] > 0.5).sort((x, y) => y[2] - x[2]);
+// 触发词精度：一个写法在多少首诗的原文里出现，其中多少首模型确实抽出了它（或包含它的写法）。
+// 精度低的单字（心、君、将、子）在诗里多半不是物象，作画时不用来匹配，只在本体页当别名显示
+// 抽出的写法必须归这个概念才算命中：“山阿”里有“阿”，但“阿”不该因此算作山的触发词
+const extracted = poems.map((p) => JSON.parse(fs.readFileSync(path.join(root, 'data/extract', p.col, `${p.id}.json`), 'utf8')).images.map((m) => m.word));
+const ownerOf = {};
+for (const [n, c] of Object.entries(concepts)) for (const w of c.words) ownerOf[w] = n;
+// 基础意象的名字本身（月、山、舟）总是保留；它们的其他触发词也要过精度检查，比如“流”多半是动词
+const baseName = new Set(Object.values(OLD.images).map((o) => o.name));
+const MIN_PRECISION = 0.6, MIN_HITS = 3;
+// 统计样本太少、但确实是物象的写法，人工保留
+const KEEP_TRIGGER = new Set(['天上来', '樽', '觞', '金樽', '渔火']);
+// 一词多义、统计分不开的写法：这里的“角”是角落、发髻，不是号角
+const DROP_TRIGGER = new Set(['海角', '日角', '羊角', '总角', '篱角', '阑角', '栏角', '屋角', '宅']);
+// 名字本身多半不是物象的概念，名字不作触发词，只靠更具体的写法匹配
+const NOT_SELF = new Set(['心', '君', '将', '子', '王', '道', '家', '朝', '光', '发', '地', '气', '影', '曲', '神', '使', '带', '周', '士', '萧', '须', '灵', '实', '父', '母', '被', '着', '虚', '郁', '阴', '声', '寒', '香', '空', '歌', '路', '客', '书', '手', '眼', '舞', '诗', '室', '音', '景', '翼', '夏', '南', '东', '西', '北', '中', '阳', '金', '玉']);
+const trig = {};
+for (const [name, c] of Object.entries(concepts)) {
+  const keep = [], drop = [];
+  for (const w of c.words) {
+    let hit = 0, ok = 0;
+    poems.forEach((p, i) => {
+      if (!(p.title + p.body).includes(w)) return;
+      hit++;
+      if (extracted[i].some((g) => (g.includes(w) || w.includes(g)) && ownerOf[g] === name)) ok++;
+    });
+    const prec = hit ? ok / hit : 1;
+    // 概念自己的名字总是触发它（江、湖、桃）；单字名太泛的除外，见 NOT_SELF
+    const self = w === name && !NOT_SELF.has(w);
+    // 手写基础本体里的触发词（翁、钓、岳）放宽到 30%：人工挑过，又有否定、比喻规则兜底
+    const hand = (BASE[name] && OLD.images[BASE[name]].words.includes(w) && prec >= 0.3) || KEEP_TRIGGER.has(w);
+    if (!DROP_TRIGGER.has(w) && (self || hand || baseName.has(w) || (prec >= MIN_PRECISION && (w.length > 1 || hit >= MIN_HITS)))) keep.push(w); else drop.push([w, hit, +prec.toFixed(2)]);
+  }
+  c.triggers = keep;
+  if (drop.length) trig[name] = drop;
+}
 // 前端本体页读的：概念加共现边
 fs.writeFileSync(path.join(root, 'ontology/graph.json'), JSON.stringify({ meta, concepts, cooc }));
+// 作画页读的：只留规则和推断要用的字段，体积小
+const runtime = {};
+for (const [name, c] of Object.entries(concepts)) {
+  if (!c.triggers.length) continue;
+  runtime[name] = {
+    cat: c.cat, n: c.n, w: c.triggers,
+    ...((c.draw || c.draws_as) && { d: c.draw || c.draws_as }),
+    ...(c.is_a && { is_a: c.is_a }), ...(c.needs && { needs: c.needs }), ...(c.conflicts && { conflicts: c.conflicts }),
+    ...(c.season && { season: c.season }), ...(c.time && { time: c.time }), ...(c.evokes && { evokes: c.evokes.默认 }),
+    ...(c.usage && { lit: +(1 - Object.values(c.usage).reduce((a, b) => a + b, 0) / Math.max(1, c.n)).toFixed(2) }),
+  };
+}
+fs.writeFileSync(path.join(root, 'ontology/runtime.json'), JSON.stringify(runtime));
 
 // 审阅报告
 const fmt = (o) => Object.entries(o || {}).map(([k, v]) => `${k}${v}`).join(' ');
@@ -250,6 +298,9 @@ for (const col of COLLECTIONS) {
   }).filter(([, h, a, b]) => h >= 3 && a > b * 1.8).sort((x, y) => y[2] - x[2]).slice(0, 25);
   md += `- **${NAME[col] || col}**（${n} 首）：${rows.map(([nm, h]) => `${nm}${h}`).join(' ') || '无'}\n`;
 }
+// 作画时不用的触发词
+const droppedList = Object.entries(trig).flatMap(([n, ws]) => ws.map(([w, h, p]) => [w, n, h, p])).filter((x) => x[2] >= 3).sort((a, b) => b[2] - a[2]);
+md += `\n## 作画时不用的触发词\n\n在原文里出现时，模型多半没把它当成这个物象抽出（精度低于 ${MIN_PRECISION * 100}%），或是单字且出现不到 ${MIN_HITS} 首。这些写法仍在本体页显示为别名，但规则匹配时跳过。共 ${Object.values(trig).flat().length} 个，下面列出出现 3 首以上的：\n\n${droppedList.slice(0, 150).map(([w, n, h, p]) => `${w}→${n} ${Math.round(p * 100)}%(${h})`).join('、')}\n`;
 md += `\n## 概念\n\n`;
 for (const cat of CATS) {
   const list = Object.entries(concepts).filter(([, c]) => c.cat === cat).sort((a, b) => b[1].n - a[1].n);

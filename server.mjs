@@ -10,7 +10,9 @@ import OpenAI from 'openai';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 if (fs.existsSync(path.join(here, '.env'))) process.loadEnvFile(path.join(here, '.env'));
-const ONTO = createRequire(import.meta.url)('./ontology/base.json');
+const require = createRequire(import.meta.url);
+const ONTO = require('./ontology/base.json');
+const CONCEPTS = require('./ontology/runtime.json');
 const PORT = Number(process.env.PORT) || 8000;
 const MODEL = process.env.DS_MODEL || 'deepseek-chat';
 const MAX_POEM = 2000;
@@ -26,10 +28,15 @@ function staticFile(pathname) {
   return [file, TYPES[path.extname(file)] || 'application/octet-stream'];
 }
 
-const SYSTEM = `你帮一个古诗词绘画程序读诗。程序只会画下面这些概念，你只能从中选择。
+// 意象从汇总本体里选，按类别列出概念名；带 * 的能画
+const CATS = ['天象', '气象', '山石', '水域', '植物', '动物', '建筑', '器物', '人物', '地理'];
+const IMAGE_LIST = CATS.map((cat) => `- ${cat}：${Object.entries(CONCEPTS).filter(([, c]) => c.cat === cat)
+  .sort((a, b) => b[1].n - a[1].n).map(([n, c]) => (c.d ? n + '*' : n)).join('、')}`).join('\n');
 
-意象（id：名称，画法）：
-${Object.entries(ONTO.images).map(([id, o]) => `- ${id}：${o.name}，${o.draw}`).join('\n')}
+const SYSTEM = `你帮一个古诗词绘画程序读诗。程序只认识下面这些意象概念，你只能从中选择，name 必须和列表里的写法一字不差（不要带 *）。带 * 的能画出来，其他的用来推断时辰、季节和情感。
+
+意象：
+${IMAGE_LIST}
 
 意象在诗里的身份 reason：
 ${Object.entries(ONTO.reasons).map(([k, v]) => `- ${k}：${v}`).join('\n')}
@@ -38,20 +45,20 @@ ${Object.entries(ONTO.reasons).map(([k, v]) => `- ${k}：${v}`).join('\n')}
 情感：${Object.keys(ONTO.emotions).join('、')}。
 
 要求：
-- images 列出诗里字面出现过的每个意象，并判断它的身份。只有“字面”会被画出来。比如“朝如青丝暮成雪”的雪是比喻白发，“鸟飞绝”的鸟是“无”，“钟鼓馔玉”的钟是借指富贵。同一个意象既有实景又有非实景时，各列一条。
+- images 列出诗里出现的每个意象（用列表里最贴切、最具体的那个概念，比如“子规”选杜鹃而不是鸟），并判断它的身份。只有“字面”会被画出来。比如“朝如青丝暮成雪”的雪是比喻白发，“鸟飞绝”的鸟是“无”，“钟鼓馔玉”的钟是借指富贵。同一个意象既有实景又有非实景时，各列一条。
 - evidence 必须是从诗中原样摘出的连续字词，程序会核对，摘不到原文的条目会被丢弃。
 - note 用一句话说明判断理由，没有特别之处可以留空。
 - emotions 给一到两种，weight 在 0 到 1 之间，主情感在前。
 - notes 用一两句话说明用典、言外之意或全诗基调，没有就留空。
 - 只输出一个 JSON 对象，形如：
-{"images":[{"id":"bird","reason":"无","evidence":"鸟飞绝","note":"鸟已飞尽"}],"time":{"key":"夜","evidence":["夜半"]},"season":{"key":"秋","evidence":["霜"]},"emotions":[{"key":"孤寂","weight":0.7,"evidence":"孤舟"}],"notes":""}`;
+{"images":[{"name":"鸟","reason":"无","evidence":"鸟飞绝","note":"鸟已飞尽"},{"name":"杜鹃","reason":"字面","evidence":"子规啼","note":"春夜啼鸣，寄哀愁"}],"time":{"key":"夜","evidence":["夜半"]},"season":{"key":"秋","evidence":["霜"]},"emotions":[{"key":"孤寂","weight":0.7,"evidence":"孤舟"}],"notes":""}`;
 
 // 接口不强制 schema，字段形状会走样，比如时辰只给一个字符串、情感用 name 代替 key。这里统一成 schema 的样子
 function normalize(j) {
   const list = (v) => (Array.isArray(v) ? v : typeof v === 'string' && v ? [v] : []).filter((e) => typeof e === 'string');
   const one = (v) => (typeof v === 'string' ? { key: v, evidence: [] } : { key: v?.key ?? v?.name ?? '无', evidence: list(v?.evidence) });
   return {
-    images: (Array.isArray(j.images) ? j.images : []).map((m) => ({ id: m.id, reason: m.reason, evidence: String(m.evidence ?? ''), note: String(m.note ?? '') })),
+    images: (Array.isArray(j.images) ? j.images : []).map((m) => ({ name: String(m.name ?? m.id ?? '').replace(/\*$/, ''), reason: m.reason, evidence: String(m.evidence ?? ''), note: String(m.note ?? '') })),
     time: one(j.time),
     season: one(j.season),
     emotions: (Array.isArray(j.emotions) ? j.emotions : []).map((e) => ({ key: e.key ?? e.name, weight: Number(e.weight) || 0, evidence: String(e.evidence ?? '') })),
