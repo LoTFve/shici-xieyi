@@ -8,6 +8,11 @@ const mix = (a, b, k) => { const A = hex(a), B = hex(b); return '#' + A.map((v, 
 const rgba = (h, a) => { const [r, g, b] = hex(h); return `rgba(${r},${g},${b},${a})`; };
 
 let cv, ctx, W, H, DPR, S = null, bg = null, parts = [], raf = 0;
+// 动画时间按帧累加，速度变了时间也不会跳；E 是当前实际用的情感参数，向 S.E 缓慢靠拢
+let clock = 0, last = 0, E = null;
+// 换画面时把上一帧截下来，在新画面上淡出
+let fade = null, fadeAt = 0;
+const FADE_MS = 1200, EASE_MS = 1500;
 
 // ---------- 静态背景：天、日月、山、水、楼阁 ----------
 function build(){
@@ -96,12 +101,16 @@ function setupFg(){
   S.willow=h.willow?[...Array(22)].map(()=>({x:W*(r()*.3),len:H*(.25+r()*.35),ph:r()*TAU})):[];
   S.maple=h.maple?{x:W*.9,y:S.hz+(H-S.hz)*.2,blobs:[...Array(26)].map(()=>({dx:(r()-.5)*H*.32,dy:-r()*H*.28-H*.12,rr:H*(.03+r()*.04),c:['#a8342b','#c4512f','#8d2a26','#d07a3a'][r()*4|0]}))}:null;
   S.boatX=W*(.38+r()*.1);
-  S.t0=performance.now();
+  clock=0;
 }
 function frame(now){
   raf=requestAnimationFrame(frame);
   if(!S||!cv)return;
-  const h=S.has,E=S.E,t=Math.max(0,now-S.t0)/1000*E.speed,wind=h.wind?2.2:1;
+  const dt=Math.min(.1,Math.max(0,(now-(last||now))/1000));last=now;
+  // 情感参数每帧向目标靠一点，约 1.5 秒到位
+  if(!E)E={...S.E};const k=1-Math.exp(-dt*1000/(EASE_MS/3));for(const key of['mist','speed'])E[key]+=(S.E[key]-E[key])*k;
+  clock+=dt*E.speed;
+  const h=S.has,t=clock,wind=h.wind?2.2:1;
   ctx.drawImage(bg,0,0);
   // 流云
   if(h.cloud)S.clouds.forEach(c=>{const x=(c.x+t*W*.006)%(W+c.w*2)-c.w;cloudShape(x,c.y,c.w,c.h)});
@@ -175,6 +184,8 @@ function frame(now){
   if(h.window&&S.night){const b=Math.min(W,H)*.05;ctx.fillStyle='#120d0a';ctx.fillRect(0,0,W,b);ctx.fillRect(0,H-b,W,b);ctx.fillRect(0,0,b,H);ctx.fillRect(W-b,0,b,H);
     ctx.fillRect(W*.5-b*.2,0,b*.4,H);ctx.strokeStyle='#120d0a';ctx.lineWidth=b*.12;for(let i=1;i<4;i++){ctx.beginPath();ctx.moveTo(0,b+i*b*.6);ctx.lineTo(W,b+i*b*.6);ctx.stroke()}}
   ctx.fillStyle=S.vig;ctx.fillRect(0,0,W,H);
+  // 旧画面淡出
+  if(fade){const a=1-(now-fadeAt)/FADE_MS;if(a<=0)fade=null;else{ctx.globalAlpha=a*a;ctx.drawImage(fade,0,0);ctx.globalAlpha=1}}
 }
 function cloudShape(x,y,w,h){ctx.fillStyle=S.night?'rgba(90,100,125,.35)':'rgba(255,255,255,.55)';
   for(let i=0;i<5;i++){ctx.beginPath();ctx.ellipse(x+(i-2)*w*.18,y+Math.sin(i*2)*h*.2,w*.22,h*(.6+.3*Math.sin(i)),0,0,TAU);ctx.fill()}}
@@ -211,7 +222,16 @@ export function mount(canvas) {
   raf = requestAnimationFrame(frame);
   return () => { cancelAnimationFrame(raf); ro.disconnect(); cv = null; S = null; };
 }
-// 换一首诗或判断变了：重画背景并重置动画
-export function paint(state, { rebuild = true } = {}) { S = state; if (cv && rebuild) { build(); setupFg(); } }
+// 换一首诗：直接重画。transition 为真时是同一首诗的判断变了：
+//   画的东西变了（rebuild）就截下当前画面淡出；只是色调变了，背景不动，情感参数慢慢过渡
+export function paint(state, { rebuild = true, transition = false } = {}) {
+  if (cv && transition && rebuild && S) {
+    fade = document.createElement('canvas'); fade.width = W; fade.height = H;
+    fade.getContext('2d').drawImage(cv, 0, 0); fadeAt = performance.now();
+  }
+  if (!transition) { E = null; fade = null; }
+  S = state;
+  if (cv && rebuild) { const keep = transition ? clock : 0; build(); setupFg(); clock = keep; }
+}
 // 画面的明暗，给诗句选墨色用
 export const isDark = (state) => state.time.key === '夜' || state.time.key === '暮';

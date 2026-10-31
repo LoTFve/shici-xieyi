@@ -69,7 +69,7 @@ nav a.on { color: var(--ink); background: var(--surface-2); font-weight: 600; }
 
 /* ---------- 作画 ---------- */
 .page-paint .scene { position: absolute; inset: 0; width: 100%; height: 100%; transition: filter 1.5s; }
-.page-paint .poem { position: absolute; top: 7%; left: 4vw; max-height: 86%; writing-mode: vertical-rl; font-family: var(--serif); line-height: 1.9; letter-spacing: .3em; color: var(--ink-poem, #1e1a16); text-shadow: 0 0 14px var(--halo); /* 墨色跟画面明暗走，不跟界面主题走 */ pointer-events: none; }
+.page-paint .poem { position: absolute; top: 7%; left: 4vw; max-height: 86%; writing-mode: vertical-rl; font-family: var(--serif); line-height: 1.9; letter-spacing: .3em; color: var(--ink-poem, #1e1a16); text-shadow: 0 0 14px var(--halo); /* 墨色跟画面明暗走，不跟界面主题走 */ pointer-events: none; transition: color 1.5s, text-shadow 1.5s; }
 .page-paint .poem p { margin-left: .2em; }
 .page-paint .poem .t { font-size: .6em; opacity: .8; margin-left: 1em; }
 .page-paint .poem span { opacity: 0; transition: opacity 1.4s; }

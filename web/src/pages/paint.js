@@ -75,7 +75,7 @@ function go(raw, poem) {
     if (S !== R) return;
     const F = fuse(R, M), n = F.imgs.filter((m) => m.differs).length + ['time', 'season', 'emo'].filter((k) => F[k].differs).length;
     const changed = visual(F) !== visual(R);
-    S = F; paint(F, { rebuild: changed }); tone(); panel();
+    S = F; paint(F, { rebuild: changed, transition: true }); tone(); panel();
     setAI(`已融合 ${M.model || '模型'} 的判断` + (n ? `，${n} 处与规则不同（红框）` : '，与规则一致'));
   }).catch((e) => { if (S === R) setAI('模型不可用，只用规则：' + e.message); });
 }
