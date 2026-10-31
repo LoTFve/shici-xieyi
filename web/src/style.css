@@ -143,6 +143,28 @@ nav a.on { color: var(--ink); background: var(--surface-2); font-weight: 600; }
 .tip { position: absolute; pointer-events: none; display: none; max-width: 240px; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; padding: 4px 8px; font-size: 12px; box-shadow: 0 2px 8px rgba(0, 0, 0, .12); }
 .hint { position: absolute; right: 12px; bottom: 10px; }
 
+/* ---------- 抽查 ---------- */
+.page-review { overflow: auto !important; }
+.rev { max-width: 920px; margin: 0 auto; padding: 18px 20px 60px; }
+.rev-bar { position: sticky; top: 0; z-index: 2; background: var(--page); padding: 6px 0 12px; border-bottom: 1px solid var(--line); display: grid; gap: 8px; }
+.rev-bar h1 { font-family: var(--serif); font-size: 20px; }
+.rev-tools { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.rev-tools .prog { font-variant-numeric: tabular-nums; min-width: 13em; }
+.rev-poem { padding: 16px 0; border-bottom: 1px solid var(--line); }
+.rev-poem h2 { font-family: var(--serif); font-size: 17px; letter-spacing: 0; color: var(--ink); margin: 0 0 4px; }
+.rev-poem h2 a { text-decoration: none; } .rev-poem h2 a:hover { text-decoration: underline; }
+.rev-poem h2 small { font-family: var(--sans); font-size: 12px; color: var(--muted); font-weight: 400; }
+.rev-text { font-family: var(--serif); color: var(--ink-2); margin-bottom: 4px; }
+.rev-row { display: grid; grid-template-columns: 4.5em 1fr auto; gap: 10px; align-items: start; margin-top: 8px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+.rev-row .tag { justify-self: start; }
+.rev-row.is-ok { opacity: .6; }
+.rev-row.is-bad { box-shadow: inset 3px 0 0 var(--diff); }
+.rev-body p { margin: 2px 0; font-size: 13px; }
+.rev-body textarea { height: auto; min-height: 32px; margin-top: 6px; font-family: var(--sans); font-size: 13px; }
+.rev-mark { display: flex; gap: 6px; }
+.rev-mark button[aria-pressed=true][data-mark=ok] { background: var(--onto); border-color: var(--rel-attr); }
+.rev-mark button[aria-pressed=true][data-mark=bad] { background: var(--diff); border-color: var(--diff); color: #fff; }
+
 /* 窄屏：作画面板放到底部，本体三栏改成上下 */
 @media (max-width: 860px) {
   .top { gap: 12px; padding: 0 10px; }
@@ -156,4 +178,6 @@ nav a.on { color: var(--ink); background: var(--surface-2); font-weight: 600; }
   .onto-tree, .onto-detail { border-right: 0; border-bottom: 1px solid var(--line); }
   .lib .list a { grid-template-columns: 1fr auto; grid-template-areas: "t a" "l l" "c c"; }
   .lib .c { justify-self: start; }
+  .rev-row { grid-template-columns: 1fr auto; }
+  .rev-row .tag { grid-column: 1 / -1; }
 }

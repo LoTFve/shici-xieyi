@@ -18,6 +18,7 @@ const MODEL = process.env.DS_MODEL || 'deepseek-chat';
 const MAX_POEM = 2000;
 const client = new OpenAI({ apiKey: process.env.DS_KEY || 'missing', baseURL: process.env.DS_URL });
 const cache = new Map();
+const REVIEW_FILE = path.join(here, 'ontology/review-verdicts.json');
 
 // 托管前端构建产物 web/dist。路径先解析再检查仍在 dist 里，防止 ../ 读到别处
 const DIST = path.join(here, 'web/dist');
@@ -127,6 +128,24 @@ http.createServer(async (req, res) => {
       if (typeof poem !== 'string' || !poem.trim()) return send(res, 400, { error: '缺少诗文' });
       if (poem.length > MAX_POEM) return send(res, 400, { error: `诗文超过 ${MAX_POEM} 字` });
       return send(res, 200, await analyze(poem.trim()));
+    }
+    // 抽查页的标注：读写固定的一个文件，字段逐个校验，不接受别的路径
+    if (url.pathname === '/api/review') {
+      if (req.method === 'GET') {
+        if (!fs.existsSync(REVIEW_FILE)) return send(res, 200, { verdicts: {} });
+        const saved = JSON.parse(fs.readFileSync(REVIEW_FILE, 'utf8'));
+        return send(res, 200, { verdicts: Object.fromEntries((saved.items || []).map((x) => [x.key, { ok: x.ok, note: x.note }])) });
+      }
+      if (req.method === 'POST') {
+        const body = JSON.parse(await readBody(req, 512 * 1024));
+        const str = (v, n) => (typeof v === 'string' ? v.slice(0, n) : '');
+        if (!Array.isArray(body.items) || body.items.length > 2000) return send(res, 400, { error: '标注格式不对' });
+        const items = body.items.filter((x) => x && typeof x.key === 'string' && typeof x.ok === 'boolean')
+          .map((x) => ({ key: str(x.key, 200), title: str(x.title, 100), what: str(x.what, 100), rule: str(x.rule, 300), model: str(x.model, 300), ok: x.ok, note: str(x.note, 200) }));
+        const out = { saved_at: new Date().toISOString(), total: Number(body.total) || 0, checked: items.length, wrong: items.filter((x) => !x.ok).length, items };
+        fs.writeFileSync(REVIEW_FILE, JSON.stringify(out, null, 1));
+        return send(res, 200, { saved: items.length });
+      }
     }
     send(res, 404, { error: '没有这个地址' });
   } catch (e) {
