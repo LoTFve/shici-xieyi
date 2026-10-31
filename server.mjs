@@ -21,6 +21,8 @@ const STATIC = {
   '/': ['index.html', 'text/html; charset=utf-8'],
   '/index.html': ['index.html', 'text/html; charset=utf-8'],
   '/ontology.js': ['ontology.js', 'text/javascript; charset=utf-8'],
+  '/ontology/images.js': ['ontology/images.js', 'text/javascript; charset=utf-8'],
+  '/onto-view.js': ['onto-view.js', 'text/javascript; charset=utf-8'],
 };
 
 const SYSTEM = `你帮一个古诗词绘画程序读诗。程序只会画下面这些概念，你只能从中选择。

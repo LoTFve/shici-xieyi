@@ -209,6 +209,23 @@ const perCol = Object.fromEntries(COLLECTIONS.map((c) => [NAME[c] || c, poems.fi
 const meta = { source: `${Object.entries(perCol).map(([c, n]) => `${c} ${n} 首`).join('、')}，DeepSeek 逐首抽取后汇总`, collections: perCol, generated_by: 'tools/build-onto.cjs', min_poems: MIN_POEMS, mentions: mentions.length };
 fs.writeFileSync(path.join(root, 'ontology/images.json'), JSON.stringify({ _meta: meta, concepts, rare, excluded }, null, 1));
 
+// 共现：两个概念在同一首诗里都出现的首数。只留 4 首以上、且关联度（PMI）为正的，供网络图画“常一起出现”的边
+const inPoem = {};
+for (const [name, ms] of Object.entries(groups)) if (concepts[name]) for (const m of ms) (inPoem[m.pid] = inPoem[m.pid] || new Set()).add(name);
+const pair = {};
+for (const set of Object.values(inPoem)) {
+  const a = [...set].sort();
+  for (let i = 0; i < a.length; i++) for (let k = i + 1; k < a.length; k++) { const key = a[i] + '|' + a[k]; pair[key] = (pair[key] || 0) + 1; }
+}
+const N = poems.length;
+const cooc = Object.entries(pair).filter(([, v]) => v >= 4).map(([key, v]) => {
+  const [a, b] = key.split('|');
+  return [a, b, v, +Math.log2((v * N) / (concepts[a].n * concepts[b].n)).toFixed(2)];
+}).filter((e) => e[3] > 0.5).sort((x, y) => y[2] - x[2]);
+// 页面可以直接双击打开，用 fetch 读不到本地 JSON，所以另存一份脚本形式
+fs.writeFileSync(path.join(root, 'ontology/images.js'),
+  `// 由 tools/build-onto.cjs 生成，不要手改\nconst ONTO_DRAFT=${JSON.stringify({ meta, concepts, cooc })};\n`);
+
 // 审阅报告
 const fmt = (o) => Object.entries(o || {}).map(([k, v]) => `${k}${v}`).join(' ');
 let md = `# 物象层与意象层草稿审阅\n\n由 \`tools/build-onto.cjs\` 生成，不要手改，改脚本里的合并表后重新生成。\n\n`;
