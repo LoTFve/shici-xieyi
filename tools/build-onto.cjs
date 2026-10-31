@@ -5,7 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 const root = path.join(__dirname, '..');
-const OLD = require('../ontology.js'); // 现有 27 种画法，作为可画的基础概念
+const OLD = require('../ontology/base.json'); // 手写的基础本体：现有 27 种画法，作为可画的基础概念
 // 各集按 data/extract 下的目录读取，诗的编号是“集名:id”
 const COLLECTIONS = fs.readdirSync(path.join(root, 'data/extract')).filter((n) => fs.existsSync(path.join(root, 'data', `${n}.json`)));
 const poems = COLLECTIONS.flatMap((col) => require(`../data/${col}.json`)
@@ -222,9 +222,8 @@ const cooc = Object.entries(pair).filter(([, v]) => v >= 4).map(([key, v]) => {
   const [a, b] = key.split('|');
   return [a, b, v, +Math.log2((v * N) / (concepts[a].n * concepts[b].n)).toFixed(2)];
 }).filter((e) => e[3] > 0.5).sort((x, y) => y[2] - x[2]);
-// 页面可以直接双击打开，用 fetch 读不到本地 JSON，所以另存一份脚本形式
-fs.writeFileSync(path.join(root, 'ontology/images.js'),
-  `// 由 tools/build-onto.cjs 生成，不要手改\nconst ONTO_DRAFT=${JSON.stringify({ meta, concepts, cooc })};\n`);
+// 前端本体页读的：概念加共现边
+fs.writeFileSync(path.join(root, 'ontology/graph.json'), JSON.stringify({ meta, concepts, cooc }));
 
 // 审阅报告
 const fmt = (o) => Object.entries(o || {}).map(([k, v]) => `${k}${v}`).join(' ');

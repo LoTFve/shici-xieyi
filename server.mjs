@@ -1,5 +1,6 @@
 // 本地后端：托管页面，并提供 /api/analyze，让模型在本体概念范围内判断一首诗。
-// 用法：在 .env 里填 DS_KEY 和 DS_URL（任何 OpenAI 兼容接口），运行 npm start，浏览器打开 http://localhost:8000
+// 用法：在 .env 里填 DS_KEY 和 DS_URL（任何 OpenAI 兼容接口），npm run build 后运行 npm start，浏览器打开 http://localhost:8000
+// 开发时另开 npm run dev，Vite 会把 /api 转到这里
 import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -9,21 +10,21 @@ import OpenAI from 'openai';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 if (fs.existsSync(path.join(here, '.env'))) process.loadEnvFile(path.join(here, '.env'));
-const ONTO = createRequire(import.meta.url)('./ontology.js');
+const ONTO = createRequire(import.meta.url)('./ontology/base.json');
 const PORT = Number(process.env.PORT) || 8000;
 const MODEL = process.env.DS_MODEL || 'deepseek-chat';
 const MAX_POEM = 2000;
 const client = new OpenAI({ apiKey: process.env.DS_KEY || 'missing', baseURL: process.env.DS_URL });
 const cache = new Map();
 
-// 只托管这几个文件，不按路径读盘
-const STATIC = {
-  '/': ['index.html', 'text/html; charset=utf-8'],
-  '/index.html': ['index.html', 'text/html; charset=utf-8'],
-  '/ontology.js': ['ontology.js', 'text/javascript; charset=utf-8'],
-  '/ontology/images.js': ['ontology/images.js', 'text/javascript; charset=utf-8'],
-  '/onto-view.js': ['onto-view.js', 'text/javascript; charset=utf-8'],
-};
+// 托管前端构建产物 web/dist。路径先解析再检查仍在 dist 里，防止 ../ 读到别处
+const DIST = path.join(here, 'web/dist');
+const TYPES = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8', '.json': 'application/json; charset=utf-8', '.svg': 'image/svg+xml', '.png': 'image/png', '.ico': 'image/x-icon' };
+function staticFile(pathname) {
+  const file = path.resolve(DIST, '.' + decodeURIComponent(pathname === '/' ? '/index.html' : pathname));
+  if (!file.startsWith(DIST + path.sep) || !fs.existsSync(file) || !fs.statSync(file).isFile()) return null;
+  return [file, TYPES[path.extname(file)] || 'application/octet-stream'];
+}
 
 const SYSTEM = `你帮一个古诗词绘画程序读诗。程序只会画下面这些概念，你只能从中选择。
 
@@ -109,9 +110,10 @@ function errorStatus(e) {
 http.createServer(async (req, res) => {
   const url = new URL(req.url, 'http://localhost');
   try {
-    if (req.method === 'GET' && STATIC[url.pathname]) {
-      const [file, type] = STATIC[url.pathname];
-      return send(res, 200, fs.readFileSync(path.join(here, file)), type);
+    if (req.method === 'GET') {
+      const hit = staticFile(url.pathname);
+      if (hit) return send(res, 200, fs.readFileSync(hit[0]), hit[1]);
+      if (url.pathname === '/' && !fs.existsSync(DIST)) return send(res, 503, '前端还没构建，先运行 npm run build', 'text/plain; charset=utf-8');
     }
     if (req.method === 'POST' && url.pathname === '/api/analyze') {
       const { poem } = JSON.parse(await readBody(req, 16 * 1024));

@@ -9,7 +9,7 @@ import OpenAI from 'openai';
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 process.loadEnvFile(path.join(root, '.env'));
-const ONTO = createRequire(import.meta.url)('../ontology.js');
+const ONTO = createRequire(import.meta.url)('../ontology/base.json');
 const [name = 'tang300', from = 1, to = Infinity] = process.argv.slice(2).map((a, i) => (i ? Number(a) : a));
 const poems = JSON.parse(fs.readFileSync(path.join(root, 'data', `${name}.json`), 'utf8'));
 const out = path.join(root, 'data/extract', name);

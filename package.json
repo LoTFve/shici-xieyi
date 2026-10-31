@@ -2,12 +2,16 @@
   "name": "shici-xieyi",
   "private": true,
   "scripts": {
-    "start": "node server.mjs"
+    "start": "node server.mjs",
+    "dev": "vite --config web/vite.config.mjs",
+    "build": "node tools/build-library.cjs && vite build --config web/vite.config.mjs",
+    "build:onto": "node tools/build-onto.cjs"
   },
   "dependencies": {
     "openai": "^7.45.1"
   },
   "devDependencies": {
-    "opencc-js": "^1.4.2"
+    "opencc-js": "^1.4.2",
+    "vite": "^8.3.5"
   }
 }
